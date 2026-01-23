@@ -5,7 +5,7 @@
 ### Die zwei Lebenswege
 
 # 1
-@1Wohl dem, der nicht wandelt
+^1^Wohl dem, der nicht wandelt
 <blockquote>
 <blockquote>
 im Rat<sup title="= nach den Lehren">&#x2732;</sup> der Gottlosen
@@ -13,13 +13,13 @@ und nicht tritt auf den Weg der Sünder,
 noch sitzt im Kreise der Spötter,
 </blockquote>
 </blockquote>
-@2vielmehr Gefallen hat am Gesetz des HERRN
+^2^vielmehr Gefallen hat am Gesetz des HERRN
 <blockquote>
 <blockquote>
 und sinnt über sein Gesetz bei Tag und bei Nacht!
 </blockquote>
 </blockquote>
-@3Der gleicht einem Baum, gepflanzt an Wasserbächen,
+^3^Der gleicht einem Baum, gepflanzt an Wasserbächen,
 <blockquote>
 <blockquote>
 der seine Früchte bringt zu rechter Zeit
@@ -27,19 +27,19 @@ und dessen Laub nicht welkt;
 und alles, was er beginnt, das gelingt.
 </blockquote>
 </blockquote>
-@4Nicht also die Gottlosen: nein,
+^4^Nicht also die Gottlosen: nein,
 <blockquote>
 <blockquote>
 sie gleichen der Spreu, die der Wind verweht.
 </blockquote>
 </blockquote>
-@5Darum werden die Gottlosen nicht im Gericht bestehn
+^5^Darum werden die Gottlosen nicht im Gericht bestehn
 <blockquote>
 <blockquote>
 und die Sünder nicht in der Gemeinde der Gerechten.
 </blockquote>
 </blockquote>
-@6Denn es kennt der HERR den Weg der Gerechten;
+^6^Denn es kennt der HERR den Weg der Gerechten;
 <blockquote>
 <blockquote>
 doch der Gottlosen Weg führt ins Verderben.<span data-param="f3_19_1_6A" class="fussnote">A</span>
@@ -49,75 +49,75 @@ doch der Gottlosen Weg führt ins Verderben.<span data-param="f3_19_1_6A" class=
 ### Der Sieg Gottes und des von ihm gesalbten Königs über die tobende Völkerwelt
 
 # 2
-@1Was soll das Toben der Völker
+^1^Was soll das Toben der Völker
 <blockquote>
 <blockquote>
 und das eitle Sinnen der Völkerschaften?<sup title="Apg 4,25">&#x2732;</sup>
 </blockquote>
 </blockquote>
-@2Die Könige der Erde rotten sich zusammen,
+^2^Die Könige der Erde rotten sich zusammen,
 <blockquote>
 <blockquote>
 und die Fürsten halten Rat miteinander
 gegen den HERRN und den von ihm Gesalbten:
 </blockquote>
 </blockquote>
-@3»Laßt uns zerreißen ihre Bande
+^3^»Laßt uns zerreißen ihre Bande
 <blockquote>
 <blockquote>
 und von uns werfen ihre Fesseln!«
 </blockquote>
 </blockquote>
-@4Der im Himmel thront, der lacht,
+^4^Der im Himmel thront, der lacht,
 <blockquote>
 <blockquote>
 der Allherr spottet ihrer.
 </blockquote>
 </blockquote>
-@5Dann aber wird er zu ihnen reden in seinem Zorn
+^5^Dann aber wird er zu ihnen reden in seinem Zorn
 <blockquote>
 <blockquote>
 und sie schrecken in seinem Ingrimm:
 </blockquote>
 </blockquote>
-@6»Habe ich doch meinen König eingesetzt
+^6^»Habe ich doch meinen König eingesetzt
 <blockquote>
 <blockquote>
 auf dem Zion, meinem heiligen Berge!« –
 </blockquote>
 </blockquote>
-@7Laßt mich kundtun den Ratschluß des HERRN!
+^7^Laßt mich kundtun den Ratschluß des HERRN!
 <blockquote>
 <blockquote>
 Er hat zu mir gesagt: »Mein Sohn bist du;
 ich selbst habe heute dich gezeugt<sup title="Apg 13,33; Hebr 1,5; 5,5">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@8Fordre von mir, so gebe ich dir die Völker zum Erbe
+^8^Fordre von mir, so gebe ich dir die Völker zum Erbe
 <blockquote>
 <blockquote>
 und dir zum Besitz die Enden der Erde.
 </blockquote>
 </blockquote>
-@9Du sollst sie mit eiserner Keule zerschmettern,
+^9^Du sollst sie mit eiserner Keule zerschmettern,
 <blockquote>
 <blockquote>
 wie Töpfergeschirr sie zerschlagen!« –
 </blockquote>
 </blockquote>
-@10So nehmt denn Klugheit an, ihr Könige,
+^10^So nehmt denn Klugheit an, ihr Könige,
 <blockquote>
 <blockquote>
 laßt euch warnen, ihr Richter<sup title="= Herrscher">&#x2732;</sup> der Erde!
 </blockquote>
 </blockquote>
-@11Dienet dem HERRN mit Furcht
+^11^Dienet dem HERRN mit Furcht
 <blockquote>
 <blockquote>
 und jubelt ihm zu mit Zittern!
 </blockquote>
 </blockquote>
-@12Küsset den Sohn, auf daß er nicht zürne
+^12^Küsset den Sohn, auf daß er nicht zürne
 <blockquote>
 <blockquote>
 und ihr zugrunde geht auf eurem Wege!
@@ -129,51 +129,51 @@ Wohl allen, die bei ihm sich bergen<sup title="= Zuflucht suchen">&#x2732;</sup
 ### Morgenlied eines Frommen in böser Zeit
 
 # 3
-@1<em>Ein Psalm Davids, als er vor seinem Sohne Absalom floh.</em>
-@2Ach HERR, wie sind doch meine Bedränger so zahlreich,
+^1^<em>Ein Psalm Davids, als er vor seinem Sohne Absalom floh.</em>
+^2^Ach HERR, wie sind doch meine Bedränger so zahlreich,
 <blockquote>
 <blockquote>
 wie viele erheben sich gegen mich!
 </blockquote>
 </blockquote>
-@3Gar viele sagen von mir:
+^3^Gar viele sagen von mir:
 <blockquote>
 <blockquote>
 »Es gibt keine Rettung<sup title="oder: Hilfe">&#x2732;</sup> für ihn bei Gott!« SELA.
 </blockquote>
 </blockquote>
-@4Doch du, o HERR, bist ein Schild um mich her,
+^4^Doch du, o HERR, bist ein Schild um mich her,
 <blockquote>
 <blockquote>
 meine Ehre und der mir das Haupt erhebt.
 </blockquote>
 </blockquote>
-@5Laut ruf’ ich zum HERRN,
+^5^Laut ruf’ ich zum HERRN,
 <blockquote>
 <blockquote>
 und er erhört mich<span data-param="f3_19_3_5A" class="fussnote">A</span> von seinem heiligen Berge. SELA.
 </blockquote>
 </blockquote>
-@6Ich legte mich nieder, schlief ruhig ein:
+^6^Ich legte mich nieder, schlief ruhig ein:
 <blockquote>
 <blockquote>
 erwacht bin ich wieder, denn der HERR stützt mich<sup title="= hält mich aufrecht">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@7Ich fürchte mich nicht vor vielen Tausenden Kriegsvolks,
+^7^Ich fürchte mich nicht vor vielen Tausenden Kriegsvolks,
 <blockquote>
 <blockquote>
 die rings um mich her sich gelagert haben<sup title="oder: Aufstellung nehmen">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@8Steh auf, o HERR! Hilf mir, mein Gott!
+^8^Steh auf, o HERR! Hilf mir, mein Gott!
 <blockquote>
 <blockquote>
 Du hast ja all meinen Feinden Backenstreiche versetzt,
 den Gottlosen die Zähne zerschmettert.
 </blockquote>
 </blockquote>
-@9Beim HERRN steht die Hilfe<sup title="oder: Rettung">&#x2732;</sup>:
+^9^Beim HERRN steht die Hilfe<sup title="oder: Rettung">&#x2732;</sup>:
 <blockquote>
 <blockquote>
 über deinem Volke walte dein Segen! SELA.
@@ -183,8 +183,8 @@ den Gottlosen die Zähne zerschmettert.
 ### Abendlied eines Frommen in Drangsalszeit
 
 # 4
-@1<em>Dem Musikmeister, mit Saitenspiel; ein Psalm von David.</em>
-@2Wenn ich rufe, erhöre mich,
+^1^<em>Dem Musikmeister, mit Saitenspiel; ein Psalm von David.</em>
+^2^Wenn ich rufe, erhöre mich,
 <blockquote>
 <blockquote>
 du Gott meiner Gerechtigkeit<sup title="oder: meines Rechts">&#x2732;</sup>!
@@ -192,7 +192,7 @@ In Bedrängnis hast du mir (immer) Raum geschafft:
 sei mir gnädig und höre mein Gebet!
 </blockquote>
 </blockquote>
-@3Ihr Herrensöhne, wie lange noch
+^3^Ihr Herrensöhne, wie lange noch
 <blockquote>
 <blockquote>
 soll meine Ehre geschändet werden?
@@ -200,26 +200,26 @@ Wie lange noch wollt ihr an Eitlem hangen,
 auf Lügen ausgehn? SELA.
 </blockquote>
 </blockquote>
-@4Erkennt doch, daß der HERR
+^4^Erkennt doch, daß der HERR
 <blockquote>
 <blockquote>
 den ihm Getreuen sich auserkoren:
 der HERR vernimmt’s, wenn ich zu ihm rufe.
 </blockquote>
 </blockquote>
-@5Seid zornerregt, doch versündigt euch nicht!<sup title="Eph 4,26">&#x2732;</sup>
+^5^Seid zornerregt, doch versündigt euch nicht!<sup title="Eph 4,26">&#x2732;</sup>
 <blockquote>
 <blockquote>
 Denkt nach im stillen auf eurem Lager und schweigt! SELA.
 </blockquote>
 </blockquote>
-@6Bringt Opfer der Gerechtigkeit dar
+^6^Bringt Opfer der Gerechtigkeit dar
 <blockquote>
 <blockquote>
 und vertraut auf den HERRN!
 </blockquote>
 </blockquote>
-@7Es sagen gar viele:
+^7^Es sagen gar viele:
 <blockquote>
 <blockquote>
 »Wer läßt Gutes uns schauen<sup title="= Glück uns erleben">&#x2732;</sup>?«
@@ -227,13 +227,13 @@ Erhebe<sup title="= laß leuchten">&#x2732;</sup> über uns, o HERR,
 das Licht deines Angesichts!
 </blockquote>
 </blockquote>
-@8Du hast mir größere Freude ins Herz gegeben
+^8^Du hast mir größere Freude ins Herz gegeben
 <blockquote>
 <blockquote>
 als ihnen zur Zeit, wo sie Korn und Wein in Fülle haben.
 </blockquote>
 </blockquote>
-@9In Frieden will ich beides,
+^9^In Frieden will ich beides,
 <blockquote>
 <blockquote>
 mich niederlegen und schlafen;
@@ -245,61 +245,61 @@ in Sicherheit wohnen.
 ### Morgengebet im Tempel gegen gottlose Feinde
 
 # 5
-@1<em>Dem Musikmeister, nach (der Singweise = Melodie) »die Erbschaften«; ein Psalm von David.</em>
-@2Vernimm meine Worte<sup title="= mein Gebet">&#x2732;</sup>, o HERR,
+^1^<em>Dem Musikmeister, nach (der Singweise = Melodie) »die Erbschaften«; ein Psalm von David.</em>
+^2^Vernimm meine Worte<sup title="= mein Gebet">&#x2732;</sup>, o HERR,
 <blockquote>
 <blockquote>
 merke auf mein Seufzen!
 </blockquote>
 </blockquote>
-@3Ach, hör’ auf mein lautes Flehen,
+^3^Ach, hör’ auf mein lautes Flehen,
 <blockquote>
 <blockquote>
 mein König und mein Gott;
 denn zu dir geht mein Gebet!
 </blockquote>
 </blockquote>
-@4O HERR, in der Frühe schon hörst du mein Rufen,
+^4^O HERR, in der Frühe schon hörst du mein Rufen,
 <blockquote>
 <blockquote>
 in der Frühe schon richte ich dir (ein Opfer) zu
 und spähe aus (nach dir).
 </blockquote>
 </blockquote>
-@5Du bist ja nicht ein Gott, dem gottlos Wesen gefällt:
+^5^Du bist ja nicht ein Gott, dem gottlos Wesen gefällt:
 <blockquote>
 <blockquote>
 kein Böser darf als Gast bei dir weilen;
 </blockquote>
 </blockquote>
-@6Ruhmredige dürfen dir nicht vor die Augen treten:
+^6^Ruhmredige dürfen dir nicht vor die Augen treten:
 <blockquote>
 <blockquote>
 du hassest alle Übeltäter.
 </blockquote>
 </blockquote>
-@7Du läßt die Lügner zugrunde gehn;
+^7^Du läßt die Lügner zugrunde gehn;
 <blockquote>
 <blockquote>
 wer mit Blutvergießen und Trug sich befaßt,
 den verabscheut der HERR.
 </blockquote>
 </blockquote>
-@8Ich aber darf nach deiner großen Gnade dein Haus betreten,
+^8^Ich aber darf nach deiner großen Gnade dein Haus betreten,
 <blockquote>
 <blockquote>
 ich darf vor deinem heiligen Tempel<sup title="oder: zu d.h. T. gewandt">&#x2732;</sup>
 in Ehrfurcht vor dir mich niederwerfen<sup title="= anbeten">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@9HERR, leite mich in deiner Gerechtigkeit
+^9^HERR, leite mich in deiner Gerechtigkeit
 <blockquote>
 <blockquote>
 um meiner Feinde willen,
 ebne vor mir deinen Weg!
 </blockquote>
 </blockquote>
-@10Denn in ihrem Mund ist keine Aufrichtigkeit,
+^10^Denn in ihrem Mund ist keine Aufrichtigkeit,
 <blockquote>
 <blockquote>
 ihr Inneres<sup title="oder: Sinnen">&#x2732;</sup> ist Bosheit<sup title="oder: sinnt Unheil">&#x2732;</sup>;
@@ -307,14 +307,14 @@ ein offnes Grab ist ihre Kehle,
 mit ihrer Zunge reden sie glatte Worte<sup title="vgl. Röm 3,13">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@11Laß sie büßen, o Gott, daß zu Fall sie kommen durch ihre Anschläge!
+^11^Laß sie büßen, o Gott, daß zu Fall sie kommen durch ihre Anschläge!
 <blockquote>
 <blockquote>
 Stoße sie weg von dir ob der Menge ihrer Frevel,
 denn sie haben dir Trotz geboten!
 </blockquote>
 </blockquote>
-@12Dann werden alle sich freun, die auf dich vertrauen:
+^12^Dann werden alle sich freun, die auf dich vertrauen:
 <blockquote>
 <blockquote>
 allzeit werden sie jubeln, daß du sie beschirmst;
@@ -322,7 +322,7 @@ und frohlocken werden alle über dich,
 die deinen Namen lieben.
 </blockquote>
 </blockquote>
-@13Denn du, HERR, segnest den Gerechten,
+^13^Denn du, HERR, segnest den Gerechten,
 <blockquote>
 <blockquote>
 schirmst ihn mit (deiner) Gnade wie mit einem Schilde<span data-param="f3_19_5_13A" class="fussnote">A</span>.
@@ -332,63 +332,63 @@ schirmst ihn mit (deiner) Gnade wie mit einem Schilde<span data-param="f3_19_5_1
 ### Hilferuf eines an Leib und Seele Schwerkranken (Erster Bußpsalm)
 
 # 6
-@1*Dem Musikmeister, mit Saitenspiel*<em>, im Basston; ein Psalm von David.</em>
-@2HERR, nicht in deinem Zorne strafe mich
+^1^*Dem Musikmeister, mit Saitenspiel*<em>, im Basston; ein Psalm von David.</em>
+^2^HERR, nicht in deinem Zorne strafe mich
 <blockquote>
 <blockquote>
 und nicht in deinem Ingrimm züchtige mich!<sup title="vgl. 38,2">&#x2732;</sup>
 </blockquote>
 </blockquote>
-@3Sei mir gnädig, o HERR, denn ich bin am Verschmachten!
+^3^Sei mir gnädig, o HERR, denn ich bin am Verschmachten!
 <blockquote>
 <blockquote>
 Heile mich, HERR, denn meine Gebeine sind erschrocken,<span data-param="f3_19_6_3A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@4und meine Seele ist voller Angst!
+^4^und meine Seele ist voller Angst!
 <blockquote>
 <blockquote>
 Du aber, o HERR, – wie lange noch (willst du fern sein)?
 </blockquote>
 </blockquote>
-@5Kehre doch wieder, o HERR, errette meine Seele<sup title="oder: mein Leben">&#x2732;</sup>!
+^5^Kehre doch wieder, o HERR, errette meine Seele<sup title="oder: mein Leben">&#x2732;</sup>!
 <blockquote>
 <blockquote>
 Hilf mir um deiner Gnade willen!
 </blockquote>
 </blockquote>
-@6Denn im Tode gedenkt man deiner nicht:
+^6^Denn im Tode gedenkt man deiner nicht:
 <blockquote>
 <blockquote>
 im Totenreich – wer singt da dein Lob?
 </blockquote>
 </blockquote>
-@7Erschöpft bin ich von all meinem Seufzen;
+^7^Erschöpft bin ich von all meinem Seufzen;
 <blockquote>
 <blockquote>
 in jeder Nacht netz’ ich mein Bett (mit Zähren),
 mache mein Lager zu einer Tränenflut.
 </blockquote>
 </blockquote>
-@8Geschwunden ist mein Augenlicht vor Gram,
+^8^Geschwunden ist mein Augenlicht vor Gram,
 <blockquote>
 <blockquote>
 gealtert (vom Weinen) ob all meinen Feinden.
 </blockquote>
 </blockquote>
-@9Hinweg von mir, ihr Übeltäter alle!
+^9^Hinweg von mir, ihr Übeltäter alle!
 <blockquote>
 <blockquote>
 Denn der HERR hat mein lautes Weinen gehört;
 </blockquote>
 </blockquote>
-@10gehört hat der HERR mein Flehen:
+^10^gehört hat der HERR mein Flehen:
 <blockquote>
 <blockquote>
 der HERR nimmt mein Gebet an.
 </blockquote>
 </blockquote>
-@11Alle meine Feinde werden zuschanden werden
+^11^Alle meine Feinde werden zuschanden werden
 <blockquote>
 <blockquote>
 und ganz bestürzt dastehn:
@@ -399,59 +399,59 @@ mit Schanden müssen sie abziehn augenblicklich!
 ### Der Herr als gerechter Richter und als Retter der Bedrängten
 
 # 7
-@1<em>Ein Bittgebet</em><sup title="oder: feierliches Lied">&#x2732;</sup><em> Davids, das er dem Herrn wegen der Worte des Benjaminiten Kusch sang<sup title="oder: dichtete">&#x2732;</sup></em>.
-@2HERR, mein Gott, bei dir such’ ich Zuflucht:
+^1^<em>Ein Bittgebet</em><sup title="oder: feierliches Lied">&#x2732;</sup><em> Davids, das er dem Herrn wegen der Worte des Benjaminiten Kusch sang<sup title="oder: dichtete">&#x2732;</sup></em>.
+^2^HERR, mein Gott, bei dir such’ ich Zuflucht:
 <blockquote>
 <blockquote>
 hilf mir von allen meinen Verfolgern und rette mich,
 </blockquote>
 </blockquote>
-@3daß der Feind mich nicht wie ein Löwe zerreiße
+^3^daß der Feind mich nicht wie ein Löwe zerreiße
 <blockquote>
 <blockquote>
 und zerfleische, weil kein Retter da ist!
 </blockquote>
 </blockquote>
-@4O HERR mein Gott! Hab’ ich solches verübt,
+^4^O HERR mein Gott! Hab’ ich solches verübt,
 <blockquote>
 <blockquote>
 klebt Unrecht an meinen Händen,
 </blockquote>
 </blockquote>
-@5hab’ ich dem, der in Frieden mit mir lebte, Böses getan –
+^5^hab’ ich dem, der in Frieden mit mir lebte, Böses getan –
 <blockquote>
 <blockquote>
 ach nein, ich rettete ja, die mich grundlos bedrängten –:
 </blockquote>
 </blockquote>
-@6so möge der Feind mich verfolgen und einholen,
+^6^so möge der Feind mich verfolgen und einholen,
 <blockquote>
 <blockquote>
 möge mein Leben zu Boden niedertreten
 und strecke meine Ehre in den Staub!<span data-param="f3_19_7_6A" class="fussnote">A</span> SELA.
 </blockquote>
 </blockquote>
-@7Steh auf, o HERR, in deinem Zorn!
+^7^Steh auf, o HERR, in deinem Zorn!
 <blockquote>
 <blockquote>
 Erhebe dich gegen die Wut meiner Dränger!
 Werde wach mir zum Heil, du hast ja Gericht verordnet!
 </blockquote>
 </blockquote>
-@8Laß die ganze Versammlung der Völker dich umringen,
+^8^Laß die ganze Versammlung der Völker dich umringen,
 <blockquote>
 <blockquote>
 und über ihr<span data-param="f3_19_7_8A" class="fussnote">A</span> kehre zurück zur Höhe!
 </blockquote>
 </blockquote>
-@9Der HERR ist Richter über die Völker:
+^9^Der HERR ist Richter über die Völker:
 <blockquote>
 <blockquote>
 schaffe mir Recht, o HERR, nach meiner Gerechtigkeit
 und nach meines Herzens Unschuld!
 </blockquote>
 </blockquote>
-@10Mache der Gottlosen Bosheit ein Ende
+^10^Mache der Gottlosen Bosheit ein Ende
 <blockquote>
 <blockquote>
 und hilf dem Gerechten zu festem Stand,
@@ -459,49 +459,49 @@ du Prüfer der Herzen und Nieren,
 gerechter Gott!
 </blockquote>
 </blockquote>
-@11Meinen Schild hält Gott,
+^11^Meinen Schild hält Gott,
 <blockquote>
 <blockquote>
 der Helfer der in ihrem Herzen Redlichen.
 </blockquote>
 </blockquote>
-@12Gott ist ein gerechter Richter
+^12^Gott ist ein gerechter Richter
 <blockquote>
 <blockquote>
 und ein Gott, der täglich droht<sup title="oder: zürnt">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@13Wahrlich, wiederum schärft er sein Schwert,
+^13^Wahrlich, wiederum schärft er sein Schwert,
 <blockquote>
 <blockquote>
 hält seinen Bogen gespannt und zielt
 </blockquote>
 </blockquote>
-@14und richtet Todesgeschosse auf ihn,
+^14^und richtet Todesgeschosse auf ihn,
 <blockquote>
 <blockquote>
 seine Pfeile, die er zu Brandpfeilen macht.
 </blockquote>
 </blockquote>
-@15Seht: da brütet er<sup title="d.h. der Frevler">&#x2732;</sup> über Trug,
+^15^Seht: da brütet er<sup title="d.h. der Frevler">&#x2732;</sup> über Trug,
 <blockquote>
 <blockquote>
 geht schwanger mit Unheil und gebiert Lüge<sup title="oder: Täuschung">&#x2732;</sup>;
 </blockquote>
 </blockquote>
-@16eine Grube hat er gegraben und ausgescharrt,
+^16^eine Grube hat er gegraben und ausgescharrt,
 <blockquote>
 <blockquote>
 stürzt selbst aber in die Grube, die er angelegt.
 </blockquote>
 </blockquote>
-@17Das Unheil, das er geplant, fällt ihm aufs eigne Haupt,
+^17^Das Unheil, das er geplant, fällt ihm aufs eigne Haupt,
 <blockquote>
 <blockquote>
 sein Frevel fährt auf seinen eignen Scheitel nieder.
 </blockquote>
 </blockquote>
-@18Preisen will ich den HERRN nach seiner Gerechtigkeit
+^18^Preisen will ich den HERRN nach seiner Gerechtigkeit
 <blockquote>
 <blockquote>
 und lobsingen dem Namen des HERRN, des Höchsten.
@@ -511,58 +511,58 @@ und lobsingen dem Namen des HERRN, des Höchsten.
 ### Des Menschen Niedrigkeit und Hoheit in der Schöpfung
 
 # 8
-@1<em>Dem Musikmeister, nach der Keltertreterweise; ein Psalm von David.</em>
-@2HERR, unser Herrscher, wie herrlich ist
+^1^<em>Dem Musikmeister, nach der Keltertreterweise; ein Psalm von David.</em>
+^2^HERR, unser Herrscher, wie herrlich ist
 <blockquote>
 <blockquote>
 dein Name auf der ganzen Erde,
 du, dessen Hoheit<sup title="= Majestät">&#x2732;</sup> am Himmel sich kundtut!<span data-param="f3_19_8_2A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@3Aus der Kinder und Säuglinge Mund
+^3^Aus der Kinder und Säuglinge Mund
 <blockquote>
 <blockquote>
 hast du ein Bollwerk dir zugerichtet deinen Gegnern zum Trotz,
 um Feinde und Widersacher verstummen zu machen<sup title="vgl. Mt 21,6">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@4Wenn ich anschau’ deinen Himmel, das Werk deiner Finger,
+^4^Wenn ich anschau’ deinen Himmel, das Werk deiner Finger,
 <blockquote>
 <blockquote>
 den Mond und die Sterne, die du hergerichtet:
 </blockquote>
 </blockquote>
-@5was ist der Mensch, daß du seiner gedenkst,
+^5^was ist der Mensch, daß du seiner gedenkst,
 <blockquote>
 <blockquote>
 und der Menschensohn, daß du ihn beachtest?!<sup title="Hebr 2,6-9">&#x2732;</sup>
 </blockquote>
 </blockquote>
-@6Und doch hast du ihn nur wenig hinter die Gottheit gestellt,
+^6^Und doch hast du ihn nur wenig hinter die Gottheit gestellt,
 <blockquote>
 <blockquote>
 mit Herrlichkeit und Hoheit ihn gekrönt;
 </blockquote>
 </blockquote>
-@7du hast ihm die Herrschaft verliehn über deiner Hände Werke,
+^7^du hast ihm die Herrschaft verliehn über deiner Hände Werke,
 <blockquote>
 <blockquote>
 ja alles ihm unter die Füße gelegt:
 </blockquote>
 </blockquote>
-@8Kleinvieh und Rinder allzumal,
+^8^Kleinvieh und Rinder allzumal,
 <blockquote>
 <blockquote>
 dazu auch die wilden Tiere des Feldes,
 </blockquote>
 </blockquote>
-@9die Vögel des Himmels, die Fische im Meer,
+^9^die Vögel des Himmels, die Fische im Meer,
 <blockquote>
 <blockquote>
 alles, was die Pfade der Meere durchzieht.
 </blockquote>
 </blockquote>
-@10HERR, unser Herrscher, wie herrlich ist
+^10^HERR, unser Herrscher, wie herrlich ist
 <blockquote>
 <blockquote>
 dein Name auf der ganzen Erde!
@@ -572,122 +572,122 @@ dein Name auf der ganzen Erde!
 ### Danklied für Gottes Gericht über heidnische Feinde und Bitte um neue Hilfe
 
 # 9
-@1<em>Dem Musikmeister, nach (der Singweise = Melodie) »stirb für den Sohn!«; ein Psalm von David.</em>
-@2Preisen will ich den HERRN von ganzem Herzen,
+^1^<em>Dem Musikmeister, nach (der Singweise = Melodie) »stirb für den Sohn!«; ein Psalm von David.</em>
+^2^Preisen will ich den HERRN von ganzem Herzen,
 <blockquote>
 <blockquote>
 verkünden all deine Wundertaten,
 </blockquote>
 </blockquote>
-@3ich will deiner mich freun und frohlocken,
+^3^ich will deiner mich freun und frohlocken,
 <blockquote>
 <blockquote>
 will lobsingen deinem Namen, du Höchster,
 </blockquote>
 </blockquote>
-@4weil meine Feinde haben rückwärts weichen müssen:
+^4^weil meine Feinde haben rückwärts weichen müssen:
 <blockquote>
 <blockquote>
 sie sind gestrauchelt und umgekommen vor dir<sup title="oder: durch dich">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@5Denn du hast mein Recht und meine Sache geführt,
+^5^Denn du hast mein Recht und meine Sache geführt,
 <blockquote>
 <blockquote>
 hast auf dem Throne gesessen als gerechter Richter;
 </blockquote>
 </blockquote>
-@6du hast die Heiden bedroht, die Frevler vernichtet,
+^6^du hast die Heiden bedroht, die Frevler vernichtet,
 <blockquote>
 <blockquote>
 ihren Namen ausgelöscht für immer und ewig:
 </blockquote>
 </blockquote>
-@7Der Feind ist dahin, zertrümmert für immer;
+^7^Der Feind ist dahin, zertrümmert für immer;
 <blockquote>
 <blockquote>
 auch Städte hast du zerstört, ihr Gedächtnis ist untergegangen.
 </blockquote>
 </blockquote>
-@8Der HERR aber thront in Ewigkeit;
+^8^Der HERR aber thront in Ewigkeit;
 <blockquote>
 <blockquote>
 zum Gericht hat er aufgestellt seinen Stuhl<sup title="oder: Thron">&#x2732;</sup>;
 </blockquote>
 </blockquote>
-@9und er, er richtet den Erdkreis mit Gerechtigkeit<sup title="Apg 17,31">&#x2732;</sup>,
+^9^und er, er richtet den Erdkreis mit Gerechtigkeit<sup title="Apg 17,31">&#x2732;</sup>,
 <blockquote>
 <blockquote>
 spricht das Urteil den Völkern nach Gebühr.
 </blockquote>
 </blockquote>
-@10So ist denn der HERR eine Burg den Bedrückten,
+^10^So ist denn der HERR eine Burg den Bedrückten,
 <blockquote>
 <blockquote>
 eine Burg für die Zeiten der Drangsal.
 </blockquote>
 </blockquote>
-@11Drum vertrauen auf dich, die deinen Namen kennen;
+^11^Drum vertrauen auf dich, die deinen Namen kennen;
 <blockquote>
 <blockquote>
 denn du läßt nicht von denen, die dich, HERR, suchen.
 </blockquote>
 </blockquote>
-@12Lobsinget dem HERRN, der auf Zion thront,
+^12^Lobsinget dem HERRN, der auf Zion thront,
 <blockquote>
 <blockquote>
 verkündet unter den Völkern seine Taten!
 </blockquote>
 </blockquote>
-@13Denn als Rächer der Blutschuld hat er ihrer gedacht,
+^13^Denn als Rächer der Blutschuld hat er ihrer gedacht,
 <blockquote>
 <blockquote>
 hat das Schreien der Elenden nicht vergessen.
 </blockquote>
 </blockquote>
-@14Sei mir gnädig, o HERR, sieh an, was ich leide durch meine Feinde!
+^14^Sei mir gnädig, o HERR, sieh an, was ich leide durch meine Feinde!
 <blockquote>
 <blockquote>
 Du bist’s, der den Pforten des Todes mich entreißt,
 </blockquote>
 </blockquote>
-@15auf daß ich verkünde alle deine Ruhmestaten,
+^15^auf daß ich verkünde alle deine Ruhmestaten,
 <blockquote>
 <blockquote>
 in den Toren der Tochter Zion ob deiner Hilfe juble!
 </blockquote>
 </blockquote>
-@16Versunken sind die Heiden in die Grube, die sie gegraben,
+^16^Versunken sind die Heiden in die Grube, die sie gegraben,
 <blockquote>
 <blockquote>
 im Netz, das sie heimlich gestellt, hat ihr eigner Fuß sich verstrickt.
 </blockquote>
 </blockquote>
-@17Kundgetan hat sich der HERR, hat Gericht gehalten:
+^17^Kundgetan hat sich der HERR, hat Gericht gehalten:
 <blockquote>
 <blockquote>
 durch das Eingreifen seiner Hände ist der Frevler gefangen. SAITENSPIEL. SELA.
 </blockquote>
 </blockquote>
-@18Die Frevler fahren zur Unterwelt hinab,
+^18^Die Frevler fahren zur Unterwelt hinab,
 <blockquote>
 <blockquote>
 alle Heidenvölker, die Gottes vergessen;
 </blockquote>
 </blockquote>
-@19denn nicht auf ewig bleibt der Arme vergessen,
+^19^denn nicht auf ewig bleibt der Arme vergessen,
 <blockquote>
 <blockquote>
 und der Elenden Hoffnung geht nicht für immer verloren.
 </blockquote>
 </blockquote>
-@20Steh auf, o HERR! Laß Menschen nicht trotzig schalten,
+^20^Steh auf, o HERR! Laß Menschen nicht trotzig schalten,
 <blockquote>
 <blockquote>
 laß die Heiden gerichtet werden vor dir!
 </blockquote>
 </blockquote>
-@21Lege doch, HERR, einen Schrecken auf sie!
+^21^Lege doch, HERR, einen Schrecken auf sie!
 <blockquote>
 <blockquote>
 Laß die Heiden erkennen, daß Menschen<span data-param="f3_19_9_21A" class="fussnote">A</span> sie sind! SELA.
@@ -697,88 +697,88 @@ Laß die Heiden erkennen, daß Menschen<span data-param="f3_19_9_21A" class="fus
 ### Hilferuf gegen gottlose Gewaltmenschen
 
 # 10
-@1Warum, o HERR, stehst du so fern,
+^1^Warum, o HERR, stehst du so fern,
 <blockquote>
 <blockquote>
 verhüllst dir (das Auge) in Zeiten der Not?
 </blockquote>
 </blockquote>
-@2Beim Hochmut der Gottlosen wird dem Bedrückten bange:
+^2^Beim Hochmut der Gottlosen wird dem Bedrückten bange:
 <blockquote>
 <blockquote>
 möchten sie selbst sich fangen in den Anschlägen, die sie ersinnen!
 </blockquote>
 </blockquote>
-@3Denn der Frevler rühmt sich jubelnd seiner frechen Gelüste,
+^3^Denn der Frevler rühmt sich jubelnd seiner frechen Gelüste,
 <blockquote>
 <blockquote>
 und der Wucherer gibt dem HERRN den Abschied, lästert ihn.
 </blockquote>
 </blockquote>
-@4Der Frevler wähnt in seinem Stolz: »Gott fragt nicht danach!«
+^4^Der Frevler wähnt in seinem Stolz: »Gott fragt nicht danach!«
 <blockquote>
 <blockquote>
 »Es gibt keinen Gott!« – dahin geht all sein Denken.
 </blockquote>
 </blockquote>
-@5Allezeit hat er ja Glück in seinem Tun,
+^5^Allezeit hat er ja Glück in seinem Tun,
 <blockquote>
 <blockquote>
 deine Strafgerichte bleiben himmelweit fern von ihm,
 alle seine Gegner – er bietet ihnen Hohn.<span data-param="f3_19_10_5A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@6Er denkt im Herzen: »Nie komm’ ich zu Fall;
+^6^Er denkt im Herzen: »Nie komm’ ich zu Fall;
 <blockquote>
 <blockquote>
 nun und nimmer wird Unglück mich treffen!«
 </blockquote>
 </blockquote>
-@7Sein Mund ist voll Fluchens, voll Täuschung und Gewalttat;
+^7^Sein Mund ist voll Fluchens, voll Täuschung und Gewalttat;
 <blockquote>
 <blockquote>
 unter seiner Zunge birgt sich Unheil<span data-param="f3_19_10_7A" class="fussnote">A</span> und Frevel.
 </blockquote>
 </blockquote>
-@8In (abgelegnen) Gehöften liegt er im Hinterhalt,
+^8^In (abgelegnen) Gehöften liegt er im Hinterhalt,
 <blockquote>
 <blockquote>
 ermordet den Schuldlosen insgeheim<sup title="oder: im Versteck">&#x2732;</sup>,
 nach dem Hilflosen spähen seine Augen.
 </blockquote>
 </blockquote>
-@9Er lauert im Versteck wie der Löwe in seinem Dickicht,
+^9^Er lauert im Versteck wie der Löwe in seinem Dickicht,
 <blockquote>
 <blockquote>
 er lauert, den Elenden zu haschen;
 er hascht den Elenden, indem er ihn in sein Netz zieht;
 </blockquote>
 </blockquote>
-@10er duckt sich, kauert nieder,
+^10^er duckt sich, kauert nieder,
 <blockquote>
 <blockquote>
 und die Hilflosen<sup title="oder: Unglückseligen">&#x2732;</sup> fallen ihm in die Klauen.
 </blockquote>
 </blockquote>
-@11Er denkt in seinem Herzen: »Gott hat’s vergessen,
+^11^Er denkt in seinem Herzen: »Gott hat’s vergessen,
 <blockquote>
 <blockquote>
 hat sein Antlitz verhüllt: er sieht es nimmer!«
 </blockquote>
 </blockquote>
-@12Steh auf, o HERR, erhebe, o Gott, deinen Arm,
+^12^Steh auf, o HERR, erhebe, o Gott, deinen Arm,
 <blockquote>
 <blockquote>
 vergiß die Elenden nicht!
 </blockquote>
 </blockquote>
-@13Warum darf der Frevler Gott lästern<sup title="= schmähen">&#x2732;</sup>,
+^13^Warum darf der Frevler Gott lästern<sup title="= schmähen">&#x2732;</sup>,
 <blockquote>
 <blockquote>
 darf denken in seinem Herzen: »Du fragst nicht danach«?
 </blockquote>
 </blockquote>
-@14Du hast es wohl gesehn, denn auf Unheil und Herzeleid
+^14^Du hast es wohl gesehn, denn auf Unheil und Herzeleid
 <blockquote>
 <blockquote>
 achtest du wohl, in deine Hand es zu nehmen;<span data-param="f3_19_10_14A" class="fussnote">A</span>
@@ -786,26 +786,26 @@ du bist’s, dem der Schwache es anheimstellt,
 der Waise bist du ein Helfer.
 </blockquote>
 </blockquote>
-@15Zerschmettre den Arm des Frevlers
+^15^Zerschmettre den Arm des Frevlers
 <blockquote>
 <blockquote>
 und suche des Bösewichts gottloses Wesen heim,
 bis nichts mehr von ihm zu finden!
 </blockquote>
 </blockquote>
-@16Der HERR ist König auf immer und ewig:
+^16^Der HERR ist König auf immer und ewig:
 <blockquote>
 <blockquote>
 verschwinden müssen die Heiden aus seinem Lande!
 </blockquote>
 </blockquote>
-@17Das Verlangen der Elenden hörst du, o HERR;
+^17^Das Verlangen der Elenden hörst du, o HERR;
 <blockquote>
 <blockquote>
 du stärkst ihren Mut, leihst ihnen dein Ohr,
 </blockquote>
 </blockquote>
-@18um den Waisen und Bedrückten Recht zu schaffen:
+^18^um den Waisen und Bedrückten Recht zu schaffen:
 <blockquote>
 <blockquote>
 nicht soll ein Mensch, der zur Erde gehört,<span data-param="f3_19_10_18A" class="fussnote">A</span> noch ferner schrecken<sup title="oder: trotzen">&#x2732;</sup>.
@@ -815,7 +815,7 @@ nicht soll ein Mensch, der zur Erde gehört,<span data-param="f3_19_10_18A" clas
 ### Der Herr ist treu und gerecht
 
 # 11
-@1<em>Dem Musikmeister, von David.</em>
+^1^<em>Dem Musikmeister, von David.</em>
 Der HERR ist meine Zuflucht;
 <blockquote>
 <blockquote>
@@ -823,20 +823,20 @@ wie dürft ihr zu mir sagen:
 »Fliehet in euer Gebirge wie Vögel!
 </blockquote>
 </blockquote>
-@2Denn seht, die Gottlosen spannen den Bogen,
+^2^Denn seht, die Gottlosen spannen den Bogen,
 <blockquote>
 <blockquote>
 legen ihren Pfeil auf die Sehne,
 um im Dunkel zu schießen auf schuldlose Herzen.
 </blockquote>
 </blockquote>
-@3Wenn die Grundpfeiler niedergerissen werden, –
+^3^Wenn die Grundpfeiler niedergerissen werden, –
 <blockquote>
 <blockquote>
 was kann da der Gerechte noch leisten?«
 </blockquote>
 </blockquote>
-@4Der HERR ist in seinem heiligen Palast,
+^4^Der HERR ist in seinem heiligen Palast,
 <blockquote>
 <blockquote>
 der HERR, dessen Thron im Himmel steht;
@@ -844,20 +844,20 @@ seine Augen halten Ausschau, seine Blicke
 prüfen die Menschenkinder.
 </blockquote>
 </blockquote>
-@5Es prüft der HERR den Gerechten und den Gottlosen,
+^5^Es prüft der HERR den Gerechten und den Gottlosen,
 <blockquote>
 <blockquote>
 und wer Gewalttat liebt, den haßt seine Seele.
 </blockquote>
 </blockquote>
-@6Er läßt auf die Gottlosen Schlingen<sup title="= Blitze">&#x2732;</sup> regnen;
+^6^Er läßt auf die Gottlosen Schlingen<sup title="= Blitze">&#x2732;</sup> regnen;
 <blockquote>
 <blockquote>
 Feuer und Schwefel und Glutwind
 sind ihres Bechers Teil (das ihnen zukommende Teil oder Los).
 </blockquote>
 </blockquote>
-@7Denn gerecht ist der HERR, ein Freund gerechten Tuns:
+^7^Denn gerecht ist der HERR, ein Freund gerechten Tuns:
 <blockquote>
 <blockquote>
 die Redlichen werden sein Angesicht schauen.
@@ -867,52 +867,52 @@ die Redlichen werden sein Angesicht schauen.
 ### Trost der Frommen gegenüber der Gewalt der Lüge
 
 # 12
-@1<em>Dem Musikmeister, im Basston; ein Psalm von David.</em>
-@2Hilf doch, o HERR! Denn dahin sind die Frommen<sup title="d.h. Gesetzestreuen">&#x2732;</sup>
+^1^<em>Dem Musikmeister, im Basston; ein Psalm von David.</em>
+^2^Hilf doch, o HERR! Denn dahin sind die Frommen<sup title="d.h. Gesetzestreuen">&#x2732;</sup>
 <blockquote>
 <blockquote>
 und die Treuen ausgestorben inmitten der Menschenwelt!<span data-param="f3_19_12_2A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@3Falschheit reden sie jeder mit dem andern,
+^3^Falschheit reden sie jeder mit dem andern,
 <blockquote>
 <blockquote>
 mit glatten Lippen, mit doppeltem Herzen reden sie. –
 </blockquote>
 </blockquote>
-@4O daß doch der HERR vertilgte alle glatten Lippen,
+^4^O daß doch der HERR vertilgte alle glatten Lippen,
 <blockquote>
 <blockquote>
 die Zunge, die vermessen redet,
 </blockquote>
 </blockquote>
-@5(die Leute) die da sagen: »Durch unsre Zunge sind wir starke Helden,
+^5^(die Leute) die da sagen: »Durch unsre Zunge sind wir starke Helden,
 <blockquote>
 <blockquote>
 unser Mund steht uns zur Verfügung:
 wer will uns meistern?«<span data-param="f3_19_12_5A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@6»Ob der Knechtung der Niedrigen, ob dem Seufzen der Armen
+^6^»Ob der Knechtung der Niedrigen, ob dem Seufzen der Armen
 <blockquote>
 <blockquote>
 will jetzt ich mich erheben«, spricht der HERR,
 »will Rettung schaffen dem, der danach verlangt!« –
 </blockquote>
 </blockquote>
-@7Die Worte des HERRN sind lautere Worte,
+^7^Die Worte des HERRN sind lautere Worte,
 <blockquote>
 <blockquote>
 sind Silber, im Schmelzofen siebenfältig geläutert.
 </blockquote>
 </blockquote>
-@8Du, HERR, wirst treulich sie halten, wirst uns schirmen
+^8^Du, HERR, wirst treulich sie halten, wirst uns schirmen
 <blockquote>
 <blockquote>
 vor diesem Geschlecht<sup title="= Gelichter">&#x2732;</sup> zu jeder Zeit,
 </blockquote>
 </blockquote>
-@9vor den Gottlosen, die ringsum stolzieren,
+^9^vor den Gottlosen, die ringsum stolzieren,
 <blockquote>
 <blockquote>
 weil Gemeinheit sich bläht inmitten der Menschheit.
@@ -922,33 +922,33 @@ weil Gemeinheit sich bläht inmitten der Menschheit.
 ### Wie lange noch?
 
 # 13
-@1<em>Dem Musikmeister; ein Psalm Davids.</em>
-@2Wie lange noch, HERR, willst du mich ganz vergessen,
+^1^<em>Dem Musikmeister; ein Psalm Davids.</em>
+^2^Wie lange noch, HERR, willst du mich ganz vergessen,
 <blockquote>
 <blockquote>
 wie lange dein Antlitz vor mir verhüllen?
 </blockquote>
 </blockquote>
-@3Wie lange noch soll ich Sorgen hegen in meiner Seele,
+^3^Wie lange noch soll ich Sorgen hegen in meiner Seele,
 <blockquote>
 <blockquote>
 Kummer im Herzen tragen Tag für Tag?
 Wie lange noch soll mein Feind sich gegen mich erheben?
 </blockquote>
 </blockquote>
-@4Blick her, erhöre mich, HERR, mein Gott,
+^4^Blick her, erhöre mich, HERR, mein Gott,
 <blockquote>
 <blockquote>
 laß die Augen mir wieder leuchten, daß zum Tode ich nicht entschlafe!
 </blockquote>
 </blockquote>
-@5Sonst rühmt sich mein Feind: »Ich habe ihn überwältigt!«,
+^5^Sonst rühmt sich mein Feind: »Ich habe ihn überwältigt!«,
 <blockquote>
 <blockquote>
 und meine Gegner jubeln, wenn ich wanke.
 </blockquote>
 </blockquote>
-@6Doch nein, ich vertraue deiner Gnade:
+^6^Doch nein, ich vertraue deiner Gnade:
 <blockquote>
 <blockquote>
 jauchzen soll mein Herz ob deiner Hilfe!
@@ -959,7 +959,7 @@ Singen will ich dem HERRN, daß er Gutes an mir getan!
 ### Gedanken bei der allgemeinen Verderbtheit der Welt und Bitte um Erlösung
 
 # 14
-@1<em>Dem Musikmeister, von David.</em>
+^1^<em>Dem Musikmeister, von David.</em>
 Die Toren sprechen<sup title="= denken">&#x2732;</sup> in ihrem Herzen:
 <blockquote>
 <blockquote>
@@ -968,7 +968,7 @@ verderbt, abscheulich ist ihr Tun:
 da ist keiner, des Gutes täte.
 </blockquote>
 </blockquote>
-@2Der HERR schaut hernieder vom Himmel aus
+^2^Der HERR schaut hernieder vom Himmel aus
 <blockquote>
 <blockquote>
 nach den Menschenkindern,
@@ -976,7 +976,7 @@ um zu sehn, ob da sei ein Verständiger,
 einer der nach Gott fragt.
 </blockquote>
 </blockquote>
-@3Doch alle sind sie abgefallen,
+^3^Doch alle sind sie abgefallen,
 <blockquote>
 <blockquote>
 insgesamt entartet;
@@ -984,7 +984,7 @@ da ist keiner, der Gutes tut,
 auch nicht einer<sup title="Röm 3,10-12">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@4Haben denn keinen Verstand die Übeltäter alle,
+^4^Haben denn keinen Verstand die Übeltäter alle,
 <blockquote>
 <blockquote>
 die mein Volk verzehren –
@@ -992,19 +992,19 @@ die das Brot des HERRN wohl essen,
 doch ohne ihn anzurufen?
 </blockquote>
 </blockquote>
-@5Damals gerieten sie in Angst und Schrecken,
+^5^Damals gerieten sie in Angst und Schrecken,
 <blockquote>
 <blockquote>
 denn Gott war mit dem gerechten Geschlecht.
 </blockquote>
 </blockquote>
-@6Beim Anschlag gegen den Elenden werdet zuschanden ihr werden,
+^6^Beim Anschlag gegen den Elenden werdet zuschanden ihr werden,
 <blockquote>
 <blockquote>
 denn der HERR ist seine Zuflucht.
 </blockquote>
 </blockquote>
-@7O daß doch aus Zion die Rettung Israels käme!
+^7^O daß doch aus Zion die Rettung Israels käme!
 <blockquote>
 <blockquote>
 Wenn der HERR einst wendet das Schicksal seines Volkes,
@@ -1015,34 +1015,34 @@ wird Jakob jubeln, Israel sich freuen.
 ### Wer darf Gast des Herrn sein?
 
 # 15
-@1<em>Ein Psalm von David.</em>
+^1^<em>Ein Psalm von David.</em>
 HERR, wer darf Gast sein in deinem Zelte,
 <blockquote>
 <blockquote>
 wer wohnen auf deinem heiligen Berge?
 </blockquote>
 </blockquote>
-@2Wer unsträflich wandelt und Gerechtigkeit übt
+^2^Wer unsträflich wandelt und Gerechtigkeit übt
 <blockquote>
 <blockquote>
 und die Wahrheit redet, wie’s ihm ums Herz ist;
 </blockquote>
 </blockquote>
-@3wer keine Verleumdung mit seiner Zunge umherträgt,
+^3^wer keine Verleumdung mit seiner Zunge umherträgt,
 <blockquote>
 <blockquote>
 seinem Nächsten kein Unrecht zufügt
 und keine Schmähung ausspricht gegen Verwandte;
 </blockquote>
 </blockquote>
-@4wer Verworfne als wirklich verächtlich ansieht,
+^4^wer Verworfne als wirklich verächtlich ansieht,
 <blockquote>
 <blockquote>
 aber Gottesfürchtigen Ehre erweist;
 wer sich selbst zum Schaden schwört und den Eid doch hält;
 </blockquote>
 </blockquote>
-@5wer sein Geld nicht ausleiht gegen Zins<sup title="oder: auf Wucher">&#x2732;</sup>
+^5^wer sein Geld nicht ausleiht gegen Zins<sup title="oder: auf Wucher">&#x2732;</sup>
 <blockquote>
 <blockquote>
 und Bestechung nicht annimmt gegen Schuldlose:
@@ -1053,64 +1053,64 @@ wer solches tut, wird ewiglich nicht wanken.
 ### Gott das höchste, ja einzige Gut der Seinen
 
 # 16
-@1<em>Ein Lied von David.</em>
+^1^<em>Ein Lied von David.</em>
 Behüte mich, Gott, denn bei dir such’ ich Zuflucht!
-@2Ich sage zu Gott: »Mein Allherr bist du,
+^2^Ich sage zu Gott: »Mein Allherr bist du,
 <blockquote>
 <blockquote>
 es gibt nichts Gutes<sup title="oder: kein Glück">&#x2732;</sup> für mich außer dir«;
 </blockquote>
 </blockquote>
-@3und von den Heiligen<sup title="= Gottgetreuen">&#x2732;</sup> im Lande (sag ich):
+^3^und von den Heiligen<sup title="= Gottgetreuen">&#x2732;</sup> im Lande (sag ich):
 <blockquote>
 <blockquote>
 »Dies sind die Edlen, an denen mein ganzes Herz hängt.«
 </blockquote>
 </blockquote>
-@4Vielfaches Leid erwächst den Verehrern anderer (Götter):
+^4^Vielfaches Leid erwächst den Verehrern anderer (Götter):
 <blockquote>
 <blockquote>
 ich mag ihre Bluttrankopfer nicht spenden
 und ihre Namen nicht auf meine Lippen nehmen.
 </blockquote>
 </blockquote>
-@5Der HERR ist mein Erbgut und Becherteil<sup title="vgl. 11,6">&#x2732;</sup>;
+^5^Der HERR ist mein Erbgut und Becherteil<sup title="vgl. 11,6">&#x2732;</sup>;
 <blockquote>
 <blockquote>
 du bist’s, der mein Los<sup title="oder: Erbe">&#x2732;</sup> mir sichert.
 </blockquote>
 </blockquote>
-@6Die Meßschnur ist mir gefallen aufs lieblichste<sup title="oder: in lieblicher Gegend">&#x2732;</sup>
+^6^Die Meßschnur ist mir gefallen aufs lieblichste<sup title="oder: in lieblicher Gegend">&#x2732;</sup>
 <blockquote>
 <blockquote>
 ja, mein Erbteil gefällt mir gar wohl.
 </blockquote>
 </blockquote>
-@7Ich preise den HERRN, der mich freundlich beraten;
+^7^Ich preise den HERRN, der mich freundlich beraten;
 <blockquote>
 <blockquote>
 auch nächtens mahnt mich mein Herz<span data-param="f3_19_16_7A" class="fussnote">A</span> dazu.
 </blockquote>
 </blockquote>
-@8Ich habe den HERRN mir beständig vor Augen gestellt:
+^8^Ich habe den HERRN mir beständig vor Augen gestellt:
 <blockquote>
 <blockquote>
 steht er mir zur Rechten, so wanke ich nicht<sup title="vgl. Apg 2,25-28">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@9Drum freut sich mein Herz, und meine Seele frohlockt:
+^9^Drum freut sich mein Herz, und meine Seele frohlockt:
 <blockquote>
 <blockquote>
 auch mein Leib wird sicher wohnen<sup title="= bewahrt sein">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@10Denn du gibst meine Seele<sup title="= mein Leben">&#x2732;</sup> dem Totenreich nicht preis,
+^10^Denn du gibst meine Seele<sup title="= mein Leben">&#x2732;</sup> dem Totenreich nicht preis,
 <blockquote>
 <blockquote>
 du läßt deinen Frommen nicht schaun die Vernichtung<span data-param="f3_19_16_10A" class="fussnote">A</span>.
 </blockquote>
 </blockquote>
-@11Du weisest mir den Weg des Lebens<sup title="oder: zum Leben">&#x2732;</sup>:
+^11^Du weisest mir den Weg des Lebens<sup title="oder: zum Leben">&#x2732;</sup>:
 <blockquote>
 <blockquote>
 vor deinem Angesicht<sup title="= bei dir">&#x2732;</sup> sind Freuden in Fülle
@@ -1121,87 +1121,87 @@ und Segensgaben<span data-param="f3_19_16_11A" class="fussnote">A</span> in dein
 ### Hilferuf eines Bedrängten wider ruchlose Feinde
 
 # 17
-@1<em>Ein Gebet Davids.</em>
+^1^<em>Ein Gebet Davids.</em>
 Höre, o HERR, die gerechte Sache, merk’ auf mein lautes Rufen,
 <blockquote>
 <blockquote>
 vernimm mein Gebet von Lippen ohne Trug!
 </blockquote>
 </blockquote>
-@2Von dir soll das Urteil über mich ergehn:
+^2^Von dir soll das Urteil über mich ergehn:
 <blockquote>
 <blockquote>
 deine Augen sehen untrüglich.<span data-param="f3_19_17_2A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@3Prüfst du mein Herz, siehst du nach mir bei Nacht,
+^3^Prüfst du mein Herz, siehst du nach mir bei Nacht,
 <blockquote>
 <blockquote>
 durchforschest du mich: du findest nichts Böses;
 mein Mund macht sich keines Vergehens schuldig.<span data-param="f3_19_17_3A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@4Beim Treiben der Menschen hab’ ich nach deiner Lippen Wort
+^4^Beim Treiben der Menschen hab’ ich nach deiner Lippen Wort
 <blockquote>
 <blockquote>
 gemieden die Pfade der Gewalttätigen.
 </blockquote>
 </blockquote>
-@5Meine Schritte haben sich fest an deine Bahnen gehalten,
+^5^Meine Schritte haben sich fest an deine Bahnen gehalten,
 <blockquote>
 <blockquote>
 meine Tritte haben nicht gewankt.
 </blockquote>
 </blockquote>
-@6Ich rufe zu dir, denn du erhörst mich, o Gott:
+^6^Ich rufe zu dir, denn du erhörst mich, o Gott:
 <blockquote>
 <blockquote>
 neige dein Ohr mir zu, vernimm meine Rede<sup title="= mein Gebet">&#x2732;</sup>!
 </blockquote>
 </blockquote>
-@7Erweise mir deine Wundergnade, du Retter derer,
+^7^Erweise mir deine Wundergnade, du Retter derer,
 <blockquote>
 <blockquote>
 die vor Widersachern Zuflucht suchen bei deiner Rechten!
 </blockquote>
 </blockquote>
-@8Behüte mich wie den Stern im Auge,
+^8^Behüte mich wie den Stern im Auge,
 <blockquote>
 <blockquote>
 birg mich im Schatten deiner Flügel
 </blockquote>
 </blockquote>
-@9vor den Frevlern, die mir Gewalt antun,
+^9^vor den Frevlern, die mir Gewalt antun,
 <blockquote>
 <blockquote>
 vor meinen Feinden, die voll Gier mich umringen!
 </blockquote>
 </blockquote>
-@10Ihr gefühlloses Herz halten sie verschlossen,
+^10^Ihr gefühlloses Herz halten sie verschlossen,
 <blockquote>
 <blockquote>
 ihr Mund stößt vermessene Reden aus.
 </blockquote>
 </blockquote>
-@11Auf Schritt und Tritt lauern sie jetzt uns auf,
+^11^Auf Schritt und Tritt lauern sie jetzt uns auf,
 <blockquote>
 <blockquote>
 richten ihr Trachten darauf, uns zu Boden zu werfen;
 </blockquote>
 </blockquote>
-@12sie gleichen dem Löwen, der gierig ist zu rauben<sup title="oder: zu zerreißen">&#x2732;</sup>,
+^12^sie gleichen dem Löwen, der gierig ist zu rauben<sup title="oder: zu zerreißen">&#x2732;</sup>,
 <blockquote>
 <blockquote>
 und dem jungen Leu, der da lauert im Versteck.
 </blockquote>
 </blockquote>
-@13Erhebe dich, HERR, tritt ihm entgegen, strecke ihn nieder!
+^13^Erhebe dich, HERR, tritt ihm entgegen, strecke ihn nieder!
 <blockquote>
 <blockquote>
 Errette mein Leben mit deinem Schwert vor dem Frevler,
 </blockquote>
 </blockquote>
-@14mit deiner Hand, o HERR, vor den Menschen,
+^14^mit deiner Hand, o HERR, vor den Menschen,
 <blockquote>
 <blockquote>
 vor den Leuten dieser Welt, deren Teil im Leben ist!
@@ -1210,7 +1210,7 @@ Mögen ihre Söhne satt daran werden und ihren Überrest
 wieder ihren Kindern hinterlassen!<span data-param="f3_19_17_14A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@15Doch ich in Gerechtigkeit<sup title="= ein Gerechter">&#x2732;</sup> darf dein Angesicht schauen,
+^15^Doch ich in Gerechtigkeit<sup title="= ein Gerechter">&#x2732;</sup> darf dein Angesicht schauen,
 <blockquote>
 <blockquote>
 darf satt mich sehn beim Erwachen an deinem Bilde<sup title="oder: Anblick">&#x2732;</sup>.
@@ -1220,34 +1220,34 @@ darf satt mich sehn beim Erwachen an deinem Bilde<sup title="oder: Anblick">&#x2
 ### Davids Dank- und Siegeslied nach Niederwerfung seiner Feinde
 
 # 18
-@1<em>Dem Musikmeister; vom Knecht des Herrn, von David, der dieses Lied an den Herrn richtete zu der Zeit, als der Herr ihn aus der Hand aller seiner Feinde, auch aus der Gewalt Sauls errettet hatte. Er betete (damals) so:</em>
-@2Ich liebe dich, HERR, meine Stärke!
-@3Der HERR ist mein Fels, meine Burg und mein Erretter,
+^1^<em>Dem Musikmeister; vom Knecht des Herrn, von David, der dieses Lied an den Herrn richtete zu der Zeit, als der Herr ihn aus der Hand aller seiner Feinde, auch aus der Gewalt Sauls errettet hatte. Er betete (damals) so:</em>
+^2^Ich liebe dich, HERR, meine Stärke!
+^3^Der HERR ist mein Fels, meine Burg und mein Erretter,
 <blockquote>
 <blockquote>
 mein Gott ist mein Hort, bei dem ich Zuflucht suche,
 mein Schild und das Horn meines Heils, meine Feste.
 </blockquote>
 </blockquote>
-@4Den Preiswürdigen rufe ich an, den HERRN:
+^4^Den Preiswürdigen rufe ich an, den HERRN:
 <blockquote>
 <blockquote>
 so werd’ ich von meinen Feinden errettet.
 </blockquote>
 </blockquote>
-@5Die Wogen des Todes hatten mich umringt,
+^5^Die Wogen des Todes hatten mich umringt,
 <blockquote>
 <blockquote>
 und die Ströme des Unheils schreckten mich;
 </blockquote>
 </blockquote>
-@6die Netze des Totenreichs umfingen mich schon,
+^6^die Netze des Totenreichs umfingen mich schon,
 <blockquote>
 <blockquote>
 die Schlingen des Todes fielen über mich<sup title="oder: starrten mir entgegen">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@7In meiner Angst rief ich zum HERRN
+^7^In meiner Angst rief ich zum HERRN
 <blockquote>
 <blockquote>
 und schrie (um Hilfe) zu meinem Gott;
@@ -1255,58 +1255,58 @@ da vernahm er in seinem Palast mein Rufen,
 und mein Notschrei drang ihm zu Ohren.
 </blockquote>
 </blockquote>
-@8Da wankte und schwankte die Erde,
+^8^Da wankte und schwankte die Erde,
 <blockquote>
 <blockquote>
 und der Berge Grundfesten bebten,
 sie wankten hin und her, denn er war zornentbrannt.
 </blockquote>
 </blockquote>
-@9Rauch stieg auf von seiner Nase,
+^9^Rauch stieg auf von seiner Nase,
 <blockquote>
 <blockquote>
 und fressendes Feuer drang aus seinem Munde,
 glühende Kohlen sprühten von ihm aus.
 </blockquote>
 </blockquote>
-@10Er neigte den Himmel und fuhr herab,
+^10^Er neigte den Himmel und fuhr herab,
 <blockquote>
 <blockquote>
 Wolkennacht lag unter seinen Füßen;
 </blockquote>
 </blockquote>
-@11er fuhr auf dem Cherub und flog daher
+^11^er fuhr auf dem Cherub und flog daher
 <blockquote>
 <blockquote>
 und schoß herab auf den Fittichen des Sturms;
 </blockquote>
 </blockquote>
-@12Finsternis machte er zu seiner Hülle,
+^12^Finsternis machte er zu seiner Hülle,
 <blockquote>
 <blockquote>
 rings um sich her zu seinem Gezelt
 Regendunkel, dichtes Gewölk;
 </blockquote>
 </blockquote>
-@13aus dem Glanz vor ihm her brachen durch seine Wolken
+^13^aus dem Glanz vor ihm her brachen durch seine Wolken
 <blockquote>
 <blockquote>
 Hagel und feurige Kohlen<sup title="oder: Feuerflammen">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@14Dann donnerte der HERR im Himmel,
+^14^Dann donnerte der HERR im Himmel,
 <blockquote>
 <blockquote>
 der Höchste ließ seine Stimme erschallen;
 </blockquote>
 </blockquote>
-@15er schoß seine Pfeile ab und zerstreute sie<sup title="d.h. die Feinde">&#x2732;</sup>,
+^15^er schoß seine Pfeile ab und zerstreute sie<sup title="d.h. die Feinde">&#x2732;</sup>,
 <blockquote>
 <blockquote>
 schleuderte Blitze und schreckte sie<sup title="d.h. die Feinde">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@16Da wurden sichtbar die Tiefen des Meeres
+^16^Da wurden sichtbar die Tiefen des Meeres
 <blockquote>
 <blockquote>
 und aufgedeckt die Grundfesten der Erde
@@ -1314,215 +1314,215 @@ vor deinem Schelten, o HERR,
 vor dem Zornesschnauben deiner Nase.
 </blockquote>
 </blockquote>
-@17Er streckte die Hand herab aus der Höhe, erfaßte mich,
+^17^Er streckte die Hand herab aus der Höhe, erfaßte mich,
 <blockquote>
 <blockquote>
 zog mich heraus aus den großen Fluten,
 </blockquote>
 </blockquote>
-@18entriß mich meinem starken Feinde
+^18^entriß mich meinem starken Feinde
 <blockquote>
 <blockquote>
 und meinen Widersachern, die zu stark mir waren.
 </blockquote>
 </blockquote>
-@19Sie hatten mich überfallen an meinem Unglückstage;
+^19^Sie hatten mich überfallen an meinem Unglückstage;
 <blockquote>
 <blockquote>
 doch der HERR ward mir zur Stütze;
 </blockquote>
 </blockquote>
-@20er führte mich heraus auf weiten Raum,
+^20^er führte mich heraus auf weiten Raum,
 <blockquote>
 <blockquote>
 riß mich heraus, weil er Wohlgefallen an mir hatte.
 </blockquote>
 </blockquote>
-@21Der HERR hat mir gelohnt nach meiner Gerechtigkeit,
+^21^Der HERR hat mir gelohnt nach meiner Gerechtigkeit,
 <blockquote>
 <blockquote>
 nach der Reinheit meiner Hände mir vergolten;
 </blockquote>
 </blockquote>
-@22denn ich habe eingehalten die Wege des HERRN
+^22^denn ich habe eingehalten die Wege des HERRN
 <blockquote>
 <blockquote>
 und bin von meinem Gott nicht treulos abgefallen;
 </blockquote>
 </blockquote>
-@23nein, alle seine Rechte haben mir vor Augen gestanden,
+^23^nein, alle seine Rechte haben mir vor Augen gestanden,
 <blockquote>
 <blockquote>
 und seine Gebote hab’ ich nicht von mir gewiesen.
 </blockquote>
 </blockquote>
-@24So bin ich unsträflich vor ihm gewandelt
+^24^So bin ich unsträflich vor ihm gewandelt
 <blockquote>
 <blockquote>
 und hab’ mich vor jeder Verschuldung gehütet;
 </blockquote>
 </blockquote>
-@25drum hat mir der HERR vergolten nach meiner Gerechtigkeit,
+^25^drum hat mir der HERR vergolten nach meiner Gerechtigkeit,
 <blockquote>
 <blockquote>
 nach der Reinheit meiner Hände, die seinen Augen sichtbar war.
 </blockquote>
 </blockquote>
-@26Gegen den Guten erweist du dich gütig,
+^26^Gegen den Guten erweist du dich gütig,
 <blockquote>
 <blockquote>
 gegen den Redlichen zeigst du dich redlich,
 </blockquote>
 </blockquote>
-@27gegen den Reinen erweist du dich rein,
+^27^gegen den Reinen erweist du dich rein,
 <blockquote>
 <blockquote>
 doch gegen den Falschen zeigst du dich enttäuschend;<span data-param="f3_19_18_27A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@28denn du schaffst demütigen Leuten Hilfe,
+^28^denn du schaffst demütigen Leuten Hilfe,
 <blockquote>
 <blockquote>
 aber stolze Augen erniedrigst du.
 </blockquote>
 </blockquote>
-@29Ja, du läßt meine Leuchte hell scheinen;
+^29^Ja, du läßt meine Leuchte hell scheinen;
 <blockquote>
 <blockquote>
 der HERR, mein Gott, macht meine Finsternis licht.
 </blockquote>
 </blockquote>
-@30Denn mit dir überrenne ich Feindesscharen,
+^30^Denn mit dir überrenne ich Feindesscharen,
 <blockquote>
 <blockquote>
 und mit meinem Gott überspringe ich Mauern.
 </blockquote>
 </blockquote>
-@31Dieser Gott – sein Walten ist vollkommen;
+^31^Dieser Gott – sein Walten ist vollkommen;
 <blockquote>
 <blockquote>
 die Worte des HERRN sind lauter,
 ein Schild ist er allen, die zu ihm sich flüchten.
 </blockquote>
 </blockquote>
-@32Denn wer ist Gott außer dem HERRN
+^32^Denn wer ist Gott außer dem HERRN
 <blockquote>
 <blockquote>
 und wer ein Fels als nur unser Gott?,
 </blockquote>
 </blockquote>
-@33dieser Gott, der mit Kraft mich gegürtet
+^33^dieser Gott, der mit Kraft mich gegürtet
 <blockquote>
 <blockquote>
 und meinen Weg ohn’ Anstoß gemacht;
 </blockquote>
 </blockquote>
-@34der mir Füße verliehen den Hirschen gleich
+^34^der mir Füße verliehen den Hirschen gleich
 <blockquote>
 <blockquote>
 und mich sicher auf Bergeshöhen gestellt;
 </blockquote>
 </blockquote>
-@35der meine Hände streiten gelehrt,
+^35^der meine Hände streiten gelehrt,
 <blockquote>
 <blockquote>
 daß meine Arme den ehernen Bogen spannten.
 </blockquote>
 </blockquote>
-@36Du reichtest mir deinen schützenden Schild,
+^36^Du reichtest mir deinen schützenden Schild,
 <blockquote>
 <blockquote>
 deine Rechte stützte mich,
 und deine Gnade machte mich groß.
 </blockquote>
 </blockquote>
-@37Du schafftest weiten Raum meinen Schritten unter mir,
+^37^Du schafftest weiten Raum meinen Schritten unter mir,
 <blockquote>
 <blockquote>
 und meine Knöchel wankten nicht.
 </blockquote>
 </blockquote>
-@38Ich verfolgte meine Feinde, holte sie ein
+^38^Ich verfolgte meine Feinde, holte sie ein
 <blockquote>
 <blockquote>
 und kehrte nicht um, bis ich sie vernichtet;
 </blockquote>
 </blockquote>
-@39ich zerschmetterte sie, daß sie nicht wieder aufstehn konnten:
+^39^ich zerschmetterte sie, daß sie nicht wieder aufstehn konnten:
 <blockquote>
 <blockquote>
 sie sanken unter meine Füße nieder.
 </blockquote>
 </blockquote>
-@40Und du gürtetest mich mit Kraft zum Streit,
+^40^Und du gürtetest mich mit Kraft zum Streit,
 <blockquote>
 <blockquote>
 beugtest unter mich alle, die sich gegen mich erhoben;
 </blockquote>
 </blockquote>
-@41du triebst meine Feinde vor mir in die Flucht,
+^41^du triebst meine Feinde vor mir in die Flucht,
 <blockquote>
 <blockquote>
 und alle, die mich haßten, vernichtete ich:
 </blockquote>
 </blockquote>
-@42sie schrien um Hilfe – doch da war kein Helfer –
+^42^sie schrien um Hilfe – doch da war kein Helfer –
 <blockquote>
 <blockquote>
 zum HERRN – doch er hörte sie nicht;
 </blockquote>
 </blockquote>
-@43ich zermalmte sie wie Staub vor dem Winde,
+^43^ich zermalmte sie wie Staub vor dem Winde,
 <blockquote>
 <blockquote>
 wie Kot auf den Gassen schüttete ich sie hin.
 </blockquote>
 </blockquote>
-@44Du hast mich aus den Kämpfen für (mein) Volk errettet,
+^44^Du hast mich aus den Kämpfen für (mein) Volk errettet,
 <blockquote>
 <blockquote>
 mich zum Oberhaupt von Völkern<sup title="oder: der Heiden">&#x2732;</sup> eingesetzt:
 Völker, die ich nicht kannte, dienen mir;
 </blockquote>
 </blockquote>
-@45aufs bloße Wort gehorchen sie mir,
+^45^aufs bloße Wort gehorchen sie mir,
 <blockquote>
 <blockquote>
 die Söhne des Auslands huldigen mir;
 </blockquote>
 </blockquote>
-@46die Söhne des Auslands sinken mutlos hin
+^46^die Söhne des Auslands sinken mutlos hin
 <blockquote>
 <blockquote>
 und kommen zitternd hervor aus ihren Schlössern.
 </blockquote>
 </blockquote>
-@47Der HERR lebt: gepriesen sei mein Hort!
+^47^Der HERR lebt: gepriesen sei mein Hort!
 <blockquote>
 <blockquote>
 und erhaben ist der Gott meines Heils,
 </blockquote>
 </blockquote>
-@48der Gott, der mir Rache verliehen
+^48^der Gott, der mir Rache verliehen
 <blockquote>
 <blockquote>
 und die Völker unter meine Herrschaft gezwungen,
 </blockquote>
 </blockquote>
-@49der von meinen grimmen Feinden mich gerettet
+^49^der von meinen grimmen Feinden mich gerettet
 <blockquote>
 <blockquote>
 und über meine Widersacher mich erhöht,
 von dem Mann der Gewalttat mich befreit hat!
 </blockquote>
 </blockquote>
-@50Drum will ich dich preisen, HERR, unter den Völkern
+^50^Drum will ich dich preisen, HERR, unter den Völkern
 <blockquote>
 <blockquote>
 und deinem Namen lobsingen<sup title="vgl. Röm 15,9">&#x2732;</sup>,
 </blockquote>
 </blockquote>
-@51dir, der seinem Könige großes Heil verleiht
+^51^dir, der seinem Könige großes Heil verleiht
 <blockquote>
 <blockquote>
 und Gnade an seinem Gesalbten übt,
@@ -1533,46 +1533,46 @@ an David und seinem Hause ewiglich!
 ### Lobpreis Gottes des Schöpfers und seines Gesetzes; Bitte um Sündenvergebung und um Heiligung
 
 # 19
-@1<em>Dem Musikmeister; ein Psalm von David.</em>
-@2Die Himmel verkünden Gottes Herrlichkeit<sup title="oder: Ehre">&#x2732;</sup>,
+^1^<em>Dem Musikmeister; ein Psalm von David.</em>
+^2^Die Himmel verkünden Gottes Herrlichkeit<sup title="oder: Ehre">&#x2732;</sup>,
 <blockquote>
 <blockquote>
 und vom Werk seiner Hände erzählt die Feste<span data-param="f3_19_19_2A" class="fussnote">A</span>.
 </blockquote>
 </blockquote>
-@3Ein Tag ruft dem andern die Botschaft zu,
+^3^Ein Tag ruft dem andern die Botschaft zu,
 <blockquote>
 <blockquote>
 und eine Nacht vermeldet der andern die Kunde.
 </blockquote>
 </blockquote>
-@4Da ist keine Sprache, da sind keine Worte,
+^4^Da ist keine Sprache, da sind keine Worte,
 <blockquote>
 <blockquote>
 unhörbar ist ihre Stimme;
 </blockquote>
 </blockquote>
-@5und doch: durch alle Lande dringt ihr Schall
+^5^und doch: durch alle Lande dringt ihr Schall
 <blockquote>
 <blockquote>
 und ihre Rede bis ans Ende des Erdkreises<sup title="vgl. Röm 10,18">&#x2732;</sup>;
 der Sonne hat er dort ein Zelt gesetzt.
 </blockquote>
 </blockquote>
-@6Und sie – wie ein Bräutigam tritt sie hervor aus ihrem Gemach,
+^6^Und sie – wie ein Bräutigam tritt sie hervor aus ihrem Gemach,
 <blockquote>
 <blockquote>
 sie freut sich wie ein Held, zu durchlaufen die Bahn.
 </blockquote>
 </blockquote>
-@7Vom Ende des Himmels geht sie aus,
+^7^Vom Ende des Himmels geht sie aus,
 <blockquote>
 <blockquote>
 und ihr Umlauf reicht wieder bis zu dessen Ende,
 und nichts bleibt verborgen vor ihrer Lichtglut. –
 </blockquote>
 </blockquote>
-@8Das Gesetz des HERRN ist vollkommen<sup title="oder: ohne Fehl">&#x2732;</sup>:
+^8^Das Gesetz des HERRN ist vollkommen<sup title="oder: ohne Fehl">&#x2732;</sup>:
 <blockquote>
 <blockquote>
 erquickt die Seele;
@@ -1580,7 +1580,7 @@ das Zeugnis des HERRN ist zuverlässig:
 macht die Törichten weise;
 </blockquote>
 </blockquote>
-@9die Befehle des HERRN sind richtig:
+^9^die Befehle des HERRN sind richtig:
 <blockquote>
 <blockquote>
 erfreuen das Herz;
@@ -1588,7 +1588,7 @@ das Gebot des HERRN ist lauter:
 erleuchtet<sup title="oder: läßt leuchten">&#x2732;</sup> die Augen;
 </blockquote>
 </blockquote>
-@10die Furcht<sup title="= Ehrfurcht">&#x2732;</sup> vor dem HERRN ist rein:
+^10^die Furcht<sup title="= Ehrfurcht">&#x2732;</sup> vor dem HERRN ist rein:
 <blockquote>
 <blockquote>
 bleibt ewig bestehn;
@@ -1596,7 +1596,7 @@ die Gerichtsurteile des HERRN sind Wahrheit:
 sind allzumal gerecht;
 </blockquote>
 </blockquote>
-@11sie sind köstlicher als Gold
+^11^sie sind köstlicher als Gold
 <blockquote>
 <blockquote>
 und als Feingold in Menge,
@@ -1604,19 +1604,19 @@ sind süßer als Honig
 und Wabenseim.
 </blockquote>
 </blockquote>
-@12Auch dein Knecht läßt durch sie sich warnen:
+^12^Auch dein Knecht läßt durch sie sich warnen:
 <blockquote>
 <blockquote>
 in ihrer Befolgung liegt ein reicher Lohn.
 </blockquote>
 </blockquote>
-@13Verfehlungen – ach, wer nimmt sie wahr?
+^13^Verfehlungen – ach, wer nimmt sie wahr?
 <blockquote>
 <blockquote>
 Von den unbewußten Fehlern sprich mich los!
 </blockquote>
 </blockquote>
-@14Auch vor Hochmutssünden behüte deinen Knecht:
+^14^Auch vor Hochmutssünden behüte deinen Knecht:
 <blockquote>
 <blockquote>
 laß sie nicht Macht über mich gewinnen!
@@ -1624,7 +1624,7 @@ Dann steh’ ich unsträflich da und bleibe rein
 von schwerer Verschuldung.
 </blockquote>
 </blockquote>
-@15Laß wohlgefällig dir sein die Worte meines Mundes
+^15^Laß wohlgefällig dir sein die Worte meines Mundes
 <blockquote>
 <blockquote>
 und das Sinnen meines Herzens,
@@ -1635,58 +1635,58 @@ o HERR, mein Fels und mein Erlöser!
 ### Fürbitte des Volkes für den König beim Auszug des Heeres
 
 # 20
-@1<em>Dem Musikmeister; ein Psalm von David.</em>
-@2Der HERR erhöre dich am Tage der Drangsal,
+^1^<em>Dem Musikmeister; ein Psalm von David.</em>
+^2^Der HERR erhöre dich am Tage der Drangsal,
 <blockquote>
 <blockquote>
 es schütze dich der Name des Gottes Jakobs!
 </blockquote>
 </blockquote>
-@3Er sende dir Hilfe vom Heiligtum her
+^3^Er sende dir Hilfe vom Heiligtum her
 <blockquote>
 <blockquote>
 und leiste dir Beistand von Zion aus!
 </blockquote>
 </blockquote>
-@4Er gedenke aller deiner Speisopfer<sup title="oder: Gaben">&#x2732;</sup>
+^4^Er gedenke aller deiner Speisopfer<sup title="oder: Gaben">&#x2732;</sup>
 <blockquote>
 <blockquote>
 und sehe dein Brandopfer wohlgefällig an! SELA.
 </blockquote>
 </blockquote>
-@5Er gewähre dir, was dein Herz begehrt,
+^5^Er gewähre dir, was dein Herz begehrt,
 <blockquote>
 <blockquote>
 und lasse all deine Pläne gelingen!
 </blockquote>
 </blockquote>
-@6Dann wollen wir jubeln ob deinem Heil
+^6^Dann wollen wir jubeln ob deinem Heil
 <blockquote>
 <blockquote>
 und im Namen unsers Gottes die Fahnen entfalten<sup title="oder: schwingen">&#x2732;</sup>:
 der HERR erfülle dir all deine Wünsche! –
 </blockquote>
 </blockquote>
-@7Jetzt weiß ich, der HERR hilft seinem Gesalbten:
+^7^Jetzt weiß ich, der HERR hilft seinem Gesalbten:
 <blockquote>
 <blockquote>
 er erhört ihn aus seinem heiligen Himmel
 durch die hilfreichen Taten seiner Rechten.
 </blockquote>
 </blockquote>
-@8Diese sind stark durch Wagen und jene durch Rosse,
+^8^Diese sind stark durch Wagen und jene durch Rosse,
 <blockquote>
 <blockquote>
 doch wir sind stark durch den Namen des HERRN, unsers Gottes.<span data-param="f3_19_20_8A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@9Sie stürzen nieder und fallen,
+^9^Sie stürzen nieder und fallen,
 <blockquote>
 <blockquote>
 doch wir stehn fest und halten uns aufrecht.
 </blockquote>
 </blockquote>
-@10O HERR, hilf<sup title="= verleihe den Sieg">&#x2732;</sup> dem König!
+^10^O HERR, hilf<sup title="= verleihe den Sieg">&#x2732;</sup> dem König!
 <blockquote>
 <blockquote>
 Erhör’ uns, sooft wir (dich) anrufen!<span data-param="f3_19_20_10A" class="fussnote">A</span>
@@ -1696,56 +1696,56 @@ Erhör’ uns, sooft wir (dich) anrufen!<span data-param="f3_19_20_10A" class="f
 ### Dankgebet für die dem König von Gott erwiesenen Wohltaten (besonders für den ihm verliehenen Sieg) und Hoffnung neuer Segnungen
 
 # 21
-@1<em>Dem Musikmeister; ein Psalm von David.</em>
-@2O HERR, ob deiner Kraft freut sich der König,
+^1^<em>Dem Musikmeister; ein Psalm von David.</em>
+^2^O HERR, ob deiner Kraft freut sich der König,
 <blockquote>
 <blockquote>
 und ob deiner Hilfe<span data-param="f3_19_21_2A" class="fussnote">A</span> – wie jauchzt er so laut!
 </blockquote>
 </blockquote>
-@3Seines Herzens Verlangen hast du ihm erfüllt
+^3^Seines Herzens Verlangen hast du ihm erfüllt
 <blockquote>
 <blockquote>
 und den Wunsch seiner Lippen ihm nicht versagt; SELA.
 </blockquote>
 </blockquote>
-@4denn mit Glück und Segen bist du ihm begegnet,
+^4^denn mit Glück und Segen bist du ihm begegnet,
 <blockquote>
 <blockquote>
 hast aufs Haupt ihm gesetzt eine Krone von Feingold.
 </blockquote>
 </blockquote>
-@5Leben erbat er von dir: du hast’s ihm gewährt,
+^5^Leben erbat er von dir: du hast’s ihm gewährt,
 <blockquote>
 <blockquote>
 der Jahre Fülle auf endlose Zeit.
 </blockquote>
 </blockquote>
-@6Groß ist sein Ruhm durch deine Hilfe,
+^6^Groß ist sein Ruhm durch deine Hilfe,
 <blockquote>
 <blockquote>
 mit Glanz und Hoheit hast du ihn geschmückt;
 </blockquote>
 </blockquote>
-@7für die Dauer hast du ihn zum Segen gemacht,
+^7^für die Dauer hast du ihn zum Segen gemacht,
 <blockquote>
 <blockquote>
 ihn beglückt mit Freude vor deinem Angesicht.
 </blockquote>
 </blockquote>
-@8Denn der König vertraut auf den HERRN
+^8^Denn der König vertraut auf den HERRN
 <blockquote>
 <blockquote>
 und wird durch des Höchsten Gnade nicht wanken.
 </blockquote>
 </blockquote>
-@9Deine Hand wird treffen alle deine Feinde,
+^9^Deine Hand wird treffen alle deine Feinde,
 <blockquote>
 <blockquote>
 deine Rechte alle erreichen, die dich hassen.
 </blockquote>
 </blockquote>
-@10Du wirst sie wie einen Feuerofen machen,
+^10^Du wirst sie wie einen Feuerofen machen,
 <blockquote>
 <blockquote>
 sobald du erscheinst;
@@ -1753,25 +1753,25 @@ der HERR wird sie verschlingen in seinem Zorn,
 und Feuer wird sie verzehren.
 </blockquote>
 </blockquote>
-@11Ihren Nachwuchs<sup title="= ihre Kinder">&#x2732;</sup> wirst du vom Erdboden tilgen
+^11^Ihren Nachwuchs<sup title="= ihre Kinder">&#x2732;</sup> wirst du vom Erdboden tilgen
 <blockquote>
 <blockquote>
 und ihr Geschlecht aus der Menschenwelt.
 </blockquote>
 </blockquote>
-@12Wenn Böses sie gegen dich planen, auf Arglist sinnen:
+^12^Wenn Böses sie gegen dich planen, auf Arglist sinnen:
 <blockquote>
 <blockquote>
 sie werden nichts vermögen;
 </blockquote>
 </blockquote>
-@13denn du wirst sie zwingen, die Flucht zu ergreifen,
+^13^denn du wirst sie zwingen, die Flucht zu ergreifen,
 <blockquote>
 <blockquote>
 mit deinem Bogen auf ihr Antlitz zielen.
 </blockquote>
 </blockquote>
-@14Erhebe dich, HERR, in deiner Kraft:
+^14^Erhebe dich, HERR, in deiner Kraft:
 <blockquote>
 <blockquote>
 wir wollen dein Heldentum besingen und preisen.
@@ -1781,86 +1781,86 @@ wir wollen dein Heldentum besingen und preisen.
 ### Klage und Hoffnung eines von Gott Verlassenen (Des Heilands Leidenspsalm)
 
 # 22
-@1<em>Dem Musikmeister, nach (der Singweise = Melodie) »Hirschkuh der Morgenröte«; ein Psalm von David.</em>
-@2Mein Gott, mein Gott, warum hast du mich verlassen?<sup title="Mt 27,46; Mk 15,34">&#x2732;</sup>
+^1^<em>Dem Musikmeister, nach (der Singweise = Melodie) »Hirschkuh der Morgenröte«; ein Psalm von David.</em>
+^2^Mein Gott, mein Gott, warum hast du mich verlassen?<sup title="Mt 27,46; Mk 15,34">&#x2732;</sup>
 <blockquote>
 <blockquote>
 Ach, fern von meiner Rettung bleiben die Worte meiner Klage!
 </blockquote>
 </blockquote>
-@3Mein Gott! Ich rufe bei Tage, doch du antwortest nicht,
+^3^Mein Gott! Ich rufe bei Tage, doch du antwortest nicht,
 <blockquote>
 <blockquote>
 und bei Nacht, doch Ruhe wird mir nicht zuteil!
 </blockquote>
 </blockquote>
-@4Und doch bist du der Heilige,
+^4^Und doch bist du der Heilige,
 <blockquote>
 <blockquote>
 der da thront über Israels Lobgesängen.
 </blockquote>
 </blockquote>
-@5Auf dich haben unsre Väter vertraut,
+^5^Auf dich haben unsre Väter vertraut,
 <blockquote>
 <blockquote>
 sie haben vertraut, und du hast ihnen ausgeholfen;
 </blockquote>
 </blockquote>
-@6zu dir haben sie geschrien und Rettung gefunden,
+^6^zu dir haben sie geschrien und Rettung gefunden,
 <blockquote>
 <blockquote>
 auf dich haben sie vertraut und sind nicht enttäuscht worden.
 </blockquote>
 </blockquote>
-@7Doch ich bin ein Wurm und kein Mensch mehr,
+^7^Doch ich bin ein Wurm und kein Mensch mehr,
 <blockquote>
 <blockquote>
 bin der Leute Hohn und verachtet vom Volk;
 </blockquote>
 </blockquote>
-@8alle, die mich sehen, spotten mein<sup title="vgl. Mt 27,39-43">&#x2732;</sup>,
+^8^alle, die mich sehen, spotten mein<sup title="vgl. Mt 27,39-43">&#x2732;</sup>,
 <blockquote>
 <blockquote>
 reißen den Mund auf, schütteln den Kopf:
 </blockquote>
 </blockquote>
-@9»Er werf’s auf den HERRN: der möge ihn befreien,
+^9^»Er werf’s auf den HERRN: der möge ihn befreien,
 <blockquote>
 <blockquote>
 der möge ihn retten: er hat ja Wohlgefallen an ihm!«
 </blockquote>
 </blockquote>
-@10Ja du bist’s, der mich der Mutter gelegt in den Schoß,
+^10^Ja du bist’s, der mich der Mutter gelegt in den Schoß,
 <blockquote>
 <blockquote>
 mich sicher geborgen an meiner Mutter Brust;
 </blockquote>
 </blockquote>
-@11von Geburt an bin ich auf dich geworfen<sup title="= angewiesen">&#x2732;</sup>,
+^11^von Geburt an bin ich auf dich geworfen<sup title="= angewiesen">&#x2732;</sup>,
 <blockquote>
 <blockquote>
 vom Schoß meiner Mutter her bist du mein Gott.
 </blockquote>
 </blockquote>
-@12O bleibe nicht fern von mir, denn die Drangsal ist nahe,
+^12^O bleibe nicht fern von mir, denn die Drangsal ist nahe,
 <blockquote>
 <blockquote>
 und sonst ist kein Helfer zu sehen!
 </blockquote>
 </blockquote>
-@13Mich umzingeln mächtige Stiere,
+^13^Mich umzingeln mächtige Stiere,
 <blockquote>
 <blockquote>
 Basans Riesenfarren halten mich umringt;
 </blockquote>
 </blockquote>
-@14den Rachen sperren sie gegen mich auf –
+^14^den Rachen sperren sie gegen mich auf –
 <blockquote>
 <blockquote>
 ein reißender, brüllender Löwe!
 </blockquote>
 </blockquote>
-@15Wie Wasser bin ich ausgegossen,
+^15^Wie Wasser bin ich ausgegossen,
 <blockquote>
 <blockquote>
 alle meine Glieder sind ausgerenkt<sup title="oder: zerschlagen">&#x2732;</sup>;
@@ -1868,84 +1868,84 @@ das Herz ist mir geworden wie Wachs,
 zerschmolzen in meinem Innern.
 </blockquote>
 </blockquote>
-@16Vertrocknet wie eine Scherbe ist meine Kraft,
+^16^Vertrocknet wie eine Scherbe ist meine Kraft,
 <blockquote>
 <blockquote>
 und die Zunge klebt mir am Gaumen:
 in den Staub des Todes hast du mich gelegt.
 </blockquote>
 </blockquote>
-@17Ach, Hunde umgeben mich rings,
+^17^Ach, Hunde umgeben mich rings,
 <blockquote>
 <blockquote>
 eine Rotte von Übeltätern umkreist mich;
 sie haben mir Hände und Füße durchbohrt.
 </blockquote>
 </blockquote>
-@18Alle meine Gebeine kann ich zählen:
+^18^Alle meine Gebeine kann ich zählen:
 <blockquote>
 <blockquote>
 sie aber blicken mich an und weiden sich an dem Anblick.
 </blockquote>
 </blockquote>
-@19Sie teilen meine Kleider unter sich
+^19^Sie teilen meine Kleider unter sich
 <blockquote>
 <blockquote>
 und werfen das Los um mein Gewand<sup title="Mt 27,35; Joh 19,24">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@20Doch du, HERR, bleibe nicht fern von mir,
+^20^Doch du, HERR, bleibe nicht fern von mir,
 <blockquote>
 <blockquote>
 du, meine Stärke, eile mir zu Hilfe!
 </blockquote>
 </blockquote>
-@21Errette vor dem Schwert mein Leben,
+^21^Errette vor dem Schwert mein Leben,
 <blockquote>
 <blockquote>
 mein einziges Gut aus der Hunde Gewalt!<span data-param="f3_19_22_21A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@22Hilf mir aus dem Rachen des Löwen
+^22^Hilf mir aus dem Rachen des Löwen
 <blockquote>
 <blockquote>
 und bewahre mich vor den Hörnern der Büffel!
 </blockquote>
 </blockquote>
-@23Dann will ich deinen Namen meinen Brüdern kundtun,
+^23^Dann will ich deinen Namen meinen Brüdern kundtun,
 <blockquote>
 <blockquote>
 inmitten der Gemeinde dich rühmen<sup title="= preisen">&#x2732;</sup>:
 </blockquote>
 </blockquote>
-@24»Die den HERRN ihr fürchtet, preiset ihn!
+^24^»Die den HERRN ihr fürchtet, preiset ihn!
 <blockquote>
 <blockquote>
 Ihr alle vom Hause Jakobs, ehret ihn
 und scheut euch vor ihm, ihr alle von Israels Stamm!
 </blockquote>
 </blockquote>
-@25Denn er hat nicht übersehen und nicht verabscheut das Elend des Dulders
+^25^Denn er hat nicht übersehen und nicht verabscheut das Elend des Dulders
 <blockquote>
 <blockquote>
 und sein Antlitz vor ihm nicht verborgen,
 nein, als er zu ihm schrie, auf ihn gehört.«
 </blockquote>
 </blockquote>
-@26Dir soll mein Loblied gelten in großer Gemeinde;
+^26^Dir soll mein Loblied gelten in großer Gemeinde;
 <blockquote>
 <blockquote>
 meine Gelübde will ich erfüllen vor denen, die ihn fürchten.
 </blockquote>
 </blockquote>
-@27Die Elenden sollen essen, daß sie satt werden,
+^27^Die Elenden sollen essen, daß sie satt werden,
 <blockquote>
 <blockquote>
 und die da suchen den HERRN, sollen ihn preisen:
 aufleben soll euer Herz für immer!
 </blockquote>
 </blockquote>
-@28Daran werden gedenken und zum HERRN sich bekehren
+^28^Daran werden gedenken und zum HERRN sich bekehren
 <blockquote>
 <blockquote>
 alle Enden der Erde,
@@ -1953,26 +1953,26 @@ und vor dir werden sich niederwerfen
 alle Geschlechter der Heiden;
 </blockquote>
 </blockquote>
-@29denn dem HERRN gehört die Herrschaft<sup title="oder: das Königtum">&#x2732;</sup>,
+^29^denn dem HERRN gehört die Herrschaft<sup title="oder: das Königtum">&#x2732;</sup>,
 <blockquote>
 <blockquote>
 und er ist der Völkergebieter.
 </blockquote>
 </blockquote>
-@30Vor ihm werden niederfallen alle Großen der Erde,
+^30^Vor ihm werden niederfallen alle Großen der Erde,
 <blockquote>
 <blockquote>
 vor ihm die Knie beugen alle, die in den Erdstaub sinken
 und wer seine Seele nicht am Leben erhalten kann.
 </blockquote>
 </blockquote>
-@31Die Nachwelt wird ihm dienen;
+^31^Die Nachwelt wird ihm dienen;
 <blockquote>
 <blockquote>
 vom Allherrn wird man erzählen dem künft’gen Geschlecht.
 </blockquote>
 </blockquote>
-@32Sie werden kommen und seine Gerechtigkeit kundtun
+^32^Sie werden kommen und seine Gerechtigkeit kundtun
 <blockquote>
 <blockquote>
 dem nachgeborenen Volk, daß Er es vollführt hat.<span data-param="f3_19_22_32A" class="fussnote">A</span>
@@ -1982,22 +1982,22 @@ dem nachgeborenen Volk, daß Er es vollführt hat.<span data-param="f3_19_22_32A
 ### Der Herr als der gute Hirt und der freundliche Spender von Trost und Sicherheit
 
 # 23
-@1<em>Ein Psalm von David.</em>
+^1^<em>Ein Psalm von David.</em>
 Der HERR ist mein Hirt: mir mangelt nichts.
-@2Auf grünen Auen läßt er mich lagern,
+^2^Auf grünen Auen läßt er mich lagern,
 <blockquote>
 <blockquote>
 zum Lagerplatz am Bache führt er mich.<span data-param="f3_19_23_2A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@3Er erquickt meine Seele;
+^3^Er erquickt meine Seele;
 <blockquote>
 <blockquote>
 er leitet mich auf rechten Pfaden
 um seines Namens willen.
 </blockquote>
 </blockquote>
-@4Müßt’ ich auch wandern in finsterm Tal:
+^4^Müßt’ ich auch wandern in finsterm Tal:
 <blockquote>
 <blockquote>
 ich fürchte kein Unglück,
@@ -2005,7 +2005,7 @@ denn du bist bei mir: dein Hirtenstab und dein Stecken,
 die sind mein Trost.
 </blockquote>
 </blockquote>
-@5Du deckst mir reichlich den Tisch
+^5^Du deckst mir reichlich den Tisch
 <blockquote>
 <blockquote>
 vor den Augen meiner Feinde;
@@ -2013,7 +2013,7 @@ du salbst mir das Haupt mit Öl
 und schenkst mir den Becher voll ein.
 </blockquote>
 </blockquote>
-@6Nur Gutes und Liebes<sup title="oder: Glück und Gnade">&#x2732;</sup> werden mich begleiten
+^6^Nur Gutes und Liebes<sup title="oder: Glück und Gnade">&#x2732;</sup> werden mich begleiten
 <blockquote>
 <blockquote>
 mein ganzes Leben hindurch,
@@ -2025,66 +2025,66 @@ für eine lange Reihe von Tagen.<span data-param="f3_19_23_6B" class="fussnote">
 ### Festlied beim Einzug (des Volkes und des Königs der Ehren) in das Heiligtum
 
 # 24
-@1<em>Von David, ein Psalm.</em>
+^1^<em>Von David, ein Psalm.</em>
 Dem HERRN gehört die Erde und ihre Fülle,
 <blockquote>
 <blockquote>
 der Erdkreis und seine Bewohner;
 </blockquote>
 </blockquote>
-@2denn er hat auf Meeren<sup title="= dem Weltmeer">&#x2732;</sup> sie gegründet
+^2^denn er hat auf Meeren<sup title="= dem Weltmeer">&#x2732;</sup> sie gegründet
 <blockquote>
 <blockquote>
 und über Strömen sie festgestellt.
 </blockquote>
 </blockquote>
-@3Wer darf hinaufgehn zum Berge des HERRN,
+^3^Wer darf hinaufgehn zum Berge des HERRN,
 <blockquote>
 <blockquote>
 wer stehen an seiner heiligen Stätte?
 </blockquote>
 </blockquote>
-@4Wer schuldlos ist an Händen und reinen Herzens,
+^4^Wer schuldlos ist an Händen und reinen Herzens,
 <blockquote>
 <blockquote>
 wer nie den Sinn auf Täuschung richtet,
 und wer nicht betrügerisch schwört:
 </blockquote>
 </blockquote>
-@5der wird Segen empfangen vom HERRN
+^5^der wird Segen empfangen vom HERRN
 <blockquote>
 <blockquote>
 und Gerechtigkeit<sup title="oder: Gerechtsprechung">&#x2732;</sup> vom Gott seines Heils.
 </blockquote>
 </blockquote>
-@6Dies ist das Geschlecht, das nach ihm verlangt,
+^6^Dies ist das Geschlecht, das nach ihm verlangt,
 <blockquote>
 <blockquote>
 die dein Angesicht suchen, Gott Jakobs.<span data-param="f3_19_24_6A" class="fussnote">A</span> SELA.
 </blockquote>
 </blockquote>
-@7Hebt hoch, ihr Tore, eure Häupter
+^7^Hebt hoch, ihr Tore, eure Häupter
 <blockquote>
 <blockquote>
 und öffnet euch weit,<span data-param="f3_19_24_7A" class="fussnote">A</span> ihr uralten Pforten,
 daß der König der Herrlichkeit<sup title="oder: Ehren">&#x2732;</sup> einziehe!
 </blockquote>
 </blockquote>
-@8»Wer ist denn der König der Herrlichkeit<sup title="oder: Ehren">&#x2732;</sup>?«
+^8^»Wer ist denn der König der Herrlichkeit<sup title="oder: Ehren">&#x2732;</sup>?«
 <blockquote>
 <blockquote>
 Der HERR, gar stark und ein Held,
 der HERR, ein Held in der Schlacht!
 </blockquote>
 </blockquote>
-@9Hebt hoch, ihr Tore, eure Häupter
+^9^Hebt hoch, ihr Tore, eure Häupter
 <blockquote>
 <blockquote>
 und öffnet euch weit,<span data-param="f3_19_24_9A" class="fussnote">A</span> ihr uralten Pforten,
 daß der König der Herrlichkeit<sup title="oder: Ehren">&#x2732;</sup> einziehe!
 </blockquote>
 </blockquote>
-@10»Wer ist denn der König der Herrlichkeit<sup title="oder: Ehren">&#x2732;</sup>?«
+^10^»Wer ist denn der König der Herrlichkeit<sup title="oder: Ehren">&#x2732;</sup>?«
 <blockquote>
 <blockquote>
 Der HERR der Heerscharen,
@@ -2095,136 +2095,136 @@ der ist der König der Herrlichkeit<sup title="oder: Ehren">&#x2732;</sup>! SELA
 ### Gebet um Gottes Schutz, um gnädige Leitung und Vergebung der Sünden
 
 # 25
-@1<em>Von David.</em>
+^1^<em>Von David.</em>
 Zu dir, o HERR, erheb’ ich meine Seele,
-@2mein Gott, auf dich vertraue ich:
+^2^mein Gott, auf dich vertraue ich:
 <blockquote>
 <blockquote>
 laß mich nicht enttäuscht werden,
 laß meine Feinde nicht über mich frohlocken!
 </blockquote>
 </blockquote>
-@3Nein, keiner, der auf dich harrt, wird enttäuscht;
+^3^Nein, keiner, der auf dich harrt, wird enttäuscht;
 <blockquote>
 <blockquote>
 enttäuscht wird nur, wer dich treulos verläßt. –
 </blockquote>
 </blockquote>
-@4Tu mir kund, o HERR, deine Wege,
+^4^Tu mir kund, o HERR, deine Wege,
 <blockquote>
 <blockquote>
 deine Pfade lehre mich!
 </blockquote>
 </blockquote>
-@5Laß mich wandeln in deiner Wahrheit<sup title="vgl. 26,3">&#x2732;</sup> und lehre mich,
+^5^Laß mich wandeln in deiner Wahrheit<sup title="vgl. 26,3">&#x2732;</sup> und lehre mich,
 <blockquote>
 <blockquote>
 denn du bist der Gott meines Heils:
 deiner harre ich allezeit. –
 </blockquote>
 </blockquote>
-@6Gedenke der Erweise deines Erbarmens, o HERR,
+^6^Gedenke der Erweise deines Erbarmens, o HERR,
 <blockquote>
 <blockquote>
 und daß deine Gnadenverheiße aus der Urzeit stammen;
 </blockquote>
 </blockquote>
-@7gedenke nicht der Sünden meiner Jugend und meiner Vergehen:
+^7^gedenke nicht der Sünden meiner Jugend und meiner Vergehen:
 <blockquote>
 <blockquote>
 nein, nach deiner Gnade gedenke meiner um deiner Güte willen!
 </blockquote>
 </blockquote>
-@8Gütig und aufrichtig ist der HERR;
+^8^Gütig und aufrichtig ist der HERR;
 <blockquote>
 <blockquote>
 darum weist er den Sündern den rechten Weg,
 </blockquote>
 </blockquote>
-@9läßt Bedrückte wandeln in richtiger Weise
+^9^läßt Bedrückte wandeln in richtiger Weise
 <blockquote>
 <blockquote>
 und lehrt die Dulder seinen Weg.
 </blockquote>
 </blockquote>
-@10Alle Pfade des HERRN sind Gnade und Treue
+^10^Alle Pfade des HERRN sind Gnade und Treue
 <blockquote>
 <blockquote>
 denen, die seinen Bund und seine Gebote halten.
 </blockquote>
 </blockquote>
-@11Um deines Namens willen, o HERR,
+^11^Um deines Namens willen, o HERR,
 <blockquote>
 <blockquote>
 vergib mir meine Schuld, denn sie ist groß! –
 </blockquote>
 </blockquote>
-@12Wie steht’s mit dem Mann, der den HERRN fürchtet?
+^12^Wie steht’s mit dem Mann, der den HERRN fürchtet?
 <blockquote>
 <blockquote>
 Dem zeigt er den Weg, den er wählen soll.
 </blockquote>
 </blockquote>
-@13Er selbst wird wohnen im Glück,
+^13^Er selbst wird wohnen im Glück,
 <blockquote>
 <blockquote>
 und seine Kinder werden das Land besitzen.
 </blockquote>
 </blockquote>
-@14Freundschaft hält der HERR mit denen, die ihn fürchten,
+^14^Freundschaft hält der HERR mit denen, die ihn fürchten,
 <blockquote>
 <blockquote>
 und sein Bund will zur Erkenntnis sie führen. –
 </blockquote>
 </blockquote>
-@15Meine Augen sind stets auf den HERRN gerichtet,
+^15^Meine Augen sind stets auf den HERRN gerichtet,
 <blockquote>
 <blockquote>
 denn er wird meine Füße aus dem Netze ziehn.
 </blockquote>
 </blockquote>
-@16Wende dich mir zu und sei mir gnädig!
+^16^Wende dich mir zu und sei mir gnädig!
 <blockquote>
 <blockquote>
 Denn einsam bin ich und elend.
 </blockquote>
 </blockquote>
-@17Die Ängste meines Herzens sind schwer geworden:
+^17^Die Ängste meines Herzens sind schwer geworden:
 <blockquote>
 <blockquote>
 o führ’ mich heraus aus meinen Nöten!
 </blockquote>
 </blockquote>
-@18Sieh mein Elend an und mein Ungemach
+^18^Sieh mein Elend an und mein Ungemach
 <blockquote>
 <blockquote>
 und vergib mir alle meine Sünden! –
 </blockquote>
 </blockquote>
-@19Sieh meine Feinde an, wie viele ihrer sind
+^19^Sieh meine Feinde an, wie viele ihrer sind
 <blockquote>
 <blockquote>
 und wie sie mich hassen mit frevlem Haß.
 </blockquote>
 </blockquote>
-@20Behüte meine Seele und rette mich,
+^20^Behüte meine Seele und rette mich,
 <blockquote>
 <blockquote>
 nicht enttäuscht laß mich werden: ich traue auf dich!
 </blockquote>
 </blockquote>
-@21Unschuld und Redlichkeit mögen mich behüten,
+^21^Unschuld und Redlichkeit mögen mich behüten,
 <blockquote>
 <blockquote>
 denn ich harre deiner, o HERR! –
 </blockquote>
 </blockquote>
-@22O Gott, erlöse Israel aus allen seinen Nöten!
+^22^O Gott, erlöse Israel aus allen seinen Nöten!
 
 ### Hilferuf eines seiner Unschuld sich bewußten Frommen
 
 # 26
-@1<em>Von David.</em>
+^1^<em>Von David.</em>
 Schaffe mir Recht, o HERR,
 <blockquote>
 <blockquote>
@@ -2232,67 +2232,67 @@ denn ich bin gewandelt in meiner Unschuld
 und habe vertraut auf den HERRN ohne Wanken!
 </blockquote>
 </blockquote>
-@2Prüfe mich, HERR, und erprobe mich:
+^2^Prüfe mich, HERR, und erprobe mich:
 <blockquote>
 <blockquote>
 meine Nieren und mein Herz sind geläutert!<span data-param="f3_19_26_2A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
-@3Denn deine Gnade steht mir vor Augen,
+^3^Denn deine Gnade steht mir vor Augen,
 <blockquote>
 <blockquote>
 und ich wandle in deiner Wahrheit<sup title="oder: in der Treue gegen dich">&#x2732;</sup>.
 </blockquote>
 </blockquote>
-@4Ich sitze nicht bei falschen Menschen
+^4^Ich sitze nicht bei falschen Menschen
 <blockquote>
 <blockquote>
 und verkehre nicht mit hinterlistigen Leuten;
 </blockquote>
 </blockquote>
-@5ich meide die Versammlung der Missetäter
+^5^ich meide die Versammlung der Missetäter
 <blockquote>
 <blockquote>
 und halte mich nicht zu den Gottlosen;
 </blockquote>
 </blockquote>
-@6ich wasche in Unschuld meine Hände
+^6^ich wasche in Unschuld meine Hände
 <blockquote>
 <blockquote>
 und schreite so um deinen Altar, o HERR,
 </blockquote>
 </blockquote>
-@7daß ich laut ein Danklied erschallen lasse
+^7^daß ich laut ein Danklied erschallen lasse
 <blockquote>
 <blockquote>
 und alle deine Wundertaten verkünde.
 </blockquote>
 </blockquote>
-@8O HERR, ich habe lieb die Stätte deines Hauses
+^8^O HERR, ich habe lieb die Stätte deines Hauses
 <blockquote>
 <blockquote>
 und den Ort, wo deine Herrlichkeit wohnt.
 </blockquote>
 </blockquote>
-@9Raffe nicht weg meine Seele mit den (Seelen der) Sünder,
+^9^Raffe nicht weg meine Seele mit den (Seelen der) Sünder,
 <blockquote>
 <blockquote>
 noch mein Leben mit dem der Mordgesellen,
 </blockquote>
 </blockquote>
-@10an deren Händen Verbrechen kleben
+^10^an deren Händen Verbrechen kleben
 <blockquote>
 <blockquote>
 und deren Rechte gefüllt ist mit Bestechung!
 </blockquote>
 </blockquote>
-@11Ich aber wandle in meiner Unschuld:
+^11^Ich aber wandle in meiner Unschuld:
 <blockquote>
 <blockquote>
 erlöse mich, HERR, und sei mir gnädig!
 </blockquote>
 </blockquote>
-@12Mein Fuß steht fest auf ebenem Plan<sup title="oder: auf ebener Bahn">&#x2732;</sup>:
+^12^Mein Fuß steht fest auf ebenem Plan<sup title="oder: auf ebener Bahn">&#x2732;</sup>:
 <blockquote>
 <blockquote>
 in Versammlungen will ich preisen den HERRN.
@@ -2302,7 +2302,7 @@ in Versammlungen will ich preisen den HERRN.
 ### Freudige Zuversicht auf den Herrn und Bitte um seinen weiteren Schutz
 
 # 27
-@1<em>Von David.</em>
+^1^<em>Von David.</em>
 Der HERR ist mein Licht und mein Heil:
 <blockquote>
 <blockquote>
@@ -2311,7 +2311,7 @@ Der HERR ist meines Lebens Schutzwehr:
 vor wem sollte mir bangen?
 </blockquote>
 </blockquote>
-@2Wenn Übeltäter gegen mich anstürmen,
+^2^Wenn Übeltäter gegen mich anstürmen,
 <blockquote>
 <blockquote>
 mich zu zerfleischen<sup title="oder: zu verschlingen">&#x2732;</sup>,
@@ -2319,7 +2319,7 @@ meine Widersacher und Feinde:
 sie straucheln und fallen.
 </blockquote>
 </blockquote>
-@3Mag ein Heer sich gegen mich lagern:
+^3^Mag ein Heer sich gegen mich lagern:
 <blockquote>
 <blockquote>
 mein Herz ist ohne Furcht;
@@ -2327,7 +2327,7 @@ mag Krieg sich gegen mich erheben:
 trotzdem bleib’ ich getrost.
 </blockquote>
 </blockquote>
-@4Nur eines erbitt’ ich vom HERRN,
+^4^Nur eines erbitt’ ich vom HERRN,
 <blockquote>
 <blockquote>
 danach trag’ ich Verlangen:
@@ -2337,7 +2337,7 @@ um anzuschauen die Huld des HERRN
 und der Andacht mich hinzugeben in seinem Tempel.
 </blockquote>
 </blockquote>
-@5Denn er birgt mich in seiner Hütte
+^5^Denn er birgt mich in seiner Hütte
 <blockquote>
 <blockquote>
 am Tage des Unheils,
@@ -2345,7 +2345,7 @@ beschirmt mich im Schirm seines Zeltes,
 hebt hoch mich auf einen Felsen empor.
 </blockquote>
 </blockquote>
-@6So wird sich denn mein Haupt erheben
+^6^So wird sich denn mein Haupt erheben
 <blockquote>
 <blockquote>
 über meine Feinde rings um mich her;
@@ -2354,20 +2354,20 @@ Schlachtopfer mit Jubelschall,
 will singen und spielen dem HERRN!
 </blockquote>
 </blockquote>
-@7Höre mich, HERR, laut ruf’ ich zu dir!
+^7^Höre mich, HERR, laut ruf’ ich zu dir!
 <blockquote>
 <blockquote>
 Ach sei mir gnädig, erhöre mich!
 </blockquote>
 </blockquote>
-@8Mein Herz hält dein Gebot dir vor:
+^8^Mein Herz hält dein Gebot dir vor:
 <blockquote>
 <blockquote>
 »Ihr sollt mein Angesicht suchen!«
 Darum suche ich, o HERR, dein Angesicht.
 </blockquote>
 </blockquote>
-@9Verbirg dein Angesicht nicht vor mir,
+^9^Verbirg dein Angesicht nicht vor mir,
 <blockquote>
 <blockquote>
 weise nicht ab deinen Knecht im Zorn!
@@ -2375,33 +2375,33 @@ Du bist meine Hilfe gewesen: verwirf mich nicht
 und verlaß mich nicht, du Gott meines Heils!
 </blockquote>
 </blockquote>
-@10Wenn Vater und Mutter mich verlassen,
+^10^Wenn Vater und Mutter mich verlassen,
 <blockquote>
 <blockquote>
 so nimmt doch der HERR mich auf.
 </blockquote>
 </blockquote>
-@11Lehre mich, HERR, deinen Weg
+^11^Lehre mich, HERR, deinen Weg
 <blockquote>
 <blockquote>
 und führe mich auf ebener Bahn
 um meiner Feinde willen!
 </blockquote>
 </blockquote>
-@12Gib mich nicht preis der Gier meiner Dränger!
+^12^Gib mich nicht preis der Gier meiner Dränger!
 <blockquote>
 <blockquote>
 Denn Lügenzeugen sind gegen mich aufgetreten
 und schnauben Gewalttat (gegen mich).
 </blockquote>
 </blockquote>
-@13Gott Lob! Ich bin gewiß, die Güte des HERRN
+^13^Gott Lob! Ich bin gewiß, die Güte des HERRN
 <blockquote>
 <blockquote>
 zu schauen im Lande der Lebenden.
 </blockquote>
 </blockquote>
-@14Harre des HERRN, sei getrost,
+^14^Harre des HERRN, sei getrost,
 <blockquote>
 <blockquote>
 und dein Herz sei unverzagt! Ja, harre des HERRN!
@@ -2411,7 +2411,7 @@ und dein Herz sei unverzagt! Ja, harre des HERRN!
 ### Gebet und Hilfe gegen gottlose Feinde und Dank für die Erhörung
 
 # 28
-@1<em>Von David.</em>
+^1^<em>Von David.</em>
 Zu dir, HERR, rufe ich:
 <blockquote>
 <blockquote>
@@ -2420,13 +2420,13 @@ auf daß nicht, wenn du mir stumm bleibst,
 ich den ins Grab<sup title="oder: in die Unterwelt">&#x2732;</sup> Gesunknen gleiche.
 </blockquote>
 </blockquote>
-@2Höre mein lautes Flehen, wenn ich zu dir schreie,
+^2^Höre mein lautes Flehen, wenn ich zu dir schreie,
 <blockquote>
 <blockquote>
 wenn ich meine Hände erhebe nach deinem Allerheiligsten!
 </blockquote>
 </blockquote>
-@3Raffe mich nicht weg mit den Frevlern
+^3^Raffe mich nicht weg mit den Frevlern
 <blockquote>
 <blockquote>
 und den Übeltätern,
@@ -2434,7 +2434,7 @@ die freundlich reden mit ihren Nächsten
 und dabei Arges im Herzen sinnen!
 </blockquote>
 </blockquote>
-@4Vergilt du ihnen nach ihrem Tun,
+^4^Vergilt du ihnen nach ihrem Tun,
 <blockquote>
 <blockquote>
 nach der Bosheit ihrer Handlungen,
@@ -2442,13 +2442,13 @@ vergilt ihnen nach dem Werk ihrer Hände,
 zahl’ ihnen ihr Verhalten heim, wie sie’s verdienen!
 </blockquote>
 </blockquote>
-@5Denn sie achten nicht auf das Walten des HERRN und das Werk seiner Hände;
+^5^Denn sie achten nicht auf das Walten des HERRN und das Werk seiner Hände;
 <blockquote>
 <blockquote>
 drum wird er sie niederreißen und nicht wieder aufbaun.
 </blockquote>
 </blockquote>
-@6Gepriesen sei der HERR, denn er hat gehört
+^6^Gepriesen sei der HERR, denn er hat gehört
 <blockquote>
 <blockquote>
 meinen lauten Hilferuf!

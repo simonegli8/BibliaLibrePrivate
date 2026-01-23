@@ -1,4 +1,3 @@
-//!verse-paragraphs
 # 1 
 ## Las dos formas de vida
 @1 Bienaventurado el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado; 

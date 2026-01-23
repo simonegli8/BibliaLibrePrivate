@@ -28,5 +28,6 @@ Program.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚ][A-ZÑÓÍÉÁ
         str.Append("]{.smallcaps}");
         return str.ToString();
     });
+Program.EachVerseOnNewLine = true;
 
 Program.Log("Added epub rule.");
