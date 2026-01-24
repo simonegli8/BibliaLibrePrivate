@@ -2,7 +2,7 @@
 <XMLBIBLE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zef2005.xsd" version="2.0.1.18" revision="2" status="v" biblename="Luther 1912" type="x-bible">
   <INFORMATION>
     <format>Zefania XML Bible Markup Language</format>
-    <date>2020-04-29</date>
+    <date>2022-02-27</date>
     <title>Luther 1912</title>
     <creator>www.toledot.info</creator>
     <subject>Die Heilige Schrift</subject>
@@ -200,7 +200,7 @@
       <VERS vnumber="8">Von dem reinen Vieh und von dem unreinen, von den Vögeln und von allem Gewürm auf Erden</VERS>
       <VERS vnumber="9">gingen zu ihm in den Kasten paarweise, je ein Männlein und Weiblein, wie ihm Gott geboten hatte.</VERS>
       <VERS vnumber="10">Und da die sieben Tage vergangen waren, kam das Gewässer der Sintflut auf Erden.</VERS>
-      <VERS vnumber="11">In dem 601. Jahr des Alters Noahs, am 17. Tage des zweiten Monats, das ist der Tag, da aufbrachen alle Brunnen der großen Tiefe, und taten sich auf die Fenster des Himmels,</VERS>
+      <VERS vnumber="11">In dem 600. Jahr des Alters Noahs, am 17. Tage des zweiten Monats, das ist der Tag, da aufbrachen alle Brunnen der großen Tiefe, und taten sich auf die Fenster des Himmels,</VERS>
       <VERS vnumber="12">und kam ein Regen auf Erden 40 Tage und 40 Nächte.</VERS>
       <VERS vnumber="13">Eben am selben Tage ging Noah in den Kasten mit Sem, Ham und Japheth, seinen Söhnen, und mit seinem Weibe und seiner Söhne drei Weibern,</VERS>
       <VERS vnumber="14">dazu allerlei Getier nach seiner Art, allerlei Vieh nach seiner Art, allerlei Gewürm, das auf Erden kriecht, nach seiner Art und allerlei Vögel nach ihrer Art, alles was fliegen konnte, alles, was Fittiche hatte;</VERS>
@@ -13607,7 +13607,7 @@
       <VERS vnumber="31">und für die Opfergaben an Holz zu bestimmten Zeiten und für die Erstlinge. Gedenke meiner, mein Gott, im Besten!</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bname="Esther" bnumber="17">
+  <BIBLEBOOK bname="Ester" bnumber="17">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Zu den Zeiten des Ahasveros (der da König war von Indien bis an Mohrenland über 127 Länder)</VERS>
       <VERS vnumber="2">und da er auf seinem königlichen Stuhl saß zu Schloss Susan,</VERS>
@@ -19009,7 +19009,7 @@
       <VERS vnumber="14">Denn Gott wird alle Werke vor Gericht bringen, alles, was verborgen ist, es sei gut oder böse.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bname="Hoheslied" bnumber="22">
+  <BIBLEBOOK bname="Hohelied" bnumber="22">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Das Hohelied Salomos.</VERS>
       <VERS vnumber="2">Er küsse mich mit dem Kusse seines Mundes; denn deine Liebe ist lieblicher als Wein.</VERS>
