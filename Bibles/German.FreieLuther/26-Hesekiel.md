@@ -632,7 +632,7 @@
 @44 Denn man geht zu ihr ein, wie man zu einer Hure eingeht; ebenso geht man zu Ohola und Oholiba, den unzüchtigen Frauen.
 @45 Darum werden sie die Männer strafen, die das Recht vollbringen, wie man die Ehebrecherinnen und Blutvergießerinnen strafen soll. Denn sie sind Ehebrecherinnen, und ihre Hände sind voll Blut.
 @46 Also spricht der Herr HErr: Führe einen großen Haufen über sie herauf und gib sie zu Raub und Beute,
-@47 dass die Leute sie steinigen und mit ihren Schwertern erstechen und ihre Söhne und Töchter erwürgen und ihre Häuser mit Feuer verbrennen.
+@47 dass die Leute sie steinigen und mit ihren Schwertern erstechen und ihre Söhne und Töchter töten und ihre Häuser mit Feuer verbrennen.
 @48 Also will ich der Unzucht im Lande ein Ende machen, dass alle Frauen sich warnen lassen und nicht nach solcher Unzucht tun.
 @49 Und man soll eure Unzucht auf euch legen, und ihr sollt eurer Götzen Sünden tragen, auf dass ihr erfahret, dass ich der Herr HErr bin.
 
@@ -690,12 +690,12 @@
 @3 darum spricht der Herr HErr also: Siehe, ich will an dich, Tyrus, und will viele Heiden über dich heraufbringen, gleich wie sich ein Meer erhebt mit seinen Wellen.
 @4 Die sollen die Mauern zu Tyrus verderben und ihre Türme abbrechen; ja ich will auch ihren Staub von ihr wegfegen und will einen bloßen Fels aus ihr machen
 @5 und einen Ort am Meer, darauf man die Fischgarne aufspannt; denn ich habe es geredet, spricht der Herr HErr, und sie soll den Heiden zum Raub werden.
-@6 Und ihre Töchter, die auf dem Felde liegen, sollen durchs Schwert erwürgt werden und sollen erfahren, dass ich der HErr bin.
+@6 Und ihre Töchter, die auf dem Felde liegen, sollen durchs Schwert getötet werden und sollen erfahren, dass ich der HErr bin.
 @7 Denn so spricht der Herr HErr: Siehe, ich will über Tyrus kommen lassen Nebukadnezar, den König zu Babel, von Mitternacht her, der ein König aller Könige ist, mit Rossen, Wagen, Reitern und mit großem Haufen Volks.
-@8 Der soll deine Töchter, die auf dem Felde liegen, mit dem Schwert erwürgen; aber wider dich wird er Bollwerke aufschlagen und einen Wall aufschütten und Schilde wider dich rüsten.
+@8 Der soll deine Töchter, die auf dem Felde liegen, mit dem Schwert töten; aber wider dich wird er Bollwerke aufschlagen und einen Wall aufschütten und Schilde wider dich rüsten.
 @9 Er wird mit Sturmböcken deine Mauern zerstoßen und deine Türme mit seinen Werkzeugen umreißen.
 @10 Der Staub von der Menge seiner Pferde wird dich bedecken; so werden auch deine Mauern erbeben vor dem Getümmel seiner Rosse, Räder und Reiter, wenn er zu deinen Toren einziehen wird, wie man pflegt in eine zerrissene Stadt einzuziehen.
-@11 Er wird mit den Füßen seiner Rosse alle deine Gassen zertreten. Dein Volk wird er mit dem Schwert erwürgen und deine starken Säulen zu Boden reißen.
+@11 Er wird mit den Füßen seiner Rosse alle deine Gassen zertreten. Dein Volk wird er mit dem Schwert töten und deine starken Säulen zu Boden reißen.
 @12 Sie werden dein Gut rauben und deinen Handel plündern. Deine Mauern werden sie abbrechen und deine feinen Häuser umreißen und werden deine Steine, Holz und Staub ins Wasser werfen.
 @13 Also will ich mit dem Getön deines Gesanges ein Ende machen, dass man den Klang deiner Harfen nicht mehr hören soll.
 @14 Und ich will einen bloßen Fels aus dir machen und einen Ort, darauf man die Fischgarne aufspannt, dass du nicht mehr gebaut werdest; denn ich bin der HErr, der solches redet, spricht der Herr HErr.

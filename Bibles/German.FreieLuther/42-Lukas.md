@@ -26,7 +26,7 @@
 @25 Also hat mir der Herr getan in den Tagen, da er mich angesehen hat, dass er meine Schmach unter den Menschen von mir nähme.
 @26 Und im sechsten Monat ward der Engel Gabriel gesandt von Gott in eine Stadt in Galiläa, die heißt Nazareth,
 @27 zu einer Jungfrau, die vertraut war einem Manne mit Namen Joseph, vom Hause David; und die Jungfrau hieß Maria.
-@28 Und der Engel kam zu ihr hinein und sprach: Gegrüßet seist du, Holdselige! Der Herr ist mit dir, du Gebenedeite unter den Frauen!
+@28 Und der Engel kam zu ihr hinein und sprach: Gegrüßet seist du, Holdselige! Der Herr ist mit dir, du gesegnete unter den Frauen!
 @29 Da sie aber ihn sah, erschrak sie über seine Rede und gedachte: Welch ein Gruß ist das?
 @30 Und der Engel sprach zu ihr: Fürchte dich nicht, Maria! du hast Gnade bei Gott gefunden.
 @31 Siehe, du wirst schwanger werden und einen Sohn gebären, des Namen sollst du Jesus heißen.
@@ -40,7 +40,7 @@
 @39 Maria aber stand auf in den Tagen und ging auf das Gebirge eilends zu der Stadt Judas
 @40 und kam in das Haus des Zacharias und grüßte Elisabeth.
 @41 Und es begab sich, als Elisabeth den Gruß Marias hörte, hüpfte das Kind in ihrem Leibe. Und Elisabeth ward des heiligen Geistes voll
-@42 und rief laut und sprach: Gebenedeit bist du unter den Frauen, und gebenedeit ist die Frucht deines Leibes!
+@42 und rief laut und sprach: Gesegnet bist du unter den Frauen, und gesegnet ist die Frucht deines Leibes!
 @43 Und woher kommt mir das, dass die Mutter meines Herrn zu mir kommt?
 @44 Siehe, da ich die Stimme deines Grußes hörte, hüpfte mit Freuden das Kind in meinem Leibe.
 @45 Und o selig bist du, die du geglaubt hast! denn es wird vollendet werden, was dir gesagt ist von dem Herrn.
@@ -899,7 +899,7 @@
 @24 Und er sprach zu denen, die dabeistanden: Nehmet das Pfund von ihm und gebet es dem, der zehn Pfund hat.
 @25 Und sie sprachen zu ihm: Herr, hat er doch zehn Pfund.
 @26 Ich sage euch aber: Wer da hat, dem wird gegeben werden; von dem aber, der nicht hat, wird auch das genommen werden, was er hat.
-@27 Doch jene meine Feinde, die nicht wollten, dass ich über sie herrschen sollte, bringet her und erwürget sie vor mir.
+@27 Doch jene meine Feinde, die nicht wollten, dass ich über sie herrschen sollte, bringet her und tötet sie vor mir.
 @28 Und als er solches sagte, zog er fort und reiste hinauf gen Jerusalem.
 @29 Uns es begab sich, als er nahte gen Bethphage und Bethanien und kam an den Ölberg, sandte er seiner Jünger zwei
 @30 und sprach: Gehet hin in den Markt, der gegenüberliegt. Und wenn ihr hineinkommt, werdet ihr ein Füllen angebunden finden, auf welchem noch nie ein Mensch gesessen hat; löset es ab und bringet es!

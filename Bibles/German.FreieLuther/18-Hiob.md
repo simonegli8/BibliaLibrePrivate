@@ -90,7 +90,7 @@
 
 # 5
 @1 Rufe doch! was gilts, ob einer dir antworte? Und an welchen von den Heiligen willst du dich wenden?
-@2 Einen Toren aber erwürgt wohl der Unmut, und den Unverständigen tötet der Eifer.
+@2 Einen Toren aber tötet wohl der Unmut, und den Unverständigen tötet der Eifer.
 @3 Ich sah einen Toren eingewurzelt, und ich fluchte plötzlich seinem Hause.
 @4 Seine Kinder werden fern sein vom Heil und werden zerschlagen werden im Tor, da kein Erretter sein wird.
 @5 Seine Ernte wird essen der Hungrige und auch aus den Hecken sie holen, und sein Gut werden die Durstigen aussaufen.
@@ -321,7 +321,7 @@
 @12 Eure Denksprüche sind Aschensprüche eure Bollwerke werden wie Lehmhaufen sein.
 @13 Schweiget mir, dass ich rede, es komme über mich, was da will.
 @14 Was soll ich mein Fleisch mit meinen Zähnen davontragen und meine Seele in meine Hände legen?
-@15 Siehe, er wird mich doch erwürgen, und ich habe nichts zu hoffen; doch will ich meine Wege vor ihm verantworten.
+@15 Siehe, er wird mich doch töten, und ich habe nichts zu hoffen; doch will ich meine Wege vor ihm verantworten.
 @16 Er wird ja mein Heil sein; denn es kommt kein Heuchler vor ihn.
 @17 Höret meine Rede, und meine Auslegung gehe ein zu euren Ohren.
 @18 Siehe, ich bin zum Rechtsstreit gerüstet; ich weiß, dass ich recht behalten werde.
@@ -625,7 +625,7 @@
 @11 Sie zwingen sie, Öl zu machen auf ihrer Mühle und ihre Kelter zu treten, und lassen sie doch Durst leiden.
 @12 Sie machen die Leute in der Stadt seufzend und die Seele der Erschlagenen schreiend, und Gott stürzt sie nicht.
 @13 Jene sind abtrünnig geworden vom Licht und kennen seinen Weg nicht und kehren nicht wieder zu seiner Straße.
-@14 Wenn der Tag anbricht, steht auf der Mörder und erwürgt den Armen und Dürftigen; und des Nachts ist er wie ein Dieb.
+@14 Wenn der Tag anbricht, steht auf der Mörder und tötet den Armen und Dürftigen; und des Nachts ist er wie ein Dieb.
 @15 Das Auge des Ehebrechers hat Acht auf das Dunkel, und er spricht: „Mich sieht kein Auge“, und verdeckt sein Antlitz.
 @16 Im Finstern bricht man in die Häuser ein; des Tages verbergen sie sich miteinander und scheuen das Licht.
 @17 Denn wie wenn der Morgen käme, ist ihnen allen die Finsternis; denn sie sind bekannt mit den Schrecken der Finsternis.
@@ -1100,7 +1100,7 @@
 @26 Kannst du ihm eine Angel in die Nase legen und mit einem Stachel ihm die Backen durchbohren?
 @27 Meinst du, er werde dir viel Flehens machen oder dir heucheln?
 @28 Meinst du, dass er einen Bund mit dir machen werde, dass du ihn immer zum Knecht habest?
-@29 Kannst du mit ihm spielen wie mit einem Vogel oder ihn für deine Dirnen anbinden?
+@29 Kannst du mit ihm spielen wie mit einem Vogel oder ihn für deine Mägde anbinden?
 @30 Meinst du, die Genossen werden ihn zerschneiden, dass er unter die Kaufleute zerteilt wird?
 @31 Kannst du mit Spießen füllen seine Haut und mit Fischerhaken seinen Kopf?
 @32 Wenn du deine Hand an ihn legst, so gedenke, dass es ein Streit ist, den du nicht ausführen wirst.

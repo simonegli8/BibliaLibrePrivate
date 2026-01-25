@@ -133,7 +133,7 @@
 @5 Er fährt fort mit seinem Tun immerdar; deine Gerichte sind ferne von ihm; er handelt trotzig mit allen seinen Feinden.
 @6 Er spricht in seinem Herzen: Ich werde nimmermehr darniederliegen; es wird für und für keine Not haben.
 @7 Sein Mund ist voll Fluchens, Falschheit und Trugs; seine Zunge richtet Mühe und Arbeit an.
-@8 Er sitzt und lauert in den Dörfern; er erwürgt die Unschuldigen heimlich; seine Augen spähen nach dem Armen.
+@8 Er sitzt und lauert in den Dörfern; er tötet die Unschuldigen heimlich; seine Augen spähen nach dem Armen.
 @9 Er lauert im Verborgenen wie ein Löwe in der Höhle; er lauert, dass er den Elenden erhasche, und er haschet ihn, wenn er ihn in sein Netz zieht.
 @10 Er zerschlägt und drückt nieder und stößt zu Boden den Armen mit Gewalt.
 @11 Er spricht in seinem Herzen: Gott hat's vergessen; er hat sein Antlitz verborgen, er wird's nimmermehr sehen.
@@ -762,7 +762,7 @@
 @20 dass du uns so zerschlägst am Ort der Schakale und bedeckst uns mit Finsternis.
 @21 Wenn wir des Namens unseres Gottes vergessen hätten und unsere Hände aufgehoben zum fremden Gott,
 @22 würde das Gott nicht finden? Er kennt ja unseres Herzens Grund.
-@23 Denn wir werden ja um deinetwillen täglich erwürgt und sind geachtet wie Schlachtschafe.
+@23 Denn wir werden ja um deinetwillen täglich getötet und sind geachtet wie Schlachtschafe.
 @24 Erwecke dich, HErr! Warum schläfst Du? Wache auf und verstoße uns nicht so gar!
 @25 Warum verbirgst du dein Antlitz, vergissest unseres Elends und unserer Drangsal?
 @26 Denn unsere Seele ist gebeugt zur Erde; unser Leib klebt am Erdboden.
@@ -1056,7 +1056,7 @@
 @1 Ein Psalm Davids für Jeduthun, vorzusingen.
 @2 Meine Seele ist stille zu Gott, der mir hilft.
 @3 Denn er ist mein Hort, meine Hilfe, meine Schutz, dass mich kein Fall stürzen wird, wie groß er ist.
-@4 Wie lange stellet ihr alle einem nach, dass ihr ihn erwürget – als eine hangende Wand und zerrissene Mauer?
+@4 Wie lange stellet ihr alle einem nach, dass ihr ihn tötet – als eine hangende Wand und zerrissene Mauer?
 @5 Sie denken nur, wie sie ihn dämpfen, fleißigen sich der Lüge; geben gute Worte, aber im Herzen fluchen sie. (Sela.)
 @6 Aber sei nur stille zu Gott, meine Seele; denn er ist meine Hoffnung.
 @7 Er ist mein Hort, meine Hilfe und mein Schutz, dass ich nicht fallen werde.
@@ -1412,10 +1412,10 @@
 @28 und ließ sie fallen unter ihr Lager allenthalben, da sie wohnten.
 @29 Da aßen sie und wurden allzu satt; er ließ sie ihre Lust büßen.
 @30 Da sie nun ihre Lust gebüßt hatten und noch davon aßen,
-@31 da kam der Zorn Gottes über sie und erwürgte die Vornehmsten unter ihnen und schlug darnieder die Besten in Israel.
+@31 da kam der Zorn Gottes über sie und tötete die Vornehmsten unter ihnen und schlug darnieder die Besten in Israel.
 @32 Aber über das alles sündigten sie noch mehr und glaubten nicht an seine Wunder.
 @33 Darum ließ er sie dahinsterben, dass sie nichts erlangten und mussten ihr Leben lang geplagt sein.
-@34 Wenn er sie erwürgte, suchten sie ihn und kehrten sich zu Gott
+@34 Wenn er sie tötete, suchten sie ihn und kehrten sich zu Gott
 @35 und gedachten, dass Gott ihr Hort ist und Gott der Höchste ihr Erlöser ist,
 @36 und heuchelten ihm mit ihrem Munde und logen ihm mit ihrer Zunge;
 @37 aber ihr Herz war nicht fest an ihm, und hielten nicht treulich an seinem Bund.
@@ -1745,7 +1745,7 @@
 @3 HErr, wie lange sollen die Gottlosen, wie lange sollen die Gottlosen prahlen
 @4 und so trotzig reden, und alle Übeltäter sich so rühmen?
 @5 HErr, sie zerschlagen dein Volk und plagen dein Erbe;
-@6 Witwen und Fremdlinge erwürgen sie und töten die Waisen
+@6 Witwen und Fremdlinge töten sie und töten die Waisen
 @7 und sagen: „Der HErr siehet's nicht, und der Gott Jakobs achtet's nicht.“
 @8 Merket doch, ihr Narren unter dem Volk! Und ihr Toren, wann wollt ihr klug werden?
 @9 Der das Ohr gepflanzt hat, sollte der nicht hören? Der das Auge gemacht hat, sollte der nicht sehen?
@@ -2608,7 +2608,7 @@
 @15 der Pharao und sein Heer ins Schilfmeer stieß – denn seine Güte währet ewiglich –;
 @16 der sein Volk führte durch die Wüste – denn seine Güte währet ewiglich –;
 @17 der große Könige schlug – denn seine Güte währet ewiglich –
-@18 und erwürgte mächtige Könige – denn seine Güte währet ewiglich –:
+@18 und tötete mächtige Könige – denn seine Güte währet ewiglich –:
 @19 Sihon, der Amoriter König – denn seine Güte währet ewiglich –
 @20 und Og, den König von Basan – denn seine Güte währet ewiglich –,
 @21 und gab ihr Land zum Erbe – denn seine Güte währet ewiglich –,

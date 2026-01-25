@@ -255,7 +255,7 @@
 @25 und erwählte viel lieber, mit dem Volk Gottes Ungemach zu leiden, denn die zeitliche Ergötzung der Sünde zu haben,
 @26 und achtete die Schmach Christi für größeren Reichtum denn die Schätze Ägyptens; denn er sah an die Belohnung.
 @27 Durch den Glauben verließ er Ägypten und fürchtete nicht des Königs Grimm; denn er hielt sich an den, den er nicht sah, als sähe er ihn.
-@28 Durch den Glauben hielt er Ostern und das Blutgießen, auf dass, der die Erstgeburten erwürgte, sie nicht träfe.
+@28 Durch den Glauben hielt er Ostern und das Blutgießen, auf dass, der die Erstgeburten tötete, sie nicht träfe.
 @29 Durch den Glauben gingen sie durchs Rote Meer wie durch trockenes Land; was die Ägypter auch versuchten, und ersoffen.
 @30 Durch den Glauben fielen die Mauern Jerichos, da sie sieben Tage um sie herumgegangen waren.
 @31 Durch den Glauben ward die Hure Rahab nicht verloren mit den Ungläubigen, da sie die Kundschafter freundlich aufnahm.

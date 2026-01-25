@@ -398,7 +398,7 @@
 # 15
 @1 Und der HErr sprach zu mir: Und wenngleich Mose und Samuel vor mir stünden, so habe ich doch kein Herz zu diesem Volk; treibe sie weg von mir und lass sie hinfahren!
 @2 Und wenn sie zu dir sagen: Wo sollen wir hin? so sprich zu ihnen: So spricht der HErr: Wen der Tod trifft, den treffe er; wen das Schwert trifft, den treffe es; wen der Hunger trifft, den treffe er; wen das Gefängnis trifft, den treffe es.
-@3 Denn ich will sie heimsuchen mit vielerlei Plagen, spricht der HErr: mit dem Schwert, dass sie erwürgt werden; mit Hunden, die sie schleifen sollen; mit den Vögeln des Himmels und mit Tieren auf Erden, dass sie gefressen und vertilgt werden sollen.
+@3 Denn ich will sie heimsuchen mit vielerlei Plagen, spricht der HErr: mit dem Schwert, dass sie getötet werden; mit Hunden, die sie schleifen sollen; mit den Vögeln des Himmels und mit Tieren auf Erden, dass sie gefressen und vertilgt werden sollen.
 @4 Und ich will sie in allen Königreichen auf Erden hin und her treiben lassen um Manasses willen, des Sohnes Hiskias, des Königs in Juda, um deswillen, was er zu Jerusalem begangen hat.
 @5 Wer will denn sich dein erbarmen, Jerusalem? Wer wird denn Mitleiden mit dir haben? Wer wird denn hingehen und dir Frieden wünschen?
 @6 Du hast mich verlassen, spricht der HErr, und bist von mir abgefallen; darum habe ich meine Hand ausgestreckt wider dich, dass ich dich verderben will; ich bin des Erbarmens müde.
@@ -491,7 +491,7 @@
 @18 Aber sie sprechen: Kommt und lasst uns wider Jeremia ratschlagen; denn die Priester können nicht irren im Gesetz, und die Weisen können nicht fehlen mit Raten, und die Propheten können nicht unrecht lehren! Kommt her, lasst uns ihn mit der Zunge totschlagen und nichts geben auf alle seine Rede!
 @19 HErr, habe Acht auf mich und höre die Stimme meiner Widersacher!
 @20 Ist's recht, dass man Gutes mit Bösem vergilt? Denn sie haben meiner Seele eine Grube gegraben. Gedenke doch, wie ich vor dir gestanden bin, dass ich ihr Bestes redete und deinen Grimm von ihnen wendete.
-@21 So strafe nun ihre Kinder mit Hunger und lass sie ins Schwert fallen, dass ihre Frauen ohne Kinder und Witwen seien und ihre Männer zu Tode geschlagen und ihre junge Mannschaft im Streit durchs Schwert erwürgt werde;
+@21 So strafe nun ihre Kinder mit Hunger und lass sie ins Schwert fallen, dass ihre Frauen ohne Kinder und Witwen seien und ihre Männer zu Tode geschlagen und ihre junge Mannschaft im Streit durchs Schwert getötet werde;
 @22 dass ein Geschrei aus ihren Häusern gehört werde, wie du plötzlich habest Kriegsvolk über sie kommen lassen. Denn sie haben eine Grube gegraben, mich zu fangen, und meinen Füßen Stricke gelegt.
 @23 Und weil du, HErr, weißt alle ihre Anschläge wider mich, dass sie mich töten wollen, so vergib ihnen ihre Missetat nicht und lass ihre Sünde vor dir nicht ausgetilgt werden. Lass sie vor dir gestürzt werden und handle mit ihnen nach deinem Zorn.
 
@@ -1440,7 +1440,7 @@
 @7 Da brach man in die Stadt; und alle Kriegsleute gaben die Flucht und zogen zur Stadt hinaus bei der Nacht auf dem Wege durch das Tor zwischen den zwei Mauern, der zum Garten des Königs geht. Aber die Chaldäer lagen um die Stadt her.
 @8 Und da diese zogen des Weges zum blachen Feld, jagte der Chaldäer Heer dem König nach und ergriffen Zedekia in dem Felde bei Jericho; da zerstreute sich all sein Heer von ihm.
 @9 Und sie fingen den König und brachten ihn hinauf zum König zu Babel gen Ribla, das im Lande Hamath liegt; der sprach ein Urteil über ihn.
-@10 Allda ließ der König zu Babel die Söhne Zedekias vor seinen Augen erwürgen und erwürgte alle Fürsten Judas zu Ribla.
+@10 Allda ließ der König zu Babel die Söhne Zedekias vor seinen Augen töten und tötete alle Fürsten Judas zu Ribla.
 @11 Aber Zedekia ließ er die Augen ausstechen und ließ ihn mit zwei Ketten binden, und führte ihn also der König zu Babel gen Babel und legte ihn ins Gefängnis, bis dass er starb.
 @12 Am zehnten Tage des fünften Monats, welches ist das neunzehnte Jahr Nebukadnezars, des Königs zu Babel, kam Nebusaradan, der Hauptmann der Trabanten, der stets um den König zu Babel war, gen Jerusalem
 @13 und verbrannte des HErrn Haus und des Königs Haus und alle Häuser zu Jerusalem; alle großen Häuser verbrannte er mit Feuer.

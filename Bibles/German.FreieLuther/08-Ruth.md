@@ -27,10 +27,10 @@
 @2 Und Ruth, die Moabitin, sprach zu Naemi: Lass mich aufs Feld gehen und Ähren auflesen dem nach, vor dem ich Gnade finde. Sie aber sprach zu ihr: Gehe hin, meine Tochter.
 @3 Sie ging hin, kam und las auf, den Schnittern nach, auf dem Felde. Und es begab sich eben, dass dasselbe Feld war des Boas, der von dem Geschlecht Elimelechs war.
 @4 Und siehe, Boas kam eben von Bethlehem und sprach zu den Schnittern: Der HErr mit euch! Sie antworteten: Der HErr segne dich!
-@5 Und Boas sprach zu seinem Knechte, der über die Schnitter gestellt war: Wes ist die Dirne?
-@6 Der Knecht, der über die Schnitter gestellt war, antwortete und sprach: Es ist die Dirne, die Moabitin, die mit Naemi wiedergekommen ist von der Moabiter Lande.
+@5 Und Boas sprach zu seinem Knechte, der über die Schnitter gestellt war: Wes ist die junge Frau?
+@6 Der Knecht, der über die Schnitter gestellt war, antwortete und sprach: Es ist die junge Frau, die Moabitin, die mit Naemi wiedergekommen ist von der Moabiter Lande.
 @7 Denn sie sprach: Lass mich doch auflesen und sammeln unter den Garben, den Schnittern nach; und ist also gekommen und dagestanden vom Morgen an bis her und bleibt wenig daheim.
-@8 Da sprach Boas zu Ruth: Hörst du es, meine Tochter? Du sollst nicht gehen auf einen anderen Acker, aufzulesen, und gehe auch nicht von hinnen, sondern halte dich zu meinen Dirnen.
+@8 Da sprach Boas zu Ruth: Hörst du es, meine Tochter? Du sollst nicht gehen auf einen anderen Acker, aufzulesen, und gehe auch nicht von hinnen, sondern halte dich zu meinen Mägden.
 @9 Und siehe, wo sie schneiden im Felde, da gehe ihnen nach. Ich habe meinen Knechten geboten, dass dich niemand antaste. Und so dich dürstet, so gehe hin zu dem Gefäß und trinke von dem, was meine Knechte schöpfen.
 @10 Da fiel sie auf ihr Angesicht und beugte sich nieder zur Erde und sprach zu ihm: Womit habe ich die Gnade gefunden vor deinen Augen, dass du mich ansiehst, die ich doch fremd bin?
 @11 Boas antwortete und sprach zu ihr: Es ist mir angesagt alles, was du getan hast an deiner Schwiegermutter nach deines Mannes Tod: dass du verlassen hast deinen Vater und deine Mutter und dein Vaterland und bist zu einem Volk gezogen, das du zuvor nicht kanntest.
@@ -44,12 +44,12 @@
 @19 Da sprach ihre Schwiegermutter zu ihr: Wo hast du heute gelesen, und wo hast du gearbeitet? Gesegnet sei, der dich angesehen hat! Sie aber sagte es ihrer Schwiegermutter, bei wem sie gearbeitet hätte, und sprach: Der Mann, bei dem ich heute gearbeitet habe, heißt Boas.
 @20 Naemi aber sprach zu ihrer Schwiegertochter: Gesegnet sei er dem HErrn! denn er hat seine Barmherzigkeit nicht gelassen an den Lebendigen und an den Toten. Und Naemi sprach zu ihr: Der Mann gehört uns zu und ist unser Erbe.
 @21 Ruth, die Moabitin, sprach: Er sprach auch das zu mir: Du sollst dich zu meinen Leuten halten, bis sie mir alles eingeerntet haben.
-@22 Naemi sprach zu Ruth, ihrer Schwiegertochter: Es ist gut, meine Tochter, dass du mit seinen Dirnen ausgehst, auf dass nicht jemand dir dreinrede auf einem anderen Acker.
-@23 Also hielt sie sich zu den Dirnen des Boas, dass sie las, bis dass die Gerstenernte und Weizenernte aus war; und kam wieder zu ihrer Schwiegermutter.
+@22 Naemi sprach zu Ruth, ihrer Schwiegertochter: Es ist gut, meine Tochter, dass du mit seinen Mägden ausgehst, auf dass nicht jemand dir dreinrede auf einem anderen Acker.
+@23 Also hielt sie sich zu den Mägden des Boas, dass sie las, bis dass die Gerstenernte und Weizenernte aus war; und kam wieder zu ihrer Schwiegermutter.
 
 # 3
 @1 Und Naemi, ihre Schwiegermutter, sprach zu ihr: Meine Tochter, ich will dir Ruhe schaffen, dass dir's wohl gehe.
-@2 Nun, der Boas, unser Verwandter, bei des Dirnen du gewesen bist, worfelt diese Nacht Gerste auf seiner Tenne.
+@2 Nun, der Boas, unser Verwandter, bei des Mägden du gewesen bist, worfelt diese Nacht Gerste auf seiner Tenne.
 @3 So bade dich und salbe dich und lege dein Kleid an und gehe hinab auf die Tenne; gib dich dem Manne nicht zu erkennen, bis er ganz gegessen und getrunken hat.
 @4 Wenn er sich dann legt, so merke den Ort, da er sich hin legt, und komm und decke auf zu seinen Füßen und lege dich, so wird er dir wohl sagen, was du tun sollst.
 @5 Sie sprach zu ihr: Alles, was du mir sagst, will ich tun.

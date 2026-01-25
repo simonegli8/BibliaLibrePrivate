@@ -26,7 +26,7 @@
 @1 Wie hat der Herr die Tochter Zion mit seinem Zorn überschüttet! Er hat die Herrlichkeit Israels vom Himmel auf die Erde geworfen; er hat nicht gedacht an seinen Fußschemel am Tage seines Zorns.
 @2 Der Herr hat alle Wohnungen Jakobs ohne Barmherzigkeit vertilgt; er hat die Festen der Tochter Juda abgebrochen in seinem Grimm und geschleift; er hat entweiht beide, ihr Königreich und ihre Fürsten.
 @3 Er hat alle Hörner Israels in seinem grimmigen Zorn zerbrochen; er hat seine rechte Hand hinter sich gezogen, da der Feind kam, und hat in Jakob ein Feuer angesteckt, das umher verzehrt.
-@4 Er hat seinen Bogen gespannt wie ein Feind; seine rechte Hand hat er geführt wie ein Widersacher und hat erwürgt alles, was lieblich anzusehen war, und seinen Grimm wie ein Feuer ausgeschüttet in der Hütte der Tochter Zion.
+@4 Er hat seinen Bogen gespannt wie ein Feind; seine rechte Hand hat er geführt wie ein Widersacher und hat getötet alles, was lieblich anzusehen war, und seinen Grimm wie ein Feuer ausgeschüttet in der Hütte der Tochter Zion.
 @5 Der HErr ist gleich wie ein Feind; er hat vertilgt Israel; er hat vertilgt alle ihre Paläste und hat seine Festen verderbt; er hat der Tochter Juda viel Klagens und Leides gemacht.
 @6 Er hat sein Gezelt zerwühlt wie einen Garten und seine Wohnung verderbt; der HErr hat zu Zion Feiertag und Sabbat lassen vergessen und in seinem grimmigen Zorn König und Priester schänden lassen.
 @7 Der Herr hat seinen Altar verworfen und sein Heiligtum entweiht; er hat die Mauern ihrer Paläste in des Feindes Hände gegeben, dass sie im Hause des HErrn geschrien haben wie an einem Feiertag.
@@ -42,7 +42,7 @@
 @17 Der HErr hat getan, was er vorhatte; er hat sein Wort erfüllt, das er längst zuvor geboten hat; er hat ohne Barmherzigkeit zerstört; er hat den Feind über dich erfreut und deiner Widersacher Horn erhöht.
 @18 Ihr Herz schrie zum Herrn. O du Mauer der Tochter Zion, lass Tag und Nacht Tränen herabfließen wie einen Bach; höre auch nicht auf, und dein Augapfel lasse nicht ab.
 @19 Stehe des Nachts auf und schreie; schütte dein Herz aus in der ersten Wache gegen den Herrn wie Wasser; hebe deine Hände gegen ihn auf um der Seelen willen deiner jungen Kinder, die vor Hunger verschmachten vorn an allen Gassen!
-@20 HErr, schaue und siehe doch, wen du so verderbt hast! Sollen denn die Frauen ihres Leibes Frucht essen, die Kindlein, so man auf Händen trägt? Sollen denn Propheten und Priester in dem Heiligtum des Herrn so erwürgt werden?
+@20 HErr, schaue und siehe doch, wen du so verderbt hast! Sollen denn die Frauen ihres Leibes Frucht essen, die Kindlein, so man auf Händen trägt? Sollen denn Propheten und Priester in dem Heiligtum des Herrn so getötet werden?
 @21 Es lagen in den Gassen auf der Erde Knaben und Alte; meine Jungfrauen und Jünglinge sind durchs Schwert gefallen. Du hast gewürgt am Tage deines Zorns; du hast ohne Barmherzigkeit geschlachtet.
 @22 Du hast meine Feinde umher gerufen wie auf einen Feiertag, dass niemand am Tage des Zorns des HErrn entronnen und übriggeblieben ist. Die ich auf den Händen getragen und erzogen habe, die hat der Feind umgebracht.
 
@@ -89,7 +89,7 @@
 @40 Und lasst uns erforschen und prüfen unser Wesen und uns zum HErrn bekehren!
 @41 Lasst uns unser Herz samt den Händen aufheben zu Gott im Himmel!
 @42 Wir, wir haben gesündigt und sind ungehorsam gewesen; darum hast du billig nicht verschont;
-@43 sondern du hast uns mit Zorn überschüttet und verfolgt und ohne Barmherzigkeit erwürgt.
+@43 sondern du hast uns mit Zorn überschüttet und verfolgt und ohne Barmherzigkeit getötet.
 @44 Du hast dich mit einer Wolke verdeckt, dass kein Gebet hindurch konnte.
 @45 Du hast uns zu Kot und Unflat gemacht unter den Völkern.
 @46 Alle unsere Feinde sperren ihr Maul auf wider uns.

@@ -211,7 +211,7 @@
 @23 bis sie ihm mit dem Pfeil die Leber spaltet; wie ein Vogel zum Strick eilt und weiß nicht, dass es ihm das Leben gilt.
 @24 So gehorchet mir nun, meine Kinder, und merket auf die Rede meines Mundes.
 @25 Lass dein Herz nicht weichen auf ihren Weg und lass dich nicht verführen auf ihrer Bahn.
-@26 Denn sie hat viele verwundet und gefällt, und sind allerlei Mächtige von ihr erwürgt.
+@26 Denn sie hat viele verwundet und gefällt, und sind allerlei Mächtige von ihr getötet.
 @27 Ihr Haus sind Wege zum Grab, da man hinunterfährt in des Todes Kammern.
 
 # 8
@@ -255,7 +255,7 @@
 # 9
 @1 Die Weisheit baute ihr Haus und hieb sieben Säulen,
 @2 schlachtete ihr Vieh und trug ihren Wein auf und bereitete ihren Tisch
-@3 und sandte ihre Dirnen aus, zu rufen oben auf den Höhen der Stadt:
+@3 und sandte ihre Mägde aus, zu rufen oben auf den Höhen der Stadt:
 @4 „Wer verständig ist, der mache sich hierher!“, und zum Narren sprach sie:
 @5 „Kommet, zehret von meinem Brot und trinket den Wein, den ich schenke;
 @6 verlasset das unverständige Wesen, so werdet ihr leben, und gehet auf dem Wege der Klugheit.“
@@ -668,7 +668,7 @@
 @10 Treibe den Spötter aus, so geht der Zank weg, so hört auf Hader und Schmähung.
 @11 Wer ein treues Herz und liebliche Rede hat, des Freund ist der König.
 @12 Die Augen des HErrn behüten guten Rat; aber die Worte des Verächters verkehrt er.
-@13 Der Faule spricht: Es ist ein Löwe draußen, ich möchte erwürgt werden auf der Gasse.
+@13 Der Faule spricht: Es ist ein Löwe draußen, ich möchte getötet werden auf der Gasse.
 @14 Der Huren Mund ist eine tiefe Grube; wem der HErr ungnädig ist, der fällt hinein.
 @15 Torheit steckt dem Knaben im Herzen; aber die Rute der Zucht wird sie fern von ihm treiben.
 @16 Wer dem Armen Unrecht tut, dass seines Guts viel werde, der wird auch einem Reichen geben, und Mangel haben.
@@ -846,7 +846,7 @@
 @24 Denn Gut währt nicht ewiglich, und die Krone währt nicht für und für.
 @25 Das Heu ist weggeführt, und wiederum ist Gras da und wird Kraut auf den Bergen gesammelt.
 @26 Die Lämmer kleiden dich, und die Böcke geben dir das Geld, einen Acker zu kaufen.
-@27 Du hast Ziegenmilch genug zu deiner Speise, zur Speise deines Hauses und zur Nahrung deiner Dirnen.
+@27 Du hast Ziegenmilch genug zu deiner Speise, zur Speise deines Hauses und zur Nahrung deiner Mägde.
 
 # 28
 @1 Der Gottlose flieht, und niemand jagt ihn; der Gerechte aber ist getrost wie ein junger Löwe.
@@ -957,7 +957,7 @@
 @12 Sie tut ihm Liebes und kein Leides ihr Leben lang.
 @13 Sie geht mit Wolle und Flachs um und arbeitet gern mit ihren Händen.
 @14 Sie ist wie ein Kaufmannsschiff, das seine Nahrung von ferne bringt.
-@15 Sie steht vor Tage auf und gibt Speise ihrem Hause und Essen ihren Dirnen.
+@15 Sie steht vor Tage auf und gibt Speise ihrem Hause und Essen ihren Mägden.
 @16 Sie denkt nach einem Acker und kauft ihn und pflanzt einen Weinberg von den Früchten ihrer Hände.
 @17 Sie gürtet ihre Lenden mit Kraft und stärkt ihre Arme.
 @18 Sie merkt, wie ihr Handel Frommen bringt; ihre Leuchte verlischt des Nachts nicht.

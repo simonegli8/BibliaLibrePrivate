@@ -187,7 +187,7 @@
 @21 Denn da Josua und das ganze Israel sah, dass der Hinterhalt die Stadt gewonnen hatte, weil der Stadt Rauch aufging, kehrten sie wieder um und schlugen die Männer von Ai.
 @22 Und die in der Stadt kamen auch heraus ihnen entgegen, dass sie mitten unter Israel kamen, von dorther und von hierher; und sie schlugen sie, bis dass niemand unter ihnen übrigblieb noch entrinnen konnte,
 @23 und griffen den König zu Ai lebendig und brachten ihn zu Josua.
-@24 Und da Israel alle Einwohner zu Ai erwürgt hatte auf dem Felde und in der Wüste, die ihnen nachgejagt hatten, und alle durch die Schärfe des Schwertes fielen, bis dass sie alle umkamen, da kehrte sich ganz Israel gegen Ai und schlugen es mit der Schärfe des Schwerts.
+@24 Und da Israel alle Einwohner zu Ai getötet hatte auf dem Felde und in der Wüste, die ihnen nachgejagt hatten, und alle durch die Schärfe des Schwertes fielen, bis dass sie alle umkamen, da kehrte sich ganz Israel gegen Ai und schlugen es mit der Schärfe des Schwerts.
 @25 Und alle, die des Tages fielen, beide Männer und Frauen, der waren 12.000, alles Leute von Ai.
 @26 Josua aber zog nicht wieder zurück seine Hand, mit der er die Lanze ausgereckt hatte, bis dass verbannt wurden alle Einwohner Ais.
 @27 Nur das Vieh und den Raub der Stadt teilte Israel aus unter sich nach dem Wort des HErrn, das er Josua geboten hatte.
@@ -226,7 +226,7 @@
 @23 Darum sollt ihr verflucht sein, dass unter euch nicht aufhören Knechte, die Holz hauen und Wasser tragen zum Hause meines Gottes.
 @24 Sie antworteten Josua und sprachen: Es ist deinen Knechten angesagt, dass der HErr, dein Gott, Mose, seinem Knecht, geboten habe, dass er euch das ganze Land geben und vor euch her alle Einwohner des Landes vertilgen wolle. Da fürchteten wir für unser Leben vor euch sehr und haben solches getan.
 @25 Nun aber, siehe, wir sind in deinen Händen; was dich gut und recht dünkt uns zu tun, das tue.
-@26 Und er tat ihnen also und errettete sie von der Kinder Israel Hand, dass sie sie nicht erwürgten.
+@26 Und er tat ihnen also und errettete sie von der Kinder Israel Hand, dass sie sie nicht töteten.
 @27 Also machte sie Josua desselben Tages zu Holzhauern und Wasserträgern für die Gemeinde und den Altar des HErrn bis auf diesen Tag, an dem Ort, den er erwählen würde.
 
 # 10
@@ -240,7 +240,7 @@
 @8 Und der HErr sprach zu Josua: Fürchte dich nicht vor ihnen, denn ich habe sie in deine Hände gegeben; niemand unter ihnen wird vor dir stehen können.
 @9 Also kam Josua plötzlich über sie; denn die ganze Nacht zog er herauf von Gilgal.
 @10 Aber der HErr schreckte sie vor Israel, dass sie eine große Schlacht schlugen zu Gibeon und jagten ihnen nach den Weg hinan zu Beth-Horon und schlugen sie bis gen Aseka und Makkeda.
-@11 Und da sie vor Israel flohen den Weg herab zu Beth-Horon, ließ der HErr einen großen Hagel vom Himmel auf sie fallen bis gen Aseka, dass sie starben. Und viel mehr starben ihrer von dem Hagel, als die Kinder Israel mit dem Schwert erwürgten.
+@11 Und da sie vor Israel flohen den Weg herab zu Beth-Horon, ließ der HErr einen großen Hagel vom Himmel auf sie fallen bis gen Aseka, dass sie starben. Und viel mehr starben ihrer von dem Hagel, als die Kinder Israel mit dem Schwert töteten.
 @12 Da redete Josua mit dem HErrn des Tages, da der HErr die Amoriter dahingab vor den Kindern Israel, und sprach vor dem gegenwärtigen Israel: Sonne, stehe still zu Gibeon, und Mond, im Tal Ajalon!
 @13 Da stand die Sonne und der Mond still, bis dass sich das Volk an ihren Feinden rächte. Ist dies nicht geschrieben im Buch des Frommen? Also stand die Sonne mitten am Himmel und verzog unterzugehen beinahe einen ganzen Tag.
 @14 Und war kein Tag diesem gleich, weder zuvor noch darnach, da der HErr der Stimme eines Mannes gehorchte; denn der HErr stritt für Israel.
@@ -347,7 +347,7 @@
 @19 Kirjathaim, Sibma, Zereth-Sahar auf dem Berge im Tal,
 @20 Beth-Peor, die Abhänge am Pisga und Beth-Jesimoth
 @21 und alle Städte auf der Ebene und das ganze Reich Sihons, des Königs der Amoriter, der zu Hesbon saß, den Mose schlug samt den Fürsten Midians – Evi, Rekem, Zur, Hur und Reba –, den Gewaltigen des Königs Sihon, die im Lande wohnten.
-@22 Auch Bileam, der Sohn Beors, den Weissager, erwürgten die Kinder Israel mit dem Schwert samt den Erschlagenen.
+@22 Auch Bileam, der Sohn Beors, den Weissager, töteten die Kinder Israel mit dem Schwert samt den Erschlagenen.
 @23 Und die Grenze der Kinder Ruben war der Jordan. Das ist das Erbteil der Kinder Ruben nach ihren Geschlechtern, die Städte und ihre Dörfer.
 @24 Dem Stamm der Kinder Gad nach ihrem Geschlecht gab Mose,
 @25 dass ihr Gebiet war Jaser und alle Städte in Gilead und das halbe Land der Kinder Ammon bis gen Aroer, welches liegt vor Rabba,

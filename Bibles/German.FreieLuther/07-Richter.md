@@ -150,7 +150,7 @@
 @27 Zu ihren Füßen krümmte er sich, fiel nieder und legte sich; er krümmte sich, fiel nieder zu ihren Füßen; wie er sich krümmte, so lag er verderbt.
 @28 Die Mutter Siseras sah zum Fenster hinaus und heulte durchs Gitter: Warum verzieht sein Wagen, dass er nicht kommt? Wie bleiben die Räder seiner Wagen so dahinten?
 @29 Die weisesten unter ihren Frauen antworteten, da sie ihre Klageworte immer wiederholte:
-@30 Sollen sie denn nicht finden und austeilen den Raub, einem jeglichen Mann eine Dirne oder zwei zur Ausbeute und Sisera bunte gestickte Kleider zur Ausbeute, gestickte bunte Kleider um dem Hals zur Ausbeute?
+@30 Sollen sie denn nicht finden und austeilen den Raub, einem jeglichen Mann eine junge Frau oder zwei zur Ausbeute und Sisera bunte gestickte Kleider zur Ausbeute, gestickte bunte Kleider um dem Hals zur Ausbeute?
 @31 Also müssen umkommen, HErr, alle deine Feinde! Die ihn aber liebhaben, müssen sein, wie die Sonne aufgeht in ihrer Macht! – Und das Land war still 40 Jahre.
 
 # 6
@@ -220,7 +220,7 @@
 @22 Und indem die 300 Mann bliesen die Posaunen, schaffte der HErr, dass im ganzen Heer eines jeglichen Schwert wider den anderen war. Und das Heer floh bis Beth-Sitta gen Zereda, bis an die Grenze von Abel-Mehola bei Tabbath.
 @23 Und die Männer Israels von Naphthali, von Asser und vom ganzen Manasse wurden zuhauf gerufen und jagten den Midianitern nach.
 @24 Und Gideon sandte Botschaft auf das ganze Gebirge Ephraim und ließ sagen: Kommt herab, den Midianitern entgegen, und gewinnt das Wasser vor ihnen bis gen Beth-Bara und auch den Jordan. Da eilten zusammen alle, die von Ephraim waren, und gewannen das Wasser vor ihnen bis gen Beth-Bara und den Jordan
-@25 und fingen zwei Fürsten der Midianiter, Oreb und Seeb, und erwürgten Oreb auf dem Fels Oreb und Seeb in der Kelter Seeb, und jagten die Midianiter und brachten die Häupter Orebs und Seebs zu Gideon über den Jordan.
+@25 und fingen zwei Fürsten der Midianiter, Oreb und Seeb, und töteten Oreb auf dem Fels Oreb und Seeb in der Kelter Seeb, und jagten die Midianiter und brachten die Häupter Orebs und Seebs zu Gideon über den Jordan.
 
 # 8
 @1 Und die Männer von Ephraim sprachen zu ihm: Warum hast du uns das getan, dass du uns nicht riefst, da du in den Streit zogst wider die Midianiter? Und zankten mit ihm heftig.
@@ -239,11 +239,11 @@
 @14 fing er einen Knaben aus den Leuten zu Sukkoth und fragte ihn; der schrieb ihm auf die Obersten zu Sukkoth und ihre Ältesten, 77 Mann.
 @15 Und er kam zu den Leuten zu Sukkoth und sprach: Siehe, hier ist Sebah und Zalmuna, über welchen ihr mein spottetet und sprachet: Ist denn Sebahs und Zalmunas Faust schon in deinen Händen, dass wir deinen Leuten, die müde sind, Brot geben sollen?
 @16 Und er nahm die Ältesten der Stadt und Dornen aus der Wüste und Hecken und ließ es die Leute zu Sukkoth fühlen.
-@17 Und den Turm Pnuels zerbrach er und erwürgte die Leute der Stadt.
-@18 Und er sprach zu Sebah und Zalmuna: Wie waren die Männer, die ihr erwürgtet zu Thabor? Sie sprachen: Sie waren wie du und ein jeglicher schön wie eines Königs Kinder.
-@19 Er aber sprach: Es sind meine Brüder, meiner Mutter Söhne, gewesen. So wahr der HErr lebt, wo ihr sie hättet leben lassen, wollte ich euch nicht erwürgen.
-@20 Und sprach zu seinem erstgeborenen Sohn, Jether: Stehe auf und erwürge sie! Aber der Knabe zog sein Schwert nicht; denn er fürchtete sich, weil er noch ein Knabe war.
-@21 Sebah aber und Zalmuna sprachen: Stehe du auf und mache dich an uns; denn darnach der Mann ist, ist auch seine Kraft. Also stand Gideon auf und erwürgte Sebah und Zalmuna und nahm die Spangen, die an ihrer Kamele Hälsen waren.
+@17 Und den Turm Pnuels zerbrach er und tötete die Leute der Stadt.
+@18 Und er sprach zu Sebah und Zalmuna: Wie waren die Männer, die ihr getötet habt zu Thabor? Sie sprachen: Sie waren wie du und ein jeglicher schön wie eines Königs Kinder.
+@19 Er aber sprach: Es sind meine Brüder, meiner Mutter Söhne, gewesen. So wahr der HErr lebt, wo ihr sie hättet leben lassen, wollte ich euch nicht töten.
+@20 Und sprach zu seinem erstgeborenen Sohn, Jether: Stehe auf und töte sie! Aber der Knabe zog sein Schwert nicht; denn er fürchtete sich, weil er noch ein Knabe war.
+@21 Sebah aber und Zalmuna sprachen: Stehe du auf und mache dich an uns; denn darnach der Mann ist, ist auch seine Kraft. Also stand Gideon auf und tötete Sebah und Zalmuna und nahm die Spangen, die an ihrer Kamele Hälsen waren.
 @22 Da sprachen zu Gideon etliche in Israel: Sei Herr über uns, du und dein Sohn und deines Sohnes Sohn, weil du uns von der Midianiter Hand erlöst hast.
 @23 Aber Gideon sprach zu ihnen: Ich will nicht Herr sein über euch, und mein Sohn soll auch nicht Herr über euch sein, sondern der HErr soll Herr über euch sein.
 @24 Gideon aber sprach zu Ihnen: Eins begehre ich von euch: ein jeglicher gebe mir die Stirnbänder, die er geraubt hat. (Denn weil es Ismaeliter waren, hatten sie goldene Stirnbänder.)
@@ -264,7 +264,7 @@
 @2 Redet doch vor den Ohren aller Männer zu Sichem: was ist euch besser, dass 70 Männer, alle Kinder Jerubbaals, über euch Herren seien, oder dass ein Mann über euch Herr sei? Gedenkt auch dabei, dass ich euer Gebein und Fleisch bin.
 @3 Da redeten die Brüder seiner Mutter von ihm alle diese Worte vor den Ohren aller Männer zu Sichem. Und ihr Herz neigte sich Abimelech nach; denn sie gedachten: Er ist unser Bruder.
 @4 Und sie gaben ihm 70 Silberlinge aus dem Haus Baal-Beriths. Und Abimelech dingte damit lose, leichtfertige Männer, die ihm nachfolgten.
-@5 Und er kam in seines Vaters Haus gen Ophra und erwürgte seine Brüder, die Kinder Jerubbaals, 70 Mann, auf einem Stein. Es blieb aber übrig Jotham, der jüngste Sohn Jerubbaals; denn er war versteckt.
+@5 Und er kam in seines Vaters Haus gen Ophra und tötete seine Brüder, die Kinder Jerubbaals, 70 Mann, auf einem Stein. Es blieb aber übrig Jotham, der jüngste Sohn Jerubbaals; denn er war versteckt.
 @6 Und es versammelten sich alle Männer von Sichem und das ganze Haus Millo, gingen hin und machten Abimelech zum König bei der hohen Eiche, die zu Sichem steht.
 @7 Da das angesagt ward dem Jotham, ging er hin und trat auf die Höhe des Berges Garizim und hob auf seine Stimme, rief und sprach zu ihnen: Hört mich, ihr Männer zu Sichem, dass euch Gott auch höre!
 @8 Die Bäume gingen hin, dass sie einen König über sich salbten, und sprachen zum Ölbaum: Sei unser König!
@@ -277,13 +277,13 @@
 @15 Und der Dornbusch sprach zu den Bäumen: Ist's wahr, dass ihr mich zum König salbt über euch, so kommt und vertraut euch unter meinen Schatten; wo nicht, so gehe Feuer aus dem Dornbusch und verzehre die Zedern Libanons.
 @16 Habt ihr nun recht und redlich getan, dass ihr Abimelech zum König gemacht habt; und habt ihr wohl getan an Jerubbaal und an seinem Hause und habt ihm getan, wie er um euch verdient hat
 @17 (denn mein Vater hat gestritten um euretwillen und seine Seele dahingeworfen von sich, dass er euch errettete von der Midianiter Hand;
-@18 und ihr lehnet euch auf heute wider meines Vaters Haus und erwürget seine Kinder, 70 Mann, auf einem Stein und macht euch Abimelech, seiner Magd Sohn, zum König über die Männer zu Sichem, weil er euer Bruder ist);
+@18 und ihr lehnet euch auf heute wider meines Vaters Haus und tötet seine Kinder, 70 Mann, auf einem Stein und macht euch Abimelech, seiner Magd Sohn, zum König über die Männer zu Sichem, weil er euer Bruder ist);
 @19 und habt ihr nun recht und redlich gehandelt an Jerubbaal und an seinem Hause an diesem Tage: so seid fröhlich über Abimelech und er sei fröhlich über euch;
 @20 wo nicht, so gehe Feuer aus von Abimelech und verzehre die Männer zu Sichem und das Haus Millo, und gehe auch Feuer aus von den Männern zu Sichem und vom Haus Millo und verzehre Abimelech.
 @21 Und Jotham floh vor seinem Bruder Abimelech und entwich und ging gen Beer und wohnte daselbst.
 @22 Als nun Abimelech drei Jahre über Israel geherrscht hatte,
 @23 sandte Gott einen bösen Willen zwischen Abimelech und den Männern zu Sichem. Und die Männer zu Sichem wurden Abimelech untreu,
-@24 auf dass der Frevel, an den 70 Söhnen Jerubbaals begangen, und ihr Blut käme auf Abimelech, ihren Bruder, der sie erwürgt hatte, und auf die Männer zu Sichem, die ihm seine Hand dazu gestärkt hatten, dass er seine Brüder erwürgte.
+@24 auf dass der Frevel, an den 70 Söhnen Jerubbaals begangen, und ihr Blut käme auf Abimelech, ihren Bruder, der sie getötet hatte, und auf die Männer zu Sichem, die ihm seine Hand dazu gestärkt hatten, dass er seine Brüder tötete.
 @25 Und die Männer zu Sichem stellten einen Hinterhalt auf den Spitzen der Berge und beraubten alle, die auf der Straße zu ihnen wandelten. Und es ward Abimelech angesagt.
 @26 Es kam aber Gaal, der Sohn Ebeds, und seine Brüder und zogen zu Sichem ein. Und die Männer zu Sichem verließen sich auf ihn
 @27 und zogen heraus aufs Feld und lasen ab ihre Weinberge und kelterten und machten einen Tanz und gingen in ihres Gottes Haus und aßen und tranken und fluchten dem Abimelech.
@@ -304,7 +304,7 @@
 @42 Am Morgen aber ging das Volk heraus aufs Feld. Da das Abimelech ward angesagt,
 @43 nahm er das Kriegsvolk und teilte es in drei Haufen und machte einen Hinterhalt auf sie im Felde. Als er nun sah, dass das Volk aus der Stadt ging, erhob er sich über sie und schlug sie.
 @44 Abimelech aber und die Haufen, die bei ihm waren, überfielen sie und traten an die Tür des Stadttors; und zwei der Haufen überfielen alle, die auf dem Felde waren, und schlugen sie.
-@45 Da stritt Abimelech wider die Stadt denselben ganzen Tag und gewann sie und erwürgte das Volk, das darin war, und zerbrach die Stadt und säte Salz darauf.
+@45 Da stritt Abimelech wider die Stadt denselben ganzen Tag und gewann sie und tötete das Volk, das darin war, und zerbrach die Stadt und säte Salz darauf.
 @46 Da das hörten alle Männer des Turms zu Sichem, gingen sie in die Festung des Hauses des Gottes Berith.
 @47 Da das Abimelech hörte, dass sich alle Männer des Turms zu Sichem versammelt hatten,
 @48 ging er auf den Berg Zalmon mit allem seinem Volk, das bei ihm war und nahm eine Axt in seine Hand und hieb einen Ast von den Bäumen und hob ihn auf und legte ihn auf seine Achsel und sprach zu allem Volk, das mit ihm war: Was ihr gesehen habt, dass ich tue, das tut auch ihr eilend wie ich.
@@ -313,9 +313,9 @@
 @51 Es war aber ein starker Turm mitten in der Stadt. Auf den flohen alle Männer und Frauen und alle Bürger der Stadt und schlossen hinter sich zu und stiegen auf das Dach des Turms.
 @52 Da kam Abimelech zum Turm und stritt dawider und nahte sich zur Tür des Turms, dass er ihn mit Feuer verbrennte.
 @53 Aber eine Frau warf einen Mühlstein Abimelech auf den Kopf und zerbrach ihm den Schädel.
-@54 Da rief Abimelech eilend dem Diener, der seine Waffen trug, und sprach zu ihm: Zieh dein Schwert aus und töte mich, dass man nicht von mir sage: Eine Frau hat ihn erwürgt. Da durchstach ihn sein Diener, und er starb.
+@54 Da rief Abimelech eilend dem Diener, der seine Waffen trug, und sprach zu ihm: Zieh dein Schwert aus und töte mich, dass man nicht von mir sage: Eine Frau hat ihn getötet. Da durchstach ihn sein Diener, und er starb.
 @55 Da aber die Israeliten, die mit ihm waren, sahen, dass Abimelech tot war, ging ein jeglicher an seinen Ort.
-@56 Also bezahlte Gott Abimelech das Übel, das er an seinem Vater getan hatte, da er seine 70 Brüder erwürgte;
+@56 Also bezahlte Gott Abimelech das Übel, das er an seinem Vater getan hatte, da er seine 70 Brüder tötete;
 @57 desgleichen alles Übel der Männer Sichems vergalt ihnen Gott auf ihren Kopf, und es kam über sie der Fluch Jothams, des Sohnes Serubbaals.
 
 # 10
@@ -470,7 +470,7 @@
 
 # 16
 @1 Simson ging hin gen Gaza und sah daselbst eine Hure und kam zu ihr.
-@2 Da ward den Gazitern gesagt: Simson ist hereingekommen. Und sie umgaben ihn und ließen auf ihn lauern die ganze Nacht in der Stadt Tor und waren die ganze Nacht still und sprachen: Harre; morgen, wenn's licht wird, wollen wir ihn erwürgen.
+@2 Da ward den Gazitern gesagt: Simson ist hereingekommen. Und sie umgaben ihn und ließen auf ihn lauern die ganze Nacht in der Stadt Tor und waren die ganze Nacht still und sprachen: Harre; morgen, wenn's licht wird, wollen wir ihn töten.
 @3 Simson aber lag bis zu Mitternacht. Da stand er auf zu Mitternacht und ergriff beide Türen an der Stadt Tor samt den Pfosten und hob sie aus mit den Riegeln und legte sie auf seine Schultern und trug sie hinauf auf die Höhe des Berges vor Hebron.
 @4 Darnach gewann er eine Frau lieb am Bach Sorek, die hieß Delila.
 @5 Zu der kamen der Philister Fürsten hinauf und sprachen zu ihr: Überrede ihn und siehe, worin er solche große Kraft hat und womit wir ihn übermögen, dass wir ihn binden und zwingen, so wollen wir dir geben ein jeglicher 1100 Silberlinge.
@@ -552,13 +552,13 @@
 # 19
 @1 Zu der Zeit war kein König in Israel. Und ein levitischer Mann war Fremdling an der Seite des Gebirges Ephraim und hatte sich ein Kebsweib genommen von Bethlehem-Juda.
 @2 Und da sie hatte neben ihm gehurt, lief sie von ihm zu ihres Vaters Haus gen Bethlehem-Juda und war daselbst vier Monate lang.
-@3 Und ihr Mann machte sich auf und zog ihr nach, dass er freundlich mit ihr redete und sie wieder zu sich holte; und hatte einen Knecht und ein Paar Esel mit sich. Und sie führte ihn in ihres Vaters Haus. Da ihn aber der Dirne Vater sah, ward er froh und empfing ihn.
-@4 Und sein Schwiegervater, der Dirne Vater, hielt ihn, dass er drei Tage bei ihm blieb; sie aßen und tranken und blieben des Nachts da.
-@5 Des vierten Tages erhoben sie sich des Morgens früh, und er machte sich auf und wollte ziehen. Da sprach der Dirne Vater zu seinem Eidam: Labe dein Herz zuvor mit einem Bissen Brot, darnach sollt ihr ziehen.
-@6 Und sie setzten sich und aßen beide miteinander und tranken. Da sprach der Dirne Vater zu dem Mann: Bleib doch über Nacht und lass dein Herz guter Dinge sein.
+@3 Und ihr Mann machte sich auf und zog ihr nach, dass er freundlich mit ihr redete und sie wieder zu sich holte; und hatte einen Knecht und ein Paar Esel mit sich. Und sie führte ihn in ihres Vaters Haus. Da ihn aber der jungen Frau Vater sah, ward er froh und empfing ihn.
+@4 Und sein Schwiegervater, der jungen Frau Vater, hielt ihn, dass er drei Tage bei ihm blieb; sie aßen und tranken und blieben des Nachts da.
+@5 Des vierten Tages erhoben sie sich des Morgens früh, und er machte sich auf und wollte ziehen. Da sprach der jungen Frau Vater zu seinem Eidam: Labe dein Herz zuvor mit einem Bissen Brot, darnach sollt ihr ziehen.
+@6 Und sie setzten sich und aßen beide miteinander und tranken. Da sprach der jungen Frau Vater zu dem Mann: Bleib doch über Nacht und lass dein Herz guter Dinge sein.
 @7 Da aber der Mann aufstand und wollte ziehen, nötigte ihn sein Schwiegervater, dass er über Nacht dablieb.
-@8 Des Morgens am fünften Tage machte er sich früh auf und wollte ziehen. Da sprach der Dirne Vater: Labe doch dein Herz und lass uns verziehen, bis sich der Tag neigt. Und aßen also die beiden miteinander.
-@9 Und der Mann machte sich auf und wollte ziehen mit seinem Kebsweib und mit seinem Knechte. Aber sein Schwiegervater, der Dirne Vater, sprach zu ihm: Siehe, der Tag hat sich geneigt, und es will Abend werden; bleib über Nacht. Siehe, hier ist Herberge noch diesen Tag; bleibe hier über Nacht und lass dein Herz guter Dinge sein. Morgen stehet ihr früh auf und ziehet eures Weges zu deiner Hütte.
+@8 Des Morgens am fünften Tage machte er sich früh auf und wollte ziehen. Da sprach der jungen Frau Vater: Labe doch dein Herz und lass uns verziehen, bis sich der Tag neigt. Und aßen also die beiden miteinander.
+@9 Und der Mann machte sich auf und wollte ziehen mit seinem Kebsweib und mit seinem Knechte. Aber sein Schwiegervater, der jungen Frau Vater, sprach zu ihm: Siehe, der Tag hat sich geneigt, und es will Abend werden; bleib über Nacht. Siehe, hier ist Herberge noch diesen Tag; bleibe hier über Nacht und lass dein Herz guter Dinge sein. Morgen stehet ihr früh auf und ziehet eures Weges zu deiner Hütte.
 @10 Aber der Mann wollte nicht über Nacht bleiben, sondern machte sich auf und zog hin und kam bis vor Jebus, das ist Jerusalem, und sein Paar Esel beladen und sein Kebsweib mit ihm.
 @11 Da sie nun nahe bei Jebus kamen, sank der Tag sehr dahin. Und der Knecht sprach zu seinem Herrn: Komm doch und lass uns in diese Stadt der Jebusiter einkehren und über Nacht darin bleiben.
 @12 Aber sein Herr sprach zu ihm: Wir wollen nicht in der Fremden Stadt einkehren, die nicht sind von den Kindern Israel, sondern wollen hinüber gen Gibea.
@@ -585,8 +585,8 @@
 @1 Da zogen die Kinder Israel aus und versammelten sich zuhauf wie ein Mann, von Dan bis gen Beer-Seba und vom Lande Gilead zu dem HErrn gen Mizpa;
 @2 und traten zuhauf die Obersten des ganzen Volks aller Stämme Israels in der Gemeinde Gottes, 400.000 Mann zu Fuß, die das Schwert auszogen.
 @3 Aber die Kinder Benjamin hörten, dass die Kinder Israel hinauf gen Mizpa gezogen waren. Und die Kinder Israel sprachen: Saget, wie ist das Übel zugegangen?
-@4 Da antwortete der Levit, der Mann der Frau, die erwürgt war, und sprach: Ich kam gen Gibea in Benjamin mit meinem Kebsweibe, über Nacht dazubleiben.
-@5 Da machten sich wider mich auf die Bürger zu Gibea und umgaben mich im Hause des Nachts und gedachten, mich zu erwürgen; und haben mein Kebsweib geschändet, dass sie gestorben ist.
+@4 Da antwortete der Levit, der Mann der Frau, die getötet war, und sprach: Ich kam gen Gibea in Benjamin mit meinem Kebsweibe, über Nacht dazubleiben.
+@5 Da machten sich wider mich auf die Bürger zu Gibea und umgaben mich im Hause des Nachts und gedachten, mich zu töten; und haben mein Kebsweib geschändet, dass sie gestorben ist.
 @6 Da fasste ich mein Kebsweib und zerstückte es und sandte es in alle Felder des Erbes Israels; denn sie haben einen Mutwillen und eine Torheit getan in Israel.
 @7 Siehe, da seid ihr Kinder Israel alle; schafft euch Rat und tut hiezu!
 @8 Da machte sich alles Volk auf wie ein Mann und sprach: Es soll niemand in seine Hütte gehen noch in sein Haus kehren;
@@ -643,7 +643,7 @@
 @9 Denn sie zählten das Volk, und siehe, da war kein Bürger da von Jabes in Gilead.
 @10 Da sandte die Gemeinde 12.000 Mann dahin von streitbaren Männern und geboten ihnen und sprachen: Gehet hin und schlaget mit der Schärfe des Schwerts die Bürger zu Jabes in Gilead mit Frau und Kind.
 @11 Doch also sollt ihr tun: alles, was männlich ist, und alle Frauen, die beim Mann gelegen haben, verbannt.
-@12 Und sie fanden bei den Bürgern zu Jabes in Gilead 400 Dirnen, die Jungfrauen waren und bei keinem Mann gelegen hatten; die brachten sie ins Lager gen Silo, das da liegt im Lande Kanaan.
+@12 Und sie fanden bei den Bürgern zu Jabes in Gilead 400 jungen Frauen, die Jungfrauen waren und bei keinem Mann gelegen hatten; die brachten sie ins Lager gen Silo, das da liegt im Lande Kanaan.
 @13 Da sandte die ganze Gemeinde hin und ließ reden mit den Kindern Benjamin, die im Fels Rimmon waren, und sagten ihnen Frieden zu.
 @14 Also kamen die Kinder Benjamin wieder zu der Zeit. Und sie gaben ihnen die Frauen, die sie hatten erhalten von den Frauen zu Jabes in Gilead; aber es waren ihrer also nicht genug für sie.
 @15 Da reute es das Volk über Benjamin, dass der HErr einen Riss gemacht hatte in den Stämmen Israels.

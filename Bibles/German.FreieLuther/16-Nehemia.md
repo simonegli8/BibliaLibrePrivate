@@ -78,7 +78,7 @@
 @2 und machten allesamt einen Bund zuhaufen, dass sie kämen und stritten wider Jerusalem und richteten darin Verwirrung an.
 @3 Wir aber beteten zu unserem Gott und stellten Hut gegen sie Tag und Nacht vor ihnen.
 @4 Und Juda sprach: Die Kraft der Träger ist zu schwach, und des Schuttes ist zu viel; wir können an der Mauer nicht bauen.
-@5 Unsere Widersacher aber gedachten: Sie sollen's nicht wissen noch sehen, bis wir mitten unter sie kommen und sie erwürgen und das Werk hindern.
+@5 Unsere Widersacher aber gedachten: Sie sollen's nicht wissen noch sehen, bis wir mitten unter sie kommen und sie töten und das Werk hindern.
 @6 Da aber die Juden, die neben ihnen wohnten, kamen – und sagten's uns wohl zehnmal – aus allen Orten, da sie um uns wohnten,
 @7 da stellte ich unten an die Örter hinter der Mauer in die Gräben das Volk nach ihren Geschlechtern mit ihren Schwertern, Spießen und Bogen.
 @8 Und ich besah es und machte mich auf und sprach zu den Ratsherren und Obersten und dem anderen Volk: Fürchtet euch nicht vor ihnen; gedenket an den großen, schrecklichen HErrn und streitet für eure Brüder, Söhne, Töchter, Frauen und Häuser!
@@ -123,7 +123,7 @@
 @7 und du habest die Propheten bestellt, die von dir ausrufen sollen zu Jerusalem und sagen: Er ist der König Judas. Nun, solches wird vor den König kommen. So komm nun und lass uns miteinander ratschlagen!
 @8 Ich aber sandte zu ihm und ließ ihm sagen: Solches ist nicht geschehen, was du sagst; du hast es aus deinem Herzen erdacht.
 @9 Denn sie alle wollen uns furchtsam machen und gedachten: Sie sollen die Hand abtun vom Geschäft, dass es nicht fertig werde. Aber nun stärke meine Hände!
-@10 Und ich kam ins Haus Semajas, des Sohnes Delajas, des Sohnes Mehetabeels; und er hatte sich verschlossen und sprach: Lass uns zusammenkommen im Hause Gottes mitten im Tempel und die Türen des Tempels zuschließen; denn sie werden kommen, dich zu erwürgen, und werden bei der Nacht kommen, dass sie dich erwürgen.
+@10 Und ich kam ins Haus Semajas, des Sohnes Delajas, des Sohnes Mehetabeels; und er hatte sich verschlossen und sprach: Lass uns zusammenkommen im Hause Gottes mitten im Tempel und die Türen des Tempels zuschließen; denn sie werden kommen, dich zu töten, und werden bei der Nacht kommen, dass sie dich töten.
 @11 Ich aber sprach: Sollte ein solcher Mann fliehen? Sollte ein solcher Mann, wie ich bin, in den Tempel gehen, dass er lebendig bleibe? Ich will nicht hineingehen.
 @12 Denn ich merkte, dass ihn Gott nicht gesandt hatte. Denn er sagte wohl Weissagung auf mich; aber Tobia und Saneballat hatten ihm Geld gegeben.
 @13 Darum nahm er Geld, auf dass ich mich fürchten sollte und also tun und sündigen, dass sie ein böses Gerücht hätten, damit sie mich lästern möchten.
@@ -255,7 +255,7 @@
 @23 Und vermehrtest ihre Kinder wie die Sterne am Himmel und brachtest sie in das Land, das du ihren Vätern verheißen hattest, dass sie einziehen und es einnehmen sollten.
 @24 Und die Kinder zogen hinein und nahmen das Land ein; und du demütigtest vor ihnen die Einwohner des Landes, die Kanaaniter, und gabst sie in ihre Hände, ihre Könige und die Völker im Lande, dass sie mit ihnen täten nach ihrem Willen.
 @25 Und sie gewannen feste Städte und ein fettes Land und nahmen Häuser ein voll allerlei Güter, ausgehauene Brunnen, Weinberge, Ölgärten und Bäume, davon man isst, die Menge, und sie aßen und wurden satt und fett und lebten in Wonne durch deine große Güte.
-@26 Aber sie wurden ungehorsam und widerstrebten dir und warfen dein Gesetz hinter sich zurück und erwürgten deine Propheten, die ihnen zeugten, dass sie sollten sich zu dir bekehren, und taten große Lästerungen.
+@26 Aber sie wurden ungehorsam und widerstrebten dir und warfen dein Gesetz hinter sich zurück und töteten deine Propheten, die ihnen zeugten, dass sie sollten sich zu dir bekehren, und taten große Lästerungen.
 @27 Darum gabst du sie in die Hand ihrer Feinde, die sie ängsteten. Und zur Zeit ihrer Angst schrien sie zu dir; und du erhörtest sie vom Himmel, und durch deine große Barmherzigkeit gabst du ihnen Heilande, die ihnen halfen aus ihrer Feinde Hand.
 @28 Wenn sie aber zur Ruhe kamen, taten sie wieder übel vor dir. So verließest du sie in ihrer Feinde Hand, dass sie über sie herrschten. So schrien sie dann wieder zu dir; und du erhörtest sie vom Himmel und errettetest sie nach deiner großen Barmherzigkeit vielmal.
 @29 Und du ließest ihnen bezeugen, dass sie sich bekehren sollten zu deinem Gesetz. Aber sie waren stolz und gehorchten deinen Geboten nicht und sündigten an deinen Rechten (durch welche ein Mensch lebt, wenn er sie tut) und kehrten dir den Rücken zu und wurden halsstarrig und gehorchten nicht.

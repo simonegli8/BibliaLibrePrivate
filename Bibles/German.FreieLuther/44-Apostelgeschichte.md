@@ -49,7 +49,7 @@
 @20 die Sonne soll sich verkehren in Finsternis und der Mond in Blut, ehe denn der große und offenbare Tag des Herrn kommt.
 @21 Und soll geschehen, wer den Namen des Herrn anrufen wird, soll selig werden.“
 @22 Ihr Männer von Israel, höret diese Worte: Jesum von Nazareth, den Mann, von Gott unter euch mit Taten und Wundern und Zeichen erwiesen, welche Gott durch ihn tat unter euch (wie denn auch ihr selbst wisset),
-@23 denselben (nachdem er aus bedachtem Rat und Vorsehung Gottes übergeben war) habt ihr genommen durch die Hände der Ungerechten und ihn angeheftet und erwürgt.
+@23 denselben (nachdem er aus bedachtem Rat und Vorsehung Gottes übergeben war) habt ihr genommen durch die Hände der Ungerechten und ihn angeheftet und getötet.
 @24 Den hat Gott auferweckt, und aufgelöst die Schmerzen des Todes, wie es denn unmöglich war, dass er sollte von ihm gehalten werden.
 @25 Denn David spricht von ihm: „Ich habe den Herrn allezeit vorgesetzt vor mein Angesicht; denn er ist an meiner Rechten, auf dass ich nicht bewegt werde.
 @26 Darum ist mein Herz fröhlich, und meine Zunge freuet sich; denn auch mein Fleisch wird ruhen in der Hoffnung.
@@ -172,7 +172,7 @@
 @27 Und als sie sie brachten, stellten sie sie vor den Rat. Und der Hohepriester fragte sie
 @28 und sprach: Haben wir euch nicht mit Ernst geboten, dass ihr nicht solltet lehren in diesem Namen? Und sehet, ihr habt Jerusalem erfüllt mit eurer Lehre und wollt dieses Menschen Blut über uns führen.
 @29 Petrus aber antwortete und die Apostel und sprachen: Man muss Gott mehr gehorchen denn den Menschen.
-@30 Der Gott unserer Väter hat Jesum auferweckt, welchen ihr erwürgt habt und an das Holz gehängt.
+@30 Der Gott unserer Väter hat Jesum auferweckt, welchen ihr getötet habt und an das Holz gehängt.
 @31 Den hat Gott durch seine rechte Hand erhöht zu einem Fürsten und Heiland, zu geben Israel Buße und Vergebung der Sünden.
 @32 Und wir sind seine Zeugen über diese Worte und der heilige Geist, welchen Gott gegeben hat denen, die ihm gehorchen.
 @33 Da sie das hörten, ging's ihnen durchs Herz, und dachten, sie zu töten.
@@ -615,7 +615,7 @@
 @24 Der, da er solches Gebot empfangen hatte, warf sie in das innerste Gefängnis und legte ihre Füße in den Stock.
 @25 Um die Mitternacht aber beteten Paulus und Silas und lobten Gott. Und es hörten sie die Gefangenen.
 @26 Schnell aber ward ein großes Erdbeben, also dass sich bewegten die Grundfesten des Gefängnisses. Und von Stund an wurden alle Türen aufgetan und aller Bande los.
-@27 Als aber der Kerkermeister aus dem Schlafe fuhr und sah die Türen des Gefängnisses aufgetan, zog er das Schwert aus und wollte sich selbst erwürgen; denn er meinte die Gefangenen wären entflohen.
+@27 Als aber der Kerkermeister aus dem Schlafe fuhr und sah die Türen des Gefängnisses aufgetan, zog er das Schwert aus und wollte sich selbst töten; denn er meinte die Gefangenen wären entflohen.
 @28 Paulus rief aber laut und sprach: Tu dir nichts Übles; denn wir sind alle hier!
 @29 Er forderte aber ein Licht und sprang hinein und ward zitternd und fiel Paulus und Silas zu den Füßen
 @30 und führte sie heraus und sprach: Liebe Herren, was soll ich tun, dass ich selig werde?
@@ -957,7 +957,7 @@
 @7 zu welcher hoffen die zwölf Geschlechter der Unseren zu kommen mit Gottesdienst emsig Tag und Nacht. Dieser Hoffnung halben werde ich, König Agrippa, von den Juden beschuldigt.
 @8 Warum wird das für unglaublich bei euch geachtet, das Gott Tote auferweckt?
 @9 Zwar meinte ich auch bei mir selbst, ich müsste viel zuwider tun dem Namen Jesu von Nazareth,
-@10 wie ich denn auch zu Jerusalem getan habe, da ich viele Heilige in das Gefängnis verschloss, darüber ich Macht von den Hohenpriestern empfing; und wenn sie erwürgt wurden, half ich das Urteil sprechen.
+@10 wie ich denn auch zu Jerusalem getan habe, da ich viele Heilige in das Gefängnis verschloss, darüber ich Macht von den Hohenpriestern empfing; und wenn sie getötet wurden, half ich das Urteil sprechen.
 @11 Und durch alle Schulen peinigte ich sie oft und zwang sie zu lästern; und war überaus unsinnig auf sie, verfolgte sie auch bis in die fremden Städte.
 @12 Über dem, da ich auch gen Damaskus reiste mit Macht und Befehl von den Hohenpriestern,
 @13 sah ich mitten am Tage, o König, auf dem Wege ein Licht vom Himmel, heller denn der Sonne Glanz, das mich und die mit mir reisten, umleuchtete.

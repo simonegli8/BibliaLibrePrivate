@@ -15,7 +15,7 @@
 @14 und lässest die Menschen gehen wie Fische im Meer, wie Gewürm, das keinen Herrn hat?
 @15 Sie ziehen alles mit dem Haken und fangen's mit ihrem Netz und sammeln's mit ihrem Garn; des freuen sie sich und sind fröhlich.
 @16 Darum opfern sie ihrem Netze und räuchern ihrem Garn, weil durch diese ihr Teil so fett und ihre Speise so völlig geworden ist.
-@17 Sollen sie derhalben ihr Netz immerdar auswerfen und nicht aufhören, Völker zu erwürgen?
+@17 Sollen sie derhalben ihr Netz immerdar auswerfen und nicht aufhören, Völker zu töten?
 
 # 2
 @1 Hier stehe ich auf meiner Hut und trete auf meine Feste und schaue und sehe zu, was mir gesagt werde, und was meine Antwort sein sollte auf mein Rechten.

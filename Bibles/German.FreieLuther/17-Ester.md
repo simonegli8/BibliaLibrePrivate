@@ -30,8 +30,8 @@
 @5 Es war aber ein jüdischer Mann zu Schloss Susan, der hieß Mardochai, ein Sohn Jairs, des Sohnes Simeis, des Sohnes des Kis, ein Benjaminiter,
 @6 der mit weggeführt war von Jerusalem, da Jechonja, der König Judas, weggeführt ward, welchen Nebukadnezar, der König zu Babel, wegführte.
 @7 Und er war ein Vormund der Hadassa, das ist Esther, einer Tochter seines Oheims; denn sie hatte weder Vater noch Mutter. Und sie war eine schöne und feine Dirne. Und da ihr Vater und Mutter starb, nahm sie Mardochai auf zur Tochter.
-@8 Da nun das Gebot und Gesetz des Königs laut ward und viel Dirnen zuhaufe gebracht wurden gen Schloss Susan unter die Hand Hegais, ward Esther auch genommen zu des Königs Hause unter die Hand Hegais, des Hüters der Frauen.
-@9 Und die Dirne gefiel ihm, und sie fand Barmherzigkeit vor ihm. Und er eilte mit ihrem Schmuck, dass er ihr ihren Teil gäbe und sieben feine Dirnen von des Königs Hause dazu. Und er tat sie mit ihren Dirnen an den besten Ort im Frauenhaus.
+@8 Da nun das Gebot und Gesetz des Königs laut ward und viel junge Frauen zuhaufe gebracht wurden gen Schloss Susan unter die Hand Hegais, ward Esther auch genommen zu des Königs Hause unter die Hand Hegais, des Hüters der Frauen.
+@9 Und die Dirne gefiel ihm, und sie fand Barmherzigkeit vor ihm. Und er eilte mit ihrem Schmuck, dass er ihr ihren Teil gäbe und sieben feine Mägde von des Königs Hause dazu. Und er tat sie mit ihren Mägden an den besten Ort im Frauenhaus.
 @10 Und Esther sagte ihm nicht an ihr Volk und ihre Freundschaft; denn Mardochai hatte ihr geboten, sie sollte es nicht ansagen.
 @11 Und Mardochai wandelte alle Tage vor dem Hofe am Frauenhaus, dass er erführe, ob's Esther wohl ginge und was ihr geschehen würde.
 @12 Wenn aber die bestimmte Zeit einer jeglichen Dirne kam, dass sie zum König Ahasveros kommen sollte, nachdem sie zwölf Monate im Frauen-Schmücken gewesen war (denn ihr Schmücken musste so viel Zeit haben, nämlich sechs Monate mit Balsam und Myrrhe und sechs Monate mit guter Spezerei, so waren denn die Frauen geschmückt):
@@ -60,7 +60,7 @@
 @10 Da tat der König seinen Ring von der Hand und gab ihn Haman, dem Sohn Hammedathas, dem Agagiter, der Juden Feind.
 @11 Und der König sprach zu Haman: Das Silber sei dir gegeben, dazu das Volk, dass du damit tust, was dir gefällt.
 @12 Da rief man die Schreiber des Königs am dreizehnten Tage des ersten Monats; und ward geschrieben, wie Haman befahl, an die Fürsten des Königs und zu den Landpflegern hin und her in den Ländern und zu den Hauptleuten eines jeglichen Volks in den Ländern hin und her, nach der Schrift eines jeglichen Volks und nach ihrer Sprache, im Namen des Königs Ahasveros und mit des Königs Ring versiegelt.
-@13 Und die Briefe wurden gesandt durch die Läufer in alle Länder des Königs, zu vertilgen, zu erwürgen und umzubringen alle Juden, jung und alt, Kinder und Frauen, auf einen Tag, nämlich auf den dreizehnten Tag des zwölften Monats, das ist der Monat Adar, und ihr Gut zu rauben.
+@13 Und die Briefe wurden gesandt durch die Läufer in alle Länder des Königs, zu vertilgen, zu töten und umzubringen alle Juden, jung und alt, Kinder und Frauen, auf einen Tag, nämlich auf den dreizehnten Tag des zwölften Monats, das ist der Monat Adar, und ihr Gut zu rauben.
 @14 Also war der Inhalt der Schrift: dass ein Gebot gegeben wäre in allen Ländern, allen Völkern zu eröffnen, dass sie auf denselben Tag bereit wären.
 @15 Und die Läufer gingen aus eilend nach des Königs Wort, und zu Schloss Susan ward das Gebot angeschlagen. Und der König und Haman saßen und tranken; aber die Stadt Susan ward bestürzt.
 
@@ -68,7 +68,7 @@
 @1 Da Mardochai erfuhr alles, was geschehen war, zerriss er seine Kleider und legte einen Sack an und Asche und ging hinaus mitten in die Stadt und schrie laut und kläglich.
 @2 Und kam bis vor das Tor des Königs; denn es durfte niemand zu des Königs Tor eingehen, der einen Sack anhatte.
 @3 Und in allen Ländern, an welchen Ort des Königs Wort und Gebot gelangte, war ein großes Klagen unter den Juden, und viele fasteten, weinten, trugen Leid und lagen in Säcken und in der Asche.
-@4 Da kamen die Dirnen Esthers und ihre Kämmerer und sagten's ihr an. Da erschrak die Königin sehr. Und sie sandte Kleider, dass Mardochai sie anzöge und den Sack von sich ablegte; aber er nahm sie nicht.
+@4 Da kamen die Mägde Esthers und ihre Kämmerer und sagten's ihr an. Da erschrak die Königin sehr. Und sie sandte Kleider, dass Mardochai sie anzöge und den Sack von sich ablegte; aber er nahm sie nicht.
 @5 Da rief Esther Hathach unter des Königs Kämmerern, der vor ihr stand, und gab ihm Befehl an Mardochai, dass sie erführe, was das wäre und warum er so täte.
 @6 Da ging Hathach hinaus zu Mardochai in die Gasse der Stadt, die vor dem Tor des Königs war.
 @7 Und Mardochai sagte ihm alles, was ihm begegnet wäre, und die Summe des Silbers, das Haman versprochen hatte in des Königs Kammer darzuwägen um der Juden willen, sie zu vertilgen,
@@ -80,7 +80,7 @@
 @13 hieß Mardochai Esther wieder sagen: Gedenke nicht, dass du dein Leben errettest, weil du im Hause des Königs bist, vor allen Juden;
 @14 denn wo du wirst zu dieser Zeit schweigen, so wird eine Hilfe und Errettung von einem anderen Ort her den Juden entstehen, und du und deines Vaters Haus werdet umkommen. Und wer weiß, ob du nicht um dieser Zeit willen zur königlichen Würde gekommen bist?
 @15 Esther hieß Mardochai antworten:
-@16 So gehe hin und versammle alle Juden, die zu Susan vorhanden sind, und fastet für mich, dass ihr nicht esset und trinket in drei Tagen, weder Tag noch Nacht; ich und meine Dirnen wollen auch also fasten. Und also ich will zum König hineingehen wider das Gebot; komme ich um, so komme ich um.
+@16 So gehe hin und versammle alle Juden, die zu Susan vorhanden sind, und fastet für mich, dass ihr nicht esset und trinket in drei Tagen, weder Tag noch Nacht; ich und meine Mägde wollen auch also fasten. Und also ich will zum König hineingehen wider das Gebot; komme ich um, so komme ich um.
 @17 Mardochai ging hin und tat alles, was ihm Esther geboten hatte.
 
 # 5
@@ -119,7 +119,7 @@
 @1 Und da der König mit Haman kam zum Mahl, das die Königin Esther zugerichtet hatte,
 @2 sprach der König zu Esther auch des anderen Tages, da er Wein getrunken hatte: Was bittest du, Königin Esther, dass man dir's gebe? Und was forderst du? Auch das halbe Königreich, es soll geschehen.
 @3 Esther, die Königin, antwortete und sprach: Habe ich Gnade vor dir gefunden, o König, und gefällt es dem König, so gib mir mein Leben um meiner Bitte willen und mein Volk um meines Begehrens willen.
-@4 Denn wir sind verkauft, ich und mein Volk, dass wir vertilgt, erwürgt und umgebracht werden. Und wären wir doch nur zu Knechten und Mägden verkauft, so wollte ich schweigen; so würde der Feind doch dem König nicht schaden.
+@4 Denn wir sind verkauft, ich und mein Volk, dass wir vertilgt, getötet und umgebracht werden. Und wären wir doch nur zu Knechten und Mägden verkauft, so wollte ich schweigen; so würde der Feind doch dem König nicht schaden.
 @5 Der König Ahasveros redete und sprach zu der Königin Esther: Wer ist der, oder wo ist der, der solches in seinen Sinn nehmen dürfe, also zu tun?
 @6 Esther sprach: Der Feind und Widersacher ist dieser böse Haman. Haman entsetzte sich vor dem König und der Königin.
 @7 Und der König stand auf vom Mahl und vom Wein in seinem Grimm und ging in den Garten am Hause. Und Haman stand auf und bat die Königin Esther um sein Leben; denn er sah, dass ihm ein Unglück vom König schon bereitet war.
@@ -138,7 +138,7 @@
 @8 so schreibt nun ihr für die Juden, wie es euch gefällt, in des Königs Namen und versiegelt's mit des Königs Ringe. Denn die Schriften, die in des Königs Namen geschrieben und mit des Königs Ringe versiegelt wurden, durfte niemand widerrufen.
 @9 Da wurden gerufen des Königs Schreiber zu der Zeit im dritten Monat, das ist der Monat Sivan, am dreiundzwanzigsten Tage, und wurde geschrieben, wie Mardochai gebot, an die Juden und an die Fürsten, Landpfleger und Hauptleute in den Landen von Indien bis an Mohrenland, nämlich 127 Länder, einem jeglichen Lande nach seiner Schrift, einem jeglichen Volk nach seiner Sprache, und den Juden nach ihrer Schrift und Sprache.
 @10 Und es ward geschrieben in des Königs Ahasveros Namen und mit des Königs Ring versiegelt. Und er sandte die Briefe durch die reitenden Boten auf jungen Maultieren,
-@11 darin der König den Juden Macht gab, in welchen Städten sie auch waren, sich zu versammeln und zu stehen für ihr Leben und zu vertilgen, zu erwürgen und umzubringen alle Macht des Volks und Landes, die sie ängsteten, samt den Kindern und Frauen, und ihr Gut zu rauben
+@11 darin der König den Juden Macht gab, in welchen Städten sie auch waren, sich zu versammeln und zu stehen für ihr Leben und zu vertilgen, zu töten und umzubringen alle Macht des Volks und Landes, die sie ängsteten, samt den Kindern und Frauen, und ihr Gut zu rauben
 @12 auf einen Tag in allen Ländern des Königs Ahasveros, nämlich am dreizehnten Tage des zwölften Monats, das ist der Monat Adar.
 @13 Der Inhalt aber der Schrift war, dass ein Gebot gegeben wäre in allen Landen, zu eröffnen allen Völkern, dass die Juden auf den Tag bereit sein sollten, sich zu rächen an ihren Feinden.
 @14 Und die reitenden Boten auf den Maultieren ritten aus schnell und eilend nach dem Wort des Königs, und das Gebot ward zu Schloss Susan angeschlagen.
@@ -152,17 +152,17 @@
 @3 Auch alle Obersten in den Landen und Fürsten und Landpfleger und Amtleute des Königs halfen den Juden; denn die Furcht vor Mardochai war über sie gekommen.
 @4 Denn Mardochai war groß im Hause des Königs, und sein Gerücht erscholl in allen Ländern, wie er zunähme und groß würde.
 @5 Also schlugen die Juden an allen ihren Feinden eine Schwertschlacht und würgten und brachten um und taten nach ihrem Willen an denen, die ihnen feind waren.
-@6 Und zu Schloss Susan erwürgten die Juden und brachten um 500 Mann;
-@7 dazu erwürgten sie Parsandatha, Dalphon, Aspatha,
+@6 Und zu Schloss Susan töteten die Juden und brachten um 500 Mann;
+@7 dazu töteten sie Parsandatha, Dalphon, Aspatha,
 @8 Poratha, Adalja, Aridatha,
 @9 Parmastha, Arisai, Aridai, Vajesatha,
 @10 die zehn Söhne Hamans, des Sohnes Hammedathas, des Judenfeindes. Aber an die Güter legten sie ihre Hände nicht.
 @11 Zu derselben Zeit kam die Zahl der Erwürgten zu Schloss Susan vor den König.
-@12 Und der König sprach zu der Königin Esther: Die Juden haben zu Schloss Susan 500 Mann erwürgt und umgebracht und die zehn Söhne Hamans; was werden sie tun in den anderen Ländern des Königs? Was bittest du, dass man dir gebe? und was forderst du mehr, dass man tue?
+@12 Und der König sprach zu der Königin Esther: Die Juden haben zu Schloss Susan 500 Mann getötet und umgebracht und die zehn Söhne Hamans; was werden sie tun in den anderen Ländern des Königs? Was bittest du, dass man dir gebe? und was forderst du mehr, dass man tue?
 @13 Esther sprach: Gefällt's dem König, so lasse er auch morgen die Juden zu Susan tun nach dem heutigen Gebot, und die zehn Söhne Hamans soll man an den Baum hängen.
 @14 Und der König hieß also tun. Und das Gebot ward zu Susan angeschlagen, und die zehn Söhne Hamans wurden gehängt.
-@15 Und die Juden zu Susan versammelten sich auch am vierzehnten Tage des Monats Adar und erwürgten zu Susan 300 Mann; aber an ihre Güter legten sie ihre Hände nicht.
-@16 Aber die anderen Juden in den Ländern des Königs kamen zusammen und standen für ihr Leben, dass sie Ruhe schafften vor ihren Feinden, und erwürgten ihrer Feinde 75.000; aber an ihre Güter legten sie ihre Hände nicht.
+@15 Und die Juden zu Susan versammelten sich auch am vierzehnten Tage des Monats Adar und töteten zu Susan 300 Mann; aber an ihre Güter legten sie ihre Hände nicht.
+@16 Aber die anderen Juden in den Ländern des Königs kamen zusammen und standen für ihr Leben, dass sie Ruhe schafften vor ihren Feinden, und töteten ihrer Feinde 75.000; aber an ihre Güter legten sie ihre Hände nicht.
 @17 Das geschah am dreizehnten Tage des Monats Adar, und sie ruhten am vierzehnten Tage desselben Monats; den machte man zum Tage des Wohllebens und der Freude.
 @18 Aber die Juden zu Susan waren zusammengekommen am dreizehnten und vierzehnten Tage und ruhten am fünfzehnten Tage; und den Tag machte man zum Tage des Wohllebens und der Freude.
 @19 Darum machten die Juden, die auf den Dörfern und Flecken wohnten, den vierzehnten Tag des Monats Adar zum Tage des Wohllebens und der Freude, und sandte einer dem anderen Geschenke.

@@ -328,7 +328,7 @@
 @27 Denn der HErr Zebaoth hat's beschlossen – wer will's wehren? –, und seine Hand ist ausgereckt – wer will sie wenden?
 @28 Im Jahr, da König Ahas starb, war dies die Last:
 @29 Freue dich nicht, du ganzes Philisterland, dass die Rute, die dich schlug, zerbrochen ist! Denn aus der Wurzel der Schlange wird ein Basilisk kommen, und ihre Frucht wird ein feuriger fliegender Drache sein.
-@30 Denn die Erstlinge der Dürftigen werden weiden, und die Armen sicher ruhen; aber deine Wurzel will ich mit Hunger töten, und deine Übriggebliebenen wird er erwürgen.
+@30 Denn die Erstlinge der Dürftigen werden weiden, und die Armen sicher ruhen; aber deine Wurzel will ich mit Hunger töten, und deine Übriggebliebenen wird er töten.
 @31 Heule, Tor! schreie, Stadt! Ganz Philisterland ist feige; denn von Mitternacht kommt ein Rauch, und ist kein Einsamer in seinen Gezelten.
 @32 Und was werden die Boten der Heiden hin und wieder sagen? „Zion hat der HErr gegründet, und daselbst werden die Elenden seines Volks Zuversicht haben.“
 
@@ -545,16 +545,16 @@
 @18 Da sind wir auch schwanger und ist uns bange, dass wir kaum Odem holen; doch können wir dem Lande nicht helfen, und Einwohner auf dem Erdboden wollen nicht geboren werden.
 @19 Aber deine Toten werden leben, meine Leichname werden auferstehen. Wachet auf und rühmet, die ihr liegt unter der Erde! Denn dein Tau ist ein Tau des grünen Feldes; aber das Land der Toten wirst du stürzen.
 @20 Gehe hin, mein Volk, in deine Kammer und schließ die Tür nach dir zu; verbirg dich einen kleinen Augenblick, bis der Zorn vorübergehe.
-@21 Denn siehe, der HErr wird ausgehen von seinem Ort, heimzusuchen die Bosheit der Einwohner des Landes über sie, dass das Land wird offenbaren ihr Blut und nicht weiter verhehlen, die darin erwürgt sind.
+@21 Denn siehe, der HErr wird ausgehen von seinem Ort, heimzusuchen die Bosheit der Einwohner des Landes über sie, dass das Land wird offenbaren ihr Blut und nicht weiter verhehlen, die darin getötet sind.
 
 # 27
-@1 Zu der Zeit wird der HErr heimsuchen mit seinem harten, großen und starken Schwert beide, den Leviathan, der eine flüchtige Schlange, und den Leviathan, der eine gewundene Schlange ist, und wird den Drachen im Meer erwürgen.
+@1 Zu der Zeit wird der HErr heimsuchen mit seinem harten, großen und starken Schwert beide, den Leviathan, der eine flüchtige Schlange, und den Leviathan, der eine gewundene Schlange ist, und wird den Drachen im Meer töten.
 @2 Zu der Zeit wird man singen von dem Weinberge des besten Weins:
 @3 Ich, der HErr, behüte ihn und feuchte ihn bald, dass man seine Blätter nicht vermisse; ich will ihn Tag und Nacht behüten.
 @4 Gott zürnt nicht mit mir. Ach, dass ich möchte mit den Hecken und Dornen kriegen! so wollte ich unter sie fallen und sie auf einen Haufen anstecken.
 @5 Er wird mich erhalten bei meiner Kraft und wird mir Frieden schaffen; Frieden wird er mir dennoch schaffen.
 @6 Es wird dennoch dazu kommen, dass Jakob wurzeln und Israel blühen und grünen wird, dass sie den Erdboden mit Früchten erfüllen.
-@7 Wird er doch nicht geschlagen, wie seine Feinde geschlagen werden, und wird nicht erwürgt, wie seine Feinde erwürgt werden;
+@7 Wird er doch nicht geschlagen, wie seine Feinde geschlagen werden, und wird nicht getötet, wie seine Feinde getötet werden;
 @8 sondern mit Maßen richtest du sie und lässest sie los, wenn du sie betrübt hast mit deinem rauhen Sturm am Tage des Ostwinds.
 @9 Darum wird dadurch die Sünde Jakobs versöhnt werden; und der Nutzen davon, dass seine Sünden weggenommen werden, ist der, dass er alle Altarsteine macht wie zerstoßene Kalksteine, dass keine Ascherabilder noch Sonnensäulen mehr bleiben.
 @10 Denn die feste Stadt muss einsam werden, die schönen Häuser verödet und verlassen werden wie eine Wüste, dass Kälber daselbst weiden und ruhen und daselbst Reiser abfressen.

@@ -94,13 +94,13 @@
 @3 Und niemand im Himmel noch auf Erden noch unter der Erde konnte das Buch auftun und hineinsehen.
 @4 Und ich weinte sehr, dass niemand würdig erfunden ward, das Buch aufzutun und zu lesen noch hineinzusehen.
 @5 Und einer von den Ältesten spricht zu mir: Weine nicht! Siehe, es hat überwunden der Löwe, der da ist vom Geschlecht Juda, die Wurzel Davids, aufzutun das Buch und zu brechen seine sieben Siegel.
-@6 Und ich sah, und siehe, mitten zwischen dem Stuhl und den vier Tieren und zwischen den Ältesten stand ein Lamm, wie wenn es erwürgt wäre, und hatte sieben Hörner und sieben Augen, das sind die sieben Geister Gottes, gesandt in alle Lande.
+@6 Und ich sah, und siehe, mitten zwischen dem Stuhl und den vier Tieren und zwischen den Ältesten stand ein Lamm, wie wenn es geschlachtet wäre, und hatte sieben Hörner und sieben Augen, das sind die sieben Geister Gottes, gesandt in alle Lande.
 @7 Und es kam und nahm das Buch aus der Hand des, der auf dem Stuhl saß.
 @8 Und da es das Buch nahm, da fielen die vier Tiere und die vierundzwanzig Ältesten nieder vor dem Lamm und hatten ein jeglicher Harfen und goldene Schalen voll Räuchwerk, das sind die Gebete der Heiligen,
-@9 und sangen ein neues Lied und sprachen: Du bist würdig, zu nehmen das Buch und aufzutun seine Siegel; denn du bist erwürget und hast uns Gott erkauft mit deinem Blut aus allerlei Geschlecht und Zunge und Volk und Heiden
+@9 und sangen ein neues Lied und sprachen: Du bist würdig, zu nehmen das Buch und aufzutun seine Siegel; denn du bist getötet und hast uns Gott erkauft mit deinem Blut aus allerlei Geschlecht und Zunge und Volk und Heiden
 @10 und hast uns unserem Gott zu Königen und Priestern gemacht, und wir werden Könige sein auf Erden.
 @11 Und ich sah und hörte eine Stimme vieler Engel um den Stuhl und um die Tiere und um die Ältesten her; und ihre Zahl war vieltausendmal tausend;
-@12 und sie sprachen mit großer Stimme: Das Lamm, das erwürget ist, ist würdig, zu nehmen Kraft und Reichtum und Weisheit und Stärke und Ehre und Preis und Lob.
+@12 und sie sprachen mit großer Stimme: Das Lamm, das geschlachtet ist, ist würdig, zu nehmen Kraft und Reichtum und Weisheit und Stärke und Ehre und Preis und Lob.
 @13 Und alle Kreatur, die im Himmel ist und auf Erden und unter der Erde und im Meer, und alles, was darinnen ist, hörte ich sagen: Dem, der auf dem Stuhl sitzt, und dem Lamm sei Lob und Ehre und Preis und Gewalt von Ewigkeit zu Ewigkeit!
 @14 Und die vier Tiere sprachen: Amen! Und die vierundzwanzig Ältesten fielen nieder und beteten an den, der da lebt von Ewigkeit zu Ewigkeit.
 
@@ -108,12 +108,12 @@
 @1 Und ich sah, dass das Lamm der Siegel eines auftat; und ich hörte der vier Tiere eines sagen wie mit einer Donnerstimme: Komm!
 @2 Und ich sah, und siehe, ein weißes Pferd. Und der darauf saß, hatte einen Bogen; und ihm ward gegeben eine Krone, und er zog aus sieghaft, und dass er siegte.
 @3 Und da es das andere Siegel auftat, hörte ich das andere Tier sagen: Komm!
-@4 Und es ging heraus ein anderes Pferd, das war rot. Und dem, der darauf saß, ward gegeben, den Frieden zu nehmen von der Erde und dass sie sich untereinander erwürgten; und ihm ward ein großes Schwert gegeben.
+@4 Und es ging heraus ein anderes Pferd, das war rot. Und dem, der darauf saß, ward gegeben, den Frieden zu nehmen von der Erde und dass sie sich untereinander töteten; und ihm ward ein großes Schwert gegeben.
 @5 Und da es das dritte Siegel auftat, hörte ich das dritte Tier sagen: Komm! Und ich sah, und siehe, ein schwarzes Pferd. Und der darauf saß, hatte eine Waage in seiner Hand.
 @6 Und ich hörte eine Stimme unter den vier Tieren sagen: Ein Maß Weizen um einen Groschen und drei Maß Gerste um einen Groschen; und dem Öl und Wein tu kein Leid!
 @7 Und da es das vierte Siegel auftat, hörte ich die Stimme des vierten Tieres sagen: Komm!
 @8 Und ich sah, und siehe, ein fahles Pferd. Und der darauf saß, des Name hieß Tod, und die Hölle folgte ihm nach. Und ihnen ward Macht gegeben, zu töten den vierten Teil auf der Erde mit dem Schwert und Hunger und mit dem Tod und durch die Tiere auf Erden.
-@9 Und da es das fünfte Siegel auftat, sah ich unter dem Altar die Seelen derer, die erwürgt waren um des Wortes Gottes willen und um des Zeugnisses willen, das sie hatten.
+@9 Und da es das fünfte Siegel auftat, sah ich unter dem Altar die Seelen derer, die getötet waren um des Wortes Gottes willen und um des Zeugnisses willen, das sie hatten.
 @10 Und sie schrien mit großer Stimme und sprachen: Herr, du Heiliger und Wahrhaftiger, wie lange richtest du nicht und rächest unser Blut an denen, die auf der Erde wohnen?
 @11 Und ihnen wurde gegeben einem jeglichen ein weißes Kleid, und ward zu ihnen gesagt, dass sie ruhten noch eine kleine Zeit, bis dass vollends dazukämen ihre Mitknechte und Brüder, die auch sollten noch getötet werden gleich wie sie.
 @12 Und ich sah, dass es das sechste Siegel auftat, und siehe, da ward ein großes Erdbeben, und die Sonne ward schwarz wie ein härener Sack, und der Mond ward wie Blut;
@@ -242,7 +242,7 @@
 @5 Und es ward ihm gegeben ein Mund, zu reden große Dinge und Lästerungen, und ward ihm gegeben, dass es mit ihm währte zweiundvierzig Monate lang.
 @6 Und es tat seinen Mund auf zur Lästerung gegen Gott, zu lästern seinen Namen und seine Hütte und die im Himmel wohnen.
 @7 Und ihm ward gegeben, zu streiten mit den Heiligen und sie zu überwinden; und ihm ward gegeben Macht über alle Geschlechter und Sprachen und Heiden.
-@8 Und alle, die auf Erden wohnen, beten es an, deren Namen nicht geschrieben sind in dem Lebensbuch des Lammes, das erwürgt ist, von Anfang der Welt.
+@8 Und alle, die auf Erden wohnen, beten es an, deren Namen nicht geschrieben sind in dem Lebensbuch des Lammes, das geschlachtet ist, von Anfang der Welt.
 @9 Hat jemand Ohren, der höre!
 @10 Wenn jemand in das Gefängnis führt, der wird in das Gefängnis gehen; wenn jemand mit dem Schwert tötet, der muss mit dem Schwert getötet werden. Hier ist Geduld und Glaube der Heiligen.
 @11 Und ich sah ein anderes Tier aufsteigen aus der Erde; das hatte zwei Hörner gleichwie ein Lamm und redete wie ein Drache.
@@ -353,7 +353,7 @@
 @21 Und ein starker Engel hob einen großen Stein auf wie einen Mühlstein, warf ihn ins Meer und sprach: Also wird mit einem Sturm verworfen die große Stadt Babylon und nicht mehr gefunden werden.
 @22 Und die Stimme der Sänger und Saitenspieler, Pfeifer und Posauner soll nicht mehr in dir gehört werden, und kein Handwerksmann irgendeines Handwerks soll mehr in dir gefunden werden, und die Stimme der Mühle soll nicht mehr in dir gehört werden,
 @23 und das Licht der Leuchte soll nicht mehr in dir leuchten, und die Stimme des Bräutigams und der Braut soll nicht mehr in dir gehört werden! Denn deine Kaufleute waren Fürsten auf Erden; denn durch deine Zauberei sind verführt worden alle Heiden.
-@24 Und das Blut der Propheten und der Heiligen ist in ihr gefunden worden und all derer, die auf Erden erwürgt sind.
+@24 Und das Blut der Propheten und der Heiligen ist in ihr gefunden worden und all derer, die auf Erden getötet sind.
 
 # 19
 @1 Darnach hörte ich eine Stimme großer Scharen im Himmel, die sprachen: Halleluja! Heil und Preis, Ehre und Kraft sei Gott, unserem Herrn!
@@ -376,7 +376,7 @@
 @18 dass ihr esset das Fleisch der Könige und der Hauptleute und das Fleisch der Starken und der Pferde und derer, die darauf sitzen, und das Fleisch aller Freien und Knechte, der Kleinen und der Großen!
 @19 Und ich sah das Tier und die Könige auf Erden und ihre Heere versammelt, Streit zu halten mit dem, der auf dem Pferde saß, und mit seinem Heer.
 @20 Und das Tier ward gegriffen und mit ihm der falsche Prophet, der die Zeichen tat vor ihm, durch welche er verführte, die das Malzeichen des Tieres nahmen und die das Bild des Tieres anbeteten; lebendig wurden diese beiden in den feurigen Pfuhl geworfen, der mit Schwefel brannte.
-@21 Und die anderen wurden erwürgt mit dem Schwert des, der auf dem Pferde saß, das aus seinem Munde ging; und alle Vögel wurden satt von ihrem Fleisch.
+@21 Und die anderen wurden getötet mit dem Schwert des, der auf dem Pferde saß, das aus seinem Munde ging; und alle Vögel wurden satt von ihrem Fleisch.
 
 # 20
 @1 Und ich sah einen Engel vom Himmel fahren, der hatte den Schlüssel zum Abgrund und eine große Kette in seiner Hand.

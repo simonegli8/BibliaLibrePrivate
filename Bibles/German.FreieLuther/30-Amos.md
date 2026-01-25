@@ -18,7 +18,7 @@
 # 2
 @1 So spricht der HErr: Um drei und vier Frevel willen Moabs will ich ihrer nicht schonen, darum dass sie die Gebeine des Königs zu Edom haben zu Asche verbrannt;
 @2 sondern ich will ein Feuer schicken nach Moab, das soll die Paläste zu Karioth verzehren; und Moab soll sterben im Getümmel und Geschrei und Posaunenhall.
-@3 Und ich will den Richter unter ihnen ausrotten und alle ihre Fürsten samt ihm erwürgen, spricht der HErr.
+@3 Und ich will den Richter unter ihnen ausrotten und alle ihre Fürsten samt ihm töten, spricht der HErr.
 @4 So spricht der HErr: Um drei und vier Frevel willen Judas will ich sein nicht schonen, darum dass sie des HErrn Gesetz verachten und seine Rechte nicht halten und lassen sich ihre Lügen verführen, welchen ihre Väter nachgefolgt sind;
 @5 sondern ich will ein Feuer nach Juda schicken, das soll die Paläste zu Jerusalem verzehren.
 @6 So spricht der HErr: Um drei und vier Frevel willen Israels will ich ihrer nicht schonen, darum dass sie die Gerechten um Geld und die Armen um ein Paar Schuhe verkaufen.
@@ -146,10 +146,10 @@
 @14 die jetzt schwören bei dem Fluch Samarias und sprechen: „So wahr dein Gott zu Dan lebt! so wahr die Weise zu Beer-Seba lebt!“ Denn sie sollen also fallen, dass sie nicht wieder aufstehen.
 
 # 9
-@1 Ich sah den Herrn auf dem Altar stehen, und er sprach: Schlage an den Knauf, dass die Pfosten beben und die Stücke ihnen allen auf den Kopf fallen; und ihre Nachkommen will ich mit dem Schwert erwürgen, dass keiner entfliehen noch irgendeiner entgehen soll.
+@1 Ich sah den Herrn auf dem Altar stehen, und er sprach: Schlage an den Knauf, dass die Pfosten beben und die Stücke ihnen allen auf den Kopf fallen; und ihre Nachkommen will ich mit dem Schwert töten, dass keiner entfliehen noch irgendeiner entgehen soll.
 @2 Und wenn sie sich gleich in die Hölle vergrüben, soll sie doch meine Hand von dort holen; und wenn sie gen Himmel führen, will ich sie doch herunterstoßen;
 @3 und wenn sie sich gleich versteckten oben auf dem Berge Karmel, will ich sie doch daselbst suchen und herabholen; und wenn sie sich vor meinen Augen verbürgen im Grunde des Meeres, so will ich doch den Schlangen befehlen, die sie daselbst stechen sollen;
-@4 und wenn sie vor ihren Feinden hin gefangen gingen, so will ich doch dem Schwert befehlen, dass es sie daselbst erwürgen soll. Denn ich will meine Augen über sie halten zum Unglück und nicht zum Guten.
+@4 und wenn sie vor ihren Feinden hin gefangen gingen, so will ich doch dem Schwert befehlen, dass es sie daselbst töten soll. Denn ich will meine Augen über sie halten zum Unglück und nicht zum Guten.
 @5 Denn der Herr HErr Zebaoth ist ein solcher: Wenn er ein Land anrührt, so zerschmilzt es, dass alle Einwohner trauern müssen; dass es soll ganz überlaufen werden wie mit einem Wasser und überschwemmt werden wie mit dem Fluss Ägyptens.
 @6 Er ist's, der seinen Saal in den Himmel baut und seine Hütte auf Erden gründet; er ruft dem Wasser im Meer und schüttet's auf das Erdreich, – er heißt HErr.
 @7 Seid ihr Kinder Israel mir nicht gleichwie die Mohren? spricht der HErr. Habe ich nicht Israel aus Ägyptenland geführt und die Philister aus Kaphthor und die Syrer aus Kir?
