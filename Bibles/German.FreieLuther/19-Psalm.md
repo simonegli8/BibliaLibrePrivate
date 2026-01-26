@@ -524,7 +524,7 @@
 @16 Einem Könige hilft nicht seine große Macht; ein Riese wird nicht errettet durch seine große Kraft.
 @17 Rosse helfen auch nicht, und ihre große Stärke errettet nicht.
 @18 Siehe, des HErrn Auge sieht auf die, die ihn fürchten, die auf seine Güte hoffen,
-@19 dass er ihre Seele errette vom Tode und ernähre sie in der Teuerung.
+@19 dass er ihre Seele errette vom Tode und ernähre sie in der Hungersnot.
 @20 Unsere Seele harret auf den HErrn; er ist unsere Hilfe und Schild.
 @21 Denn unser Herz freut sich sein, und wir trauen auf seinen heiligen Namen.
 @22 Deine Güte, HErr, sei über uns, wie wir auf dich hoffen.
@@ -592,7 +592,7 @@
 @5 sondern sie trachten auf ihrem Lager nach Schaden und stehen fest auf dem bösen Weg und scheuen kein Arges.
 @6 HErr, deine Güte reicht, soweit der Himmel ist, und deine Wahrheit, soweit die Wolken gehen.
 @7 Deine Gerechtigkeit steht wie die Berge Gottes und dein Recht wie eine große Tiefe. HErr, du hilfst Menschen und Vieh.
-@8 Wie teuer ist deine Güte, Gott, dass Menschenkinder unter dem Schatten deiner Flügel Zuflucht haben!
+@8 Wie köstlich ist deine Güte, Gott, dass Menschenkinder unter dem Schatten deiner Flügel Zuflucht haben!
 @9 Sie werden trunken von den reichen Gütern deines Hauses, und du tränkest sie mit Wonne als mit einem Strom.
 @10 Denn bei dir ist die Quelle des Lebens, und in deinem Licht sehen wir das Licht.
 @11 Breite deine Güte über die, die dich kennen, und deine Gerechtigkeit über die Frommen.
@@ -618,7 +618,7 @@
 @16 Das wenige, das ein Gerechter hat, ist besser als das große Gut vieler Gottlosen.
 @17 Denn der Gottlosen Arm wird zerbrechen; aber der HErr erhält die Gerechten.
 @18 Der HErr kennt die Tage der Frommen, und ihr Gut wird ewiglich bleiben.
-@19 Sie werden nicht zu Schanden in der bösen Zeit, und in der Teuerung werden sie genug haben.
+@19 Sie werden nicht zu Schanden in der bösen Zeit, und in der Hungersnot werden sie genug haben.
 @20 Denn die Gottlosen werden umkommen; und die Feinde des HErrn, wenn sie gleich sind wie eine köstliche Aue, werden sie doch vergehen, wie der Rauch vergeht.
 @21 Der Gottlose borgt und bezahlt nicht; der Gerechte aber ist barmherzig und gibt.
 @22 Denn seine Gesegneten erben das Land; aber seine Verfluchten werden ausgerottet.
@@ -1953,7 +1953,7 @@
 @13 Und sie zogen von Volk zu Volk, von einem Königreiche zum anderen Volk.
 @14 Er ließ keinen Menschen ihnen Schaden tun und strafte Könige um ihretwillen.
 @15 „Tastet meine Gesalbten nicht an und tut meinen Propheten kein Leid!“
-@16 Und er ließ Teuerung ins Land kommen und entzog allen Vorrat des Brots.
+@16 Und er ließ Hungersnot ins Land kommen und entzog allen Vorrat des Brots.
 @17 Er sandte einen Mann vor ihnen hin; Joseph ward zum Knecht verkauft.
 @18 Sie zwangen seine Füße in den Stock, sein Leib musste in Eisen liegen,
 @19 bis dass sein Wort kam und die Rede des HErrn ihn durchläuterte.

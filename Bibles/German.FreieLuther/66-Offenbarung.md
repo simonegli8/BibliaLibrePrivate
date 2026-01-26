@@ -1,9 +1,9 @@
 # 1
 @1 Dies ist die Offenbarung Jesu Christi, die ihm Gott gegeben hat, seinen Knechten zu zeigen, was in der Kürze geschehen soll; und er hat sie gedeutet und gesandt durch seinen Engel zu seinem Knecht Johannes,
-@2 der bezeugt hat das Wort Gottes und das Zeugnis von Jesu Christo, was er gesehen hat.
+@2 der bezeugt hat das Wort Gottes und das Zeugnis von Jesus Christus, was er gesehen hat.
 @3 Selig ist, der da liest und die da hören die Worte der Weissagung und behalten, was darin geschrieben ist; denn die Zeit ist nahe.
 @4 Johannes den sieben Gemeinden in Asien: Gnade sei mit euch und Friede von dem, der da ist und der da war und der da kommt, und von den sieben Geistern, die da sind vor seinem Stuhl,
-@5 und von Jesu Christo, welcher ist der treue Zeuge und Erstgeborene von den Toten und der Fürst der Könige auf Erden! Der uns geliebt hat und gewaschen von den Sünden mit seinem Blut
+@5 und von Jesus Christus, welcher ist der treue Zeuge und Erstgeborene von den Toten und der Fürst der Könige auf Erden! Der uns geliebt hat und gewaschen von den Sünden mit seinem Blut
 @6 und hat uns zu Königen und Priestern gemacht vor Gott und seinem Vater, dem sei Ehre und Gewalt von Ewigkeit zu Ewigkeit! Amen.
 @7 Siehe, er kommt mit den Wolken, und es werden ihn sehen alle Augen und die ihn zerstochen haben; und werden heulen alle Geschlechter der Erde. Ja, amen.
 @8 Ich bin das A und das O, der Anfang und das Ende, spricht Gott der Herr, der da ist und der da war und der da kommt, der Allmächtige.
@@ -266,7 +266,7 @@
 @9 Und der dritte Engel folgte diesem nach und sprach mit großer Stimme: Wenn jemand das Tier anbetet und sein Bild und nimmt das Malzeichen an seine Stirn oder an seine Hand,
 @10 der wird vom Wein des Zorns Gottes trinken, der lauter eingeschenkt ist in seines Zornes Kelch, und wird gequält werden mit Feuer und Schwefel vor den heiligen Engeln und vor dem Lamm;
 @11 und der Rauch ihrer Qual wird aufsteigen von Ewigkeit zu Ewigkeit; und sie haben keine Ruhe Tag und Nacht, die das Tier haben angebetet und sein Bild, und wenn jemand hat das Malzeichen seines Namens angenommen.
-@12 Hier ist Geduld der Heiligen; hier sind, die da halten die Gebote Gottes und den Glauben an Jesum.
+@12 Hier ist Geduld der Heiligen; hier sind, die da halten die Gebote Gottes und den Glauben an Jesus.
 @13 Und ich hörte eine Stimme vom Himmel zu mir sagen: Schreibe: Selig sind die Toten, die in dem Herrn sterben von nun an. Ja, der Geist spricht, dass sie ruhen von ihrer Arbeit; denn ihre Werke folgen ihnen nach.
 @14 Und ich sah, und siehe, eine weiße Wolke. Und auf der Wolke saß einer, der gleich war eines Menschen Sohn; der hatte eine goldene Krone auf seinem Haupt und in seiner Hand eine scharfe Sichel.
 @15 Und ein anderer Engel ging aus dem Tempel und schrie mit großer Stimme zu dem, der auf der Wolke saß: Schlag an mit deiner Sichel und ernte; denn die Zeit zu ernten ist gekommen, denn die Ernte der Erde ist dürr geworden!
@@ -382,7 +382,7 @@
 @1 Und ich sah einen Engel vom Himmel fahren, der hatte den Schlüssel zum Abgrund und eine große Kette in seiner Hand.
 @2 Und er griff den Drachen, die alte Schlange, welche ist der Teufel und Satan, und band ihn tausend Jahre
 @3 und warf ihn in den Abgrund und verschloss ihn und versiegelte obendarauf, dass er nicht mehr verführen sollte die Heiden, bis dass vollendet würden tausend Jahre; und darnach muss er los werden eine kleine Zeit.
-@4 Und ich sah Stühle, und sie setzten sich darauf, und ihnen ward gegeben das Gericht; und die Seelen derer, die enthauptet sind um des Zeugnisses Jesu und um des Wortes Gottes willen, und die nicht angebetet hatten das Tier noch sein Bild und nicht genommen hatten sein Malzeichen an ihre Stirn und auf ihre Hand, diese lebten und regierten mit Christo tausend Jahre.
+@4 Und ich sah Stühle, und sie setzten sich darauf, und ihnen ward gegeben das Gericht; und die Seelen derer, die enthauptet sind um des Zeugnisses Jesu und um des Wortes Gottes willen, und die nicht angebetet hatten das Tier noch sein Bild und nicht genommen hatten sein Malzeichen an ihre Stirn und auf ihre Hand, diese lebten und regierten mit Christus tausend Jahre.
 @5 Die anderen Toten aber wurden nicht wieder lebendig, bis dass tausend Jahre vollendet wurden. Dies ist die erste Auferstehung.
 @6 Selig ist der und heilig, der teilhat an der ersten Auferstehung. Über solche hat der andere Tod keine Macht; sondern sie werden Priester Gottes und Christi sein und mit ihm regieren tausend Jahre.
 @7 Und wenn tausend Jahre vollendet sind, wird der Satanas los werden aus seinem Gefängnis
@@ -444,5 +444,5 @@
 @17 Und der Geist und die Braut sprechen: Komm! Und wer es hört, der spreche: Komm! Und wen dürstet, der komme; und wer da will, der nehme das Wasser des Lebens umsonst.
 @18 Ich bezeuge allen, die da hören die Worte der Weissagung in diesem Buch: Wenn jemand dazusetzt, so wird Gott zusetzen auf ihn die Plagen, die in diesem Buch geschrieben stehen.
 @19 Und wenn jemand davontut von den Worten des Buchs dieser Weissagung, so wird Gott abtun sein Teil vom Holz des Lebens und von der heiligen Stadt, davon in diesem Buch geschrieben ist.
-@20 Es spricht, der solches bezeugt: Ja, ich komme bald. Amen, ja komm, Herr Jesu!
-@21 Die Gnade unseres Herrn Jesu Christi sei mit euch allen! Amen.
+@20 Es spricht, der solches bezeugt: Ja, ich komme bald. Amen, ja komm, Herr Jesus!
+@21 Die Gnade unseres Herrn Jesus Christus sei mit euch allen! Amen.

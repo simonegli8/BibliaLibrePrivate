@@ -48,7 +48,7 @@
 @19 Und ich will Wunder tun oben im Himmel und Zeichen unten auf Erden: Blut und Feuer und Rauchdampf;
 @20 die Sonne soll sich verkehren in Finsternis und der Mond in Blut, ehe denn der große und offenbare Tag des Herrn kommt.
 @21 Und soll geschehen, wer den Namen des Herrn anrufen wird, soll selig werden.“
-@22 Ihr Männer von Israel, höret diese Worte: Jesum von Nazareth, den Mann, von Gott unter euch mit Taten und Wundern und Zeichen erwiesen, welche Gott durch ihn tat unter euch (wie denn auch ihr selbst wisset),
+@22 Ihr Männer von Israel, höret diese Worte: Jesus von Nazareth, den Mann, von Gott unter euch mit Taten und Wundern und Zeichen erwiesen, welche Gott durch ihn tat unter euch (wie denn auch ihr selbst wisset),
 @23 denselben (nachdem er aus bedachtem Rat und Vorsehung Gottes übergeben war) habt ihr genommen durch die Hände der Ungerechten und ihn angeheftet und getötet.
 @24 Den hat Gott auferweckt, und aufgelöst die Schmerzen des Todes, wie es denn unmöglich war, dass er sollte von ihm gehalten werden.
 @25 Denn David spricht von ihm: „Ich habe den Herrn allezeit vorgesetzt vor mein Angesicht; denn er ist an meiner Rechten, auf dass ich nicht bewegt werde.
@@ -105,7 +105,7 @@
 
 # 4
 @1 Als sie aber zum Volk redeten, traten zu ihnen die Priester und der Hauptmann des Tempels und die Sadduzäer
-@2 (sie verdross, dass sie das Volk lehrten und verkündigten an Jesu die Auferstehung von den Toten)
+@2 (sie verdross, dass sie das Volk lehrten und verkündigten an Jesus die Auferstehung von den Toten)
 @3 und legten die Hände an sie und setzten sie ein bis auf morgen; denn es war jetzt Abend.
 @4 Aber viele unter denen, die dem Wort zuhörten, wurden gläubig; und ward die Zahl der Männer bei fünftausend.
 @5 Als es nun kam auf den Morgen, versammelten sich ihre Obersten und Ältesten und Schriftgelehrten gen Jerusalem,
@@ -116,12 +116,12 @@
 @10 so sei euch und allem Volk von Israel kundgetan, dass in dem Namen Jesu Christi von Nazareth, welchen ihr gekreuzigt habt, den Gott von den Toten auferweckt hat, steht dieser allhier vor euch gesund.
 @11 Das ist der Stein, von euch Bauleuten verworfen, der zum Eckstein geworden ist.
 @12 Und ist in keinem anderen Heil, ist auch kein anderer Name unter dem Himmel den Menschen gegeben, darin wir sollen selig werden.
-@13 Sie sahen aber an die Freudigkeit des Petrus und Johannes und verwunderten sich; denn sie waren gewiss, dass es ungelehrte Leute und Laien waren, und kannten sie auch wohl, dass sie mit Jesu gewesen waren.
+@13 Sie sahen aber an die Freudigkeit des Petrus und Johannes und verwunderten sich; denn sie waren gewiss, dass es ungelehrte Leute und Laien waren, und kannten sie auch wohl, dass sie mit Jesus gewesen waren.
 @14 Sie sahen aber den Menschen, der geheilt worden war, bei ihnen stehen und hatten nichts dawider zu reden.
 @15 Da hießen sie sie hinausgehen aus dem Rat und handelten miteinander und sprachen:
 @16 Was wollen wir diesen Menschen tun? Denn das offenbare Zeichen, durch sie geschehen, ist kund allen, die zu Jerusalem wohnen, und wir können's nicht leugnen.
 @17 Aber auf dass es nicht weiter einreiße unter das Volk, lasset uns ernstlich sie bedrohen, dass sie hinfort keinem Menschen von diesem Namen sagen.
-@18 Und riefen sie und geboten ihnen, dass sie sich allerdinge nicht hören ließen noch lehrten in dem Namen Jesu.
+@18 Und riefen sie und geboten ihnen, dass sie sich allerdinge nicht hören ließen noch lehrten in dem Namen Jesus.
 @19 Petrus aber und Johannes antworteten und sprachen zu ihnen: Richtet ihr selbst, ob es vor Gott recht sei, dass wir euch mehr gehorchen denn Gott.
 @20 Wir können's ja nicht lassen, dass wir nicht reden sollten, was wir gesehen und gehört haben.
 @21 Aber sie drohten ihnen und ließen sie gehen und fanden nicht, wie sie sie peinigten, um des Volkes willen; denn sie lobten alle Gott über das, was geschehen war.
@@ -136,7 +136,7 @@
 @30 und strecke deine Hand aus, dass Gesundheit und Zeichen und Wunder geschehen durch den Namen deines heiligen Knechtes Jesus.
 @31 Und da sie gebetet hatten, bewegte sich die Stätte, da sie versammelt waren; und sie wurden alle des heiligen Geistes voll und redeten das Wort Gottes mit Freudigkeit.
 @32 Die Menge aber der Gläubigen war ein Herz und eine Seele; auch keiner sagte von seinen Gütern, dass sie sein wären, sondern es war ihnen alles gemein.
-@33 Und mit großer Kraft gaben die Apostel Zeugnis von der Auferstehung des Herrn Jesu, und war große Gnade bei ihnen allen.
+@33 Und mit großer Kraft gaben die Apostel Zeugnis von der Auferstehung des Herrn Jesus, und war große Gnade bei ihnen allen.
 @34 Es war auch keiner unter ihnen, der Mangel hatte; denn wie viel ihrer waren, die da Äcker oder Häuser hatten, die verkauften sie und brachten das Geld des verkauften Guts
 @35 und legten es zu der Apostel Füßen; und man gab einem jeglichen, was ihm not war.
 @36 Joses aber, mit dem Zunamen von den Aposteln genannt Barnabas (das heißt: ein Sohn des Trostes), von Geschlecht ein Levit aus Zypern,
@@ -172,7 +172,7 @@
 @27 Und als sie sie brachten, stellten sie sie vor den Rat. Und der Hohepriester fragte sie
 @28 und sprach: Haben wir euch nicht mit Ernst geboten, dass ihr nicht solltet lehren in diesem Namen? Und sehet, ihr habt Jerusalem erfüllt mit eurer Lehre und wollt dieses Menschen Blut über uns führen.
 @29 Petrus aber antwortete und die Apostel und sprachen: Man muss Gott mehr gehorchen denn den Menschen.
-@30 Der Gott unserer Väter hat Jesum auferweckt, welchen ihr getötet habt und an das Holz gehängt.
+@30 Der Gott unserer Väter hat Jesus auferweckt, welchen ihr getötet habt und an das Holz gehängt.
 @31 Den hat Gott durch seine rechte Hand erhöht zu einem Fürsten und Heiland, zu geben Israel Buße und Vergebung der Sünden.
 @32 Und wir sind seine Zeugen über diese Worte und der heilige Geist, welchen Gott gegeben hat denen, die ihm gehorchen.
 @33 Da sie das hörten, ging's ihnen durchs Herz, und dachten, sie zu töten.
@@ -182,9 +182,9 @@
 @37 Darnach stand auf Judas aus Galiläa in den Tagen der Schätzung und machte viel Volks abfällig ihm nach; und der ist auch umgekommen, und alle, die ihm zufielen, sind zerstreut.
 @38 Und nun sage ich euch: Lasset ab von diesen Menschen und lasset sie fahren! Ist der Rat oder das Werk aus den Menschen, so wird's untergehen;
 @39 ist's aber aus Gott, so könnet ihr's nicht dämpfen; auf dass ihr nicht erfunden werdet als die wider Gott streiten wollen.
-@40 Da fielen sie ihm zu und riefen die Apostel, stäupten sie und geboten ihnen, sie sollten nicht Reden in dem Namen Jesu, und ließen sie gehen.
+@40 Da fielen sie ihm zu und riefen die Apostel, stäupten sie und geboten ihnen, sie sollten nicht Reden in dem Namen Jesus, und ließen sie gehen.
 @41 Sie gingen aber fröhlich von des Rats Angesicht, dass sie würdig gewesen waren, um seines Namens willen Schmach zu leiden,
-@42 und hörten nicht auf, alle Tage im Tempel und hin und her in Häusern zu lehren und zu predigen das Evangelium von Jesu Christo.
+@42 und hörten nicht auf, alle Tage im Tempel und hin und her in Häusern zu lehren und zu predigen das Evangelium von Jesus Christus.
 
 # 6
 @1 In den Tagen aber, da der Jünger viele wurden, erhob sich ein Murmeln unter den Griechen wider die Hebräer, darum dass ihre Witwen übersehen wurden in der täglichen Handreichung.
@@ -258,11 +258,11 @@
 @52 Welchen Propheten haben eure Väter nicht verfolgt? Und sie haben getötet, die da zuvor verkündigten die Zukunft dieses Gerechten, dessen Verräter und Mörder ihr nun geworden seid.
 @53 Ihr habt das Gesetz empfangen durch der Engel Geschäfte, und habt's nicht gehalten.
 @54 Da sie solches hörten, ging's ihnen durchs Herz, und bissen die Zähne zusammen über ihn.
-@55 Wie er aber voll heiligen Geistes war, sah er auf gen Himmel und sah die Herrlichkeit Gottes und Jesum stehen zur Rechten Gottes
+@55 Wie er aber voll heiligen Geistes war, sah er auf gen Himmel und sah die Herrlichkeit Gottes und Jesus stehen zur Rechten Gottes
 @56 und sprach: Siehe, ich sehe den Himmel offen und des Menschen Sohn zur Rechten Gottes stehen.
 @57 Sie schrien aber laut und hielten ihre Ohren zu und stürmten einmütig auf ihn ein, stießen ihn zur Stadt hinaus und steinigten ihn.
 @58 Und die Zeugen legten ihre Kleider ab zu den Füßen eines Jünglings, der hieß Saulus,
-@59 und steinigten Stephanus, der anrief und sprach: Herr Jesu, nimm meinen Geist auf!
+@59 und steinigten Stephanus, der anrief und sprach: Herr Jesus, nimm meinen Geist auf!
 @60 Er kniete aber nieder und schrie laut: Herr, behalte ihnen diese Sünde nicht! Und als er das gesagt, entschlief er.
 
 # 8
@@ -270,7 +270,7 @@
 @2 Es bestatteten aber Stephanus gottesfürchtige Männer und hielten eine große Klage über ihn.
 @3 Saulus aber verstörte die Gemeinde, ging hin und her in die Häuser und zog hervor Männer und Frauen und überantwortete sie ins Gefängnis.
 @4 Die nun zerstreut waren, gingen um und predigten das Wort.
-@5 Philippus aber kam hinab in eine Stadt in Samarien und predigte ihnen von Christo.
+@5 Philippus aber kam hinab in eine Stadt in Samarien und predigte ihnen von Christus.
 @6 Das Volk aber hörte einmütig und fleißig zu, was Philippus sagte, und sah die Zeichen, die er tat.
 @7 Denn die unsauberen Geister fuhren aus vielen Besessenen mit großem Geschrei; auch viele Gichtbrüchige und Lahme wurden gesund gemacht.
 @8 Und es ward eine große Freude in derselben Stadt.
@@ -281,7 +281,7 @@
 @13 Da ward auch Simon gläubig und ließ sich taufen und hielt sich zu Philippus. Und als er sah die Zeichen und Taten, die da geschahen, verwunderte er sich.
 @14 Da aber die Apostel hörten zu Jerusalem, dass Samarien das Wort Gottes angenommen hatte, sandten sie zu ihnen Petrus und Johannes,
 @15 welche, da sie hinabkamen, beteten sie über sie, dass sie den heiligen Geist empfingen.
-@16 (Denn er war noch auf keinen gefallen, sondern sie waren allein getauft auf den Namen Christi Jesu.)
+@16 (Denn er war noch auf keinen gefallen, sondern sie waren allein getauft auf den Namen des Herrn Jesus.)
 @17 Da legten sie die Hände auf sie, und sie empfingen den heiligen Geist.
 @18 Da aber Simon sah, dass der heilige Geist gegeben ward, wenn die Apostel die Hände auflegten, bot er ihnen Geld an
 @19 und sprach: Gebt mir auch die Macht, dass, wenn ich jemand die Hände auflege, derselbe den heiligen Geist empfange.
@@ -300,7 +300,7 @@
 @32 Der Inhalt aber der Schrift, die er las, war dieser: „Er ist wie ein Schaf zur Schlachtung geführt; und still wie ein Lamm vor seinem Scherer, also hat er nicht aufgetan seinen Mund.
 @33 In seiner Niedrigkeit ist sein Gericht aufgehoben. Wer wird aber seines Lebens Länge ausreden? denn sein Leben ist von der Erde weggenommen.“
 @34 Da antwortete der Kämmerer dem Philippus und sprach: Ich bitte dich, von wem redet der Prophet solches? von sich selber oder von jemand anders?
-@35 Philippus aber tat seinen Mund auf und fing von dieser Schrift an und predigte ihm das Evangelium von Jesu.
+@35 Philippus aber tat seinen Mund auf und fing von dieser Schrift an und predigte ihm das Evangelium von Jesus.
 @36 Und als sie zogen der Straße nach, kamen sie an ein Wasser. Und der Kämmerer sprach: Siehe, da ist Wasser; was hindert's, dass ich mich taufen lasse?
 @37 Philippus aber sprach: Glaubst du von ganzem Herzen, so mag's wohl sein. Er antwortete und sprach: Ich glaube, dass Jesus Christus Gottes Sohn ist.
 @38 Und er hieß den Wagen halten, und stiegen hinab in das Wasser beide, Philippus und der Kämmerer, und er taufte ihn.
@@ -327,7 +327,7 @@
 @17 Und Ananias ging hin und kam in das Haus und legte die Hände auf ihn und sprach: Lieber Bruder Saul, der Herr hat mich gesandt (der dir erschienen ist auf dem Wege, da du her kamst), dass du wieder sehend und mit dem heiligen Geist erfüllt werdest.
 @18 Und alsobald fiel es von seinen Augen wie Schuppen, und er ward wieder sehend
 @19 und stand auf, ließ sich taufen und nahm Speise zu sich und stärkte sich. Saulus aber war eine Zeitlang bei den Jüngern zu Damaskus.
-@20 Und alsbald predigte er Christum in den Schulen, dass derselbe Gottes Sohn sei.
+@20 Und alsbald predigte er Christus in den Schulen, dass derselbe Gottes Sohn sei.
 @21 Sie entsetzten sich aber alle, die es hörten, und sprachen: Ist das nicht, der zu Jerusalem verstörte alle, die diesen Namen anrufen, und darum hergekommen, dass er sie gebunden führe zu den Hohenpriestern?
 @22 Saulus aber ward immer kräftiger und trieb die Juden in die Enge, die zu Damaskus wohnten, und bewährte es, dass dieser ist der Christus.
 @23 Und nach vielen Tagen hielten die Juden einen Rat zusammen, dass sie ihn töteten.
@@ -335,7 +335,7 @@
 @25 Da nahmen ihn die Jünger bei der Nacht und taten ihn durch die Mauer und ließen ihn in einem Korbe hinab.
 @26 Da aber Saulus gen Jerusalem kam, versuchte er, sich zu den Jüngern zu tun; und sie fürchteten sich alle vor ihm und glaubten nicht, dass er ein Jünger wäre.
 @27 Barnabas aber nahm ihn zu sich und führte ihn zu den Aposteln und erzählte ihnen, wie er auf der Straße den Herrn gesehen und er mit ihm geredet und wie er zu Damaskus den Namen Jesus frei gepredigt hätte.
-@28 Und er war bei ihnen und ging aus und ein zu Jerusalem und predigte den Namen des Herrn Jesu frei.
+@28 Und er war bei ihnen und ging aus und ein zu Jerusalem und predigte den Namen des Herrn Jesus frei.
 @29 Er redete auch und befragte sich mit den Griechen; aber sie stellten ihm nach, dass sie ihn töteten.
 @30 Da das die Brüder erfuhren, geleiteten sie ihn gen Cäsarea und schickten ihn gen Tarsus.
 @31 So hatte nun die Gemeinde Frieden durch ganz Judäa und Galiläa und Samarien und baute sich und wandelte in der Furcht des Herrn und ward erfüllt mit Trost des heiligen Geistes.
@@ -388,7 +388,7 @@
 @33 Da sandte ich von Stund an zu dir; und du hast wohl getan, dass du gekommen bist. Nun sind wir alle hier gegenwärtig vor Gott, zu hören alles, was dir von Gott befohlen ist.
 @34 Petrus aber tat seinen Mund auf und sprach: Nun erfahre ich mit der Wahrheit, dass Gott die Person nicht ansieht;
 @35 sondern in allerlei Volk, wer ihn fürchtet und recht tut, der ist ihm angenehm.
-@36 Ihr wisset wohl von der Predigt, die Gott zu den Kindern Israel gesandt hat, und dass er hat den Frieden verkündigen lassen durch Jesum Christum (welcher ist ein Herr über alles),
+@36 Ihr wisset wohl von der Predigt, die Gott zu den Kindern Israel gesandt hat, und dass er hat den Frieden verkündigen lassen durch Jesus Christus (welcher ist ein Herr über alles),
 @37 die durchs ganze jüdische Land geschehen ist und angegangen in Galiläa nach der Taufe, die Johannes predigte:
 @38 wie Gott diesen Jesus von Nazareth gesalbt hat mit dem heiligen Geist und Kraft; der umhergezogen ist und hat wohlgetan und gesund gemacht alle, die vom Teufel überwältigt waren; denn Gott war mit ihm.
 @39 Und wir sind Zeugen alles des, das er getan hat im jüdischen Lande und zu Jerusalem. Den haben sie getötet und an ein Holz gehängt.
@@ -430,7 +430,7 @@
 @25 Barnabas aber zog aus gen Tarsus, Saulus wieder zu suchen;
 @26 und da er ihn fand, führte er ihn gen Antiochien. Und sie blieben bei der Gemeinde ein ganzes Jahr und lehrten viel Volks; daher die Jünger am ersten zu Antiochien Christen genannt wurden.
 @27 In diesen Tagen kamen Propheten von Jerusalem gen Antiochien.
-@28 Und einer unter ihnen mit Namen Agabus stand auf und deutete durch den Geist eine große Teuerung, die da kommen sollte über den ganzen Kreis der Erde; welche geschah unter dem Kaiser Klaudius.
+@28 Und einer unter ihnen mit Namen Agabus stand auf und deutete durch den Geist eine große Hungersnot, die da kommen sollte über den ganzen Kreis der Erde; welche geschah unter dem Kaiser Klaudius.
 @29 Aber unter den Jüngern beschloss ein jeglicher, nach dem er vermochte, zu senden eine Handreichung den Brüdern, die in Judäa wohnten;
 @30 wie sie denn auch taten, und schickten's zu den Ältesten durch die Hand des Barnabas und Saulus.
 
@@ -484,7 +484,7 @@
 @20 Darnach gab er ihnen Richter vierhundertfünfzig Jahre lang bis auf den Propheten Samuel.
 @21 Und von da an baten sie um einen König; und Gott gab ihnen Saul, den Sohn des Kis, einen Mann aus dem Geschlechte Benjamin, vierzig Jahre lang.
 @22 Und da er denselben wegtat, richtete er auf über sie David zum König, von welchem er zeugte: „Ich habe gefunden David, den Sohn Jesses, einen Mann nach meinem Herzen, der soll tun allen meinen Willen.“
-@23 Aus dieses Samen hat Gott, wie er verheißen hat, kommen lassen Jesum, dem Volk Israel zum Heiland;
+@23 Aus dieses Samen hat Gott, wie er verheißen hat, kommen lassen Jesus, dem Volk Israel zum Heiland;
 @24 wie denn Johannes zuvor dem Volk Israel predigte die Taufe der Buße, ehe denn er anfing.
 @25 Da aber Johannes seinen Lauf erfüllte, sprach er: „Ich bin nicht der, für den ihr mich haltet; aber siehe, er kommt nach mir, des ich nicht wert bin, dass ich ihm die Schuhe seiner Füße auflöse.“
 @26 Ihr Männer, liebe Brüder, ihr Kinder des Geschlechts Abraham und die unter euch Gott fürchten, euch ist das Wort dieses Heils gesandt.
@@ -494,7 +494,7 @@
 @30 Aber Gott hat ihn auferweckt von den Toten;
 @31 und er ist erschienen viele Tage denen, die mit ihm hinauf von Galiläa gen Jerusalem gegangen waren, welche sind seine Zeugen an das Volk.
 @32 Und wir verkündigen euch die Verheißung, die zu unseren Vätern geschehen ist,
-@33 dass sie Gott uns, ihren Kindern, erfüllt hat in dem, dass er Jesum auferweckte; wie denn im zweiten Psalm geschrieben steht: „Du bist mein Sohn, heute habe ich dich gezeuget.“
+@33 dass sie Gott uns, ihren Kindern, erfüllt hat in dem, dass er Jesus auferweckte; wie denn im zweiten Psalm geschrieben steht: „Du bist mein Sohn, heute habe ich dich gezeuget.“
 @34 dass er ihn aber hat von den Toten auferweckt, dass er hinfort nicht soll verwesen, spricht er also: „Ich will euch die Gnade, David verheißen, treulich halten.“
 @35 Darum spricht er auch an einem anderen Ort: „Du wirst es nicht zugeben, dass dein Heiliger die Verwesung sehe.“
 @36 Denn David, da er zu seiner Zeit gedient hatte dem Willen Gottes, ist entschlafen und zu seinen Vätern getan und hat die Verwesung gesehen.
@@ -556,7 +556,7 @@
 @8 Und Gott, der Herzenskündiger, zeugte über sie und gab ihnen den heiligen Geist gleichwie auch uns
 @9 und machte keinen Unterschied zwischen uns und ihnen und reinigte ihre Herzen durch den Glauben.
 @10 Was versucht ihr denn nun Gott mit Auflegen des Jochs auf der Jünger Hälse, welches weder unsere Väter noch wir haben können tragen?
-@11 Sondern wir glauben, durch die Gnade des Herrn Jesu Christi selig zu werden, gleicherweise wie auch sie.
+@11 Sondern wir glauben, durch die Gnade des Herrn Jesus Christus selig zu werden, gleicherweise wie auch sie.
 @12 Da schwieg die ganze Menge still und hörte zu Paulus und Barnabas, die da erzählten, wie große Zeichen und Wunder Gott durch sie getan hatte unter den Heiden.
 @13 Darnach, als sie geschwiegen hatten, antwortete Jakobus und sprach: Ihr Männer, liebe Brüder, höret mir zu!
 @14 Simon hat erzählt, wie aufs erste Gott heimgesucht hat und angenommen ein Volk aus den Heiden zu seinem Namen.
@@ -571,7 +571,7 @@
 @23 Und sie gaben Schrift in ihre Hand, also: Wir, die Apostel und Ältesten und Brüder, wünschen Heil den Brüdern aus den Heiden, die zu Antiochien und Syrien und Zilizien sind.
 @24 Dieweil wir gehört haben, dass etliche von den Unseren sind ausgegangen und haben euch mit Lehren irregemacht und eure Seelen zerrüttet und sagen, ihr sollt euch beschneiden lassen und das Gesetz halten, welchen wir nichts befohlen haben,
 @25 hat es uns gut gedeucht, einmütig versammelt, Männer zu erwählen und zu euch zu senden mit unseren liebsten Barnabas und Paulus,
-@26 welche Menschen ihre Seele dargegeben haben für den Namen unseres Herrn Jesu Christi.
+@26 welche Menschen ihre Seele dargegeben haben für den Namen unseres Herrn Jesus Christus.
 @27 So haben wir gesandt Judas und Silas, welche auch mit Worten dasselbe verkündigen werden.
 @28 Denn es gefällt dem heiligen Geiste und uns, euch keine Beschwerung mehr aufzulegen als nur diese nötigen Stücke:
 @29 dass ihr euch enthaltet vom Götzenopfer und vom Blut und vom Erstickten und von Hurerei; so ihr euch vor diesen bewahret, tut ihr recht. Gehabt euch wohl!
@@ -648,7 +648,7 @@
 @15 Die aber Paulus geleiteten, führten ihn bis gen Athen. Und nachdem sie Befehl empfangen an den Silas und Timotheus, dass sie aufs schnellste zu ihm kämen, zogen sie hin.
 @16 Da aber Paulus ihrer zu Athen wartete, ergrimmte sein Geist in ihm, da er sah die Stadt so gar abgöttisch.
 @17 Und er redete zu den Juden und Gottesfürchtigen in der Schule, auch auf dem Markte alle Tage zu denen, die sich herzufanden.
-@18 Etliche aber der Epikurer und Stoiker Philosophen stritten mit ihm. Und etliche sprachen: Was will dieser Lotterbube sagen? Etliche aber: Es sieht, als wolle er neue Götter verkündigen. (Das machte, er hatte das Evangelium von Jesu und von der Auferstehung ihnen verkündigt.)
+@18 Etliche aber der Epikurer und Stoiker Philosophen stritten mit ihm. Und etliche sprachen: Was will dieser Lotterbube sagen? Etliche aber: Es sieht, als wolle er neue Götter verkündigen. (Das machte, er hatte das Evangelium von Jesus und von der Auferstehung ihnen verkündigt.)
 @19 Sie nahmen ihn aber und führten ihn auf den Gerichtsplatz und sprachen: Können wir auch erfahren, was das für eine neue Lehre sei, die du lehrst?
 @20 Denn du bringst etwas Neues vor unsere Ohren; so wollten wir gern wissen, was das sei.
 @21 (Die Athener aber alle, auch die Ausländer und Gäste, waren gerichtet auf nichts anderes, denn etwas Neues zu sagen oder zu hören.)
@@ -671,7 +671,7 @@
 @2 und fand einen Juden mit Namen Aquila, von Geburt aus Pontus, welcher war neulich aus Italien gekommen samt seiner Frau Priscilla (darum dass der Kaiser Klaudius geboten hatte allen Juden, zu weichen aus Rom).
 @3 Zu denen ging er ein; und dieweil er gleiches Handwerks war, blieb er bei ihnen und arbeitete. (Sie waren aber des Handwerks Teppichmacher).
 @4 Und er lehrte in der Schule an allen Sabbaten und beredete beide, Juden und Griechen.
-@5 Da aber Silas und Timotheus aus Mazedonien kamen, drang Paulus der Geist, zu bezeugen den Juden Jesum, dass er der Christus sei.
+@5 Da aber Silas und Timotheus aus Mazedonien kamen, drang Paulus der Geist, zu bezeugen den Juden Jesus, dass er der Christus sei.
 @6 Da sie aber widerstrebten und lästerten, schüttelte er die Kleider aus und sprach zu ihnen: Euer Blut sei über euer Haupt! Rein gehe ich von nun an zu den Heiden.
 @7 Und machte sich von dannen und kam in ein Haus eines mit Namen Just, der gottesfürchtig war; dessen Haus war zunächst an der Schule.
 @8 Krispus aber, der Oberste der Schule, glaubte an den Herrn mit seinem ganzen Hause; und viele Korinther, die zuhörten, wurden gläubig und ließen sich taufen.
@@ -700,18 +700,18 @@
 @1 Es geschah aber, da Apollos zu Korinth war, dass Paulus durchwandelte die oberen Länder und kam gen Ephesus und fand etliche Jünger;
 @2 zu denen sprach er: Habt ihr den heiligen Geist empfangen, da ihr gläubig wurdet? Sie sprachen zu ihm: Wir haben auch nie gehört, ob ein heiliger Geist sei.
 @3 Und er sprach zu ihnen: Worauf seid ihr denn getauft? Sie sprachen: Auf die Taufe des Johannes.
-@4 Paulus aber sprach: Johannes hat getauft mit der Taufe der Buße und sagte dem Volk, dass sie glauben sollten an den, der nach ihm kommen sollte, das ist an Jesum, dass der Christus sei.
-@5 Da sie das hörten, ließen sie sich taufen auf den Namen des Herrn Jesu.
+@4 Paulus aber sprach: Johannes hat getauft mit der Taufe der Buße und sagte dem Volk, dass sie glauben sollten an den, der nach ihm kommen sollte, das ist an Jesus, dass der Christus sei.
+@5 Da sie das hörten, ließen sie sich taufen auf den Namen des Herrn Jesus.
 @6 Und da Paulus die Hände auf sie legte, kam der heilige Geist auf sie, und sie redeten mit Zungen und weissagten.
 @7 Und aller der Männer waren bei zwölf.
 @8 Er ging aber in die Schule und predigte frei drei Monate lang, lehrte und beredete sie von dem Reich Gottes.
 @9 Da aber etliche verstockt waren und nicht glaubten und übel redeten von dem Wege vor der Menge, wich er von ihnen und sonderte ab die Jünger und redete täglich in der Schule eines, der hieß Tyrannus.
-@10 Und das geschah zwei Jahre lang, also dass alle, die in Asien wohnten, das Wort des Herrn Jesu hörten, beide, Juden und Griechen.
+@10 Und das geschah zwei Jahre lang, also dass alle, die in Asien wohnten, das Wort des Herrn Jesus hörten, beide, Juden und Griechen.
 @11 Und Gott wirkte nicht geringe Taten durch die Hände Paulus,
 @12 also dass sie auch von seiner Haut die Schweißtüchlein und Binden über die Kranken hielten und die Seuchen von ihnen wichen und die bösen Geister von ihnen ausfuhren.
-@13 Es unterwanden sich aber etliche der umherziehenden Juden, die da Beschwörer waren, den Namen des Herrn Jesu zu nennen über die da böse Geister hatten, und sprachen: Wir beschwören euch bei dem Jesus, den Paulus predigt.
+@13 Es unterwanden sich aber etliche der umherziehenden Juden, die da Beschwörer waren, den Namen des Herrn Jesus zu nennen über die da böse Geister hatten, und sprachen: Wir beschwören euch bei dem Jesus, den Paulus predigt.
 @14 Es waren ihrer aber sieben Söhne eines Juden Skevas, des Hohenpriesters, die solches taten.
-@15 Aber der böse Geist antwortete und sprach: Jesum kenne ich wohl, und von Paulus weiß ich wohl; wer seid ihr aber?
+@15 Aber der böse Geist antwortete und sprach: Jesus kenne ich wohl, und von Paulus weiß ich wohl; wer seid ihr aber?
 @16 Und der Mensch, in dem der böse Geist war, sprang auf sie und ward ihrer mächtig und warf sie unter sich, also dass sie nackt und verwundet aus demselben Hause entflohen.
 @17 Das aber ward kund allen, die zu Ephesus wohnten, sowohl Juden als Griechen; und es fiel eine Furcht über sie alle, und der Name des Herrn Jesus ward hoch gelobt.
 @18 Es kamen auch viele derer, die gläubig waren geworden, und bekannten und verkündigten, was sie getrieben hatten.
@@ -762,7 +762,7 @@
 @21 und habe bezeugt, beiden, den Juden und Griechen, die Buße zu Gott und den Glauben an unseren Herrn Jesus Christus.
 @22 Und nun siehe, ich, im Geiste gebunden, fahre hin gen Jerusalem, weiß nicht, was mir daselbst begegnen wird,
 @23 nur dass der heilige Geist in allen Städten bezeugt und spricht, Bande und Trübsale warten mein daselbst.
-@24 Aber ich achte der keines, ich halte mein Leben auch nicht selbst teuer, auf dass ich vollende meinen Lauf mit Freuden und das Amt, das ich empfangen habe von dem Herrn Jesus, zu bezeugen das Evangelium von der Gnade Gottes.
+@24 Aber ich halte mein Leben nicht der Rede wert, auf dass ich vollende meinen Lauf mit Freuden und das Amt, das ich empfangen habe von dem Herrn Jesus, zu bezeugen das Evangelium von der Gnade Gottes.
 @25 Und nun siehe, ich weiß, dass ihr mein Angesicht nicht mehr sehen werdet, alle die, bei welchen ich durchgekommen bin und gepredigt habe das Reich Gottes.
 @26 Darum bezeuge ich euch an diesem heutigen Tage, dass ich rein bin von aller Blut;
 @27 denn ich habe euch nichts verhalten, dass ich nicht verkündigt hätte all den Rat Gottes.
@@ -791,7 +791,7 @@
 @10 Und als wir mehrere Tage dablieben, reiste herab ein Prophet aus Judäa, mit Namen Agabus, und kam zu uns.
 @11 Der nahm den Gürtel des Paulus und band sich die Hände und Füße und sprach: Das sagt der heilige Geist: Den Mann, des der Gürtel ist, werden die Juden also binden zu Jerusalem und überantworten in der Heiden Hände.
 @12 Als wir aber solches hörten, baten wir und die desselben Ortes waren, dass er nicht hinauf gen Jerusalem zöge.
-@13 Paulus aber antwortete: Was macht ihr, dass ihr weinet und brechet mir mein Herz? Denn ich bin bereit, nicht allein mich binden zu lassen, sondern auch zu sterben zu Jerusalem um des Namens willen des Herrn Jesu.
+@13 Paulus aber antwortete: Was macht ihr, dass ihr weinet und brechet mir mein Herz? Denn ich bin bereit, nicht allein mich binden zu lassen, sondern auch zu sterben zu Jerusalem um des Namens willen des Herrn Jesus.
 @14 Da er aber sich nicht überreden ließ, schwiegen wir und sprachen: Des Herrn Wille geschehe.
 @15 Und nach diesen Tagen machten wir uns fertig und zogen hinauf gen Jerusalem.
 @16 Es kamen aber mit uns auch etliche Jünger von Cäsarea und führten uns zu einem mit Namen Mnason aus Zypern, der ein alter Jünger war, bei dem wir herbergen sollten.
@@ -913,7 +913,7 @@
 @21 außer um des einzigen Wortes willen, da ich unter ihnen stand und rief: Über die Auferstehung der Toten werde ich von euch heute angeklagt.
 @22 Da aber Felix solches hörte, zog er sie hin; denn er wusste gar wohl um diesen Weg und sprach: Wenn Lysias, der Hauptmann, herabkommt, so will ich eure Sache erkunden.
 @23 Er befahl aber dem Unterhauptmann, Paulus zu behalten und lassen Ruhe haben und dass er niemand von den Seinen wehrte, ihm zu dienen oder zu ihm zu kommen.
-@24 Nach etlichen Tagen aber kam Felix mit seiner Frau Drusilla, die eine Jüdin war, und forderte Paulus und hörte ihn von dem Glauben an Christum.
+@24 Nach etlichen Tagen aber kam Felix mit seiner Frau Drusilla, die eine Jüdin war, und forderte Paulus und hörte ihn von dem Glauben an Christus.
 @25 Da aber Paulus redete von der Gerechtigkeit und von der Keuschheit und von dem zukünftigen Gericht, erschrak Felix und antwortete: Gehe hin auf diesmal; wenn ich gelegene Zeit habe, will ich dich herrufen lassen.
 @26 Er hoffte aber daneben, dass ihm von Paulus sollte Geld gegeben werden, dass er ihn losgäbe; darum er ihn auch oft fordern ließ und besprach sich mit ihm.
 @27 Da aber zwei Jahre um waren, kam Porcius Festus an Felix Statt. Felix aber wollte den Juden eine Gunst erzeigen und ließ Paulus hinter sich gefangen.
@@ -956,7 +956,7 @@
 @6 Und nun stehe ich und werde angeklagt über die Hoffnung auf die Verheißung, die geschehen ist von Gott zu unseren Vätern,
 @7 zu welcher hoffen die zwölf Geschlechter der Unseren zu kommen mit Gottesdienst emsig Tag und Nacht. Dieser Hoffnung halben werde ich, König Agrippa, von den Juden beschuldigt.
 @8 Warum wird das für unglaublich bei euch geachtet, das Gott Tote auferweckt?
-@9 Zwar meinte ich auch bei mir selbst, ich müsste viel zuwider tun dem Namen Jesu von Nazareth,
+@9 Zwar meinte ich auch bei mir selbst, ich müsste viel zuwider tun dem Namen Jesus von Nazareth,
 @10 wie ich denn auch zu Jerusalem getan habe, da ich viele Heilige in das Gefängnis verschloss, darüber ich Macht von den Hohenpriestern empfing; und wenn sie getötet wurden, half ich das Urteil sprechen.
 @11 Und durch alle Schulen peinigte ich sie oft und zwang sie zu lästern; und war überaus unsinnig auf sie, verfolgte sie auch bis in die fremden Städte.
 @12 Über dem, da ich auch gen Damaskus reiste mit Macht und Befehl von den Hohenpriestern,

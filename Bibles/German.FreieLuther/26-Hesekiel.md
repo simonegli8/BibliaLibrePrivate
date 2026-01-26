@@ -304,7 +304,7 @@
 @10 Also sollen sie beide ihre Missetat tragen; wie die Missetat des Fragers, also soll auch sein die Missetat des Propheten,
 @11 auf dass das Haus Israel nicht mehr irregehe von mir und sich nicht mehr verunreinige in aller seiner Übertretung; sondern sie sollen mein Volk sein, und ich will ihr Gott sein, spricht der Herr HErr.
 @12 Und des HErrn Wort geschah zu mir und sprach:
-@13 Du Menschenkind, wenn ein Land an mir sündigt und dazu mich verschmäht, so will ich meine Hand über dasselbe ausstrecken und den Vorrat des Brots wegnehmen und will Teuerung hineinschicken, dass ich Menschen und Vieh darin ausrotte.
+@13 Du Menschenkind, wenn ein Land an mir sündigt und dazu mich verschmäht, so will ich meine Hand über dasselbe ausstrecken und den Vorrat des Brots wegnehmen und will Hungersnot hineinschicken, dass ich Menschen und Vieh darin ausrotte.
 @14 Und wenn dann gleich die drei Männer Noah, Daniel und Hiob darin wären, so würden sie allein ihre eigene Seele erretten durch ihre Gerechtigkeit, spricht der Herr HErr.
 @15 Und wenn ich böse Tiere in das Land bringen würde, die die Leute aufräumten und es verwüsteten, dass niemand darin wandeln könnte vor den Tieren,
 @16 und diese drei Männer wären auch darin: so wahr ich lebe, spricht der Herr HErr, sie würden weder Söhne noch Töchter erretten, sondern allein sich selbst, und das Land müsste öde werden.
@@ -541,7 +541,7 @@
 @25 Und stelle ein Zeichen vorn an den Weg zur Stadt, dahin es weisen soll; und mache den Weg, dass das Schwert komme gen Rabba der Kinder Ammon und nach Juda, zu der festen Stadt Jerusalem.
 @26 Denn der König zu Babel wird sich an die Wegscheide stellen, vorn an den zwei Wegen, dass er sich wahrsagen lasse, mit den Pfeilen das Los werfe, seinen Abgott frage und schaue die Leber an.
 @27 Und die Wahrsagung wird auf die rechte Seite gen Jerusalem deuten, dass er solle Sturmböcke hinanführen lassen und Löcher machen und mit großem Geschrei sie überfalle und morde, und dass er Böcke führen soll wider die Tore und da Wall aufschütte und Bollwerk baue.
-@28 Aber es wird sie solches Wahrsagen falsch dünken, er schwöre, wie teuer er will. Er aber wird denken an die Missetat, dass er sie gewinne.
+@28 Aber es wird sie solches Wahrsagen falsch dünken, er schwöre, wie teuer er will. Er aber wird denken an die Missetat, damit sie gefangen werden.
 @29 Darum spricht der Herr HErr also: Darum dass euer gedacht wird um eure Missetat und euer Ungehorsam offenbart ist, dass man eure Sünden sieht in allem eurem Tun, ja, darum dass euer gedacht wird, werdet ihr mit Gewalt gefangen werden.
 @30 Und du, Fürst in Israel, der du verdammt und verurteilt bist, dessen Tag daherkommen wird, wenn die Missetat zum Ende gekommen ist,
 @31 so spricht der Herr HErr: Tue weg den Hut und hebe ab die Krone! Denn es wird weder der Hut noch die Krone bleiben; sondern der sich erhöht hat, der soll erniedrigt werden, und der sich erniedrigt, soll erhöht werden.
@@ -992,8 +992,8 @@
 @26 Und ich will euch ein neues Herz und einen neuen Geist in euch geben und will das steinerne Herz aus eurem Fleisch wegnehmen und euch ein fleischernes Herz geben;
 @27 ich will meinen Geist in euch geben und will solche Leute aus euch machen, die in meinen Geboten wandeln und meine Rechte halten und darnach tun.
 @28 Und ihr sollt wohnen im Lande, das ich euren Vätern gegeben habe, und sollt mein Volk sein, und ich will euer Gott sein.
-@29 Ich will euch von aller eurer Unreinigkeit losmachen und will dem Korn rufen und will es mehren und will euch keine Teuerung kommen lassen.
-@30 Ich will die Früchte auf den Bäumen und das Gewächs auf dem Felde mehren, dass euch die Heiden nicht mehr verspotten mit der Teuerung.
+@29 Ich will euch von aller eurer Unreinigkeit losmachen und will dem Korn rufen und will es mehren und will euch keine Hungersnot kommen lassen.
+@30 Ich will die Früchte auf den Bäumen und das Gewächs auf dem Felde mehren, dass euch die Heiden nicht mehr verspotten mit der Hungersnot.
 @31 Alsdann werdet ihr an euer böses Wesen gedenken und an euer Tun, das nicht gut war, und wird euch eure Sünde und Abgötterei gereuen.
 @32 Solches will ich tun, nicht um euretwillen, spricht der Herr HErr, dass ihr's wisset; sondern ihr werdet euch müssen schämen und schamrot werden, ihr vom Hause Israel, über eurem Wesen.
 @33 So spricht der Herr HErr: Zu der Zeit, wenn ich euch reinigen werde von allen euren Sünden, so will ich die Städte wieder besetzen, und die Wüsten sollen wieder gebaut werden.

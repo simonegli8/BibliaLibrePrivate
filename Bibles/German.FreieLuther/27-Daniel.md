@@ -145,8 +145,8 @@
 
 # 5
 @1 König Belsazer machte ein herrliches Mahl seinen tausend Gewaltigen und soff sich voll mit ihnen.
-@2 Und da er trunken war, hieß er die goldenen und silbernen Gefäße herbringen, die sein Vater Nebukadnezar aus dem Tempel zu Jerusalem weggenommen hatte, dass der König mit seinen Gewaltigen, mit seinen Frauen und mit seinen Kebsweibern daraus tränken.
-@3 Also wurden hergebracht die goldenen Gefäße, die aus dem Tempel, aus dem Haus Gottes zu Jerusalem, genommen waren; und der König, seine Gewaltigen, seine Frauen und Kebsweiber tranken daraus.
+@2 Und da er trunken war, hieß er die goldenen und silbernen Gefäße herbringen, die sein Vater Nebukadnezar aus dem Tempel zu Jerusalem weggenommen hatte, dass der König mit seinen Gewaltigen, mit seinen Frauen und mit seinen Nebenfrauen daraus tränken.
+@3 Also wurden hergebracht die goldenen Gefäße, die aus dem Tempel, aus dem Haus Gottes zu Jerusalem, genommen waren; und der König, seine Gewaltigen, seine Frauen und Nebenfrauen tranken daraus.
 @4 Und da sie so soffen, lobten sie die goldenen, silbernen, ehernen, eisernen, hölzernen und steinernen Götter.
 @5 Eben zur selben Stunde gingen hervor Finger wie einer Menschenhand, die schrieben, gegenüber dem Leuchter, auf die getünchte Wand in dem königlichen Saal; und der König ward gewahr der Hand, die da schrieb.
 @6 Da entfärbte sich der König, und seine Gedanken erschreckten ihn, dass ihm die Lenden schütterten und die Beine zitterten.
@@ -166,7 +166,7 @@
 @20 Da sich aber sein Herz erhob und er stolz und hochmütig ward, ward er vom königlichen Stuhl gestoßen und verlor seine Ehre
 @21 und ward verstoßen von den Leuten hinweg, und sein Herz ward gleich den Tieren, und er musste bei dem Wild laufen und fraß Gras wie Ochsen, und sein Leib lag unter dem Tau des Himmels, und er ward nass, bis dass er lernte, dass Gott der Höchste Gewalt hat über der Menschen Königreiche und gibt sie, wem er will.
 @22 Und du, Belsazer, sein Sohn, hast dein Herz nicht gedemütigt, ob du wohl solches alles weißt,
-@23 sondern hast dich wider den HErrn des Himmels erhoben, und die Gefäße seines Hauses hat man vor dich bringen müssen, und du, deine Gewaltigen, deine Frauen und deine Kebsweiber habt daraus getrunken, dazu die silbernen, goldenen, ehernen, eisernen, hölzernen, steinernen Götter gelobt, die weder sehen noch hören noch fühlen; den Gott aber, der deinen Odem und alle deine Wege in seiner Hand hat, hast du nicht geehrt.
+@23 sondern hast dich wider den HErrn des Himmels erhoben, und die Gefäße seines Hauses hat man vor dich bringen müssen, und du, deine Gewaltigen, deine Frauen und deine Nebenfrauen habt daraus getrunken, dazu die silbernen, goldenen, ehernen, eisernen, hölzernen, steinernen Götter gelobt, die weder sehen noch hören noch fühlen; den Gott aber, der deinen Odem und alle deine Wege in seiner Hand hat, hast du nicht geehrt.
 @24 Darum ist von ihm gesandt diese Hand und diese Schrift, die da verzeichnet steht.
 @25 Das aber ist die Schrift allda verzeichnet: Mene, mene, tekel, U-pharsin.
 @26 Und sie bedeutet dies: Mene, das ist: Gott hat dein Königreich gezählt und vollendet.

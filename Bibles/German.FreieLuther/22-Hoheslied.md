@@ -93,8 +93,8 @@
 @5 Wende deine Augen von mir; denn sie verwirren mich. Deine Haare sind wie eine Herde Ziegen, die am Berge Gilead herab gelagert sind.
 @6 Deine Zähne sind wie eine Herde Schafe, die aus der Schwemme kommen, die allzumal Zwillinge haben, und es fehlt keiner unter ihnen.
 @7 Deine Wangen sind wie ein Ritz am Granatapfel zwischen deinen Zöpfen.
-@8 Sechzig sind der Königinnen und achtzig der Kebsweiber, und der Jungfrauen ist keine Zahl.
-@9 Aber eine ist meine Taube, meine Fromme, eine ist ihrer Mutter die Liebste und die Auserwählte ihrer Mutter. Da sie die Töchter sahen, priesen sie dieselbe selig; die Königinnen und Kebsweiber lobten sie.
+@8 Sechzig sind der Königinnen und achtzig der Nebenfrauen, und der Jungfrauen ist keine Zahl.
+@9 Aber eine ist meine Taube, meine Fromme, eine ist ihrer Mutter die Liebste und die Auserwählte ihrer Mutter. Da sie die Töchter sahen, priesen sie dieselbe selig; die Königinnen und Nebenfrauen lobten sie.
 @10 Wer ist, die hervorbricht wie die Morgenröte, schön wie der Mond, auserwählt wie die Sonne, schrecklich wie die Heerscharen?
 @11 Ich bin hinab in den Nussgarten gegangen, zu schauen die Sträuchlein am Bach, zu schauen, ob der Weinstock sprosste, ob die Granatbäume blühten.
 @12 Ich wusste nicht, dass meine Seele mich gesetzt hatte zu den Wagen Ammi-Nadibs.

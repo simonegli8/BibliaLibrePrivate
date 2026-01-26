@@ -1,24 +1,24 @@
 # 1
-@1 Paulus, ein Apostel Jesu Christi durch den Willen Gottes, den Heiligen zu Ephesus und Gläubigen an Christum Jesum:
+@1 Paulus, ein Apostel Jesu Christi durch den Willen Gottes, den Heiligen zu Ephesus und Gläubigen an Christus Jesus:
 @2 Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus!
-@3 Gelobet sei Gott und der Vater unseres Herrn Jesu Christi, der uns gesegnet hat mit allerlei geistlichem Segen in himmlischen Gütern durch Christum;
+@3 Gelobet sei Gott und der Vater unseres Herrn Jesus Christus, der uns gesegnet hat mit allerlei geistlichem Segen in himmlischen Gütern durch Christus;
 @4 wie er uns denn erwählt hat durch denselben, ehe der Welt Grund gelegt war, dass wir sollten sein heilig und unsträflich vor ihm in der Liebe;
-@5 und hat uns verordnet zur Kindschaft gegen sich selbst durch Jesum Christum nach dem Wohlgefallen seines Willens,
+@5 und hat uns verordnet zur Kindschaft gegen sich selbst durch Jesus Christus nach dem Wohlgefallen seines Willens,
 @6 zu Lob seiner herrlichen Gnade, durch welche er uns hat angenehm gemacht in dem Geliebten,
 @7 an welchem wir haben die Erlösung durch sein Blut, die Vergebung der Sünden, nach dem Reichtum seiner Gnade,
 @8 welche uns reichlich widerfahren ist durch allerlei Weisheit und Klugheit;
 @9 und er hat uns wissen lassen das Geheimnis seines Willens nach seinem Wohlgefallen, das er sich vorgesetzt hatte in ihm,
-@10 dass es ausgeführt würde, da die Zeit erfüllet war, auf dass alle Dinge zusammengefasst würden in Christo, beides, das im Himmel und auf Erden ist, durch ihn,
+@10 dass es ausgeführt würde, da die Zeit erfüllet war, auf dass alle Dinge zusammengefasst würden in Christus, beides, das im Himmel und auf Erden ist, durch ihn,
 @11 durch welchen wir auch zum Erbteil gekommen sind, die wir zuvor verordnet sind nach dem Vorsatz des, der alle Dinge wirkt nach dem Rat seines Willens,
-@12 auf dass wir etwas seien zu Lob seiner Herrlichkeit, die wir zuvor auf Christum hofften;
+@12 auf dass wir etwas seien zu Lob seiner Herrlichkeit, die wir zuvor auf Christus hofften;
 @13 durch welchen auch ihr gehört habt das Wort der Wahrheit, das Evangelium von eurer Seligkeit; durch welchen ihr auch, da ihr gläubig wurdet, versiegelt worden seid mit dem Heiligen Geist der Verheißung,
 @14 welcher ist das Pfand unseres Erbes zu unserer Erlösung, dass wir sein Eigentum würden zu Lob seiner Herrlichkeit.
 @15 Darum auch ich, nachdem ich gehört habe von dem Glauben bei euch an den Herrn Jesus und von eurer Liebe zu allen Heiligen,
 @16 höre ich nicht auf, zu danken für euch, und gedenke euer in meinem Gebet,
-@17 dass der Gott unseres Herrn Jesus Christi, der Vater der Herrlichkeit, gebe euch den Geist der Weisheit und der Offenbarung zu seiner selbst Erkenntnis
+@17 dass der Gott unseres Herrn Jesus Christus, der Vater der Herrlichkeit, gebe euch den Geist der Weisheit und der Offenbarung zu seiner selbst Erkenntnis
 @18 und erleuchtete Augen eures Verständnisses, dass ihr erkennen möget, welche da sei die Hoffnung eurer Berufung, und welcher sei der Reichtum seines herrlichen Erbes bei seinen Heiligen,
 @19 und welche da sei die überschwengliche Größe seiner Kraft an uns, die wir glauben nach der Wirkung seiner mächtigen Stärke,
-@20 welche er gewirkt hat in Christo, da er ihn von den Toten auferweckt hat und gesetzt zu seiner Rechten im Himmel
+@20 welche er gewirkt hat in Christus, da er ihn von den Toten auferweckt hat und gesetzt zu seiner Rechten im Himmel
 @21 über alle Fürstentümer, Gewalt, Macht, Herrschaft und alles, was genannt mag werden, nicht allein auf dieser Welt, sondern auch in der zukünftigen;
 @22 und hat alle Dinge unter seine Füße getan und hat ihn gesetzt zum Haupt der Gemeinde über alles,
 @23 welche da ist sein Leib, nämlich die Fülle des, der alles in allen erfüllt.
@@ -28,15 +28,15 @@
 @2 in welchen ihr vordem gewandelt habt nach dem Lauf dieser Welt und nach dem Fürsten, der in der Luft herrscht, nämlich nach dem Geist, der zu dieser Zeit sein Werk hat in den Kindern des Unglaubens,
 @3 unter welchen auch wir alle vordem unseren Wandel gehabt haben in den Lüsten unseres Fleisches und taten den Willen des Fleisches und der Vernunft und waren auch Kinder des Zorns von Natur, gleichwie auch die anderen;
 @4 Aber Gott, der da reich ist an Barmherzigkeit, durch seine große Liebe, damit er uns geliebt hat,
-@5 da wir tot waren in den Sünden, hat er uns samt Christo lebendig gemacht (denn aus Gnade seid ihr selig geworden)
-@6 und hat uns samt ihm auferweckt und samt ihm in das himmlische Wesen gesetzt in Christo Jesu,
-@7 auf dass er erzeigte in den zukünftigen Zeiten den überschwenglichen Reichtum seiner Gnade durch seine Güte gegen uns in Christo Jesu.
+@5 da wir tot waren in den Sünden, hat er uns samt Christus lebendig gemacht (denn aus Gnade seid ihr selig geworden)
+@6 und hat uns samt ihm auferweckt und samt ihm in das himmlische Wesen gesetzt in Christus Jesus,
+@7 auf dass er erzeigte in den zukünftigen Zeiten den überschwenglichen Reichtum seiner Gnade durch seine Güte gegen uns in Christus Jesus.
 @8 Denn aus Gnade seid ihr selig geworden durch den Glauben, und das nicht aus euch: Gottes Gabe ist es,
 @9 nicht aus den Werken, auf dass sich nicht jemand rühme.
-@10 Denn wir sind sein Werk, geschaffen in Christo Jesu zu guten Werken, zu welchen Gott uns zuvor bereitet hat, dass wir darin wandeln sollen.
+@10 Denn wir sind sein Werk, geschaffen in Christus Jesus zu guten Werken, zu welchen Gott uns zuvor bereitet hat, dass wir darin wandeln sollen.
 @11 Darum gedenket daran, dass ihr, die ihr vordem nach dem Fleisch Heiden gewesen seid und die Unbeschnittenen genannt wurdet von denen, die genannt sind die Beschneidung nach dem Fleisch, die mit der Hand geschieht,
-@12 dass ihr zu derselben Zeit waret ohne Christum, fremd und außer der Bürgerschaft Israels und fremd den Testamenten der Verheißung; daher ihr keine Hoffnung hattet und waret ohne Gott in der Welt.
-@13 Nun aber seid ihr, die ihr in Christo Jesu seid und vordem ferne gewesen, nahe geworden durch das Blut Christi.
+@12 dass ihr zu derselben Zeit waret ohne Christus, fremd und außer der Bürgerschaft Israels und fremd den Testamenten der Verheißung; daher ihr keine Hoffnung hattet und waret ohne Gott in der Welt.
+@13 Nun aber seid ihr, die ihr in Christus Jesus seid und vordem ferne gewesen, nahe geworden durch das Blut Christi.
 @14 Denn er ist unser Friede, der aus beiden eines hat gemacht und hat abgebrochen den Zaun, der dazwischen war, indem er durch sein Fleisch wegnahm die Feindschaft,
 @15 nämlich das Gesetz, das in Geboten gestellt war, auf dass er aus zweien einen neuen Menschen in ihm selber schüfe und Frieden machte,
 @16 und dass er beide versöhnte mit Gott in einem Leibe durch das Kreuz und hat die Feindschaft getötet durch sich selbst.
@@ -48,27 +48,27 @@
 @22 auf welchem auch ihr mit erbaut werdet zu einer Behausung Gottes im Geist.
 
 # 3
-@1 Derhalben ich, Paulus, der Gefangene Christi Jesu für euch Heiden,
+@1 Derhalben ich, Paulus, der Gefangene Christi Jesus für euch Heiden,
 @2 wie ihr ja gehört habt von dem Amt der Gnade Gottes, die mir an euch gegeben ist,
 @3 dass mir ist kund geworden dieses Geheimnis durch Offenbarung, wie ich droben aufs kürzeste geschrieben habe,
 @4 daran ihr, so ihr's leset, merken könnt mein Verständnis des Geheimnisses Christi,
 @5 welches nicht kundgetan ist in den vorigen Zeiten den Menschenkindern, wie es nun offenbart ist seinen heiligen Aposteln und Propheten durch den Geist,
-@6 nämlich, dass die Heiden Miterben seien und mit eingeleibt und Mitgenossen seiner Verheißung in Christo durch das Evangelium,
+@6 nämlich, dass die Heiden Miterben seien und mit eingeleibt und Mitgenossen seiner Verheißung in Christus durch das Evangelium,
 @7 dessen Diener ich geworden bin nach der Gabe aus der Gnade Gottes, die mir nach seiner mächtigen Kraft gegeben ist;
 @8 mir, dem allergeringsten unter allen Heiligen, ist gegeben diese Gnade, unter den Heiden zu verkündigen den unausforschlichen Reichtum Christi
-@9 und zu erleuchten jedermann, welche da sei die Gemeinschaft des Geheimnisses, das von der Welt her in Gott verborgen gewesen ist, der alle Dinge geschaffen hat durch Jesum Christum,
+@9 und zu erleuchten jedermann, welche da sei die Gemeinschaft des Geheimnisses, das von der Welt her in Gott verborgen gewesen ist, der alle Dinge geschaffen hat durch Jesus Christus,
 @10 auf dass jetzt kund würde den Fürstentümern und Herrschaften in dem Himmel an der Gemeinde die mannigfaltige Weisheit Gottes,
-@11 nach dem Vorsatz von der Welt her, welche er bewiesen hat in Christo Jesu, unserem Herrn,
+@11 nach dem Vorsatz von der Welt her, welche er bewiesen hat in Christus Jesus, unserem Herrn,
 @12 durch welchen wir haben Freudigkeit und Zugang in aller Zuversicht durch den Glauben an ihn.
 @13 Darum bitte ich, dass ihr nicht müde werdet um meiner Trübsal willen, die ich für euch leide, welche euch eine Ehre sind.
-@14 Derhalben beuge ich meine Knie vor dem Vater unseres Herrn Jesu Christi,
+@14 Derhalben beuge ich meine Knie vor dem Vater unseres Herrn Jesus Christus,
 @15 der der rechte Vater ist über alles, was da Kinder heißt im Himmel und auf Erden,
 @16 dass er euch Kraft gebe nach dem Reichtum seiner Herrlichkeit, stark zu werden durch seinen Geist an dem inwendigen Menschen,
 @17 dass Christus wohne durch den Glauben in euren Herzen und ihr durch die Liebe eingewurzelt und gegründet werdet,
 @18 auf dass ihr begreifen möget mit allen Heiligen, welches da sei die Breite und die Länge und die Tiefe und die Höhe;
 @19 auch erkennen die Liebe Christi, die doch alle Erkenntnis übertrifft, auf dass ihr erfüllt werdet mit allerlei Gottesfülle.
 @20 Dem aber, der überschwenglich tun kann über alles, das wir bitten oder verstehen, nach der Kraft, die da in uns wirkt,
-@21 dem sei Ehre in der Gemeinde, die in Christo Jesu ist, zu aller Zeit, von Ewigkeit zu Ewigkeit! Amen.
+@21 dem sei Ehre in der Gemeinde, die in Christus Jesus ist, zu aller Zeit, von Ewigkeit zu Ewigkeit! Amen.
 
 # 4
 @1 So ermahne nun euch ich Gefangener in dem Herrn, dass ihr wandelt, wie sich's gebührt eurer Berufung, mit der ihr berufen seid,
@@ -90,8 +90,8 @@
 @17 So sage ich nun und bezeuge in dem Herrn, dass ihr nicht mehr wandelt, wie die anderen Heiden wandeln in der Eitelkeit ihres Sinnes,
 @18 deren Verstand verfinstert ist, und die entfremdet sind von dem Leben, das aus Gott ist, durch die Unwissenheit, die in ihnen ist, durch die Blindheit ihres Herzens;
 @19 welche ruchlos sind und ergeben sich der Unzucht und treiben allerlei Unreinigkeit samt dem Geiz.
-@20 Ihr aber habt Christum nicht also gelernt,
-@21 so ihr anders von ihm gehört habt und in ihm gelehrt, wie in Jesu ein rechtschaffenes Wesen ist.
+@20 Ihr aber habt Christus nicht also gelernt,
+@21 so ihr anders von ihm gehört habt und in ihm gelehrt, wie in Jesus ein rechtschaffenes Wesen ist.
 @22 So legt nun von euch ab nach dem vorigen Wandel den alten Menschen, der durch Lüste im Irrtum sich verderbt.
 @23 Erneuert euch aber im Geist eures Gemüts
 @24 und ziehet den neuen Menschen an, der nach Gott geschaffen ist in rechtschaffener Gerechtigkeit und Heiligkeit.
@@ -102,7 +102,7 @@
 @29 Lasset kein faul Geschwätz aus eurem Munde gehen, sondern was nützlich zur Besserung ist, wo es not tut, dass es holdselig sei zu hören.
 @30 Und betrübet nicht den heiligen Geist Gottes, mit dem ihr versiegelt seid auf den Tag der Erlösung.
 @31 Alle Bitterkeit und Grimm und Zorn und Geschrei und Lästerung sei ferne von euch samt aller Bosheit.
-@32 Seid aber untereinander freundlich, herzlich und vergebet einer dem anderen, gleichwie Gott euch auch vergeben hat in Christo.
+@32 Seid aber untereinander freundlich, herzlich und vergebet einer dem anderen, gleichwie Gott euch auch vergeben hat in Christus.
 
 # 5
 @1 So seid nun Gottes Nachfolger als die lieben Kinder
@@ -124,11 +124,11 @@
 @17 Darum werdet nicht unverständig, sondern verständig, was da sei des Herrn Wille.
 @18 Und saufet euch nicht voll Wein, daraus ein unordentlich Wesen folgt, sondern werdet voll Geistes:
 @19 redet untereinander in Psalmen und Lobgesängen und geistlichen Liedern, singet und spielet dem Herrn in euren Herzen
-@20 und saget Dank allezeit für alles Gott und dem Vater in dem Namen unseres Herrn Jesu Christi,
+@20 und saget Dank allezeit für alles Gott und dem Vater in dem Namen unseres Herrn Jesus Christus,
 @21 und seid untereinander untertan in der Furcht Gottes.
 @22 Die Frauen seien untertan ihren Männern als dem Herrn.
 @23 Denn der Mann ist der Frau Haupt, gleichwie auch Christus das Haupt ist der Gemeinde, und er ist seines Leibes Heiland.
-@24 Aber wie nun die Gemeinde ist Christo untertan, also auch die Frauen ihren Männern in allen Dingen.
+@24 Aber wie nun die Gemeinde ist Christus untertan, also auch die Frauen ihren Männern in allen Dingen.
 @25 Ihr Männer, liebet eure Frauen, gleichwie Christus auch geliebt hat die Gemeinde und hat sich selbst für sie gegeben,
 @26 auf dass er sie heiligte, und hat sie gereinigt durch das Wasserbad im Wort,
 @27 auf dass er sie sich selbst darstellte als eine Gemeinde, die herrlich sei, die nicht habe einen Flecken oder Runzel oder des etwas, sondern dass sie heilig sei und unsträflich.
@@ -136,7 +136,7 @@
 @29 Denn niemand hat jemals sein eigen Fleisch gehasst; sondern er nährt es und pflegt sein, gleichwie auch der Herr die Gemeinde.
 @30 Denn wir sind die Glieder seines Leibes, von seinem Fleisch und von seinem Gebein.
 @31 „Um deswillen wird ein Mensch verlassen Vater und Mutter und seiner Frau anhangen, und werden die zwei ein Fleisch sein.“
-@32 Das Geheimnis ist groß; ich sage aber von Christo und der Gemeinde.
+@32 Das Geheimnis ist groß; ich sage aber von Christus und der Gemeinde.
 @33 Doch auch ihr, ja ein jeglicher habe lieb seine Frau als sich selbst; die Frau aber fürchte den Mann.
 
 # 6
@@ -144,7 +144,7 @@
 @2 „Ehre Vater und Mutter,“ das ist das erste Gebot, das Verheißung hat:
 @3 „auf dass dir's wohl gehe und du lange lebest auf Erden.“
 @4 Und ihr Väter, reizet eure Kinder nicht zum Zorn, sondern zieht sie auf in der Zucht und Vermahnung zum Herrn.
-@5 Ihr Knechte, seid gehorsam euren leiblichen Herren mit Furcht und Zittern, in Einfalt eures Herzens, als Christo;
+@5 Ihr Knechte, seid gehorsam euren leiblichen Herren mit Furcht und Zittern, in Einfalt eures Herzens, als Christus;
 @6 nicht mit Dienst allein vor Augen, als den Menschen zu gefallen, sondern als die Knechte Christi, dass ihr solchen Willen Gottes tut von Herzen, mit gutem Willen.
 @7 Lasset euch dünken, dass ihr dem Herrn dienet und nicht den Menschen,
 @8 und wisset: Was ein jeglicher Gutes tun wird, das wird er von dem Herrn empfangen, er sei ein Knecht oder ein Freier.

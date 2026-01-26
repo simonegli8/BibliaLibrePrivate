@@ -108,7 +108,7 @@
 @17 Siehe, selig ist der Mensch, den Gott straft; darum weigere dich der Züchtigung des Allmächtigen nicht.
 @18 Denn er verletzt und verbindet; er zerschlägt, und seine Hand heilt.
 @19 Aus sechs Trübsalen wird er dich erretten, und in der siebenten wird dich kein Übel rühren:
-@20 in der Teuerung wird er dich vom Tod erlösen und im Kriege von des Schwertes Hand;
+@20 in der Hungersnot wird er dich vom Tod erlösen und im Kriege von des Schwertes Hand;
 @21 er wird dich verbergen vor der Geißel der Zunge, dass du dich nicht fürchtest vor dem Verderben, wenn es kommt;
 @22 im Verderben und im Hunger wirst du lachen und dich vor den wilden Tieren im Lande nicht fürchten;
 @23 sondern dein Bund wird sein mit den Steinen auf dem Felde, und die wilden Tiere auf dem Lande werden Frieden mit dir halten.

@@ -199,7 +199,7 @@
 @22 Und sie gaben alle Zeugnis von ihm und wunderten sich der holdseligen Worte, die aus seinem Munde gingen, und sprachen: „Ist das nicht Josephs Sohn?“
 @23 Und er sprach zu ihnen: Ihr werdet freilich zu mir sagen dies Sprichwort: Arzt, hilf dir selber! Denn wie große Dinge haben wir gehört, zu Kapernaum geschehen! Tue also auch hier, in deiner Vaterstadt.
 @24 Er sprach aber: Wahrlich, ich sage euch: Kein Prophet ist angenehm in seinem Vaterlande.
-@25 Aber in der Wahrheit sage ich euch: Es waren viele Witwen in Israel zu Elias Zeiten, da der Himmel verschlossen war drei Jahre und sechs Monate, da eine große Teuerung war im ganzen Lande;
+@25 Aber in der Wahrheit sage ich euch: Es waren viele Witwen in Israel zu Elias Zeiten, da der Himmel verschlossen war drei Jahre und sechs Monate, da eine große Hungersnot war im ganzen Lande;
 @26 und zu deren keiner ward Elia gesandt denn allein gen Sarepta der Sidonier zu einer Witwe.
 @27 Und viele Aussätzige waren in Israel zu des Propheten Elisa Zeiten; und deren keiner wurde gereinigt denn allein Naeman aus Syrien.
 @28 Und sie wurden voll Zorn alle, die in der Schule waren, da sie das hörten,
@@ -228,18 +228,18 @@
 @5 Und Simon antwortete und sprach zu ihm: Meister, wir haben die ganze Nacht gearbeitet und nichts gefangen, aber auf dein Wort will ich das Netz auswerfen.
 @6 Und da sie das taten, beschlossen sie eine große Menge Fische, und ihr Netz zerriss.
 @7 Und sie winkten ihren Gesellen, die im anderen Schiff waren, dass sie kämen und hülfen ihnen ziehen. Und sie kamen und füllten beide Schiffe voll, also dass sie sanken.
-@8 Da das Simon Petrus sah, fiel er Jesu zu den Knien und sprach: Herr, gehe von mir hinaus! ich bin ein sündiger Mensch.
+@8 Da das Simon Petrus sah, fiel er Jesus zu den Knien und sprach: Herr, gehe von mir hinaus! ich bin ein sündiger Mensch.
 @9 Denn es war ihn ein Schrecken angekommen, ihn und alle, die mit ihm waren, über diesen Fischzug, den sie miteinander getan hatten;
 @10 desgleichen auch Jakobus und Johannes, die Söhne des Zebedäus, Simons Gesellen. Und Jesus sprach zu Simon: Fürchte dich nicht; denn von nun an wirst du Menschen fangen.
 @11 Und sie führten die Schiffe zu Lande und verließen alles und folgten ihm nach.
-@12 Und es begab sich, da er in einer Stadt war, siehe, da war ein Mann voll Aussatz. Da der Jesum sah, fiel er auf sein Angesicht und bat ihn und sprach: Herr, willst du, so kannst du mich reinigen.
+@12 Und es begab sich, da er in einer Stadt war, siehe, da war ein Mann voll Aussatz. Da der Jesus sah, fiel er auf sein Angesicht und bat ihn und sprach: Herr, willst du, so kannst du mich reinigen.
 @13 Und er streckte die Hand aus und rührte ihn an und sprach: Ich will's tun; sei gereinigt! Und alsobald ging der Aussatz von ihm.
 @14 Und er gebot ihm, dass er's niemand sagen sollte; sondern „gehe hin und zeige dich dem Priester und opfere für deine Reinigung, wie Mose geboten hat, ihnen zum Zeugnis“.
 @15 Es kam aber die Sage von ihm immer weiter aus, und kam viel Volks zusammen, dass sie ihn hörten und durch ihn gesund würden von ihren Krankheiten.
 @16 Er aber entwich in die Wüste und betete.
 @17 Und es begab sich auf einen Tag, dass er lehrte; und es saßen da die Pharisäer und Schriftgelehrten, die da gekommen waren aus allen Märkten in Galiläa und Judäa und von Jerusalem. Und die Kraft des Herrn ging von ihm, und er half jedermann.
 @18 Und, siehe, etliche Männer brachten einen Menschen auf einem Bette, der war gichtbrüchig; und sie suchten, wie sie ihn hineinbrächten und vor ihn legten.
-@19 Und da sie vor dem Volk nicht fanden, an welchem Ort sie ihn hineinbrächten, stiegen sie auf das Dach und ließen ihn durch die Ziegel hernieder mit dem Bettlein mitten unter sie, vor Jesum.
+@19 Und da sie vor dem Volk nicht fanden, an welchem Ort sie ihn hineinbrächten, stiegen sie auf das Dach und ließen ihn durch die Ziegel hernieder mit dem Bettlein mitten unter sie, vor Jesus.
 @20 Und da er ihren Glauben sah, sprach er zu ihm: Mensch, deine Sünden sind dir vergeben.
 @21 Und die Schriftgelehrten und Pharisäer fingen an zu denken und sprachen: Wer ist der, dass er Gotteslästerungen redet? Wer kann Sünden vergeben denn allein Gott?
 @22 Da aber Jesus ihre Gedanken merkte, antwortete er und sprach zu ihnen: Was denket ihr in euren Herzen?
@@ -315,8 +315,8 @@
 # 7
 @1 Nachdem er aber vor dem Volk ausgeredet hatte, ging er gen Kapernaum.
 @2 Und eines Hauptmanns Knecht lag todkrank, den er wert hielt.
-@3 Da er aber von Jesu hörte, sandte er die Ältesten der Juden zu ihm und bat ihn, dass er käme und seinen Knecht gesund machte.
-@4 Da sie aber zu Jesu kamen, baten sie ihn mit Fleiß und sprachen: Er ist es wert, dass du ihm das erzeigest;
+@3 Da er aber von Jesus hörte, sandte er die Ältesten der Juden zu ihm und bat ihn, dass er käme und seinen Knecht gesund machte.
+@4 Da sie aber zu Jesus kamen, baten sie ihn mit Fleiß und sprachen: Er ist es wert, dass du ihm das erzeigest;
 @5 denn er hat unser Volk lieb, und die Schule hat er uns erbaut.
 @6 Jesus aber ging mit ihnen hin. Da sie aber nun nicht ferne von dem Hause waren, sandte der Hauptmann Freunde zu ihm und ließ ihm sagen: Ach Herr, bemühe dich nicht; ich bin nicht wert, dass du unter mein Dach gehest;
 @7 darum habe ich auch mich selbst nicht würdig geachtet, dass ich zu dir käme; sondern sprich ein Wort, so wird mein Knecht gesund.
@@ -331,7 +331,7 @@
 @16 Und es kam sie alle eine Furcht an, und sie priesen Gott und sprachen: Es ist ein großer Prophet unter uns aufgestanden, und Gott hat sein Volk heimgesucht.
 @17 Und diese Rede von ihm erscholl in das ganze jüdische Land und in alle umliegenden Länder.
 @18 Und es verkündigten Johannes seine Jünger das alles. Und er rief zu sich seiner Jünger zwei
-@19 und sandte sie zu Jesu und ließ ihm sagen: Bist du, der da kommen soll, oder sollen wir eines anderen warten?
+@19 und sandte sie zu Jesus und ließ ihm sagen: Bist du, der da kommen soll, oder sollen wir eines anderen warten?
 @20 Da aber die Männer zu ihm kamen, sprachen sie: Johannes der Täufer hat uns zu dir gesandt und lässt dir sagen: Bist du, der da kommen soll, oder sollen wir eines anderen warten?
 @21 Zu derselben Stunde aber machte er viele gesund von Seuchen und Plagen und bösen Geistern, und vielen Blinden schenkte er das Gesicht.
 @22 Und Jesus antwortete und sprach zu ihnen: Gehet hin und verkündiget Johannes, was ihr gesehen und gehört habt: die Blinden sehen, die Lahmen gehen, die Aussätzigen werden rein, die Tauben hören, die Toten stehen auf, den Armen wird das Evangelium gepredigt;
@@ -392,20 +392,20 @@
 @25 Er aber sprach zu ihnen: Wo ist euer Glaube? Sie fürchteten sich aber und verwunderten sich und sprachen untereinander: Wer ist dieser? denn er gebietet dem Winde und dem Wasser, und sie sind ihm gehorsam.
 @26 Und sie schifften fort in die Gegend der Gadarener, welche ist Galiläa gegenüber.
 @27 Und als er austrat auf das Land, begegnete ihm ein Mann aus der Stadt, der hatte Teufel von langer Zeit her und tat keine Kleider an und blieb in keinem Hause, sondern in den Gräbern.
-@28 Da er aber Jesum sah, schrie er und fiel vor ihm nieder und rief laut und sprach: Was habe ich mit dir zu schaffen, Jesu, du Sohn Gottes, des Allerhöchsten? Ich bitte dich, du wollest mich nicht quälen.
+@28 Da er aber Jesus sah, schrie er und fiel vor ihm nieder und rief laut und sprach: Was habe ich mit dir zu schaffen, Jesus, du Sohn Gottes, des Allerhöchsten? Ich bitte dich, du wollest mich nicht quälen.
 @29 Denn er gebot dem unsauberen Geist, dass er von dem Menschen ausführe. Denn er hatte ihn lange Zeit geplagt, und er ward mit Ketten gebunden und mit Fesseln gefangen, und zerriss die Bande und ward getrieben von dem Teufel in die Wüsten.
 @30 Und Jesus fragte ihn und sprach: Wie heißest du? Er sprach: Legion; denn es waren viel Teufel in ihn gefahren.
 @31 Und sie baten ihn, dass er sie nicht hieße in die Tiefe fahren.
 @32 Es war aber daselbst eine große Herde Säue auf der Weide auf dem Berge. Und sie baten ihn, dass er ihnen erlaubte in sie zu fahren. Und er erlaubte es ihnen.
 @33 Da fuhren die Teufel aus von dem Menschen und fuhren in die Säue; und die Herde stürzte sich von dem Abhange in den See und ersoff.
 @34 Da aber die Hirten sahen, was da geschah, flohen sie und verkündigten's in der Stadt und in den Dörfern.
-@35 Da gingen sie hinaus, zu sehen, was da geschehen war, und kamen zu Jesu und fanden den Menschen, von welchem die Teufel ausgefahren waren, sitzend zu den Füßen Jesu, bekleidet und vernünftig, und erschraken.
+@35 Da gingen sie hinaus, zu sehen, was da geschehen war, und kamen zu Jesus und fanden den Menschen, von welchem die Teufel ausgefahren waren, sitzend zu den Füßen Jesu, bekleidet und vernünftig, und erschraken.
 @36 Und die es gesehen hatten, verkündigten's ihnen, wie der Besessene war gesund geworden.
 @37 Und es bat ihn die ganze Menge des umliegenden Landes der Gadarener, dass er von ihnen ginge; denn es war sie eine große Furcht angekommen. Und er trat in das Schiff und wandte wieder um.
 @38 Es bat ihn aber der Mann, von dem die Teufel ausgefahren waren, dass er bei ihm möchte sein. Aber Jesus ließ ihn von sich und sprach:
 @39 Gehe wieder heim und sage, wie große Dinge dir Gott getan hat. Und er ging hin und verkündigte durch die ganze Stadt, wie große Dinge ihm Jesus getan hatte.
 @40 Und es begab sich, da Jesus wiederkam, nahm ihn das Volk auf; denn sie warteten alle auf ihn.
-@41 Und siehe, da kam ein Mann mit Namen Jairus, der ein Oberster der Schule war, und fiel Jesu zu den Füßen und bat ihn, dass er wollte in sein Haus kommen;
+@41 Und siehe, da kam ein Mann mit Namen Jairus, der ein Oberster der Schule war, und fiel Jesus zu den Füßen und bat ihn, dass er wollte in sein Haus kommen;
 @42 denn er hatte eine einzige Tochter bei zwölf Jahren, die lag in den letzten Zügen. Und da er hinging, drängte ihn das Volk.
 @43 Und eine Frau hatte den Blutgang zwölf Jahre gehabt; die hatte alle ihre Nahrung an die Ärzte gewandt, und konnte von niemand geheilt werden;
 @44 die trat hinzu von hinten und rührte seines Kleides Saum an; und alsobald stand ihr der Blutgang.
@@ -455,10 +455,10 @@
 @30 Und siehe, zwei Männer redeten mit ihm, welche waren Mose und Elia;
 @31 die erschienen in Klarheit und redeten von dem Ausgang, welchen er sollte erfüllen zu Jerusalem.
 @32 Petrus aber und die mit ihm waren, waren voll Schlafs. Da sie aber aufwachten, sahen sie seine Klarheit und die zwei Männer bei ihm stehen.
-@33 Und es begab sich, da die von ihm wichen, sprach Petrus zu Jesu: Meister, hier ist gut sein. Lasset uns drei Hütten machen: dir eine, Mose eine und Elia eine. Und er wusste nicht, was er redete.
+@33 Und es begab sich, da die von ihm wichen, sprach Petrus zu Jesus: Meister, hier ist gut sein. Lasset uns drei Hütten machen: dir eine, Mose eine und Elia eine. Und er wusste nicht, was er redete.
 @34 Da er aber solches redete, kam eine Wolke und überschattete sie; und sie erschraken, da sie die Wolke überzog.
 @35 Und es fiel eine Stimme aus der Wolke, die sprach: Dieser ist mein lieber Sohn; den sollt ihr hören!
-@36 Und indem solche Stimme geschah, fanden sie Jesum allein. Und sie verschwiegen es und verkündigten niemand in jenen Tagen, was sie gesehen hatten.
+@36 Und indem solche Stimme geschah, fanden sie Jesus allein. Und sie verschwiegen es und verkündigten niemand in jenen Tagen, was sie gesehen hatten.
 @37 Es begab sich aber den Tag hernach, da sie von dem Berge kamen, kam ihnen entgegen viel Volks.
 @38 Und siehe, ein Mann unter dem Volk rief und sprach: Meister, ich bitte dich, besiehe doch meinen Sohn, denn er ist mein einziger Sohn.
 @39 Siehe, der Geist ergreift ihn, so schreit er alsbald, und reißt ihn, dass er schäumt, und mit Not weicht er von ihm, wenn er ihn gerissen hat.
@@ -735,7 +735,7 @@
 @11 Und er sprach: Ein Mensch hatte zwei Söhne.
 @12 Und der jüngste unter ihnen sprach zu dem Vater: Gib mir, Vater, das Teil der Güter, das mir gehört. Und er teilte ihnen das Gut.
 @13 Und nicht lange darnach sammelte der jüngste Sohn alles zusammen und zog ferne über Land; und daselbst brachte er sein Gut um mit Prassen.
-@14 Da er nun all das Seine verzehrt hatte, ward eine große Teuerung durch dasselbe ganze Land, und er fing an zu darben.
+@14 Da er nun all das Seine verzehrt hatte, ward eine große Hungersnot durch dasselbe ganze Land, und er fing an zu darben.
 @15 Und ging hin und hängte sich an einen Bürger des Landes; der schickte ihn auf seinen Acker, die Säue zu hüten.
 @16 Und er begehrte seinen Bauch zu füllen mit Trebern, die die Säue aßen; und niemand gab sie ihm.
 @17 Da schlug er in sich und sprach: Wie viel Tagelöhner hat mein Vater, die Brot die Fülle haben, und ich verderbe im Hunger!
@@ -801,7 +801,7 @@
 @10 Also auch ihr; wenn ihr alles getan habt, was euch befohlen ist, so sprechet: Wir sind unnütze Knechte; wir haben getan, was wir zu tun schuldig waren.
 @11 Und es begab sich, da er reiste gen Jerusalem, zog er mitten durch Samarien und Galiläa.
 @12 Und als er in einen Markt kam, begegneten ihm zehn aussätzige Männer, die standen von ferne
-@13 und erhoben ihre Stimme und sprachen: Jesu, lieber Meister, erbarme dich unser!
+@13 und erhoben ihre Stimme und sprachen: Jesus, lieber Meister, erbarme dich unser!
 @14 Und da er sie sah, sprach er zu ihnen: Gehet hin und zeiget euch den Priestern! Und es geschah, da sie hingingen, wurden sie rein.
 @15 Einer aber unter ihnen, da er sah, dass er geheilt war, kehrte er um und pries Gott mit lauter Stimme
 @16 und fiel auf sein Angesicht zu seinen Füßen und dankte ihm. Und das war ein Samariter.
@@ -865,7 +865,7 @@
 @35 Es geschah aber, da er nahe an Jericho kam, saß ein Blinder am Wege und bettelte.
 @36 Da er aber hörte das Volk, das hindurchging, forschte er, was das wäre.
 @37 Da verkündigten sie ihm, Jesus von Nazareth ginge vorüber.
-@38 Und er rief und sprach: Jesu, du Sohn Davids, erbarme dich mein!
+@38 Und er rief und sprach: Jesus, du Sohn Davids, erbarme dich mein!
 @39 Die aber vornean gingen, bedrohten ihn, er sollte schweigen. Er aber schrie viel mehr: Du Sohn Davids, erbarme dich mein!
 @40 Jesus aber stand still und hieß ihn zu sich führen. Da sie ihn aber nahe zu ihm brachten, fragte er ihn
 @41 und sprach: Was willst du, dass ich dir tun soll? Er sprach: Herr, dass ich sehen möge.
@@ -875,7 +875,7 @@
 # 19
 @1 Und er zog hinein und ging durch Jericho.
 @2 Und siehe, da war ein Mann, genannt Zachäus, der war ein Oberster der Zöllner und war reich.
-@3 Und er begehrte Jesum zu sehen, wer er wäre, und konnte nicht vor dem Volk; denn er war klein von Person.
+@3 Und er begehrte Jesus zu sehen, wer er wäre, und konnte nicht vor dem Volk; denn er war klein von Person.
 @4 Und er lief voraus und stieg auf einen Maulbeerbaum, auf dass er ihn sähe: denn allda sollte er durchkommen.
 @5 Und als Jesus kam an die Stätte, sah er auf und ward sein gewahr und sprach zu ihm: Zachäus, steig eilend hernieder; denn ich muss heute in deinem Hause einkehren!
 @6 Und er stieg eilend hernieder und nahm ihn auf mit Freuden.
@@ -907,7 +907,7 @@
 @32 Und die Gesandten gingen hin und fanden, wie er ihnen gesagt hatte.
 @33 Da sie aber das Füllen ablösten, sprachen seine Herren zu ihnen: Warum löset ihr das Füllen ab?
 @34 Sie aber sprachen: Der Herr bedarf sein.
-@35 Und sie brachten's zu Jesu und warfen ihre Kleider auf das Füllen und setzten Jesum darauf.
+@35 Und sie brachten's zu Jesus und warfen ihre Kleider auf das Füllen und setzten Jesus darauf.
 @36 Da er nun hinzog, breiteten sie ihre Kleider auf den Weg.
 @37 Und da er nahe hinzukam und zog den Ölberg herab, fing an der ganze Haufe seiner Jünger, fröhlich Gott zu loben mit lauter Stimme über alle Taten, die sie gesehen hatten,
 @38 und sprachen: Gelobt sei, der da kommt, ein König, in dem Namen des Herrn! Friede sei im Himmel und Ehre in der Höhe!
@@ -1058,7 +1058,7 @@
 @44 Und es kam, dass er mit dem Tode rang und betete heftiger. Es ward aber sein Schweiß wie Blutstropfen, die fielen auf die Erde.
 @45 Und er stand auf von dem Gebet und kam zu seinen Jüngern und fand sie schlafen vor Traurigkeit
 @46 und sprach zu ihnen: Was schlafet ihr? Stehet auf und betet, auf das ihr nicht in Anfechtung fallet!
-@47 Da er aber noch redete, siehe, da kam die Schar; und einer von den Zwölfen, genannt Judas, ging vor ihnen her und nahte sich zu Jesu, ihn zu küssen.
+@47 Da er aber noch redete, siehe, da kam die Schar; und einer von den Zwölfen, genannt Judas, ging vor ihnen her und nahte sich zu Jesus, ihn zu küssen.
 @48 Jesus aber sprach zu ihm: Judas, verrätst du des Menschen Sohn mit einem Kuss?
 @49 Da aber sahen, die um ihn waren, was da werden wollte, sprachen sie zu ihm: Herr, sollen wir mit dem Schwert dreinschlagen?
 @50 Und einer aus ihnen schlug des Hohenpriesters Knecht und hieb ihm sein rechtes Ohr ab.
@@ -1074,7 +1074,7 @@
 @60 Petrus aber sprach: Mensch, ich weiß nicht, was du sagst. Und alsbald, als er noch redete, krähte der Hahn.
 @61 Und der Herr wandte sich um und sah Petrus an. Und Petrus gedachte an des Herrn Wort, wie er zu ihm gesagt hatte: Ehe denn der Hahn kräht, wirst du mich dreimal verleugnen.
 @62 Und Petrus ging hinaus und weinte bitterlich.
-@63 Die Männer aber, die Jesum hielten, verspotteten ihn und schlugen ihn,
+@63 Die Männer aber, die Jesus hielten, verspotteten ihn und schlugen ihn,
 @64 verdeckten ihn und schlugen ihn ins Angesicht und fragten ihn und sprachen: Weissage, wer ist's, der dich schlug?
 @65 Und viele andere Lästerungen sagten sie wider ihn.
 @66 Und als es Tag ward, sammelten sich die Ältesten des Volks, die Hohenpriester und Schriftgelehrten und führten ihn hinauf vor ihren Rat
@@ -1092,7 +1092,7 @@
 @5 Sie aber hielten an und sprachen: Er hat das Volk erregt damit, dass er gelehrt hat hin und her im ganzen jüdischen Lande und hat in Galiläa angefangen bis hierher.
 @6 Da aber Pilatus Galiläa hörte, fragte er, ob er aus Galiläa wäre.
 @7 Und als er vernahm, dass er unter des Herodes Obrigkeit gehörte, übersandte er ihn zu Herodes, welcher in den Tagen auch zu Jerusalem war.
-@8 Da aber Herodes Jesum sah, ward er sehr froh; denn er hätte ihn längst gern gesehen – denn er hatte viel von ihm gehört – und hoffte, er würde ein Zeichen von ihm sehen.
+@8 Da aber Herodes Jesus sah, ward er sehr froh; denn er hätte ihn längst gern gesehen – denn er hatte viel von ihm gehört – und hoffte, er würde ein Zeichen von ihm sehen.
 @9 Und er fragte ihn mancherlei; er antwortete ihm aber nichts.
 @10 Die Hohenpriester aber und Schriftgelehrten standen und verklagten ihn hart.
 @11 Aber Herodes mit seinem Hofgesinde verachtete und verspottete ihn, legte ihm ein weißes Kleid an und sandte ihn wieder zu Pilatus.
@@ -1104,13 +1104,13 @@
 @17 (Denn er musste ihnen einen nach Gewohnheit des Festes losgeben.)
 @18 Da schrie der ganze Haufe und sprach: Hinweg mit diesem und gib uns Barabbas los!
 @19 (welcher war um eines Aufruhrs, der in der Stadt geschehen war, und um eines Mordes willen ins Gefängnis geworfen.)
-@20 Da rief Pilatus abermals ihnen zu und wollte Jesum loslassen.
+@20 Da rief Pilatus abermals ihnen zu und wollte Jesus loslassen.
 @21 Sie riefen aber und sprachen: Kreuzige, kreuzige ihn!
 @22 Er aber sprach zum drittenmal zu ihnen: Was hat denn dieser Übles getan? Ich finde keine Ursache des Todes an ihm; darum will ich ihn züchtigen und loslassen.
 @23 Aber sie lagen ihm an mit großem Geschrei und forderten, dass er gekreuzigt würde. Und ihr und der Hohenpriester Geschrei nahm überhand.
 @24 Pilatus aber urteilte, dass ihre Bitte geschähe,
-@25 und ließ den los, der um Aufruhrs und Mordes willen war ins Gefängnis geworfen, um welchen sie baten; aber Jesum übergab er ihrem Willen.
-@26 Und als sie ihn hinführten, ergriffen sie einen Simon von Kyrene, der kam vom Felde, und legten das Kreuz auf ihn, dass er's Jesu nachtrüge.
+@25 und ließ den los, der um Aufruhrs und Mordes willen war ins Gefängnis geworfen, um welchen sie baten; aber Jesus übergab er ihrem Willen.
+@26 Und als sie ihn hinführten, ergriffen sie einen Simon von Kyrene, der kam vom Felde, und legten das Kreuz auf ihn, dass er's Jesus nachtrüge.
 @27 Es folgte ihm aber nach ein großer Haufe Volks und Frauen, die beklagten und beweinten ihn.
 @28 Jesus aber wandte sich um zu ihnen und sprach: Ihr Töchter von Jerusalem, weinet nicht über mich, sondern weinet über euch selbst und über eure Kinder.
 @29 Denn siehe, es wird die Zeit kommen, in welcher man sagen wird: Selig sind die Unfruchtbaren und die Leiber, die nicht geboren haben, und die Brüste, die nicht gesäugt haben!
@@ -1126,7 +1126,7 @@
 @39 Aber der Übeltäter einer, die da gehenkt waren, lästerte ihn und sprach: Bist du Christus, so hilf dir selbst und uns!
 @40 Da antwortete der andere, strafte ihn und sprach: Und du fürchtest dich auch nicht vor Gott, der du doch in gleicher Verdammnis bist?
 @41 Und wir zwar sind billig darin, denn wir empfangen, was unsere Taten wert sind; dieser aber hat nichts Ungeschicktes getan.
-@42 Und er sprach zu Jesu: Herr, gedenke an mich, wenn du in dein Reich kommst!
+@42 Und er sprach zu Jesus: Herr, gedenke an mich, wenn du in dein Reich kommst!
 @43 Und Jesus sprach zu ihm: Wahrlich ich sage dir: Heute wirst du mit mir im Paradiese sein.
 @44 Und es war um die sechste Stunde, und es ward eine Finsternis über das ganze Land bis an die neunte Stunde,
 @45 und die Sonne verlor ihren Schein, und der Vorhang des Tempels zerriss mitten entzwei.
@@ -1145,7 +1145,7 @@
 # 24
 @1 Aber am ersten Tage der Woche sehr früh kamen sie zum Grabe und trugen die Spezerei, die sie bereitet hatten, und etliche mit ihnen.
 @2 Sie fanden aber den Stein abgewälzt von dem Grabe
-@3 und gingen hinein und fanden den Leib des Herrn Jesu nicht.
+@3 und gingen hinein und fanden den Leib des Herrn Jesus nicht.
 @4 Und da sie darum bekümmert waren, siehe, da traten zu ihnen zwei Männer mit glänzenden Kleidern.
 @5 Und sie erschraken und schlugen ihre Angesichter nieder zur Erde. Da sprachen die zu ihnen: Was suchet ihr den Lebendigen bei den Toten?
 @6 Er ist nicht hier; er ist auferstanden. Gedenket daran, wie er euch sagte, da er noch in Galiläa war

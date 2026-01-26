@@ -15,7 +15,7 @@
 @14 Und das Wort ward Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit, eine Herrlichkeit als des eingeborenen Sohnes vom Vater, voller Gnade und Wahrheit.
 @15 Johannes zeugt von ihm, ruft und spricht: Dieser war es, von dem ich gesagt habe: Nach mir wird kommen, der vor mir gewesen ist; denn er war eher als ich.
 @16 Und von seiner Fülle haben wir alle genommen Gnade um Gnade.
-@17 Denn das Gesetz ist durch Moses gegeben; die Gnade und Wahrheit ist durch Jesum Christum geworden.
+@17 Denn das Gesetz ist durch Moses gegeben; die Gnade und Wahrheit ist durch Jesus Christus geworden.
 @18 Niemand hat Gott je gesehen; der eingeborene Sohn, der in des Vaters Schoß ist, der hat es uns verkündigt.
 @19 Und dies ist das Zeugnis des Johannes, da die Juden sandten von Jerusalem Priester und Leviten, dass sie ihn fragten: Wer bist du?
 @20 Und er bekannte und leugnete nicht; und er bekannte: Ich bin nicht Christus.
@@ -27,23 +27,23 @@
 @26 Johannes antwortete ihnen und sprach: Ich taufe mit Wasser; aber er ist mitten unter euch getreten, den ihr nicht kennet.
 @27 Der ist's, der nach mir kommen wird, welcher vor mir gewesen ist, des ich nicht wert bin, dass ich seine Schuhriemen auflöse.
 @28 Dies geschah zu Bethabara jenseits des Jordans, wo Johannes taufte.
-@29 Des anderen Tages sieht Johannes Jesum zu ihm kommen und spricht: Siehe, das ist Gottes Lamm, welches der Welt Sünde trägt!
+@29 Des anderen Tages sieht Johannes Jesus zu ihm kommen und spricht: Siehe, das ist Gottes Lamm, welches der Welt Sünde trägt!
 @30 Dieser ist's, von dem ich gesagt habe: Nach mir kommt ein Mann, welcher vor mir gewesen ist; denn er war eher denn ich.
 @31 Und ich kannte ihn nicht; sondern auf dass er offenbar würde in Israel, darum bin ich gekommen, zu taufen mit Wasser.
 @32 Und Johannes zeugte und sprach: Ich sah, dass der Geist herabfuhr wie eine Taube vom Himmel und blieb auf ihm.
 @33 Und ich kannte ihn nicht; aber der mich sandte, zu taufen mit Wasser, der sprach zu mir: Auf welchen du sehen wirst den Geist herabfahren und auf ihm bleiben, der ist's, der mit dem heiligen Geist tauft.
 @34 Und ich sah es und zeugte, dass dieser ist Gottes Sohn.
 @35 Des anderen Tages stand abermals Johannes und zwei seiner Jünger.
-@36 Und als er sah Jesum wandeln, sprach er: Siehe, das ist Gottes Lamm!
-@37 Und die zwei Jünger hörten ihn reden und folgten Jesu nach.
+@36 Und als er sah Jesus wandeln, sprach er: Siehe, das ist Gottes Lamm!
+@37 Und die zwei Jünger hörten ihn reden und folgten Jesus nach.
 @38 Jesus aber wandte sich um und sah sie nachfolgen und sprach zu ihnen: Was suchet ihr? Sie aber sprachen zu ihm: Rabbi (das ist verdolmetscht: Meister), wo bist du zur Herberge?
 @39 Er sprach zu ihnen: Kommt und sehet's! Sie kamen und sahen's und blieben den Tag bei ihm. Es war aber um die zehnte Stunde.
 @40 Einer aus den zweien, die von Johannes hörten und Jesus nachfolgten, war Andreas, der Bruder des Simon Petrus.
 @41 Der findet am ersten seinen Bruder Simon und spricht zu ihm: Wir haben den Messias gefunden (welches ist verdolmetscht: der Gesalbte),
-@42 und führte ihn zu Jesu. Da ihn Jesus sah, sprach er: Du bist Simon, Jona's Sohn; du sollst Kephas heißen (das ist verdolmetscht: ein Fels).
+@42 und führte ihn zu Jesus. Da ihn Jesus sah, sprach er: Du bist Simon, Jona's Sohn; du sollst Kephas heißen (das ist verdolmetscht: ein Fels).
 @43 Des anderen Tages wollte Jesus wieder nach Galiläa ziehen und findet Philippus und spricht zu ihm: Folge mir nach!
 @44 Philippus aber war von Bethsaida, aus der Stadt des Andreas und Petrus.
-@45 Philippus findet Nathanael und spricht zu ihm: Wir haben den gefunden, von welchem Mose im Gesetz und die Propheten geschrieben haben, Jesum, Josephs Sohn von Nazareth.
+@45 Philippus findet Nathanael und spricht zu ihm: Wir haben den gefunden, von welchem Mose im Gesetz und die Propheten geschrieben haben, Jesus, Josephs Sohn von Nazareth.
 @46 Und Nathanael sprach zu ihm: Was kann von Nazareth Gutes kommen? Philippus spricht zu ihm: Komm und sieh es!
 @47 Jesus sah Nathanael zu sich kommen und spricht von ihm: Siehe, ein rechter Israeliter, in welchem kein Falsch ist.
 @48 Nathanael spricht zu ihm: Woher kennst du mich? Jesus antwortete und sprach zu ihm: Ehe denn dich Philippus rief, da du unter dem Feigenbaum warst, sah ich dich.
@@ -80,7 +80,7 @@
 
 # 3
 @1 Es war aber ein Mensch unter den Pharisäern mit Namen Nikodemus, ein Oberster unter den Juden.
-@2 Der kam zu Jesu bei der Nacht und sprach zu ihm: Meister, wir wissen, dass du bist ein Lehrer von Gott gekommen; denn niemand kann die Zeichen tun, die du tust, es sei denn Gott mit ihm.
+@2 Der kam zu Jesus bei der Nacht und sprach zu ihm: Meister, wir wissen, dass du bist ein Lehrer von Gott gekommen; denn niemand kann die Zeichen tun, die du tust, es sei denn Gott mit ihm.
 @3 Jesus antwortete und sprach zu ihm: Wahrlich, wahrlich, ich sage dir: Es sei denn, dass jemand von neuem geboren werde, so kann er das Reich Gottes nicht sehen.
 @4 Nikodemus spricht zu ihm: Wie kann ein Mensch geboren werden wenn er alt ist? Kann er auch wiederum in seiner Mutter Leib gehen und geboren werden?
 @5 Jesus antwortete: Wahrlich, wahrlich ich sage dir: Es sei denn, dass jemand geboren werde aus Wasser und Geist, so kann er nicht in das Reich Gottes kommen.
@@ -188,7 +188,7 @@
 @13 Der aber geheilt worden war, wusste nicht, wer es war; denn Jesus war gewichen, da so viel Volks an dem Ort war.
 @14 Darnach fand ihn Jesus im Tempel und sprach zu ihm: Siehe zu, du bist gesund geworden; sündige hinfort nicht mehr, dass dir nicht etwas Ärgeres widerfahre.
 @15 Der Mensch ging hin und verkündete es den Juden, es sei Jesus, der ihn gesund gemacht habe.
-@16 Darum verfolgten die Juden Jesum und suchten ihn zu töten, dass er solches getan hatte am Sabbat.
+@16 Darum verfolgten die Juden Jesus und suchten ihn zu töten, dass er solches getan hatte am Sabbat.
 @17 Jesus aber antwortete ihnen: Mein Vater wirkt bisher, und ich wirke auch.
 @18 Darum trachteten ihm die Juden nun viel mehr nach, dass sie ihn töteten, dass er nicht allein den Sabbat brach, sondern sagte auch, Gott sei sein Vater, und machte sich selbst Gott gleich.
 @19 Da antwortete Jesus und sprach zu ihnen: Wahrlich, wahrlich ich sage euch: Der Sohn kann nichts von sich selber tun, sondern was er sieht den Vater tun; denn was dieser tut, das tut gleicherweise auch der Sohn.
@@ -240,12 +240,12 @@
 @16 Am Abend aber gingen die Jünger hinab an das Meer
 @17 und traten in das Schiff und kamen über das Meer gen Kapernaum. Und es war schon finster geworden, und Jesus war nicht zu ihnen gekommen.
 @18 Und das Meer erhob sich von einem großen Winde.
-@19 Da sie nun gerudert hatten bei fünfundzwanzig oder dreißig Feld Wegs, sahen sie Jesum auf dem Meere dahergehen und nahe zum Schiff kommen; und sie fürchteten sich.
+@19 Da sie nun gerudert hatten bei fünfundzwanzig oder dreißig Feld Wegs, sahen sie Jesus auf dem Meere dahergehen und nahe zum Schiff kommen; und sie fürchteten sich.
 @20 Er aber sprach zu ihnen: Ich bin's; fürchtet euch nicht!
 @21 Da wollten sie ihn in das Schiff nehmen; und alsbald war das Schiff am Lande, da sie hin fuhren.
 @22 Des anderen Tages sah das Volk, das diesseits des Meers stand, dass kein anderes Schiff daselbst war denn das eine, darein seine Jünger getreten waren, und dass Jesus nicht mit seinen Jüngern in das Schiff getreten war, sondern allein seine Jünger waren weggefahren.
 @23 Es kamen aber andere Schiffe von Tiberias nahe zur Stätte, da sie das Brot gegessen hatten durch des Herrn Danksagung.
-@24 Da nun das Volk sah, dass Jesus nicht da war noch seine Jünger, traten sie auch in die Schiffe und kamen gen Kapernaum und suchten Jesum.
+@24 Da nun das Volk sah, dass Jesus nicht da war noch seine Jünger, traten sie auch in die Schiffe und kamen gen Kapernaum und suchten Jesus.
 @25 Und da sie ihn fanden jenseits des Meers, sprachen sie zu ihm: Rabbi, wann bist du hergekommen?
 @26 Jesus antwortete ihnen und sprach: Wahrlich, wahrlich ich sage euch: Ihr suchet mich nicht darum, dass ihr Zeichen gesehen habt, sondern dass ihr von dem Brot gegessen habt und seid satt geworden.
 @27 Wirket Speise, nicht, die vergänglich ist, sondern die da bleibt in das ewige Leben, welche euch des Menschen Sohn geben wird; denn den hat Gott der Vater versiegelt.
@@ -445,7 +445,7 @@
 @32 Von der Welt an ist's nicht erhört, dass jemand einem geborenen Blinden die Augen aufgetan habe.
 @33 Wäre dieser nicht von Gott, er könnte nichts tun.
 @34 Sie antworteten und sprachen zu ihm: Du bist ganz in Sünden geboren, und lehrst uns? Und stießen ihn hinaus.
-@35 Es kam vor Jesum, dass sie ihn ausgestoßen hatten. Und da er ihn fand, sprach er zu ihm: Glaubst du an den Sohn Gottes?
+@35 Es kam vor Jesus, dass sie ihn ausgestoßen hatten. Und da er ihn fand, sprach er zu ihm: Glaubst du an den Sohn Gottes?
 @36 Er antwortete und sprach: Herr, welcher ist's? auf dass ich an ihn glaube.
 @37 Jesus sprach zu ihm: Du hast ihn gesehen, und der mit dir redet, der ist's.
 @38 Er aber sprach: Herr, ich glaube, und betete ihn an.
@@ -532,7 +532,7 @@
 @32 Als nun Maria kam, da Jesus war, und sah ihn, fiel sie zu seinen Füßen und sprach zu ihm: Herr, wärest du hier gewesen, mein Bruder wäre nicht gestorben!
 @33 Als Jesus sie sah weinen und die Juden auch weinen, die mit ihr kamen, ergrimmte er im Geist und betrübte sich selbst
 @34 und sprach: Wo habt ihr ihn hingelegt? Sie sprachen zu ihm: Herr, komm und sieh es!
-@35 Und Jesu gingen die Augen über.
+@35 Und Jesus gingen die Augen über.
 @36 Da sprachen die Juden: Siehe, wie hat er ihn so liebgehabt!
 @37 Etliche aber unter ihnen sprachen: Konnte, der dem Blinden die Augen aufgetan hat, nicht verschaffen, dass auch dieser nicht stürbe?
 @38 Da ergrimmte Jesus abermals in sich selbst und kam zum Grabe. Es war aber eine Kluft, und ein Stein daraufgelegt.
@@ -567,7 +567,7 @@
 @8 Denn Arme habt ihr allezeit bei euch; mich aber habt ihr nicht allezeit.
 @9 Da erfuhr viel Volks der Juden, dass er daselbst war; und sie kamen nicht um Jesu willen allein, sondern dass sie auch Lazarus sähen, welchen er von den Toten auferweckt hatte.
 @10 Aber die Hohenpriester trachteten darnach, dass sie auch Lazarus töteten;
-@11 denn um seinetwillen gingen viele Juden hin und glaubten an Jesum.
+@11 denn um seinetwillen gingen viele Juden hin und glaubten an Jesus.
 @12 Des anderen Tages, da viel Volks, das aufs Fest gekommen war, hörte, dass Jesus käme gen Jerusalem,
 @13 nahmen sie Palmenzweige und gingen hinaus ihm entgegen und schrien: Hosianna! Gelobt sei, der da kommt in dem Namen des Herrn, der König von Israel!
 @14 Jesus aber fand ein Eselein und ritt darauf; wie denn geschrieben steht:
@@ -577,8 +577,8 @@
 @18 Darum ging ihm auch das Volk entgegen, da sie hörten, er hätte solches Zeichen getan.
 @19 Die Pharisäer aber sprachen untereinander: Ihr sehet, dass ihr nichts ausrichtet; siehe, alle Welt läuft ihm nach!
 @20 Es waren aber etliche Griechen unter denen, die hinaufgekommen waren, dass sie anbeteten auf dem Fest.
-@21 Die traten zu Philippus, der von Bethsaida aus Galiläa war, baten ihn und sprachen: Herr, wir wollten Jesum gerne sehen.
-@22 Philippus kommt und sagt es Andreas, und Philippus und Andreas sagten's weiter Jesu.
+@21 Die traten zu Philippus, der von Bethsaida aus Galiläa war, baten ihn und sprachen: Herr, wir wollten Jesus gerne sehen.
+@22 Philippus kommt und sagt es Andreas, und Philippus und Andreas sagten's weiter Jesus.
 @23 Jesus aber antwortete ihnen und sprach: Die Zeit ist gekommen, dass des Menschen Sohn verklärt werde.
 @24 Wahrlich, wahrlich ich sage euch: Es sei denn, dass das Weizenkorn in die Erde falle und ersterbe, so bleibt's allein; wo es aber erstirbt, so bringt es viele Früchte.
 @25 Wer sein Leben liebhat, der wird's verlieren; und wer sein Leben auf dieser Welt hasst, der wird's erhalten zum ewigen Leben.
@@ -748,7 +748,7 @@
 # 17
 @1 Solches redete Jesus, und hob seine Augen auf gen Himmel und sprach: Vater, die Stunde ist da, dass du deinen Sohn verklärest, auf dass dich dein Sohn auch verkläre;
 @2 gleichwie du ihm Macht hast gegeben über alles Fleisch, auf dass er das ewige Leben gebe allen, die du ihm gegeben hast.
-@3 Das ist aber das ewige Leben, dass sie dich, der du allein wahrer Gott bist, und den du gesandt hast, Jesum Christum, erkennen.
+@3 Das ist aber das ewige Leben, dass sie dich, der du allein wahrer Gott bist, und den du gesandt hast, Jesus Christus, erkennen.
 @4 Ich habe dich verklärt auf Erden und vollendet das Werk, das du mir gegeben hast, dass ich es tun sollte.
 @5 Und nun verkläre mich du, Vater, bei dir selbst mit der Klarheit, die ich bei dir hatte, ehe die Welt war.
 @6 Ich habe deinen Namen offenbart den Menschen, die du mir von der Welt gegeben hast. Sie waren dein, und du hast sie mir gegeben, und sie haben dein Wort behalten.
@@ -778,35 +778,35 @@
 @2 Judas aber, der ihn verriet, wusste den Ort auch; denn Jesus versammelte sich oft daselbst mit seinen Jüngern.
 @3 Da nun Judas zu sich hatte genommen die Schar und der Hohenpriester und Pharisäer Diener, kommt er dahin mit Fackeln, Lampen und mit Waffen.
 @4 Wie nun Jesus wusste alles, was ihm begegnen sollte, ging er hinaus und sprach zu ihnen: Wen suchet ihr?
-@5 Sie antworteten ihm: Jesum von Nazareth. Jesus spricht zu ihnen: Ich bin's! Judas aber, der ihn verriet, stand auch bei ihnen.
+@5 Sie antworteten ihm: Jesus von Nazareth. Jesus spricht zu ihnen: Ich bin's! Judas aber, der ihn verriet, stand auch bei ihnen.
 @6 Als nun Jesus zu ihnen sprach: Ich bin's! wichen sie zurück und fielen zu Boden.
-@7 Da fragte er sie abermals: Wen suchet ihr? Sie aber sprachen: Jesum von Nazareth.
+@7 Da fragte er sie abermals: Wen suchet ihr? Sie aber sprachen: Jesus von Nazareth.
 @8 Jesus antwortete: Ich habe es euch gesagt, dass ich es sei. Suchet ihr denn mich, so lasset diese gehen!
 @9 (Auf dass das Wort erfüllet würde, welches er sagte: Ich habe der keinen verloren, die du mir gegeben hast.)
 @10 Da hatte Simon Petrus ein Schwert und zog es aus und schlug nach des Hohenpriesters Knecht und hieb ihm sein rechtes Ohr ab. Und der Knecht hieß Malchus.
 @11 Da sprach Jesus zu Petrus: Stecke dein Schwert in die Scheide! Soll ich den Kelch nicht trinken, den mir mein Vater gegeben hat?
-@12 Die Schar aber und der Oberhauptmann und die Diener der Juden nahmen Jesum und banden ihn
+@12 Die Schar aber und der Oberhauptmann und die Diener der Juden nahmen Jesus und banden ihn
 @13 und führten ihn zuerst zu Hannas; der war des Kaiphas Schwiegervater, welcher des Jahrs Hoherpriester war.
 @14 Es war aber Kaiphas, der den Juden riet, es wäre gut, dass ein Mensch würde umgebracht für das Volk.
-@15 Simon Petrus aber folgte Jesu nach und ein anderer Jünger. Dieser Jünger war dem Hohenpriester bekannt und ging mit Jesu hinein in des Hohenpriesters Palast.
+@15 Simon Petrus aber folgte Jesus nach und ein anderer Jünger. Dieser Jünger war dem Hohenpriester bekannt und ging mit Jesus hinein in des Hohenpriesters Palast.
 @16 Petrus aber stand draußen vor der Tür. Da ging der andere Jünger, der dem Hohenpriester bekannt war, hinaus und redete mit der Türhüterin und führte Petrus hinein.
 @17 Da sprach die Magd, die Türhüterin, zu Petrus: Bist du nicht auch dieses Menschen Jünger einer? Er sprach: Ich bin's nicht.
 @18 Es standen aber die Knechte und Diener und hatten ein Kohlenfeuer gemacht, denn es war kalt, und wärmten sich. Petrus aber stand bei ihnen und wärmte sich.
-@19 Aber der Hohepriester fragte Jesum um seine Jünger und um seine Lehre.
+@19 Aber der Hohepriester fragte Jesus um seine Jünger und um seine Lehre.
 @20 Jesus antwortete ihm: Ich habe frei öffentlich geredet vor der Welt; ich habe allezeit gelehrt in der Schule und in dem Tempel, da alle Juden zusammenkommen, und habe nichts im Verborgenen geredet.
 @21 Was fragst du mich darum? Frage die darum, die gehört haben, was ich zu ihnen geredet habe; siehe, diese wissen, was ich gesagt habe.
-@22 Als er aber solches redete, gab der Diener einer, die dabeistanden, Jesu einen Backenstreich und sprach: Sollst du dem Hohenpriester also antworten?
+@22 Als er aber solches redete, gab der Diener einer, die dabeistanden, Jesus einen Backenstreich und sprach: Sollst du dem Hohenpriester also antworten?
 @23 Jesus antwortete: Habe ich übel geredet, so beweise es, dass es böse sei; habe ich aber recht geredet, was schlägst du mich?
 @24 Und Hannas sandte ihn gebunden zu dem Hohenpriester Kaiphas.
 @25 Simon Petrus aber stand und wärmte sich. Da sprachen sie zu ihm: Bist du nicht seiner Jünger einer? Er leugnete aber und sprach: Ich bin's nicht!
 @26 Spricht einer von des Hohenpriesters Knechten, ein Gefreunder des, dem Petrus das Ohr abgehauen hatte: Sah ich dich nicht im Garten bei ihm?
 @27 Da leugnete Petrus abermals, und alsbald krähte der Hahn.
-@28 Da führten sie Jesum von Kaiphas vor das Richthaus. Und es war früh; und sie gingen nicht in das Richthaus, auf dass sie nicht unrein würden, sondern Ostern essen möchten.
+@28 Da führten sie Jesus von Kaiphas vor das Richthaus. Und es war früh; und sie gingen nicht in das Richthaus, auf dass sie nicht unrein würden, sondern Ostern essen möchten.
 @29 Da ging Pilatus zu ihnen heraus und sprach: Was bringet ihr für Klage wider diesen Menschen?
 @30 Sie antworteten und sprachen zu ihm: Wäre dieser nicht ein Übeltäter, wir hätten dir ihn nicht überantwortet.
 @31 Da sprach Pilatus zu ihnen: So nehmet ihr ihn hin und richtet ihn nach eurem Gesetz. Da sprachen die Juden zu ihm: Wir dürfen niemand töten.
 @32 (Auf das erfüllet würde das Wort Jesu, welches er sagte, da er deutete, welches Todes er sterben würde.)
-@33 Da ging Pilatus wieder hinein ins Richthaus und rief Jesum und sprach zu ihm: Bist du der Juden König?
+@33 Da ging Pilatus wieder hinein ins Richthaus und rief Jesus und sprach zu ihm: Bist du der Juden König?
 @34 Jesus antwortete: Redest du das von dir selbst, oder haben's dir andere von mir gesagt?
 @35 Pilatus antwortete: Bin ich ein Jude? Dein Volk und die Hohenpriester haben dich mir überantwortet. Was hast du getan?
 @36 Jesus antwortete: Mein Reich ist nicht von dieser Welt. Wäre mein Reich von dieser Welt, meine Diener würden kämpfen, dass ich den Juden nicht überantwortet würde; aber nun ist mein Reich nicht von dannen.
@@ -816,7 +816,7 @@
 @40 Da schrien sie wieder allesamt und sprachen: Nicht diesen, sondern Barabbas! Barabbas aber war ein Mörder.
 
 # 19
-@1 Da nahm Pilatus Jesum und geißelte ihn.
+@1 Da nahm Pilatus Jesus und geißelte ihn.
 @2 Und die Kriegsknechte flochten eine Krone von Dornen und setzten sie auf sein Haupt und legten ihm ein Purpurkleid an
 @3 und sprachen: Sei gegrüßt, lieber Judenkönig! und gaben ihm Backenstreiche.
 @4 Da ging Pilatus wieder heraus und sprach zu ihnen: Sehet, ich führe ihn heraus zu euch, dass ihr erkennet, dass ich keine Schuld an ihm finde.
@@ -828,17 +828,17 @@
 @10 Da sprach Pilatus zu ihm: Redest du nicht mit mir? Weißt du nicht, dass ich Macht habe, dich zu kreuzigen, und Macht habe, dich loszugeben?
 @11 Jesus antwortete: Du hättest keine Macht über mich, wenn sie dir nicht wäre von obenherab gegeben; darum, der mich dir überantwortet hat, der hat größere Sünde.
 @12 Von da an trachtete Pilatus, wie er ihn losließe. Die Juden aber schrien und sprachen: Lässt du diesen los, so bist du des Kaisers Freund nicht; denn wer sich zum König macht, der ist wider den Kaiser.
-@13 Da Pilatus das Wort hörte, führte er Jesum heraus und setzte sich auf den Richtstuhl an der Stätte, die da heißt Hochpflaster, auf hebräisch aber Gabbatha.
+@13 Da Pilatus das Wort hörte, führte er Jesus heraus und setzte sich auf den Richtstuhl an der Stätte, die da heißt Hochpflaster, auf hebräisch aber Gabbatha.
 @14 Es war aber der Rüsttag auf Ostern, um die sechste Stunde. Und er spricht zu den Juden: Sehet, das ist euer König!
 @15 Sie schrien aber: Weg, weg mit dem! kreuzige ihn! Spricht Pilatus zu ihnen: Soll ich euren König kreuzigen? Die Hohenpriester antworteten: Wir haben keinen König denn den Kaiser.
-@16 Da überantwortete er ihn, dass er gekreuzigt würde. Sie nahmen aber Jesum und führten ihn hin.
+@16 Da überantwortete er ihn, dass er gekreuzigt würde. Sie nahmen aber Jesus und führten ihn hin.
 @17 Und er trug sein Kreuz und ging hinaus zur Stätte, die da heißt Schädelstätte, welche heißt auf hebräisch Golgatha.
-@18 Allda kreuzigten sie ihn und mit ihm zwei andere zu beiden Seiten, Jesum aber mitteninne.
+@18 Allda kreuzigten sie ihn und mit ihm zwei andere zu beiden Seiten, Jesus aber mitteninne.
 @19 Pilatus aber schrieb eine Überschrift und setzte sie auf das Kreuz; und war geschrieben: Jesus von Nazareth, der Juden König.
 @20 Diese Überschrift lasen viele Juden; denn die Stätte war nahe bei der Stadt, da Jesus gekreuzigt ward. Und es war geschrieben in hebräischer, griechischer und lateinischer Sprache.
 @21 Da sprachen die Hohenpriester der Juden zu Pilatus: Schreibe nicht: „Der Juden König“, sondern dass er gesagt habe: Ich bin der Juden König.
 @22 Pilatus antwortete: Was ich geschrieben habe, das habe ich geschrieben.
-@23 Die Kriegsknechte aber, da sie Jesum gekreuzigt hatten, nahmen sie seine Kleider und machten vier Teile, einem jeglichen Kriegsknechte ein Teil, dazu auch den Rock. Der Rock aber war ungenäht, von obenan gewirkt durch und durch.
+@23 Die Kriegsknechte aber, da sie Jesus gekreuzigt hatten, nahmen sie seine Kleider und machten vier Teile, einem jeglichen Kriegsknechte ein Teil, dazu auch den Rock. Der Rock aber war ungenäht, von obenan gewirkt durch und durch.
 @24 Da sprachen sie untereinander: Lasset uns den nicht zerteilen, sondern darum losen, wes er sein soll. (Auf dass erfüllet würde die Schrift, die da sagt: „Sie haben meine Kleider unter sich geteilt und haben über meinen Rock das Los geworfen.“) Solches taten die Kriegsknechte.
 @25 Es stand aber bei dem Kreuze Jesu seine Mutter und seiner Mutter Schwester, Maria, des Kleophas Frau, und Maria Magdalena.
 @26 Da nun Jesus seine Mutter sah und den Jünger dabeistehen, den er liebhatte, spricht er zu seiner Mutter: Frau, siehe, das ist dein Sohn!
@@ -848,16 +848,16 @@
 @30 Da nun Jesus den Essig genommen hatte, sprach er: Es ist vollbracht! und neigte das Haupt und verschied.
 @31 Die Juden aber, dieweil es der Rüsttag war, dass nicht die Leichname am Kreuze blieben den Sabbat über (denn desselben Sabbats Tag war groß), baten sie Pilatus, dass ihre Beine gebrochen und sie abgenommen würden.
 @32 Da kamen die Kriegsknechte und brachen dem ersten die Beine und dem anderen, der mit ihm gekreuzigt war.
-@33 Als sie aber zu Jesu kamen und sahen, dass er schon gestorben war, brachen sie ihm die Beine nicht;
+@33 Als sie aber zu Jesus kamen und sahen, dass er schon gestorben war, brachen sie ihm die Beine nicht;
 @34 sondern der Kriegsknechte einer öffnete seine Seite mit einem Speer, und alsbald ging Blut und Wasser heraus.
 @35 Und der das gesehen hat, der hat es bezeugt, und sein Zeugnis ist wahr; und dieser weiß, dass er die Wahrheit sagt, auf dass auch ihr glaubet.
 @36 Denn solches ist geschehen, dass die Schrift erfüllet würde: „Ihr sollt ihm kein Bein zerbrechen.“
 @37 Und abermals spricht eine andere Schrift: „Sie werden sehen, in welchen sie gestochen haben.“
 @38 Darnach bat den Pilatus Joseph von Arimathia, der ein Jünger Jesu war, doch heimlich aus Furcht vor den Juden, dass er möchte abnehmen den Leichnam Jesu. Und Pilatus erlaubte es. Da kam er und nahm den Leichnam Jesu herab.
-@39 Es kam aber auch Nikodemus, der vormals bei der Nacht zu Jesu gekommen war, und brachte Myrrhe und Aloe untereinander bei hundert Pfunden.
+@39 Es kam aber auch Nikodemus, der vormals bei der Nacht zu Jesus gekommen war, und brachte Myrrhe und Aloe untereinander bei hundert Pfunden.
 @40 Da nahmen sie den Leichnam Jesu und banden ihn in leinene Tücher mit den Spezereien, wie die Juden pflegen zu begraben.
 @41 Es war aber an der Stätte, da er gekreuzigt ward, ein Garten, und im Garten ein neues Grab, in welches niemand je gelegt war.
-@42 Dahin legten sie Jesum um des Rüsttages willen der Juden, dieweil das Grab nahe war.
+@42 Dahin legten sie Jesus um des Rüsttages willen der Juden, dieweil das Grab nahe war.
 
 # 20
 @1 An dem ersten Tage der Woche kommt Maria Magdalena früh, da es noch finster war, zum Grabe und sieht, dass der Stein vom Grabe hinweg war.
@@ -913,7 +913,7 @@
 @18 Wahrlich, wahrlich ich sage dir: Da du jünger warst, gürtetest du dich selbst und wandeltest, wohin du wolltest; wenn du aber alt wirst, wirst du deine Hände ausstrecken, und ein anderer wird dich gürten und führen, wohin du nicht willst.
 @19 Das sagte er aber, zu deuten, mit welchem Tode er Gott preisen würde. Und da er das gesagt, spricht er zu ihm: Folge mir nach!
 @20 Petrus aber wandte sich um und sah den Jünger folgen, welchen Jesus liebhatte, der auch an seiner Brust beim Abendessen gelegen war und gesagt hatte: Herr, wer ist's, der dich verrät?
-@21 Da Petrus diesen sah, spricht er zu Jesu: Herr, was soll aber dieser?
+@21 Da Petrus diesen sah, spricht er zu Jesus: Herr, was soll aber dieser?
 @22 Jesus spricht zu ihm: So ich will, dass er bleibe, bis ich komme, was geht es dich an? Folge du mir nach!
 @23 Da ging eine Rede aus unter den Brüdern: Dieser Jünger stirbt nicht. Und Jesus sprach nicht zu ihm: „Er stirbt nicht“, sondern: „So ich will, dass er bleibe, bis ich komme, was geht es dich an?“
 @24 Dies ist der Jünger, der von diesen Dingen zeugt und dies geschrieben hat; und wir wissen, dass sein Zeugnis wahrhaftig ist.

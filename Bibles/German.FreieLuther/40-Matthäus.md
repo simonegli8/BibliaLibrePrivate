@@ -242,12 +242,12 @@
 @26 Da sagte er zu ihnen: Ihr Kleingläubigen, warum seid ihr so furchtsam? Und stand auf und bedrohte den Wind und das Meer; da ward es ganz stille.
 @27 Die Menschen aber verwunderten sich und sprachen: Was ist das für ein Mann, dass ihm Wind und Meer gehorsam ist?
 @28 Und er kam jenseits des Meeres in die Gegend der Gergesener. Da liefen ihm entgegen zwei Besessene, die kamen aus den Totengräbern und waren sehr grimmig, also dass niemand diese Straße wandeln konnte.
-@29 Und siehe, sie schrien und sprachen: Ach Jesu, du Sohn Gottes, was haben wir mit dir zu tun? Bist du hergekommen, uns zu quälen, ehe denn es Zeit ist?
+@29 Und siehe, sie schrien und sprachen: Ach Jesus, du Sohn Gottes, was haben wir mit dir zu tun? Bist du hergekommen, uns zu quälen, ehe denn es Zeit ist?
 @30 Es war aber ferne von ihnen eine große Herde Säue auf der Weide.
 @31 Da baten ihn die Teufel und sprachen: Willst du uns austreiben, so erlaube uns, in die Herde Säue zu fahren.
 @32 Und er sprach: Fahret hin! Da fuhren sie aus und fuhren in die Herde Säue. Und siehe, die ganze Herde Säue stürzte sich von dem Abhang ins Meer und ersoffen im Wasser.
 @33 Und die Hirten flohen und gingen hin in die Stadt und sagten das alles und wie es mit den Besessenen ergangen war.
-@34 Und siehe, da ging die ganze Stadt heraus Jesu entgegen. Und da sie ihn sahen, baten sie ihn, dass er aus ihrer Gegend weichen wollte.
+@34 Und siehe, da ging die ganze Stadt heraus Jesus entgegen. Und da sie ihn sahen, baten sie ihn, dass er aus ihrer Gegend weichen wollte.
 
 # 9
 @1 Da trat er in das Schiff und fuhr wieder herüber und kam in seine Stadt.
@@ -259,7 +259,7 @@
 @7 Und er stand auf und ging heim.
 @8 Da das Volk das sah, verwunderte es sich und pries Gott, der solche Macht den Menschen gegeben hat.
 @9 Und da Jesus von dannen ging, sah er einen Menschen am Zoll sitzen, der hieß Matthäus und er sprach zu ihm: Folge mir! Und er stand auf und folgte ihm.
-@10 Und es begab sich, da er zu Tische saß im Hause, siehe, da kamen viele Zöllner und Sünder und saßen zu Tische mit Jesu und seinen Jüngern.
+@10 Und es begab sich, da er zu Tische saß im Hause, siehe, da kamen viele Zöllner und Sünder und saßen zu Tische mit Jesus und seinen Jüngern.
 @11 Da das die Pharisäer sahen, sprachen sie zu seinen Jüngern: Warum isset euer Meister mit den Zöllnern und Sündern?
 @12 Da das Jesus hörte, sprach er zu ihnen: Die Starken bedürfen des Arztes nicht, sondern die Kranken.
 @13 Gehet aber hin und lernet, was das sei: „Ich habe Wohlgefallen an Barmherzigkeit und nicht am Opfer.“ Ich bin gekommen die Sünder zur Buße zu rufen, und nicht die Gerechten.
@@ -478,7 +478,7 @@
 @58 Und er tat daselbst nicht viel Zeichen um ihres Unglaubens willen.
 
 # 14
-@1 Zu der Zeit kam das Gerücht von Jesu vor den Vierfürsten Herodes.
+@1 Zu der Zeit kam das Gerücht von Jesus vor den Vierfürsten Herodes.
 @2 Und er sprach zu seinen Knechten: Dieser ist Johannes der Täufer; er ist von den Toten auferstanden, darum tut er solche Taten.
 @3 Denn Herodes hatte Johannes gegriffen, gebunden und in das Gefängnis gelegt wegen der Herodias, seines Bruders Philippus Frau.
 @4 Denn Johannes hatte zu ihm gesagt: Es ist nicht recht, dass du sie hast.
@@ -506,7 +506,7 @@
 @26 Und da ihn die Jünger sahen auf dem Meer gehen, erschraken sie und sprachen: Es ist ein Gespenst! und schrien vor Furcht.
 @27 Aber alsbald redete Jesus mit ihnen und sprach: Seid getrost, ich bin's; fürchtet euch nicht!
 @28 Petrus aber antwortete ihm und sprach: Herr, bist du es, so heiß mich zu dir kommen auf dem Wasser.
-@29 Und er sprach: Komm her! Und Petrus trat aus dem Schiff und ging auf dem Wasser, dass er zu Jesu käme.
+@29 Und er sprach: Komm her! Und Petrus trat aus dem Schiff und ging auf dem Wasser, dass er zu Jesus käme.
 @30 Er sah aber einen starken Wind; da erschrak er und hob an zu sinken, schrie und sprach: Herr, hilf mir!
 @31 Jesus aber reckte alsbald die Hand aus und ergriff ihn und sprach zu ihm: O du Kleingläubiger, warum zweifeltest du?
 @32 Und sie traten in das Schiff, und der Wind legte sich.
@@ -545,7 +545,7 @@
 @27 Sie sprach: Ja, Herr; aber doch essen die Hündlein von den Brosamen, die von ihrer Herren Tisch fallen.
 @28 Da antwortete Jesus und sprach zu ihr: O Frau, dein Glaube ist groß! Dir geschehe, wie du willst. Und ihre Tochter ward gesund zu derselben Stunde.
 @29 Und Jesus ging von da weiter und kam an das Galiläische Meer und ging auf einen Berg und setzte sich allda.
-@30 Und es kam zu ihm viel Volks, die hatten mit sich Lahme, Blinde, Stumme, Krüppel und viele andere und warfen sie Jesu vor die Füße, und er heilte sie,
+@30 Und es kam zu ihm viel Volks, die hatten mit sich Lahme, Blinde, Stumme, Krüppel und viele andere und warfen sie Jesus vor die Füße, und er heilte sie,
 @31 dass sich das Volk verwunderte, da sie sahen, dass die Stummen redeten, die Krüppel gesund waren, die Lahmen gingen, die Blinden sahen; und sie priesen den Gott Israels.
 @32 Und Jesus rief seine Jünger zu sich und sprach: Es jammert mich des Volks; denn sie beharren nun wohl drei Tage bei mir und haben nichts zu essen; und ich will sie nicht ungegessen von mir lassen, auf dass sie nicht verschmachten auf dem Wege.
 @33 Da sprachen zu ihm seine Jünger: Woher mögen wir so viel Brot nehmen in der Wüste, dass wir so viel Volks sättigen?
@@ -590,11 +590,11 @@
 @1 Und nach sechs Tagen nahm Jesus zu sich Petrus und Jakobus und Johannes, seinen Bruder, und führte sie beiseite auf einen hohen Berg.
 @2 Und er ward verklärt vor ihnen, und sein Angesicht leuchtete wie die Sonne, und seine Kleider wurden weiß wie ein Licht.
 @3 Und siehe, da erschienen ihnen Mose und Elia; die redeten mit ihm.
-@4 Petrus aber antwortete und sprach zu Jesu: Herr, hier ist gut sein! Willst du, so wollen wir hier drei Hütten machen: dir eine, Mose eine und Elia eine.
+@4 Petrus aber antwortete und sprach zu Jesus: Herr, hier ist gut sein! Willst du, so wollen wir hier drei Hütten machen: dir eine, Mose eine und Elia eine.
 @5 Da er noch also redete, siehe, da überschattete sie eine lichte Wolke. Und siehe, eine Stimme aus der Wolke sprach: Dies ist mein lieber Sohn, an welchem ich Wohlgefallen habe, den sollt ihr hören!
 @6 Da das die Jünger hörten, fielen sie auf ihr Angesicht und erschraken sehr.
 @7 Jesus aber trat zu ihnen, rührte sie an und sprach: Stehet auf und fürchtet euch nicht!
-@8 Da sie aber ihre Augen aufhoben, sahen sie niemand denn Jesum allein.
+@8 Da sie aber ihre Augen aufhoben, sahen sie niemand denn Jesus allein.
 @9 Und da sie vom Berge herabgingen, gebot ihnen Jesus und sprach: Ihr sollt dies Gesicht niemand sagen, bis des Menschen Sohn von den Toten auferstanden ist.
 @10 Und seine Jünger fragten ihn und sprachen: Was sagen denn die Schriftgelehrten, Elia müsse zuvor kommen?
 @11 Jesus antwortete und sprach zu ihnen: Elia soll ja zuvor kommen und alles zurechtbringen.
@@ -616,7 +616,7 @@
 @27 Auf dass aber wir sie nicht ärgern, so gehe hin an das Meer und wirf die Angel, und den ersten Fisch, der herauffährt, den nimm; und wenn du seinen Mund auftust, wirst du einen Stater finden; den nimm und gib ihnen für mich und dich.
 
 # 18
-@1 Zu derselben Stunde traten die Jünger zu Jesu und sprachen: Wer ist doch der Größte im Himmelreich?
+@1 Zu derselben Stunde traten die Jünger zu Jesus und sprachen: Wer ist doch der Größte im Himmelreich?
 @2 Jesus rief ein Kind zu sich und stellte das mitten unter sie
 @3 und sprach: Wahrlich ich sage euch: Es sei denn, dass ihr euch umkehret und werdet wie die Kinder, so werdet ihr nicht ins Himmelreich kommen.
 @4 Wer nun sich selbst erniedrigt wie dies Kind, der ist der Größte im Himmelreich.
@@ -718,7 +718,7 @@
 @31 Aber das Volk bedrohte sie, dass sie schweigen sollten. Aber sie schrien viel mehr und sprachen: Ach Herr, du Sohn Davids, erbarme dich unser!
 @32 Jesus aber stand still und rief sie und sprach: Was wollt ihr, dass ich euch tun soll?
 @33 Sie sprachen zu ihm: Herr, dass unsere Augen aufgetan werden.
-@34 Und es jammerte Jesum, und er rührte ihre Augen an; und alsbald wurden ihre Augen wieder sehend, und sie folgten ihm nach.
+@34 Und es jammerte Jesus, und er rührte ihre Augen an; und alsbald wurden ihre Augen wieder sehend, und sie folgten ihm nach.
 
 # 21
 @1 Da sie nun nahe an Jerusalem kamen, gen Bethphage an den Ölberg, sandte Jesus seiner Jünger zwei
@@ -747,7 +747,7 @@
 @24 Jesus aber antwortete und sprach zu ihnen: Ich will euch auch ein Wort fragen; so ihr mir das saget, will ich euch auch sagen, aus was für Macht ich das tue:
 @25 Woher war die Taufe des Johannes? War sie vom Himmel oder von den Menschen? Da gedachten sie bei sich selbst und sprachen: Sagen wir, sie sei vom Himmel gewesen, so wird er zu uns sagen: Warum glaubtet ihr ihm denn nicht?
 @26 Sagen wir aber, sie sei von Menschen gewesen, so müssen wir uns vor dem Volk fürchten; denn sie halten alle Johannes für einen Propheten.
-@27 Und sie antworteten Jesu und sprachen: Wir wissen's nicht. Da sprach er zu ihnen: So sage ich euch auch nicht, aus was für Macht ich das tue.
+@27 Und sie antworteten Jesus und sprachen: Wir wissen's nicht. Da sprach er zu ihnen: So sage ich euch auch nicht, aus was für Macht ich das tue.
 @28 Was dünkt euch aber? Es hatte ein Mann zwei Söhne und ging zu dem ersten und sprach: Mein Sohn, gehe hin und arbeite heute in meinem Weinberge.
 @29 Er antwortete aber und sprach: Ich will's nicht tun. Darnach reute es ihn und er ging hin.
 @30 Und er ging zum anderen und sprach gleichalso. Er antwortete aber und sprach: Herr, ja! – und ging nicht hin.
@@ -881,7 +881,7 @@
 @21 Denn es wird alsdann eine große Trübsal sein, wie nicht gewesen ist von Anfang der Welt bisher und wie auch nicht werden wird.
 @22 Und wo diese Tage nicht würden verkürzt, so würde kein Mensch selig; aber um der Auserwählten willen werden die Tage verkürzt.
 @23 So alsdann jemand zu euch wird sagen: Siehe, hier ist Christus! oder: da! so sollt ihr's nicht glauben.
-@24 Denn es werden falsche Christi und falsche Propheten aufstehen und große Zeichen und Wunder tun, dass verführt werden in den Irrtum (wo es möglich wäre) auch die Auserwählten.
+@24 Denn es werden falsche Christusse und falsche Propheten aufstehen und große Zeichen und Wunder tun, dass verführt werden in den Irrtum (wo es möglich wäre) auch die Auserwählten.
 @25 Siehe, ich habe es euch zuvor gesagt.
 @26 Darum, wenn sie zu euch sagen werden: Siehe, er ist in der Wüste! so gehet nicht hinaus, – siehe, er ist in der Kammer! so glaubt nicht.
 @27 Denn gleichwie der Blitz ausgeht vom Aufgang und scheint bis zum Niedergang, also wird auch sein die Zukunft des Menschensohnes.
@@ -962,12 +962,12 @@
 @1 Und es begab sich, da Jesus alle diese Reden vollendet hatte, sprach er zu seinen Jüngern:
 @2 Ihr wisset, dass nach zwei Tagen Ostern wird; und des Menschen Sohn wird überantwortet werden, dass er gekreuzigt werde.
 @3 Da versammelten sich die Hohenpriester und Schriftgelehrten und die Ältesten im Volk in den Palast des Hohenpriesters, der da hieß Kaiphas,
-@4 und hielten Rat, wie sie Jesum mit List griffen und töteten.
+@4 und hielten Rat, wie sie Jesus mit List griffen und töteten.
 @5 Sie sprachen aber: Ja nicht auf das Fest, auf dass nicht ein Aufruhr werde im Volk!
 @6 Da nun Jesus war zu Bethanien im Hause Simons, des Aussätzigen,
 @7 da trat zu ihm eine Frau, die hatte ein alabasterne Flasche mit kostbarem Salböl und goss es auf sein Haupt, da er zu Tische saß.
 @8 Da das seine Jünger sahen, wurden sie unwillig und sprachen: Wozu dient diese Vergeudung?
-@9 Dieses Wasser hätte mögen teuer verkauft und den Armen gegeben werden.
+@9 Man hätte das teuer verkaufen und den Armen geben können!
 @10 Da das Jesus merkte, sprach er zu ihnen: Was bekümmert ihr die Frau? Sie hat ein gutes Werk an mir getan.
 @11 Ihr habt allezeit Arme bei euch; mich aber habt ihr nicht allezeit.
 @12 Dass sie dies Wasser hat auf meinen Leib gegossen, hat sie getan, dass sie mich zum Grabe bereite.
@@ -975,7 +975,7 @@
 @14 Da ging hin der Zwölf einer, mit Namen Judas Ischariot, zu den Hohenpriestern
 @15 und sprach: Was wollt ihr mir geben? Ich will ihn euch verraten. Und sie boten ihm dreißig Silberlinge.
 @16 Und von dem an suchte er Gelegenheit, dass er ihn verriete.
-@17 Aber am ersten Tage der süßen Brote traten die Jünger zu Jesu und sprachen zu ihm: Wo willst du, dass wir dir bereiten das Osterlamm zu essen?
+@17 Aber am ersten Tage der süßen Brote traten die Jünger zu Jesus und sprachen zu ihm: Wo willst du, dass wir dir bereiten das Osterlamm zu essen?
 @18 Er sprach: Gehet hin in die Stadt zu einem und sprecht zu ihm: Der Meister lässt dir sagen: Meine Zeit ist nahe; ich will bei dir Ostern halten mit meinen Jüngern.
 @19 Und die Jünger taten, wie ihnen Jesus befohlen hatte, und bereiteten das Osterlamm.
 @20 Und am Abend setzte er sich zu Tische mit den Zwölfen.
@@ -1007,17 +1007,17 @@
 @46 Stehet auf, lasst uns gehen! Siehe, er ist da, der mich verrät!
 @47 Und als er noch redete, siehe, da kam Judas, der Zwölf einer, und mit ihm eine große Schar, mit Schwertern und mit Stangen, von den Hohenpriestern und Ältesten des Volks.
 @48 Und der Verräter hatte ihnen ein Zeichen gegeben und gesagt: Welchen ich küssen werde, der ist's; den greifet.
-@49 Und alsbald trat er zu Jesu und sprach: Gegrüßet seist du, Rabbi! und küsste ihn.
-@50 Jesus aber sprach zu ihm: Mein Freund, warum bist du gekommen? Da traten sie hinzu und legten die Hände an Jesum und griffen ihn.
-@51 Und siehe, einer aus denen, die mit Jesu waren, reckte die Hand aus und zog sein Schwert aus und schlug des Hohenpriesters Knecht und hieb ihm ein Ohr ab.
+@49 Und alsbald trat er zu Jesus und sprach: Gegrüßet seist du, Rabbi! und küsste ihn.
+@50 Jesus aber sprach zu ihm: Mein Freund, warum bist du gekommen? Da traten sie hinzu und legten die Hände an Jesus und griffen ihn.
+@51 Und siehe, einer aus denen, die mit Jesus waren, reckte die Hand aus und zog sein Schwert aus und schlug des Hohenpriesters Knecht und hieb ihm ein Ohr ab.
 @52 Da sprach Jesus zu ihm: Stecke dein Schwert an seinen Ort! denn wer das Schwert nimmt, der soll durchs Schwert umkommen.
 @53 Oder meinst du, dass ich nicht könnte meinen Vater bitten, dass er mir zuschickte mehr denn zwölf Legionen Engel?
 @54 Wie würde aber die Schrift erfüllet? Es muss also gehen.
 @55 Zu der Stunde sprach Jesus zu den Scharen: Ihr seid ausgegangen wie zu einem Mörder, mit Schwertern und Stangen, mich zu fangen. Bin ich doch täglich gesessen bei euch und habe gelehrt im Tempel, und ihr habt mich nicht gegriffen.
 @56 Aber das ist alles geschehen, dass erfüllet würden die Schriften der Propheten. Da verließen ihn alle Jünger und flohen.
-@57 Die aber Jesum gegriffen hatten, führten ihn zu dem Hohenpriester Kaiphas, dahin die Schriftgelehrten und Ältesten sich versammelt hatten.
+@57 Die aber Jesus gegriffen hatten, führten ihn zu dem Hohenpriester Kaiphas, dahin die Schriftgelehrten und Ältesten sich versammelt hatten.
 @58 Petrus aber folgte ihm nach von ferne bis in den Palast des Hohenpriesters und ging hinein und setzte sich zu den Knechten, auf dass er sähe, wo es hinaus wollte.
-@59 Die Hohenpriester aber und Ältesten und der ganze Rat suchten falsch Zeugnis wider Jesum, auf dass sie ihn töteten,
+@59 Die Hohenpriester aber und Ältesten und der ganze Rat suchten falsch Zeugnis wider Jesus, auf dass sie ihn töteten,
 @60 und fanden keins. Und wiewohl viel falsche Zeugen herzutraten, fanden sie doch keins. Zuletzt traten herzu zwei falsche Zeugen
 @61 und sprachen: Er hat gesagt: Ich kann den Tempel Gottes abbrechen und in drei Tagen ihn bauen.
 @62 Und der Hohepriester stand auf und sprach zu ihm: Antwortest du nichts zu dem, was diese wider dich zeugen?
@@ -1036,7 +1036,7 @@
 @75 Da dachte Petrus an die Worte Jesu, da er zu ihm sagte: „Ehe der Hahn krähen wird, wirst du mich dreimal verleugnen“, und ging hinaus und weinte bitterlich.
 
 # 27
-@1 Des Morgens aber hielten alle Hohenpriester und die Ältesten des Volks einen Rat über Jesum, dass sie ihn töteten.
+@1 Des Morgens aber hielten alle Hohenpriester und die Ältesten des Volks einen Rat über Jesus, dass sie ihn töteten.
 @2 Und banden ihn, führten ihn hin und überantworteten ihn dem Landpfleger Pontius Pilatus.
 @3 Da das sah Judas, der ihn verraten hatte, dass er verdammt war zum Tode, gereute es ihn, und brachte wieder die dreißig Silberlinge den Hohenpriestern und den Ältesten
 @4 und sprach: Ich habe übel getan, dass ich unschuldig Blut verraten habe.
@@ -1055,14 +1055,14 @@
 @17 Und da sie versammelt waren, sprach Pilatus zu ihnen: Welchen wollt ihr, dass ich euch losgebe? Barabbas oder Jesus, von dem gesagt wird, er sei Christus?
 @18 Denn er wusste wohl, dass sie ihn aus Neid überantwortet hatten.
 @19 Und da er auf dem Richtstuhl saß, schickte seine Frau zu ihm und ließ ihm sagen: Habe du nichts zu schaffen mit diesem Gerechten; ich habe heute viel erlitten im Traum seinetwegen.
-@20 Aber die Hohenpriester und die Ältesten überredeten das Volk, dass sie um Barabbas bitten sollten und Jesum umbrächten.
+@20 Aber die Hohenpriester und die Ältesten überredeten das Volk, dass sie um Barabbas bitten sollten und Jesus umbrächten.
 @21 Da antwortete nun der Landpfleger und sprach zu ihnen: Welchen wollt ihr unter diesen zweien, den ich euch soll losgeben? Sie sprachen: Barabbas.
 @22 Pilatus sprach zu ihnen: Was soll ich denn machen mit Jesus, von dem gesagt wird, er sei Christus? Sie sprachen alle: Lass ihn kreuzigen!
 @23 Der Landpfleger sagte: Was hat er denn Übles getan? Sie schrien aber noch mehr und sprachen: Lass ihn kreuzigen!
 @24 Da aber Pilatus sah, dass er nichts schaffte, sondern dass ein viel größer Getümmel ward, nahm er Wasser und wusch die Hände vor dem Volk und sprach: Ich bin unschuldig an dem Blut dieses Gerechten; sehet ihr zu!
 @25 Da antwortete das ganze Volk und sprach: Sein Blut komme über uns und unsere Kinder.
-@26 Da gab er ihnen Barabbas los; aber Jesum ließ er geißeln und überantwortete ihn, dass er gekreuzigt würde.
-@27 Da nahmen die Kriegsknechte des Landpflegers Jesum zu sich in das Richthaus und sammelten über ihn die ganze Schar
+@26 Da gab er ihnen Barabbas los; aber Jesus ließ er geißeln und überantwortete ihn, dass er gekreuzigt würde.
+@27 Da nahmen die Kriegsknechte des Landpflegers Jesus zu sich in das Richthaus und sammelten über ihn die ganze Schar
 @28 und zogen ihn aus und legten ihm einen Purpurmantel an
 @29 und flochten eine Dornenkrone und setzten sie auf sein Haupt und ein Rohr in seine rechte Hand und beugten die Knie vor ihm und verspotteten ihn und sprachen: Gegrüßet seist du, der Juden König!
 @30 und spien ihn an und nahmen das Rohr und schlugen damit sein Haupt.
@@ -1089,8 +1089,8 @@
 @51 Und siehe da, der Vorhang im Tempel zerriss in zwei Stücke von obenan bis untenaus.
 @52 Und die Erde erbebte, und die Felsen zerrissen, und die Gräber taten sich auf, und standen auf viele Leiber der Heiligen, die da schliefen,
 @53 und gingen aus den Gräbern nach seiner Auferstehung und kamen in die heilige Stadt und erschienen vielen.
-@54 Aber der Hauptmann und die bei ihm waren und bewahrten Jesum, da sie sahen das Erdbeben und was da geschah, erschraken sie sehr und sprachen: Wahrlich, dieser ist Gottes Sohn gewesen!
-@55 Und es waren viele Frauen da, die von ferne zusahen, die da Jesu waren nachgefolgt aus Galiläa und hatten ihm gedient;
+@54 Aber der Hauptmann und die bei ihm waren und bewahrten Jesus, da sie sahen das Erdbeben und was da geschah, erschraken sie sehr und sprachen: Wahrlich, dieser ist Gottes Sohn gewesen!
+@55 Und es waren viele Frauen da, die von ferne zusahen, die da Jesus waren nachgefolgt aus Galiläa und hatten ihm gedient;
 @56 unter welchen war Maria Magdalena und Maria, die Mutter des Jakobus und Joses, und die Mutter der Kinder des Zebedäus.
 @57 Am Abend aber kam ein reicher Mann von Arimathia, der hieß Joseph, welcher auch ein Jünger Jesu war.
 @58 Der ging zu Pilatus und bat ihn um den Leib Jesu. Da befahl Pilatus man sollte ihm ihn geben.
@@ -1108,7 +1108,7 @@
 @2 Und siehe, es geschah ein großes Erdbeben. Denn der Engel des Herrn kam vom Himmel herab, trat hinzu und wälzte den Stein von der Tür und setzte sich darauf.
 @3 Und seine Gestalt war wie der Blitz und sein Kleid weiß wie Schnee.
 @4 Die Hüter aber erschraken vor Furcht und wurden, als wären sie tot.
-@5 Aber der Engel antwortete und sprach zu den Frauen: Fürchtet euch nicht! Ich weiß, dass ihr Jesum, den Gekreuzigten, suchet.
+@5 Aber der Engel antwortete und sprach zu den Frauen: Fürchtet euch nicht! Ich weiß, dass ihr Jesus, den Gekreuzigten, suchet.
 @6 Er ist nicht hier; er ist auferstanden, wie er gesagt hat. Kommet her und sehet die Stätte, da der Herr gelegen hat.
 @7 Und gehet eilend hin und saget es seinen Jüngern, dass er auferstanden sei von den Toten. Und siehe, er wird vor euch hingehen nach Galiläa; da werdet ihr ihn sehen. Siehe, ich habe es euch gesagt.
 @8 Und sie gingen eilend zum Grabe hinaus mit Furcht und großer Freude und liefen, dass sie es seinen Jüngern verkündigten. Und da sie gingen seinen Jüngern zu verkündigen,

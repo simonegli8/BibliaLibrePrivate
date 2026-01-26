@@ -4,9 +4,9 @@
 @3 von seinem Sohn, der geboren ist von dem Samen Davids nach dem Fleisch
 @4 und kräftig erwiesen als ein Sohn Gottes nach dem Geist, der da heiligt, seit der Zeit, da er auferstanden ist von den Toten, Jesus Christus, unser Herr,
 @5 durch welchen wir haben empfangen Gnade und Apostelamt, unter allen Heiden den Gehorsam des Glaubens aufzurichten unter seinem Namen,
-@6 unter welchen ihr auch seid, die da berufen sind von Jesu Christo, –
+@6 unter welchen ihr auch seid, die da berufen sind von Jesus Christus, –
 @7 allen, die zu Rom sind, den Liebsten Gottes und berufenen Heiligen: Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus!
-@8 Aufs erste danke ich meinem Gott durch Jesum Christum euer aller halben, dass man von eurem Glauben in aller Welt sagt.
+@8 Aufs erste danke ich meinem Gott durch Jesus Christus euer aller halben, dass man von eurem Glauben in aller Welt sagt.
 @9 Denn Gott ist mein Zeuge, welchem ich diene in meinem Geist am Evangelium von seinem Sohn, dass ich ohne Unterlass euer gedenke
 @10 und allezeit in meinem Gebet flehe, ob sich's einmal zutragen wollte, dass ich zu euch käme durch Gottes Willen.
 @11 Denn mich verlangt, euch zu sehen, auf dass ich euch mitteile etwas geistlicher Gabe, euch zu stärken;
@@ -14,7 +14,7 @@
 @13 Ich will euch aber nicht verhalten, liebe Brüder, dass ich mir oft habe vorgesetzt, zu euch zu kommen (bin aber verhindert bisher), dass ich auch unter euch Frucht schaffte gleichwie unter anderen Heiden.
 @14 Ich bin ein Schuldner der Griechen und der Ungriechen, der Weisen und der Unweisen.
 @15 Darum, soviel an mir ist, bin ich geneigt, auch euch zu Rom das Evangelium zu predigen.
-@16 Denn ich schäme mich des Evangeliums von Christo nicht; denn es ist eine Kraft Gottes, die da selig macht alle, die daran glauben, die Juden vornehmlich und auch die Griechen.
+@16 Denn ich schäme mich des Evangeliums von Christus nicht; denn es ist eine Kraft Gottes, die da selig macht alle, die daran glauben, die Juden vornehmlich und auch die Griechen.
 @17 Sintemal darin offenbart wird die Gerechtigkeit, die vor Gott gilt, welche kommt aus Glauben in Glauben; wie denn geschrieben steht: „Der Gerechte wird seines Glaubens leben.“
 @18 Denn Gottes Zorn vom Himmel wird offenbart über alles gottlose Wesen und Ungerechtigkeit der Menschen, die die Wahrheit in Ungerechtigkeit aufhalten.
 @19 Denn was man von Gott weiß, ist ihnen offenbar; denn Gott hat es ihnen offenbart,
@@ -85,11 +85,11 @@
 @19 Wir wissen aber, dass, was das Gesetz sagt, das sagt es denen, die unter dem Gesetz sind, auf dass aller Mund verstopft werde und alle Welt Gott schuldig sei;
 @20 darum dass kein Fleisch durch des Gesetzes Werke vor ihm gerecht sein kann; denn durch das Gesetz kommt Erkenntnis der Sünde.
 @21 Nun aber ist ohne Zutun des Gesetzes die Gerechtigkeit, die vor Gott gilt, offenbart und bezeugt durch das Gesetz und die Propheten.
-@22 Ich sage aber von solcher Gerechtigkeit vor Gott, die da kommt durch den Glauben an Jesum Christum zu allen und auf alle, die da glauben.
+@22 Ich sage aber von solcher Gerechtigkeit vor Gott, die da kommt durch den Glauben an Jesus Christus zu allen und auf alle, die da glauben.
 @23 Denn es ist hier kein Unterschied: sie sind allzumal Sünder und mangeln des Ruhmes, den sie bei Gott haben sollten,
-@24 und werden ohne Verdienst gerecht aus seiner Gnade durch die Erlösung, die durch Jesum Christum geschehen ist,
+@24 und werden ohne Verdienst gerecht aus seiner Gnade durch die Erlösung, die durch Jesus Christus geschehen ist,
 @25 welchen Gott hat vorgestellt zu einem Gnadenstuhl durch den Glauben in seinem Blut, damit er die Gerechtigkeit, die vor ihm gilt, darbiete in dem, dass er Sünde vergibt, welche bisher geblieben war unter göttlicher Geduld;
-@26 auf dass er zu diesen Zeiten darböte die Gerechtigkeit, die vor ihm gilt; auf dass er allein gerecht sei und gerecht mache den, der da ist des Glaubens an Jesum.
+@26 auf dass er zu diesen Zeiten darböte die Gerechtigkeit, die vor ihm gilt; auf dass er allein gerecht sei und gerecht mache den, der da ist des Glaubens an Jesus.
 @27 Wo bleibt nun der Ruhm? Er ist ausgeschlossen. Durch welches Gesetz? Durch der Werke Gesetz? Nicht also, sondern durch des Glaubens Gesetz.
 @28 So halten wir nun dafür, dass der Mensch gerecht werde ohne des Gesetzes Werke, allein durch den Glauben.
 @29 Oder ist Gott allein der Juden Gott? Ist er nicht auch der Heiden Gott? Ja freilich, auch der Heiden Gott.
@@ -140,24 +140,24 @@
 @14 Doch herrschte der Tod von Adam an bis auf Moses auch über die, die nicht gesündigt haben mit gleicher Übertretung wie Adam, welcher ist ein Bild des, der zukünftig war.
 @15 Aber nicht verhält sich's mit der Gabe wie mit der Sünde. Denn so an eines Sünde viele gestorben sind, so ist viel mehr Gottes Gnade und Gabe vielen reichlich widerfahren durch die Gnade des einen Menschen Jesus Christus.
 @16 Und nicht ist die Gabe allein über eine Sünde, wie durch des einen Sünders eine Sünde alles Verderben. Denn das Urteil ist gekommen aus einer Sünde zur Verdammnis; die Gabe aber hilft auch aus vielen Sünden zur Gerechtigkeit.
-@17 Denn so um des einen Sünde willen der Tod geherrscht hat durch den einen, viel mehr werden die, die da empfangen die Fülle der Gnade und der Gabe zur Gerechtigkeit, herrschen im Leben durch einen, Jesum Christum.
+@17 Denn so um des einen Sünde willen der Tod geherrscht hat durch den einen, viel mehr werden die, die da empfangen die Fülle der Gnade und der Gabe zur Gerechtigkeit, herrschen im Leben durch einen, Jesus Christus.
 @18 Wie nun durch eines Sünde die Verdammnis über alle Menschen gekommen ist, also ist auch durch eines Gerechtigkeit die Rechtfertigung des Lebens über alle Menschen gekommen.
 @19 Denn gleichwie durch eines Menschen Ungehorsam viele Sünder geworden sind, also auch durch eines Gehorsam werden viele Gerechte.
 @20 Das Gesetz aber ist neben eingekommen, auf dass die Sünde mächtiger würde. Wo aber die Sünde mächtig geworden ist, da ist doch die Gnade viel mächtiger geworden,
-@21 auf dass, gleichwie die Sünde geherrscht hat zum Tode, also auch herrsche die Gnade durch die Gerechtigkeit zum ewigen Leben durch Jesum Christum, unseren Herrn.
+@21 auf dass, gleichwie die Sünde geherrscht hat zum Tode, also auch herrsche die Gnade durch die Gerechtigkeit zum ewigen Leben durch Jesus Christus, unseren Herrn.
 
 # 6
 @1 Was wollen wir hierzu sagen? Sollen wir denn in der Sünde beharren, auf dass die Gnade desto mächtiger werde?
 @2 Das sei ferne! Wie sollten wir in der Sünde wollen leben, der wir abgestorben sind?
-@3 Wisset ihr nicht, dass alle, die wir in Jesum Christum getauft sind, die sind in seinen Tod getauft?
+@3 Wisset ihr nicht, dass alle, die wir in Jesus Christus getauft sind, die sind in seinen Tod getauft?
 @4 So sind wir ja mit ihm begraben durch die Taufe in den Tod, auf dass, gleichwie Christus ist auferweckt von den Toten durch die Herrlichkeit des Vaters, also sollen auch wir in einem neuen Leben wandeln.
 @5 So wir aber samt ihm gepflanzt werden zu gleichem Tode, so werden wir auch seiner Auferstehung gleich sein,
 @6 dieweil wir wissen, dass unser alter Mensch samt ihm gekreuzigt ist, auf dass der sündliche Leib aufhöre, dass wir hinfort der Sünde nicht mehr dienen.
 @7 Denn wer gestorben ist, der ist gerechtfertigt von der Sünde.
-@8 Sind wir aber mit Christo gestorben, so glauben wir, dass wir auch mit ihm leben werden,
+@8 Sind wir aber mit Christus gestorben, so glauben wir, dass wir auch mit ihm leben werden,
 @9 und wissen, dass Christus, von den Toten auferweckt, hinfort nicht stirbt; der Tod wird hinfort über ihn nicht herrschen.
 @10 Denn was er gestorben ist, das ist er der Sünde gestorben zu einem Mal; was er aber lebt, das lebt er Gott.
-@11 Also auch ihr, haltet euch dafür, dass ihr der Sünde gestorben seid und lebet Gott in Christo Jesu, unserem Herrn.
+@11 Also auch ihr, haltet euch dafür, dass ihr der Sünde gestorben seid und lebet Gott in Christus Jesus, unserem Herrn.
 @12 So lasset nun die Sünde nicht herrschen in eurem sterblichen Leibe, ihr Gehorsam zu leisten in seinen Lüsten.
 @13 Auch begebet nicht der Sünde eure Glieder zu Waffen der Ungerechtigkeit, sondern begebet euch selbst Gott, als die da aus den Toten lebendig sind, und eure Glieder Gott zu Waffen der Gerechtigkeit.
 @14 Denn die Sünde wird nicht herrschen können über euch, sintemal ihr nicht unter dem Gesetze seid, sondern unter der Gnade.
@@ -169,15 +169,15 @@
 @20 Denn da ihr der Sünde Knechte waret, da waret ihr frei von der Gerechtigkeit.
 @21 Was hattet ihr nun zu der Zeit für Frucht? Welcher ihr euch jetzt schämet; denn ihr Ende ist der Tod.
 @22 Nun ihr aber seid von der Sünde frei und Gottes Knechte geworden, habt ihr eure Frucht, dass ihr heilig werdet, das Ende aber das ewige Leben.
-@23 Denn der Tod ist der Sünde Sold; aber die Gabe Gottes ist das ewige Leben in Christo Jesu, unserem Herrn.
+@23 Denn der Tod ist der Sünde Sold; aber die Gabe Gottes ist das ewige Leben in Christus Jesus, unserem Herrn.
 
 # 7
 @1 Wisset ihr nicht, liebe Brüder (denn ich rede mit solchen, die das Gesetz wissen), dass das Gesetz herrscht über den Menschen solange er lebt?
 @2 Denn eine Frau, die unter dem Manne ist, ist an ihn gebunden durch das Gesetz, solange der Mann lebt; wenn aber der Mann stirbt, so ist sie los vom Gesetz, das den Mann betrifft.
 @3 Wenn sie nun eines anderen Mannes wird, solange der Mann lebt, wird sie eine Ehebrecherin geheißen; wenn aber der Mann stirbt, ist sie frei vom Gesetz, dass sie nicht eine Ehebrecherin ist, wenn sie eines anderen Mannes wird.
 @4 Also seid auch ihr, meine Brüder, getötet dem Gesetz durch den Leib Christi, dass ihr eines anderen seid, nämlich des, der von den Toten auferweckt ist, auf dass wir Gott Frucht bringen.
-@5 Denn da wir im Fleisch waren, da waren die sündlichen Lüste, welche durchs Gesetz sich erregten, kräftig in unseren Gliedern, dem Tode Frucht zu bringen.
-@6 Nun aber sind wir vom Gesetz los und ihm abgestorben, das uns gefangenhielt, also dass wir dienen sollen im neuen Wesen des Geistes und nicht im alten Wesen des Buchstabens.
+@5 Denn da wir im Fleisch waren, da waren die sündigen Lüste, welche durchs Gesetz sich erregten, kräftig in unseren Gliedern, dem Tode Frucht zu bringen.
+@6 Nun aber sind wir vom Gesetz los und ihm abgestorben, das uns gefangen hielt, also dass wir dienen sollen im neuen Wesen des Geistes und nicht im alten Wesen des Buchstabens.
 @7 Was wollen wir denn nun sagen? Ist das Gesetz Sünde? Das sei ferne! Aber die Sünde erkannte ich nicht, außer durchs Gesetz. Denn ich wusste nichts von der Lust, wenn das Gesetz nicht hätte gesagt: „Lass dich nicht gelüsten!“
 @8 Da nahm aber die Sünde Ursache am Gebot und erregte in mir allerlei Lust; denn ohne das Gesetz war die Sünde tot.
 @9 Ich aber lebte vordem ohne Gesetz; da aber das Gebot kam, ward die Sünde wieder lebendig,
@@ -196,11 +196,11 @@
 @22 Denn ich habe Lust an Gottes Gesetz nach dem inwendigen Menschen.
 @23 Ich sehe aber ein anderes Gesetz in meinen Gliedern, das da widerstreitet dem Gesetz in meinem Gemüte und nimmt mich gefangen in der Sünde Gesetz, welches ist in meinen Gliedern.
 @24 Ich elender Mensch! wer wird mich erlösen von dem Leibe dieses Todes?
-@25 Ich danke Gott durch Jesum Christum, unserem Herrn. So diene ich nun mit dem Gemüte dem Gesetz Gottes, aber mit dem Fleische dem Gesetz der Sünde.
+@25 Ich danke Gott durch Jesus Christus, unserem Herrn. So diene ich nun mit dem Gemüte dem Gesetz Gottes, aber mit dem Fleische dem Gesetz der Sünde.
 
 # 8
-@1 So ist nun nichts Verdammliches an denen, die in Christo Jesu sind, die nicht nach dem Fleisch wandeln, sondern nach dem Geist.
-@2 Denn das Gesetz des Geistes, der da lebendig macht in Christo Jesu, hat mich frei gemacht von dem Gesetz der Sünde und des Todes.
+@1 So ist nun nichts Verdammliches an denen, die in Christus Jesus sind, die nicht nach dem Fleisch wandeln, sondern nach dem Geist.
+@2 Denn das Gesetz des Geistes, der da lebendig macht in Christus Jesus, hat mich frei gemacht von dem Gesetz der Sünde und des Todes.
 @3 Denn was dem Gesetz unmöglich war (sintemal es durch das Fleisch geschwächt ward), das tat Gott und sandte seinen Sohn in der Gestalt des sündlichen Fleisches und der Sünde halben und verdammte die Sünde im Fleisch,
 @4 auf dass die Gerechtigkeit, vom Gesetz erfordert, in uns erfüllt würde, die wir nun nicht nach dem Fleische wandeln, sondern nach dem Geist.
 @5 Denn die da fleischlich sind, die sind fleischlich gesinnt; die aber geistlich sind, die sind geistlich gesinnt.
@@ -209,7 +209,7 @@
 @8 Die aber fleischlich sind, können Gott nicht gefallen.
 @9 Ihr aber seid nicht fleischlich, sondern geistlich, so anders Gottes Geist in euch wohnt. Wer aber Christi Geist nicht hat, der ist nicht sein.
 @10 So aber Christus in euch ist, so ist der Leib zwar tot um der Sünde willen, der Geist aber ist Leben um der Gerechtigkeit willen.
-@11 So nun der Geist des, der Jesum von den Toten auferweckt hat, in euch wohnt, so wird auch derselbe, der Christum von den Toten auferweckt hat, eure sterblichen Leiber lebendig machen um deswillen, dass sein Geist in euch wohnt.
+@11 So nun der Geist des, der Jesus von den Toten auferweckt hat, in euch wohnt, so wird auch derselbe, der Christus von den Toten auferweckt hat, eure sterblichen Leiber lebendig machen um deswillen, dass sein Geist in euch wohnt.
 @12 So sind wir nun, liebe Brüder, Schuldner nicht dem Fleisch, dass wir nach dem Fleisch leben.
 @13 Denn wenn ihr nach dem Fleisch lebet, so werdet ihr sterben müssen; wenn ihr aber durch den Geist des Fleisches Geschäfte tötet, so werdet ihr leben.
 @14 Denn welche der Geist Gottes treibt, die sind Gottes Kinder.
@@ -237,12 +237,12 @@
 @36 wie geschrieben steht: „Um deinetwillen werden wir getötet den ganzen Tag; wir sind geachtet wie Schlachtschafe.“
 @37 Aber in dem allem überwinden wir weit um deswillen, der uns geliebt hat.
 @38 Denn ich bin gewiss, dass weder Tod noch Leben, weder Engel noch Fürstentümer noch Gewalten, weder Gegenwärtiges noch Zukünftiges,
-@39 weder Hohes noch Tiefes noch keine andere Kreatur mag uns scheiden von der Liebe Gottes, die in Christo Jesu ist, unserem Herrn.
+@39 weder Hohes noch Tiefes noch keine andere Kreatur mag uns scheiden von der Liebe Gottes, die in Christus Jesus ist, unserem Herrn.
 
 # 9
-@1 Ich sage die Wahrheit in Christo und lüge nicht, wie mir Zeugnis gibt mein Gewissen in dem Heiligen Geist,
+@1 Ich sage die Wahrheit in Christus und lüge nicht, wie mir Zeugnis gibt mein Gewissen in dem Heiligen Geist,
 @2 dass ich große Traurigkeit und Schmerzen ohne Unterlass in meinem Herzen habe.
-@3 Ich habe gewünscht, verbannt zu sein von Christo für meine Brüder, die meine Gefreundeten sind nach dem Fleisch;
+@3 Ich habe gewünscht, verbannt zu sein von Christus für meine Brüder, die meine Gefreundeten sind nach dem Fleisch;
 @4 die da sind von Israel, welchen gehört die Kindschaft und die Herrlichkeit und der Bund und das Gesetz und der Gottesdienst und die Verheißungen;
 @5 welcher auch sind die Väter, und aus welchen Christus herkommt nach dem Fleisch, der da ist Gott über alles, gelobt in Ewigkeit. Amen.
 @6 Aber nicht sage ich solches, als ob Gottes Wort darum aus sei. Denn es sind nicht alle Israeliter, die von Israel sind;
@@ -280,10 +280,10 @@
 @3 Denn sie erkennen die Gerechtigkeit nicht, die vor Gott gilt, und trachten, ihre eigene Gerechtigkeit aufzurichten, und sind also der Gerechtigkeit, die vor Gott gilt, nicht untertan.
 @4 Denn Christus ist des Gesetzes Ende; wer an den glaubt, der ist gerecht.
 @5 Mose schreibt wohl von der Gerechtigkeit, die aus dem Gesetz kommt: „Welcher Mensch dies tut, der wird dadurch leben.“
-@6 Aber die Gerechtigkeit aus dem Glauben spricht also: „Sprich nicht in deinem Herzen: Wer will hinauf gen Himmel fahren?“ (Das ist nichts anderes denn Christum herabholen.)
-@7 Oder: „Wer will hinab in die Tiefe fahren?“ (Das ist nichts anderes denn Christum von den Toten holen.)
+@6 Aber die Gerechtigkeit aus dem Glauben spricht also: „Sprich nicht in deinem Herzen: Wer will hinauf gen Himmel fahren?“ (Das ist nichts anderes denn Christus herabholen.)
+@7 Oder: „Wer will hinab in die Tiefe fahren?“ (Das ist nichts anderes denn Christus von den Toten holen.)
 @8 Aber was sagt sie? „Das Wort ist dir nahe, in deinem Munde und in deinem Herzen.“ Dies ist das Wort vom Glauben, das wir predigen.
-@9 Denn wenn du mit deinem Munde bekennst Jesum, dass er der Herr sei, und glaubst in deinem Herzen, dass ihn Gott von den Toten auferweckt hat, so wirst du selig.
+@9 Denn wenn du mit deinem Munde bekennst Jesus, dass er der Herr sei, und glaubst in deinem Herzen, dass ihn Gott von den Toten auferweckt hat, so wirst du selig.
 @10 Denn wenn man von Herzen glaubt, so wird man gerecht; und wenn man mit dem Munde bekennt, so wird man selig.
 @11 Denn die Schrift spricht: „Wer an ihn glaubt, wird nicht zu Schanden werden.“
 @12 Es ist hier kein Unterschied unter Juden und Griechen; es ist aller zumal ein Herr, reich über alle, die ihn anrufen.
@@ -340,7 +340,7 @@
 @2 Und stellet euch nicht dieser Welt gleich, sondern verändert euch durch Erneuerung eures Sinnes, auf dass ihr prüfen möget, welches da sei der gute, wohlgefällige und vollkommene Gotteswille.
 @3 Denn ich sage durch die Gnade, die mir gegeben ist, jedermann unter euch, dass niemand weiter von sich halte, als sich's gebührt zu halten, sondern dass er von sich mäßig halte, ein jeglicher, nach dem Gott ausgeteilt hat das Maß des Glaubens.
 @4 Denn gleicherweise als wir in einem Leibe viele Glieder haben, aber alle Glieder nicht einerlei Geschäft haben,
-@5 also sind wir viele ein Leib in Christo, aber untereinander ist einer des anderen Glied,
+@5 also sind wir viele ein Leib in Christus, aber untereinander ist einer des anderen Glied,
 @6 und haben mancherlei Gaben nach der Gnade, die uns gegeben ist.
 @7 Hat jemand Weissagung, so sei sie dem Glauben gemäß. Hat jemand ein Amt, so warte er des Amts. Lehrt jemand, so warte er der Lehre.
 @8 Ermahnt jemand, so warte er des Ermahnens. Gibt jemand, so gebe er einfältig. Regiert jemand, so sei er sorgfältig. Übt jemand Barmherzigkeit, so tue er's mit Lust.
@@ -392,7 +392,7 @@
 @15 So aber dein Bruder um deiner Speise willen betrübt wird, so wandelst du schon nicht nach der Liebe. Verderbe den nicht mit deiner Speise, um welches willen Christus gestorben ist.
 @16 Darum schaffet, dass euer Schatz nicht verlästert werde.
 @17 Denn das Reich Gottes ist nicht Essen und Trinken, sondern Gerechtigkeit und Friede und Freude in dem heiligen Geiste.
-@18 Wer darin Christo dient, der ist Gott gefällig und den Menschen wert.
+@18 Wer darin Christus dient, der ist Gott gefällig und den Menschen wert.
 @19 Darum lasst uns dem nachstreben, was zum Frieden dient und was zur Besserung untereinander dient.
 @20 Verstöre nicht um der Speise willen Gottes Werk. Es ist zwar alles rein; aber es ist nicht gut dem, der es isst mit einem Anstoß seines Gewissens.
 @21 Es ist besser, du essest kein Fleisch und trinkest keinen Wein und tuest nichts, daran sich dein Bruder stößt oder ärgert oder schwach wird.
@@ -404,8 +404,8 @@
 @2 Es stelle sich ein jeglicher unter uns also, dass er seinem Nächsten gefalle zum Guten, zur Besserung.
 @3 Denn auch Christus hatte nicht an sich selber Gefallen, sondern wie geschrieben steht: „Die Schmähungen derer, die dich schmähen, sind auf mich gefallen.“
 @4 Was aber zuvor geschrieben ist, das ist uns zur Lehre geschrieben, auf dass wir durch Geduld und Trost der Schrift Hoffnung haben.
-@5 Der Gott aber der Geduld und des Trostes gebe euch, dass ihr einerlei gesinnt seid untereinander nach Jesu Christo,
-@6 auf dass ihr einmütig mit einem Munde lobet Gott und den Vater unseres Herrn Jesu Christi.
+@5 Der Gott aber der Geduld und des Trostes gebe euch, dass ihr einerlei gesinnt seid untereinander nach Jesus Christus,
+@6 auf dass ihr einmütig mit einem Munde Gott und den Vater unseres Herrn Jesus Christus lobet.
 @7 Darum nehmet euch untereinander auf, gleichwie euch Christus hat aufgenommen zu Gottes Lobe.
 @8 Ich sage aber, dass Jesus Christus sei ein Diener gewesen der Juden um der Wahrhaftigkeit willen Gottes, zu bestätigen die Verheißungen, den Vätern geschehen;
 @9 dass die Heiden aber Gott loben um der Barmherzigkeit willen, wie geschrieben steht: „Darum will ich dich loben unter den Heiden und deinem Namen singen.“
@@ -416,7 +416,7 @@
 @14 Ich weiß aber gar wohl von euch, liebe Brüder, dass ihr selber voll Gütigkeit seid, erfüllt mit aller Erkenntnis, dass ihr euch untereinander könnet ermahnen.
 @15 Ich habe es aber dennoch gewagt und euch etwas wollen schreiben, liebe Brüder, euch zu erinnern, um der Gnade willen, die mir von Gott gegeben ist,
 @16 dass ich soll sein ein Diener Christi unter den Heiden, priesterlich zu warten des Evangeliums Gottes, auf dass die Heiden ein Opfer werden, Gott angenehm, geheiligt durch den heiligen Geist.
-@17 Darum kann ich mich rühmen in Jesu Christo, dass ich Gott diene.
+@17 Darum kann ich mich rühmen in Jesus Christus, dass ich Gott diene.
 @18 Denn ich wollte nicht wagen, etwas zu reden, wo dasselbe Christus nicht durch mich wirkte, die Heiden zum Gehorsam zu bringen durch Wort und Werk,
 @19 durch Kraft der Zeichen und Wunder und durch Kraft des Geistes Gottes, also dass ich von Jerusalem an und umher bis Illyrien alles mit dem Evangelium Christi erfüllt habe
 @20 und mich sonderlich geflissen, das Evangelium zu predigen, wo Christi Name nicht bekannt war, auf dass ich nicht auf einen fremden Grund baute,
@@ -437,14 +437,14 @@
 # 16
 @1 Ich befehle euch aber unsere Schwester Phöbe, welche ist im Dienste der Gemeinde zu Kenchreä,
 @2 dass ihr sie aufnehmet in dem Herrn, wie sich's ziemt den Heiligen, und tut ihr Beistand in allem Geschäfte, darin sie euer bedarf; denn sie hat auch vielen Beistand getan, auch mir selbst.
-@3 Grüßet die Priscilla und den Aquila, meine Gehilfen in Christo Jesu,
+@3 Grüßet die Priscilla und den Aquila, meine Gehilfen in Christus Jesus,
 @4 welche haben für mein Leben ihren Hals dargegeben, welchen nicht allein ich danke, sondern alle Gemeinden unter den Heiden.
-@5 Auch grüßet die Gemeinde in ihrem Hause. Grüßet Epänetus, meinen Lieben, welcher ist der Erstling unter denen aus Achaja in Christo.
+@5 Auch grüßet die Gemeinde in ihrem Hause. Grüßet Epänetus, meinen Lieben, welcher ist der Erstling unter denen aus Achaja in Christus.
 @6 Grüßet Maria, welche viel Mühe und Arbeit mit uns gehabt hat.
-@7 Grüßet den Andronikus und den Junias, meine Gefreundeten und meine Mitgefangenen, welche sind berühmte Apostel und vor mir gewesen in Christo.
+@7 Grüßet den Andronikus und den Junias, meine Gefreundeten und meine Mitgefangenen, welche sind berühmte Apostel und vor mir gewesen in Christus.
 @8 Grüßet Amplias, meinen Lieben in dem Herrn.
-@9 Grüßet Urban, unseren Gehilfen in Christo, und Stachys, meinen Lieben.
-@10 Grüßet Apelles, den Bewährten in Christo. Grüßet, die da sind von des Aristobulus Gesinde.
+@9 Grüßet Urban, unseren Gehilfen in Christus, und Stachys, meinen Lieben.
+@10 Grüßet Apelles, den Bewährten in Christus. Grüßet, die da sind von des Aristobulus Gesinde.
 @11 Grüßet Herodion, meinen Gefreundeten. Grüßet, die da sind von des Narzissus Gesinde in dem Herrn.
 @12 Grüßet die Tryphäna und die Tryphosa, welche in dem Herrn gearbeitet haben. Grüßet die Persis, meine Liebe, welch in dem Herrn viel gearbeitet hat.
 @13 Grüßet Rufus, den Auserwählten in dem Herrn, und seine und meine Mutter.
@@ -454,11 +454,11 @@
 @17 Ich ermahne euch aber, liebe Brüder, dass ihr achtet auf die, die da Zertrennung und Ärgernis anrichten neben der Lehre, die ihr gelernt habt, und weichet von ihnen.
 @18 Denn solche dienen nicht dem Herrn Jesus Christus, sondern ihrem Bauche; und durch süße Worte und prächtige Reden verführen sie die unschuldigen Herzen.
 @19 Denn euer Gehorsam ist bei jedermann kund geworden. Derhalben freue ich mich über euch; ich will aber, dass ihr weise seid zum Guten, aber einfältig zum Bösen.
-@20 Aber der Gott des Friedens zertrete den Satan unter eure Füße in kurzem. Die Gnade unseres Herrn Jesu Christi sei mit euch!
+@20 Aber der Gott des Friedens zertrete den Satan unter eure Füße in kurzem. Die Gnade unseres Herrn Jesus Christus sei mit euch!
 @21 Es grüßen euch Timotheus, mein Gehilfe, und Luzius und Jason und Sosipater, meine Gefreundeten.
 @22 Ich, Tertius, grüße euch, der ich diesen Brief geschrieben habe, in dem Herrn.
 @23 Es grüßt euch Gajus, mein und der ganzen Gemeinde Wirt. Es grüßt euch Erastus, der Stadt Rentmeister, und Quartus, der Bruder.
-@24 Die Gnade unseres Herrn Jesu Christi sei mit euch allen! Amen.
-@25 Dem aber, der euch stärken kann laut meines Evangeliums und der Predigt von Jesu Christo, durch welche das Geheimnis offenbart ist, das von der Welt her verschwiegen gewesen ist,
+@24 Die Gnade unseres Herrn Jesus Christus sei mit euch allen! Amen.
+@25 Dem aber, der euch stärken kann laut meines Evangeliums und der Predigt von Jesus Christus, durch welche das Geheimnis offenbart ist, das von der Welt her verschwiegen gewesen ist,
 @26 nun aber offenbart, auch kundgemacht durch der Propheten Schriften nach Befehl des ewigen Gottes, den Gehorsam des Glaubens aufzurichten unter allen Heiden:
-@27 demselben Gott, der allein weise ist, sei Ehre durch Jesum Christum in Ewigkeit! Amen.
+@27 demselben Gott, der allein weise ist, sei Ehre durch Jesus Christus in Ewigkeit! Amen.

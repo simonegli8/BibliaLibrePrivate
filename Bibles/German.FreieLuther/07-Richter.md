@@ -253,7 +253,7 @@
 @28 Also wurden die Midianiter gedemütigt vor den Kindern Israel und hoben ihren Kopf nicht mehr empor. Und das Land war still 40 Jahre, solange Gideon lebte.
 @29 Und Jerubbaal, der Sohn des Joas, ging hin und wohnte in seinem Hause.
 @30 Und Gideon hatte 70 Söhne, die aus seiner Hüfte gekommen waren; denn er hatte viele Frauen.
-@31 Und sein Kebsweib, das er zu Sichem hatte, gebar ihm auch einen Sohn; den nannte er Abimelech.
+@31 Und seine Nebenfrau, die er zu Sichem hatte, gebar ihm auch einen Sohn; den nannte er Abimelech.
 @32 Und Gideon, der Sohn des Joas, starb in gutem Alter und ward begraben in seines Vaters Joas Grab zu Ophra, der Stadt der Abiesriter.
 @33 Da aber Gideon gestorben war, kehrten sich die Kinder Israel um und liefen den Baalim nach und machten sich Baal-Berith zum Gott.
 @34 Und die Kinder Israel gedachten nicht an den HErrn, ihren Gott, der sie errettet hatte von der Hand aller ihrer Feinde umher,
@@ -550,7 +550,7 @@
 @31 Also setzten sie unter sich das Bild Michas, das er gemacht hatte, so lange, als das Haus Gottes war zu Silo.
 
 # 19
-@1 Zu der Zeit war kein König in Israel. Und ein levitischer Mann war Fremdling an der Seite des Gebirges Ephraim und hatte sich ein Kebsweib genommen von Bethlehem-Juda.
+@1 Zu der Zeit war kein König in Israel. Und ein levitischer Mann war Fremdling an der Seite des Gebirges Ephraim und hatte sich eine Nebenfrau genommen von Bethlehem-Juda.
 @2 Und da sie hatte neben ihm gehurt, lief sie von ihm zu ihres Vaters Haus gen Bethlehem-Juda und war daselbst vier Monate lang.
 @3 Und ihr Mann machte sich auf und zog ihr nach, dass er freundlich mit ihr redete und sie wieder zu sich holte; und hatte einen Knecht und ein Paar Esel mit sich. Und sie führte ihn in ihres Vaters Haus. Da ihn aber der jungen Frau Vater sah, ward er froh und empfing ihn.
 @4 Und sein Schwiegervater, der jungen Frau Vater, hielt ihn, dass er drei Tage bei ihm blieb; sie aßen und tranken und blieben des Nachts da.
@@ -558,8 +558,8 @@
 @6 Und sie setzten sich und aßen beide miteinander und tranken. Da sprach der jungen Frau Vater zu dem Mann: Bleib doch über Nacht und lass dein Herz guter Dinge sein.
 @7 Da aber der Mann aufstand und wollte ziehen, nötigte ihn sein Schwiegervater, dass er über Nacht dablieb.
 @8 Des Morgens am fünften Tage machte er sich früh auf und wollte ziehen. Da sprach der jungen Frau Vater: Labe doch dein Herz und lass uns verziehen, bis sich der Tag neigt. Und aßen also die beiden miteinander.
-@9 Und der Mann machte sich auf und wollte ziehen mit seinem Kebsweib und mit seinem Knechte. Aber sein Schwiegervater, der jungen Frau Vater, sprach zu ihm: Siehe, der Tag hat sich geneigt, und es will Abend werden; bleib über Nacht. Siehe, hier ist Herberge noch diesen Tag; bleibe hier über Nacht und lass dein Herz guter Dinge sein. Morgen stehet ihr früh auf und ziehet eures Weges zu deiner Hütte.
-@10 Aber der Mann wollte nicht über Nacht bleiben, sondern machte sich auf und zog hin und kam bis vor Jebus, das ist Jerusalem, und sein Paar Esel beladen und sein Kebsweib mit ihm.
+@9 Und der Mann machte sich auf und wollte ziehen mit seiner Nebenfrau und mit seinem Knechte. Aber sein Schwiegervater, der jungen Frau Vater, sprach zu ihm: Siehe, der Tag hat sich geneigt, und es will Abend werden; bleib über Nacht. Siehe, hier ist Herberge noch diesen Tag; bleibe hier über Nacht und lass dein Herz guter Dinge sein. Morgen stehet ihr früh auf und ziehet eures Weges zu deiner Hütte.
+@10 Aber der Mann wollte nicht über Nacht bleiben, sondern machte sich auf und zog hin und kam bis vor Jebus, das ist Jerusalem, und sein Paar Esel beladen und seine Nebenfrau mit ihm.
 @11 Da sie nun nahe bei Jebus kamen, sank der Tag sehr dahin. Und der Knecht sprach zu seinem Herrn: Komm doch und lass uns in diese Stadt der Jebusiter einkehren und über Nacht darin bleiben.
 @12 Aber sein Herr sprach zu ihm: Wir wollen nicht in der Fremden Stadt einkehren, die nicht sind von den Kindern Israel, sondern wollen hinüber gen Gibea.
 @13 Und sprach zu seinem Knechte: Gehe weiter, dass wir hinzukommen an einen Ort und über Nacht zu Gibea oder zu Rama bleiben.
@@ -573,21 +573,21 @@
 @21 Und führte ihn in sein Haus und gab den Eseln Futter, und sie wuschen ihre Füße und aßen und tranken.
 @22 Und da ihr Herz nun guter Dinge war, siehe, da kamen die Leute der Stadt, böse Buben, und umgaben das Haus und pochten an die Tür und sprachen zu dem alten Mann, dem Hauswirt: Bringe den Mann heraus, der in dein Haus gekommen ist, dass wir ihn erkennen.
 @23 Aber der Mann, der Hauswirt, ging zu ihnen heraus und sprach zu ihnen: Nicht, meine Brüder, tut nicht so übel; nachdem dieser Mann in mein Haus gekommen ist, tut nicht eine solche Torheit!
-@24 Siehe, ich habe eine Tochter, noch eine Jungfrau, und dieser ein Kebsweib; die will ich euch herausbringen. Die mögt ihr zu Schanden machen, und tut mit ihr, was euch gefällt; aber an diesem Mann tut nicht eine solche Torheit.
-@25 Aber die Leute wollten ihm nicht gehorchen. Da fasste der Mann sein Kebsweib und brachte sie zu ihnen hinaus. Die erkannten sie und trieben ihren Mutwillen an ihr die ganze Nacht bis an den Morgen; und da die Morgenröte anbrach, ließen sie sie gehen.
+@24 Siehe, ich habe eine Tochter, noch eine Jungfrau, und dieser eine Nebenfrau; die will ich euch herausbringen. Die mögt ihr zu Schanden machen, und tut mit ihr, was euch gefällt; aber an diesem Mann tut nicht eine solche Torheit.
+@25 Aber die Leute wollten ihm nicht gehorchen. Da fasste der Mann seine Nebenfrau und brachte sie zu ihnen hinaus. Die erkannten sie und trieben ihren Mutwillen an ihr die ganze Nacht bis an den Morgen; und da die Morgenröte anbrach, ließen sie sie gehen.
 @26 Da kam die Frau hart vor morgens und fiel nieder vor der Tür am Hause des Mannes, darin ihr Herr war, und lag da, bis es licht ward.
-@27 Da nun ihr Herr des Morgens aufstand und die Tür auftat am Hause und herausging, dass er seines Weges zöge, siehe, da lag sein Kebsweib vor der Tür des Hauses und ihre Hände auf der Schwelle.
+@27 Da nun ihr Herr des Morgens aufstand und die Tür auftat am Hause und herausging, dass er seines Weges zöge, siehe, da lag seine Nebenfrau vor der Tür des Hauses und ihre Hände auf der Schwelle.
 @28 Er aber sprach zu ihr: Stehe auf, lass uns ziehen! Aber sie antwortete nicht. Da nahm er sie auf den Esel, machte sich auf und zog an seinen Ort.
-@29 Als er nun heimkam, nahm er ein Messer und fasste sein Kebsweib und zerstückte sie mit Gebein und mit allem in zwölf Stücke und sandte sie in alle Grenzen Israels.
+@29 Als er nun heimkam, nahm er ein Messer und fasste seine Nebenfrau und zerstückte sie mit Gebein und mit allem in zwölf Stücke und sandte sie in alle Grenzen Israels.
 @30 Wer das sah, der sprach: Solches ist nicht geschehen noch gesehen, seit der Zeit die Kinder Israel aus Ägyptenland gezogen sind, bis auf diesen Tag. Nun bedenkt euch über dem, gebt Rat und sagt an!
 
 # 20
 @1 Da zogen die Kinder Israel aus und versammelten sich zuhauf wie ein Mann, von Dan bis gen Beer-Seba und vom Lande Gilead zu dem HErrn gen Mizpa;
 @2 und traten zuhauf die Obersten des ganzen Volks aller Stämme Israels in der Gemeinde Gottes, 400.000 Mann zu Fuß, die das Schwert auszogen.
 @3 Aber die Kinder Benjamin hörten, dass die Kinder Israel hinauf gen Mizpa gezogen waren. Und die Kinder Israel sprachen: Saget, wie ist das Übel zugegangen?
-@4 Da antwortete der Levit, der Mann der Frau, die getötet war, und sprach: Ich kam gen Gibea in Benjamin mit meinem Kebsweibe, über Nacht dazubleiben.
-@5 Da machten sich wider mich auf die Bürger zu Gibea und umgaben mich im Hause des Nachts und gedachten, mich zu töten; und haben mein Kebsweib geschändet, dass sie gestorben ist.
-@6 Da fasste ich mein Kebsweib und zerstückte es und sandte es in alle Felder des Erbes Israels; denn sie haben einen Mutwillen und eine Torheit getan in Israel.
+@4 Da antwortete der Levit, der Mann der Frau, die getötet war, und sprach: Ich kam gen Gibea in Benjamin mit meiner Nebenfrau, über Nacht dazubleiben.
+@5 Da machten sich wider mich auf die Bürger zu Gibea und umgaben mich im Hause des Nachts und gedachten, mich zu töten; und haben meine Nebenfrau geschändet, dass sie gestorben ist.
+@6 Da fasste ich meine Nebenfrau und zerstückte sie und sandte sie in alle Felder des Erbes Israels; denn sie haben einen Mutwillen und eine Torheit getan in Israel.
 @7 Siehe, da seid ihr Kinder Israel alle; schafft euch Rat und tut hiezu!
 @8 Da machte sich alles Volk auf wie ein Mann und sprach: Es soll niemand in seine Hütte gehen noch in sein Haus kehren;
 @9 sondern das wollen wir jetzt tun wider Gibea:

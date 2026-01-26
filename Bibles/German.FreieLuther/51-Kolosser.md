@@ -1,8 +1,8 @@
 # 1
 @1 Paulus, ein Apostel Jesu Christi durch den Willen Gottes, und Bruder Timotheus
-@2 den Heiligen zu Kolossä und den gläubigen Brüdern in Christo: Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus!
-@3 Wir danken Gott und dem Vater unseres Herrn Jesu Christi und beten allezeit für euch,
-@4 nachdem wir gehört haben von eurem Glauben an Christum Jesum und von der Liebe zu allen Heiligen,
+@2 den Heiligen zu Kolossä und den gläubigen Brüdern in Christus: Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus!
+@3 Wir danken Gott und dem Vater unseres Herrn Jesus Christus und beten allezeit für euch,
+@4 nachdem wir gehört haben von eurem Glauben an Christus Jesus und von der Liebe zu allen Heiligen,
 @5 um der Hoffnung willen, die euch beigelegt ist im Himmel, von welcher ihr zuvor gehört habt durch das Wort der Wahrheit im Evangelium,
 @6 das zu euch gekommen ist, wie auch in alle Welt, und ist fruchtbar, wie auch in euch, von dem Tage an, da ihr's gehört habt und erkannt die Gnade Gottes in der Wahrheit;
 @7 wie ihr denn gelernt habt von Epaphras, unserem lieben Mitdiener, welcher ist ein treuer Diener Christi für euch,
@@ -22,11 +22,11 @@
 @21 Und euch, die ihr vordem Fremde und Feinde waret durch die Vernunft in bösen Werken,
 @22 hat er nun versöhnt mit dem Leibe seines Fleisches durch den Tod, auf dass er euch darstellte heilig und unsträflich und ohne Tadel vor ihm selbst;
 @23 so ihr anders bleibet im Glauben, gegründet und fest und unbeweglich von der Hoffnung des Evangeliums, welches ihr gehört habt, welches gepredigt ist unter aller Kreatur, die unter dem Himmel ist, dessen Diener ich, Paulus, geworden bin.
-@24 Nun freue ich mich in meinem Leiden, das ich für euch leide, und erstatte an meinem Fleisch, was noch mangelt an Trübsalen in Christo, für seinen Leib, welcher ist die Gemeinde,
+@24 Nun freue ich mich in meinem Leiden, das ich für euch leide, und erstatte an meinem Fleisch, was noch mangelt an Trübsalen in Christus, für seinen Leib, welcher ist die Gemeinde,
 @25 deren Diener ich geworden bin nach dem göttlichen Predigtamt, das mir gegeben ist unter euch, dass ich das Wort Gottes reichlich predigen soll,
 @26 nämlich das Geheimnis, das verborgen gewesen ist von der Welt her und von den Zeiten her, nun aber ist es offenbart seinen Heiligen,
 @27 denen Gott gewollt hat kundtun, welcher da sei der herrliche Reichtum dieses Geheimnisses unter den Heiden, welches ist Christus in euch, der da ist die Hoffnung der Herrlichkeit.
-@28 Den verkündigen wir und vermahnen alle Menschen und lehren alle Menschen mit aller Weisheit, auf dass wir darstellen einen jeglichen Menschen vollkommen in Christo Jesu;
+@28 Den verkündigen wir und vermahnen alle Menschen und lehren alle Menschen mit aller Weisheit, auf dass wir darstellen einen jeglichen Menschen vollkommen in Christus Jesus;
 @29 daran ich auch arbeite und ringe, nach der Wirkung des, der in mir kräftig wirkt.
 
 # 2
@@ -34,10 +34,10 @@
 @2 auf dass ihre Herzen ermahnt und zusammengefasst werden in der Liebe und zu allem Reichtum des gewissen Verständnisses, zu erkennen das Geheimnis Gottes, des Vaters und Christi,
 @3 in welchem verborgen liegen alle Schätze der Weisheit und der Erkenntnis.
 @4 Ich sage aber davon, auf dass euch niemand betrüge mit unvernünftigen Reden.
-@5 Denn ob ich wohl nach dem Fleisch nicht da bin, so bin ich doch im Geist bei euch, freue mich und sehe eure Ordnung und euren festen Glauben an Christum.
+@5 Denn ob ich wohl nach dem Fleisch nicht da bin, so bin ich doch im Geist bei euch, freue mich und sehe eure Ordnung und euren festen Glauben an Christus.
 @6 Wie ihr nun angenommen habt den Herrn Christus Jesus, so wandelt in ihm
 @7 und seid gewurzelt und erbaut in ihm und fest im Glauben, wie ihr gelehrt seid, und seid in demselben reichlich dankbar.
-@8 Sehet zu, dass euch niemand beraube durch die Philosophie und lose Verführung nach der Menschen Lehre und nach der Welt Satzungen, und nicht nach Christo.
+@8 Sehet zu, dass euch niemand beraube durch die Philosophie und lose Verführung nach der Menschen Lehre und nach der Welt Satzungen, und nicht nach Christus.
 @9 Denn in ihm wohnt die ganze Fülle der Gottheit leibhaftig,
 @10 und ihr seid vollkommen in ihm, welcher ist das Haupt aller Fürstentümer und Obrigkeiten;
 @11 in welchem ihr auch beschnitten seid mit der Beschneidung ohne Hände, durch Ablegung des sündlichen Leibes im Fleisch, nämlich mit der Beschneidung Christi,
@@ -46,18 +46,18 @@
 @14 und ausgetilgt die Handschrift, die wider uns war, welche durch Satzungen entstand und uns entgegen war, und hat sie aus dem Mittel getan und an das Kreuz geheftet;
 @15 und hat ausgezogen die Fürstentümer und die Gewaltigen und sie schaugetragen öffentlich und einen Triumph aus ihnen gemacht durch sich selbst.
 @16 So lasset nun niemand euch Gewissen machen über Speise oder über Trank oder über bestimmte Feiertage oder Neumonde oder Sabbate;
-@17 welches ist der Schatten von dem, das zukünftig war; aber der Körper selbst ist in Christo.
+@17 welches ist der Schatten von dem, das zukünftig war; aber der Körper selbst ist in Christus.
 @18 Lasst euch niemand das Ziel verrücken, der nach eigener Wahl einhergeht in Demut und Geistlichkeit der Engel, davon er nie etwas gesehen hat, und ist ohne Ursache aufgeblasen in seinem fleischlichen Sinn
 @19 und hält sich nicht an dem Haupt, aus welchem der ganze Leib durch Gelenke und Fugen Handreichung empfängt und zusammengehalten wird und also wächst zur göttlichen Größe.
-@20 So ihr denn nun abgestorben seid mit Christo den Satzungen der Welt, was lasset ihr euch denn fangen mit Satzungen, als lebtet ihr noch in der Welt?
+@20 So ihr denn nun abgestorben seid mit Christus den Satzungen der Welt, was lasset ihr euch denn fangen mit Satzungen, als lebtet ihr noch in der Welt?
 @21 „Du sollst“, sagen sie, „das nicht angreifen, du sollst das nicht kosten, du sollst das nicht anrühren“,
 @22 was sich doch alles unter den Händen verzehrt; es sind der Menschen Gebote und Lehren,
 @23 welche haben einen Schein der Weisheit durch selbst erwählte Geistlichkeit und Demut und dadurch, dass sie des Leibes nicht schonen und dem Fleisch nicht seine Ehre tun zu seiner Notdurft.
 
 # 3
-@1 Seid ihr nun mit Christo auferstanden, so suchet, was droben ist, da Christus ist, sitzend zu der Rechten Gottes.
+@1 Seid ihr nun mit Christus auferstanden, so suchet, was droben ist, da Christus ist, sitzend zu der Rechten Gottes.
 @2 Trachtet nach dem, was droben ist, nicht nach dem, was auf Erden ist.
-@3 Denn ihr seid gestorben, und euer Leben ist verborgen mit Christo in Gott.
+@3 Denn ihr seid gestorben, und euer Leben ist verborgen mit Christus in Gott.
 @4 Wenn aber Christus, euer Leben, sich offenbaren wird, dann werdet ihr auch offenbar werden mit ihm in der Herrlichkeit.
 @5 So tötet nun eure Glieder, die auf Erden sind, Hurerei, Unreinigkeit, schändliche Brunst, böse Lust und den Geiz, welcher ist Abgötterei,
 @6 um welcher willen kommt der Zorn Gottes über die Kinder des Unglaubens;
@@ -71,7 +71,7 @@
 @14 Über alles aber ziehet an die Liebe, die da ist das Band der Vollkommenheit.
 @15 Und der Friede Gottes regiere in euren Herzen, zu welchem ihr auch berufen seid in einem Leibe; und seid dankbar!
 @16 Lasset das Wort Christi unter euch reichlich wohnen in aller Weisheit; lehret und vermahnet euch selbst mit Psalmen und Lobgesängen und geistlichen lieblichen Liedern und singt dem Herrn in eurem Herzen.
-@17 Und alles, was ihr tut mit Worten oder mit Werken, das tut alles in dem Namen des Herrn Jesu, und danket Gott und dem Vater durch ihn.
+@17 Und alles, was ihr tut mit Worten oder mit Werken, das tut alles in dem Namen des Herrn Jesus, und danket Gott und dem Vater durch ihn.
 @18 Ihr Frauen, seid untertan euren Männern in dem Herrn, wie sich's gebührt.
 @19 Ihr Männer, liebet eure Frauen und seid nicht bitter gegen sie.
 @20 Ihr Kinder, seid gehorsam euren Eltern in allen Dingen; denn das ist dem Herrn gefällig.

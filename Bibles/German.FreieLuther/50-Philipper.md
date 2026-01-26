@@ -1,37 +1,37 @@
 # 1
-@1 Paulus und Timotheus, Knechte Jesu Christi, allen Heiligen in Christo Jesu zu Philippi samt den Bischöfen und Dienern:
+@1 Paulus und Timotheus, Knechte Jesu Christi, allen Heiligen in Christus Jesus zu Philippi samt den Bischöfen und Dienern:
 @2 Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus!
 @3 Ich danke meinem Gott, so oft ich euer gedenke
 @4 (welches ich allezeit tue in allem meinem Gebet für euch alle, und tue das Gebet mit Freuden),
 @5 über eure Gemeinschaft am Evangelium vom ersten Tage an bis her,
 @6 und bin desselben in guter Zuversicht, dass, der in euch angefangen hat das gute Werk, der wird's auch vollführen bis an den Tag Jesu Christi.
 @7 Wie es denn mir billig ist, dass ich dermaßen von euch halte, darum dass ich euch in meinem Herzen habe in diesem meinem Gefängnis, darin ich das Evangelium verantworte und bekräftige, als die ihr alle mit mir der Gnade teilhaftig seid.
-@8 Denn Gott ist mein Zeuge, wie mich nach euch allen verlangt von Herzensgrund in Jesu Christo.
+@8 Denn Gott ist mein Zeuge, wie mich nach euch allen verlangt von Herzensgrund in Jesus Christus.
 @9 Und darum bete ich, dass eure Liebe je mehr und mehr reich werde in allerlei Erkenntnis und Erfahrung,
 @10 dass ihr prüfen möget, was das Beste sei, auf dass ihr seid lauter und unanstößig auf den Tag Christi,
-@11 erfüllt mit Früchten der Gerechtigkeit, die durch Jesum Christum geschehen in euch zu Ehre und Lobe Gottes.
+@11 erfüllt mit Früchten der Gerechtigkeit, die durch Jesus Christus geschehen in euch zu Ehre und Lobe Gottes.
 @12 Ich lasse euch aber wissen, liebe Brüder, dass, wie es um mich steht, das ist nur mehr zur Förderung des Evangeliums geraten,
-@13 also dass meine Bande offenbar geworden sind in Christo in dem ganzen Richthause und bei den anderen allen,
+@13 also dass meine Bande offenbar geworden sind in Christus in dem ganzen Richthause und bei den anderen allen,
 @14 und viele Brüder in dem Herrn aus meinen Banden Zuversicht gewonnen haben und desto kühner geworden sind, das Wort zu reden ohne Scheu.
-@15 Etliche zwar predigen Christum auch um Neides und Haders willen, etliche aber aus guter Meinung.
-@16 Jene verkündigen Christum aus Zank und nicht lauter; denn sie meinen, sie wollen eine Trübsal zuwenden meinen Banden;
+@15 Etliche zwar predigen Christus auch um Neides und Haders willen, etliche aber aus guter Meinung.
+@16 Jene verkündigen Christus aus Zank und nicht lauter; denn sie meinen, sie wollen eine Trübsal zuwenden meinen Banden;
 @17 diese aber aus Liebe; denn sie wissen, dass ich zur Verantwortung des Evangeliums hier liege.
 @18 Was tut's aber? dass nur Christus verkündigt werde allerleiweise, es geschehe zum Vorwand oder in Wahrheit, so freue ich mich doch darin und will mich auch freuen.
 @19 Denn ich weiß, dass mir dies gelingt zur Seligkeit durch euer Gebet und durch Handreichung des Geistes Jesu Christi,
 @20 wie ich sehnlich warte und hoffe, dass ich in keinerlei Stück zu Schanden werde, sondern dass mit aller Freudigkeit, gleichwie sonst allezeit also auch jetzt, Christus hoch gepriesen werde an meinem Leibe, es sei durch Leben oder durch Tod.
 @21 Denn Christus ist mein Leben, und Sterben ist mein Gewinn.
 @22 Sintemal aber im Fleisch leben dient, mehr Frucht zu schaffen, so weiß ich nicht, welches ich erwählen soll.
-@23 Denn es liegt mir beides hart an: ich habe Lust, abzuscheiden und bei Christo zu sein, was auch viel besser wäre;
+@23 Denn es liegt mir beides hart an: ich habe Lust, abzuscheiden und bei Christus zu sein, was auch viel besser wäre;
 @24 aber es ist nötiger, im Fleisch bleiben um euretwillen.
 @25 Und in guter Zuversicht weiß ich, dass ich bleiben und bei euch allen sein werde, euch zur Förderung und Freude des Glaubens,
-@26 auf dass ihr euch sehr rühmen möget in Christo Jesu an mir, wenn ich wieder zu euch komme.
+@26 auf dass ihr euch sehr rühmen möget in Christus Jesus an mir, wenn ich wieder zu euch komme.
 @27 Wandelt nur würdig dem Evangelium Christi, auf dass, ob ich komme und sehe euch oder abwesend von euch höre, ihr steht in einem Geist und einer Seele und samt uns kämpfet für den Glauben des Evangeliums
 @28 und euch in keinem Weg erschrecken lasset von den Widersachern, welches ist ein Anzeichen, ihnen der Verdammnis, euch aber der Seligkeit, und das von Gott.
 @29 Denn euch ist gegeben, um Christi willen zu tun, dass ihr nicht allein an ihn glaubet sondern auch um seinetwillen leidet;
 @30 und habet denselben Kampf, welchen ihr an mir gesehen habt und nun von mir höret.
 
 # 2
-@1 Ist nun bei euch Ermahnung in Christo, ist Trost der Liebe, ist Gemeinschaft des Geistes, ist herzliche Liebe und Barmherzigkeit,
+@1 Ist nun bei euch Ermahnung in Christus, ist Trost der Liebe, ist Gemeinschaft des Geistes, ist herzliche Liebe und Barmherzigkeit,
 @2 so erfüllet meine Freude, dass ihr eines Sinnes seid, gleiche Liebe habt, einmütig und einhellig seid.
 @3 Nichts tut durch Zank oder eitle Ehre; sondern durch Demut achte einer den anderen höher denn sich selbst,
 @4 und ein jeglicher sehe nicht auf das Seine, sondern auch auf das, was des anderen ist.
@@ -40,7 +40,7 @@
 @7 sondern entäußerte sich selbst und nahm Knechtsgestalt an, ward gleich wie ein andrer Mensch und an Gebärden als ein Mensch erfunden;
 @8 er erniedrigte sich selbst und ward gehorsam bis zum Tode, ja zum Tode am Kreuz.
 @9 Darum hat ihn auch Gott erhöht und hat ihm einen Namen gegeben, der über alle Namen ist,
-@10 dass in dem Namen Jesu sich beugen aller derer Knie, die im Himmel und auf Erden und unter der Erde sind,
+@10 dass in dem Namen Jesus sich beugen aller derer Knie, die im Himmel und auf Erden und unter der Erde sind,
 @11 und alle Zungen bekennen sollen, dass Jesus Christus der Herr sei, zur Ehre Gottes, des Vaters.
 @12 Also, meine Liebsten, wie ihr allezeit seid gehorsam gewesen, nicht allein in meiner Gegenwart sondern auch nun viel mehr in meiner Abwesenheit, schaffet, dass ihr selig werdet, mit Furcht und Zittern.
 @13 Denn Gott ist's, der in euch wirkt beides, das Wollen und das Vollbringen, nach seinem Wohlgefallen.
@@ -65,24 +65,24 @@
 # 3
 @1 Weiter, liebe Brüder, freuet euch in dem Herrn! dass ich euch immer einerlei schreibe, verdrießt mich nicht und macht euch desto gewisser.
 @2 Sehet auf die Hunde, sehet auf die bösen Arbeiter, sehet auf die Zerschneidung!
-@3 Denn wir sind die Beschneidung, die wir Gott im Geiste dienen und rühmen uns von Christo Jesu und verlassen uns nicht auf Fleisch,
+@3 Denn wir sind die Beschneidung, die wir Gott im Geiste dienen und rühmen uns von Christus Jesus und verlassen uns nicht auf Fleisch,
 @4 wiewohl ich auch habe, dass ich mich Fleisches rühmen könnte. So ein anderer sich dünken lässt, er könnte sich Fleisches rühmen, ich könnte es viel mehr:
 @5 der ich am achten Tag beschnitten bin, einer aus dem Volk von Israel, des Geschlechts Benjamin, ein Hebräer von Hebräern und nach dem Gesetz ein Pharisäer,
 @6 nach dem Eifer ein Verfolger der Gemeinde, nach der Gerechtigkeit im Gesetz gewesen unsträflich.
 @7 Aber was mir Gewinn war, das habe ich um Christi willen für Schaden geachtet.
-@8 Ja, ich achte es noch alles für Schaden gegen die überschwengliche Erkenntnis Christi Jesu, meines Herrn, um welches willen ich alles habe für Schaden gerechnet, und achte es für Kot, auf dass ich Christum gewinne
-@9 und in ihm erfunden werde, dass ich nicht habe meine Gerechtigkeit, die aus dem Gesetz, sondern die durch den Glauben an Christum kommt, nämlich die Gerechtigkeit, die von Gott dem Glauben zugerechnet wird,
+@8 Ja, ich achte es noch alles für Schaden gegen die überschwengliche Erkenntnis Christi Jesu, meines Herrn, um welches willen ich alles habe für Schaden gerechnet, und achte es für Kot, auf dass ich Christus gewinne
+@9 und in ihm erfunden werde, dass ich nicht habe meine Gerechtigkeit, die aus dem Gesetz, sondern die durch den Glauben an Christus kommt, nämlich die Gerechtigkeit, die von Gott dem Glauben zugerechnet wird,
 @10 zu erkennen ihn und die Kraft seiner Auferstehung und die Gemeinschaft seiner Leiden, dass ich seinem Tode ähnlich werde,
 @11 damit ich gelange zur Auferstehung der Toten.
-@12 Nicht, dass ich's schon ergriffen habe oder schon vollkommen sei; ich jage ihm aber nach, ob ich's auch ergreifen möchte, nachdem ich von Christo Jesu ergriffen bin.
+@12 Nicht, dass ich's schon ergriffen habe oder schon vollkommen sei; ich jage ihm aber nach, ob ich's auch ergreifen möchte, nachdem ich von Christus Jesus ergriffen bin.
 @13 Meine Brüder, ich schätze mich selbst noch nicht, dass ich's ergriffen habe. Eines aber sage ich: Ich vergesse, was dahinten ist, und strecke mich zu dem, was da vorne ist,
-@14 und jage nach dem vorgesteckten Ziel, nach dem Kleinod, welches vorhält die himmlische Berufung Gottes in Christo Jesu.
+@14 und jage nach dem vorgesteckten Ziel, nach dem Kleinod, welches vorhält die himmlische Berufung Gottes in Christus Jesus.
 @15 Wie viele nun unser vollkommen sind, die lasset uns also gesinnt sein. Und solltet ihr sonst etwas halten, das lasset euch Gott offenbaren;
 @16 doch soferne, dass wir nach derselben Regel, darein wir gekommen sind, wandeln und gleich gesinnt seien.
 @17 Folget mir, liebe Brüder, und sehet auf die, die also wandeln, wie ihr uns habt zum Vorbilde.
 @18 Denn viele wandeln, von welchen ich euch oft gesagt habe, nun aber sage ich auch mit Weinen, dass sie sind die Feinde des Kreuzes Christi,
 @19 welcher Ende ist die Verdammnis, welchen der Bauch ihr Gott ist, und deren Ehre zu Schanden wird, die irdisch gesinnt sind.
-@20 Unser Wandel aber ist im Himmel, von dannen wir auch warten des Heilands Jesu Christi, des Herrn,
+@20 Unser Wandel aber ist im Himmel, von dannen wir auch warten des Heilands Jesus Christus, des Herrn,
 @21 welcher unseren nichtigen Leib verklären wird, dass er ähnlich werde seinem verklärten Leibe nach der Wirkung, mit der er kann auch alle Dinge sich untertänig machen.
 
 # 4
@@ -92,7 +92,7 @@
 @4 Freuet euch in dem Herrn allewege! Und abermals sage ich: Freuet euch!
 @5 Eure Lindigkeit lasset kund sein allen Menschen! der Herr ist nahe!
 @6 Sorget nichts! sondern in allen Dingen lasset eure Bitten im Gebet und Flehen mit Danksagung vor Gott kund werden.
-@7 Und der Friede Gottes, welcher höher ist denn alle Vernunft, bewahre eure Herzen und Sinne in Christo Jesu!
+@7 Und der Friede Gottes, welcher höher ist denn alle Vernunft, bewahre eure Herzen und Sinne in Christus Jesus!
 @8 Weiter, liebe Brüder, was wahrhaftig ist, was ehrbar, was gerecht, was keusch, was lieblich, was wohllautet, ist etwa eine Tugend, ist etwa ein Lob, dem denket nach!
 @9 Welches ihr auch gelernt und empfangen und gehört und gesehen habt an mir, das tut; so wird der Gott des Friedens mit euch sein.
 @10 Ich bin aber höchlich erfreut in dem Herrn, dass ihr wieder wacker geworden seid, für mich zu sorgen; wiewohl ihr allewege gesorgt habt, aber die Zeit hat's nicht wollen leiden.
@@ -104,8 +104,8 @@
 @16 Denn auch gen Thessalonich sandtet ihr zu meiner Notdurft einmal und darnach noch einmal.
 @17 Nicht, dass ich das Geschenk suche; sondern ich suche die Frucht, dass sie reichlich in eurer Rechnung sei.
 @18 Denn ich habe alles und habe überflüssig. Ich habe die Fülle, da ich empfing durch Epaphroditus, was von euch kam: ein süßer Geruch, ein angenehmes Opfer, Gott gefällig.
-@19 Mein Gott aber fülle aus alle eure Notdurft nach seinem Reichtum in der Herrlichkeit in Christo Jesu.
+@19 Mein Gott aber fülle aus alle eure Notdurft nach seinem Reichtum in der Herrlichkeit in Christus Jesus.
 @20 Gott aber, unserem Vater, sei Ehre von Ewigkeit zu Ewigkeit! Amen.
-@21 Grüßet alle Heiligen in Christo Jesu. Es grüßen euch die Brüder, die bei mir sind.
+@21 Grüßet alle Heiligen in Christus Jesus. Es grüßen euch die Brüder, die bei mir sind.
 @22 Es grüßen euch alle Heiligen, sonderlich aber die von des Kaisers Hause.
-@23 Die Gnade unseres Herrn Jesu Christi sei mit euch allen! Amen.
+@23 Die Gnade unseres Herrn Jesus Christus sei mit euch allen! Amen.

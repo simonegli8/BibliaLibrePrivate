@@ -95,7 +95,7 @@
 # 5
 @1 Und es erhob sich ein großes Geschrei des Volks und ihrer Frauen wider ihre Brüder, die Juden.
 @2 Und waren etliche, die da sprachen: Unserer Söhne und Töchter sind viele; lasst uns Getreide nehmen und essen, dass wir leben.
-@3 Aber etliche sprachen: Lasst uns unsere Äcker, Weinberge und Häuser versetzen und Getreide nehmen in der Teuerung.
+@3 Aber etliche sprachen: Lasst uns unsere Äcker, Weinberge und Häuser versetzen und Getreide nehmen in der Hungersnot.
 @4 Etliche aber sprachen: Wir haben Geld entlehnt zum Schoß für den König auf unsere Äcker und Weinberge;
 @5 nun ist doch wie unserer Brüder Leib auch unser Leib und wie ihre Kinder unsere Kinder, und siehe, wir müssen unsere Söhne und Töchter unterwerfen dem Dienst, und sind schon unserer Töchter etliche unterworfen, und ist kein Vermögen in unseren Händen, und unsere Äcker und Weinberge sind der anderen geworden.
 @6 Da ich aber ihr Schreien und solche Worte hörte, ward ich sehr zornig.

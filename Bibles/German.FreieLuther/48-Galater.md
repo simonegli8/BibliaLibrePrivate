@@ -1,5 +1,5 @@
 # 1
-@1 Paulus, ein Apostel (nicht von Menschen, auch nicht durch Menschen, sondern durch Jesum Christum und Gott, den Vater, der ihn auferweckt hat von den Toten),
+@1 Paulus, ein Apostel (nicht von Menschen, auch nicht durch Menschen, sondern durch Jesus Christus und Gott, den Vater, der ihn auferweckt hat von den Toten),
 @2 und alle Brüder, die bei mir sind, den Gemeinden in Galatien:
 @3 Gnade sei mit euch und Friede von Gott, dem Vater, und unserem Herrn Jesus Christus,
 @4 der sich selbst für unsere Sünden gegeben hat, dass er uns errettete von dieser gegenwärtigen argen Welt nach dem Willen Gottes und unseres Vaters,
@@ -28,7 +28,7 @@
 @1 Darnach über vierzehn Jahre zog ich abermals hinauf gen Jerusalem mit Barnabas und nahm Titus auch mit mir.
 @2 Ich zog aber hinauf aus einer Offenbarung und besprach mich mit ihnen über das Evangelium, das ich predige unter den Heiden, besonders aber mit denen, die das Ansehen hatten, auf dass ich nicht vergeblich liefe oder gelaufen wäre.
 @3 Aber es ward auch Titus nicht gezwungen, sich beschneiden zu lassen, der mit mir war, obwohl er ein Grieche war.
-@4 Denn da etliche falsche Brüder sich mit eingedrängt hatten und neben eingeschlichen waren, auszukundschaften unsere Freiheit, die wir haben in Christo Jesu, dass sie uns gefangennähmen,
+@4 Denn da etliche falsche Brüder sich mit eingedrängt hatten und neben eingeschlichen waren, auszukundschaften unsere Freiheit, die wir haben in Christus Jesus, dass sie uns gefangennähmen,
 @5 wichen wir denselben nicht eine Stunde, ihnen untertan zu sein, auf dass die Wahrheit des Evangeliums bei euch bestünde.
 @6 Von denen aber, die das Ansehen hatten – welcherlei sie vordem gewesen sind, daran liegt mir nichts; denn Gott achtet das Ansehen der Menschen nicht –, mich haben die, die das Ansehen hatten, nichts anderes gelehrt;
 @7 sondern dagegen, da sie sahen, dass mir vertraut war das Evangelium an die Heiden, gleichwie dem Petrus das Evangelium an die Juden
@@ -40,10 +40,10 @@
 @13 Und mit ihm heuchelten die anderen Juden, also dass auch Barnabas verführt ward, mit ihnen zu heucheln.
 @14 Aber da ich sah, dass sie nicht richtig wandelten nach der Wahrheit des Evangeliums, sprach ich zu Petrus vor allen öffentlich: So du, der du ein Jude bist, heidnisch lebst und nicht jüdisch, warum zwingst du denn die Heiden, jüdisch zu leben?
 @15 Wir sind von Natur Juden und nicht Sünder aus den Heiden;
-@16 doch weil wir wissen, dass der Mensch durch des Gesetzes Werke nicht gerecht wird, sondern durch den Glauben an Jesum Christum, so glauben wir auch an Christum Jesum, auf dass wir gerecht werden durch den Glauben an Christum und nicht durch des Gesetzes Werke; denn durch des Gesetzeswerke wird kein Fleisch gerecht.
-@17 Sollten wir aber, die da suchen, durch Christum gerecht zu werden, auch selbst als Sünder erfunden werden, so wäre Christus ja ein Sündendiener. Das sei ferne!
+@16 doch weil wir wissen, dass der Mensch durch des Gesetzes Werke nicht gerecht wird, sondern durch den Glauben an Jesus Christus, so glauben wir auch an Christus Jesus, auf dass wir gerecht werden durch den Glauben an Christus und nicht durch des Gesetzes Werke; denn durch des Gesetzeswerke wird kein Fleisch gerecht.
+@17 Sollten wir aber, die da suchen, durch Christus gerecht zu werden, auch selbst als Sünder erfunden werden, so wäre Christus ja ein Sündendiener. Das sei ferne!
 @18 Wenn ich aber das, was ich zerbrochen habe, wiederum baue, so mache ich mich selbst zu einem Übertreter.
-@19 Ich bin aber durchs Gesetz dem Gesetz gestorben, auf dass ich Gott lebe; ich bin mit Christo gekreuzigt.
+@19 Ich bin aber durchs Gesetz dem Gesetz gestorben, auf dass ich Gott lebe; ich bin mit Christus gekreuzigt.
 @20 Ich lebe aber; doch nun nicht ich, sondern Christus lebt in mir. Denn was ich jetzt lebe im Fleisch, das lebe ich in dem Glauben des Sohnes Gottes, der mich geliebt hat und sich selbst für mich dargegeben.
 @21 Ich werfe nicht weg die Gnade Gottes; denn wenn durch das Gesetz die Gerechtigkeit kommt, so ist Christus vergeblich gestorben.
 
@@ -61,15 +61,15 @@
 @11 dass aber durchs Gesetz niemand gerecht wird vor Gott, ist offenbar; denn „der Gerechte wird seines Glaubens leben.“
 @12 Das Gesetz aber ist nicht des Glaubens; sondern „der Mensch, der es tut, wird dadurch leben.“
 @13 Christus aber hat uns erlöst von dem Fluch des Gesetzes, da er ward ein Fluch für uns (denn es steht geschrieben: „Verflucht ist jedermann, der am Holz hängt!“),
-@14 auf dass der Segen Abrahams unter die Heiden käme in Christo Jesu und wir also den verheißenen Geist empfingen durch den Glauben.
+@14 auf dass der Segen Abrahams unter die Heiden käme in Christus Jesus und wir also den verheißenen Geist empfingen durch den Glauben.
 @15 Liebe Brüder, ich will nach menschlicher Weise reden: Verwirft man doch eines Menschen Testament nicht, wenn es bestätigt ist, und tut auch nichts dazu.
 @16 Nun ist ja die Verheißung Abraham und seinem Samen zugesagt. Er spricht nicht: „durch die Samen“, als durch viele, sondern als durch einen: „durch deinen Samen“, welcher ist Christus.
-@17 Ich sage aber davon: Das Testament, das von Gott zuvor bestätigt ist auf Christum, wird nicht aufgehoben, dass die Verheißung sollte durchs Gesetz aufhören, welches gegeben ist vierhundertdreißig Jahre hernach.
+@17 Ich sage aber davon: Das Testament, das von Gott zuvor bestätigt ist auf Christus, wird nicht aufgehoben, dass die Verheißung sollte durchs Gesetz aufhören, welches gegeben ist vierhundertdreißig Jahre hernach.
 @18 Denn so das Erbe durch das Gesetz erworben würde, so würde es nicht durch Verheißung gegeben; Gott aber hat's Abraham durch Verheißung frei geschenkt.
 @19 Was soll denn das Gesetz? Es ist hinzugekommen um der Sünden willen, bis der Same käme, dem die Verheißung geschehen ist, und ist gestellt von den Engeln durch die Hand des Mittlers.
 @20 Ein Mittler aber ist nicht eines Mittler; Gott aber ist einer.
 @21 Wie? Ist denn das Gesetz wider Gottes Verheißungen? Das sei ferne! Wenn aber ein Gesetz gegeben wäre, das da könnte lebendig machen, so käme die Gerechtigkeit wahrhaftig aus dem Gesetz.
-@22 Aber die Schrift hat alles beschlossen unter die Sünde, auf dass die Verheißung käme durch den Glauben an Jesum Christum, gegeben denen, die da glauben.
+@22 Aber die Schrift hat alles beschlossen unter die Sünde, auf dass die Verheißung käme durch den Glauben an Jesus Christus, gegeben denen, die da glauben.
 @23 Ehe denn aber der Glaube kam, wurden wir unter dem Gesetz verwahrt und verschlossen auf den Glauben, der da sollte offenbart werden.
 @24 Also ist das Gesetz unser Zuchtmeister gewesen auf Christus, dass wir durch den Glauben gerecht würden.
 @25 Nun aber der Glaube gekommen ist, sind wir nicht mehr unter dem Zuchtmeister.
@@ -85,14 +85,14 @@
 @4 Da aber die Zeit erfüllet ward, sandte Gott seinen Sohn, geboren von einer Frau und unter das Gesetz getan,
 @5 auf dass er die, die unter dem Gesetz waren, erlöste, dass wir die Kindschaft empfingen.
 @6 Weil ihr denn Kinder seid, hat Gott gesandt den Geist seines Sohnes in eure Herzen, der schreit: Abba, lieber Vater!
-@7 Also ist nun hier kein Knecht mehr, sondern eitel Kinder; sind's aber Kinder, so sind's auch Erben Gottes durch Christum.
+@7 Also ist nun hier kein Knecht mehr, sondern eitel Kinder; sind's aber Kinder, so sind's auch Erben Gottes durch Christus.
 @8 Aber zu der Zeit, da ihr Gott nicht erkanntet, dientet ihr denen, die von Natur nicht Götter sind.
 @9 Nun ihr aber Gott erkannt habt, ja vielmehr von Gott erkannt seid, wie wendet ihr euch denn wiederum zu den schwachen und dürftigen Satzungen, welchen ihr von neuem an dienen wollt?
 @10 Ihr haltet Tage und Monate und Feste und Jahre.
 @11 Ich fürchte für euch, dass ich vielleicht umsonst an euch gearbeitet habe.
 @12 Seid doch wie ich; denn ich bin wie ihr. Liebe Brüder, ich bitte euch. Ihr habt mir kein Leid getan.
 @13 Denn ihr wisset, dass ich euch in Schwachheit nach dem Fleisch das Evangelium gepredigt habe zum erstenmal.
-@14 Und meine Anfechtungen, die ich leide nach dem Fleisch, habt ihr nicht verachtet noch verschmäht; sondern wie ein Engel Gottes nahmet ihr mich auf, ja wie Christum Jesum.
+@14 Und meine Anfechtungen, die ich leide nach dem Fleisch, habt ihr nicht verachtet noch verschmäht; sondern wie ein Engel Gottes nahmet ihr mich auf, ja wie Christus Jesus.
 @15 Wie wart ihr dazumal so selig! ich bin euer Zeuge, dass, wenn es möglich gewesen wäre, ihr hättet eure Augen ausgerissen und mir gegeben.
 @16 Bin ich denn damit euer Feind geworden, dass ich euch die Wahrheit vorhalte?
 @17 Sie eifern um euch nicht fein; sondern sie wollen euch von mir abfällig machen, dass ihr um sie eifern sollt.
@@ -115,9 +115,9 @@
 @1 So bestehet nun in der Freiheit, zu der uns Christus befreit hat, und lasset euch nicht wiederum in das knechtische Joch fangen.
 @2 Siehe, ich, Paulus, sage euch: Wo ihr euch beschneiden lasset, so nützt euch Christus nichts.
 @3 Ich bezeuge abermals einem jeden, der sich beschneiden lässt, dass er das ganze Gesetz schuldig ist zu tun.
-@4 Ihr habt Christum verloren, die ihr durch das Gesetz gerecht werden wollt, und seid von der Gnade gefallen.
+@4 Ihr habt Christus verloren, die ihr durch das Gesetz gerecht werden wollt, und seid von der Gnade gefallen.
 @5 Wir aber warten im Geist durch den Glauben der Gerechtigkeit, auf die man hoffen muss.
-@6 Denn in Christo Jesu gilt weder Beschneidung noch unbeschnitten sein etwas, sondern der Glaube, der durch die Liebe tätig ist.
+@6 Denn in Christus Jesus gilt weder Beschneidung noch unbeschnitten sein etwas, sondern der Glaube, der durch die Liebe tätig ist.
 @7 Ihr liefet fein. Wer hat euch aufgehalten, der Wahrheit nicht zu gehorchen?
 @8 Solch Überreden ist nicht von dem, der euch berufen hat.
 @9 Ein wenig Sauerteig versäuert den ganzen Teig.
@@ -135,7 +135,7 @@
 @21 Saufen, Fressen und dergleichen, von welchen ich euch zuvor gesagt und sage noch zuvor, dass, die solches tun, werden das Reich Gottes nicht erben.
 @22 Die Frucht aber des Geistes ist Liebe, Freude, Friede, Geduld, Freundlichkeit, Gütigkeit, Glaube, Sanftmut, Keuschheit.
 @23 Wider solche ist das Gesetz nicht.
-@24 Welche aber Christo angehören, die kreuzigen ihr Fleisch samt den Lüsten und Begierden.
+@24 Welche aber Christus angehören, die kreuzigen ihr Fleisch samt den Lüsten und Begierden.
 @25 So wir im Geist leben, so lasset uns auch im Geist wandeln.
 @26 Lasset uns nicht eitler Ehre geizig sein, einander zu entrüsten und zu hassen.
 
@@ -153,8 +153,8 @@
 @11 Sehet, mit wie vielen Worten habe ich euch geschrieben mit eigener Hand!
 @12 Die sich wollen angenehm machen nach dem Fleisch, die zwingen euch zur Beschneidung, nur damit sie nicht mit dem Kreuz Christi verfolgt werden.
 @13 Denn auch sie selbst, die sich beschneiden lassen, halten das Gesetz nicht; sondern sie wollen, dass ihr euch beschneiden lasset, auf dass sie sich von eurem Fleisch rühmen mögen.
-@14 Es sei aber ferne von mir, mich zu rühmen, denn allein von dem Kreuz unseres Herrn Jesu Christi, durch welchen mir die Welt gekreuzigt ist und ich der Welt.
-@15 Denn in Christo Jesu gilt weder Beschneidung noch unbeschnitten sein etwas, sondern eine neue Kreatur.
+@14 Es sei aber ferne von mir, mich zu rühmen, denn allein von dem Kreuz unseres Herrn Jesus Christus, durch welchen mir die Welt gekreuzigt ist und ich der Welt.
+@15 Denn in Christus Jesus gilt weder Beschneidung noch unbeschnitten sein etwas, sondern eine neue Kreatur.
 @16 Und wie viele nach dieser Regel einhergehen, über die sei Friede und Barmherzigkeit und über das Israel Gottes.
-@17 Hinfort mache mir niemand weiter Mühe; denn ich trage die Malzeichen des Herrn Jesu an meinem Leibe.
-@18 Die Gnade unseres Herrn Jesu Christi sei mit eurem Geist, liebe Brüder! Amen.
+@17 Hinfort mache mir niemand weiter Mühe; denn ich trage die Malzeichen des Herrn Jesus an meinem Leibe.
+@18 Die Gnade unseres Herrn Jesus Christus sei mit eurem Geist, liebe Brüder! Amen.

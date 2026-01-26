@@ -23,7 +23,7 @@
 @6 Es bezeugt aber einer an einem Ort und spricht: „Was ist der Mensch, dass du sein gedenkest, und des Menschen Sohn, dass du auf ihn achtest?
 @7 Du hast ihn eine kleine Zeit niedriger sein lassen denn die Engel; mit Preis und Ehre hast du ihn gekrönt und hast ihn gesetzt über die Werke deiner Hände;
 @8 alles hast du unter seine Füße getan.“ In dem, dass er ihm alles hat untergetan, hat er nichts gelassen, das ihm nicht untertan sei; jetzt aber sehen wir noch nicht, dass ihm alles untertan sei.
-@9 Den aber, der eine kleine Zeit niedriger gewesen ist als die Engel, Jesum, sehen wir durchs Leiden des Todes gekrönt mit Preis und Ehre, auf dass er von Gottes Gnaden für alle den Tod schmeckte.
+@9 Den aber, der eine kleine Zeit niedriger gewesen ist als die Engel, Jesus, sehen wir durchs Leiden des Todes gekrönt mit Preis und Ehre, auf dass er von Gottes Gnaden für alle den Tod schmeckte.
 @10 Denn es ziemte dem, um deswillen alle Dinge sind und durch den alle Dinge sind, der da viel Kinder hat zur Herrlichkeit geführt, dass er den Herzog ihrer Seligkeit durch Leiden vollkommen machte.
 @11 Sintemal sie alle von einem kommen, beide, der da heiligt und die da geheiligt werden. Darum schämt er sich auch nicht, sie Brüder zu heißen,
 @12 und spricht: „Ich will verkündigen deinen Namen meinen Brüdern und mitten in der Gemeinde dir lobsingen.“
@@ -69,7 +69,7 @@
 @11 So lasset uns nun Fleiß tun, einzukommen zu dieser Ruhe, auf dass nicht jemand falle in dasselbe Beispiel des Unglaubens.
 @12 Denn das Wort Gottes ist lebendig und kräftig und schärfer denn kein zweischneidig Schwert, und dringt durch, bis dass es scheidet Seele und Geist, auch Mark und Bein, und ist ein Richter der Gedanken und Sinne des Herzens.
 @13 Und keine Kreatur ist vor ihm unsichtbar; es ist aber alles bloß und entdeckt vor seinen Augen. Von dem reden wir.
-@14 Dieweil wir denn einen großen Hohenpriester haben, Jesum, den Sohn Gottes, der gen Himmel gefahren ist, so lasset uns halten an dem Bekenntnis.
+@14 Dieweil wir denn einen großen Hohenpriester haben, Jesus, den Sohn Gottes, der gen Himmel gefahren ist, so lasset uns halten an dem Bekenntnis.
 @15 Denn wir haben nicht einen Hohenpriester, der nicht könnte Mitleiden haben mit unseren Schwachheiten, sondern der versucht ist allenthalben gleichwie wir, doch ohne Sünde.
 @16 Darum lasset uns hinzutreten mit Freudigkeit zu dem Gnadenstuhl, auf dass wir Barmherzigkeit empfangen und Gnade finden auf die Zeit, wenn uns Hilfe not sein wird.
 
@@ -271,7 +271,7 @@
 
 # 12
 @1 Darum auch wir, dieweil wir eine solche Wolke von Zeugen um uns haben, lasset uns ablegen die Sünde, die uns immer anklebt und träge macht, und lasset uns laufen durch Geduld in dem Kampf, der uns verordnet ist,
-@2 und aufsehen auf Jesum, den Anfänger und Vollender des Glaubens; welcher, da er wohl hätte mögen Freude haben, erduldete das Kreuz und achtete der Schande nicht und hat sich gesetzt zur Rechten auf den Stuhl Gottes.
+@2 und aufsehen auf Jesus, den Anfänger und Vollender des Glaubens; welcher, da er wohl hätte mögen Freude haben, erduldete das Kreuz und achtete der Schande nicht und hat sich gesetzt zur Rechten auf den Stuhl Gottes.
 @3 Gedenket an den, der ein solches Widersprechen von den Sündern wider sich erduldet hat, dass ihr nicht in eurem Mut matt werdet und ablasset.
 @4 Denn ihr habt noch nicht bis aufs Blut widerstanden in den Kämpfen wider die Sünde
 @5 und habt bereits vergessen des Trostes, der zu euch redet als zu den Kindern: „Mein Sohn, achte nicht gering die Züchtigung des Herrn und verzage nicht, wenn du von ihm gestraft wirst.
@@ -321,7 +321,7 @@
 @18 Betet für uns. Unser Trost ist der, dass wir ein gutes Gewissen haben und fleißigen uns, guten Wandel zu führen bei allen.
 @19 Ich ermahne aber desto mehr, solches zu tun, auf dass ich umso schneller wieder zu euch komme.
 @20 Der Gott aber des Friedens, der von den Toten ausgeführt hat den großen Hirten der Schafe durch das Blut des ewigen Testaments, unseren Herrn Jesus,
-@21 der mache euch fertig in allem guten Werk, zu tun seinen Willen, und schaffe in euch, was vor ihm gefällig ist, durch Jesum Christum; welchem sei Ehre von Ewigkeit zu Ewigkeit! Amen.
+@21 der mache euch fertig in allem guten Werk, zu tun seinen Willen, und schaffe in euch, was vor ihm gefällig ist, durch Jesus Christus; welchem sei Ehre von Ewigkeit zu Ewigkeit! Amen.
 @22 Ich ermahne euch aber, liebe Brüder, haltet das Wort der Ermahnung zugute; denn ich habe euch kurz geschrieben.
 @23 Wisset, dass der Bruder Timotheus wieder frei ist; mit dem, so er bald kommt, will ich euch sehen.
 @24 Grüßet alle eure Lehrer und alle Heiligen. Es grüßen euch die Brüder aus Italien.

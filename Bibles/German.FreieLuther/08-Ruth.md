@@ -1,5 +1,5 @@
 # 1
-@1 Zu der Zeit, da die Richter regierten, ward eine Teuerung im Lande. Und ein Mann von Bethlehem-Juda zog wallen in der Moabiter Land mit seiner Frau und seinen zwei Söhnen.
+@1 Zu der Zeit, da die Richter regierten, ward eine Hungersnot im Lande. Und ein Mann von Bethlehem-Juda zog wallen in der Moabiter Land mit seiner Frau und seinen zwei Söhnen.
 @2 Der hieß Elimelech und seine Frau Naemi und seine zwei Söhne Mahlon und Chiljon; die waren Ephrather von Bethlehem-Juda. Und da sie kamen ins Land der Moabiter, blieben sie daselbst.
 @3 Und Elimelech, der Naemi Mann, starb, und sie blieb übrig mit ihren zwei Söhnen.
 @4 Die nahmen moabitische Frauen; eine hieß Orpa, die andere Ruth. Und da sie daselbst gewohnt hatten ungefähr zehn Jahre,

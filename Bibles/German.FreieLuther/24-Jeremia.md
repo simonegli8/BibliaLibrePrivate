@@ -384,9 +384,9 @@
 @10 So spricht der HErr von diesem Volk: Sie laufen gern hin und wieder und bleiben nicht gern daheim; darum will sie der HErr nicht, sondern er denkt nun an ihre Missetat und will ihre Sünden heimsuchen.
 @11 Und der HErr sprach zu mir: Du sollst nicht für dieses Volk um Gnade bitten.
 @12 Denn ob sie gleich fasten, so will ich doch ihr Flehen nicht hören; und ob sie Brandopfer und Speisopfer bringen, so gefallen sie mir doch nicht, sondern ich will sie mit Schwert, Hunger und Pestilenz aufreiben.
-@13 Da sprach ich: Ach Herr HErr, siehe, die Propheten sagen ihnen: Ihr werdet kein Schwert sehen und keine Teuerung bei euch haben; sondern ich will euch guten Frieden geben an diesem Ort.
+@13 Da sprach ich: Ach Herr HErr, siehe, die Propheten sagen ihnen: Ihr werdet kein Schwert sehen und keine Hungersnot bei euch haben; sondern ich will euch guten Frieden geben an diesem Ort.
 @14 Und der HErr sprach zu mir: Die Propheten weissagen falsch in meinem Namen; ich habe sie nicht gesandt und ihnen nichts befohlen und nichts mit ihnen geredet. Sie predigen euch falsche Gesichte, Deutungen, Abgötterei und ihres Herzens Trügerei.
-@15 Darum so spricht der HErr von den Propheten, die in meinem Namen weissagen, obwohl ich sie doch nicht gesandt habe, und die dennoch predigen, es werde kein Schwert noch Teuerung in dieses Land kommen: Solche Propheten sollen sterben durch Schwert und Hunger.
+@15 Darum so spricht der HErr von den Propheten, die in meinem Namen weissagen, obwohl ich sie doch nicht gesandt habe, und die dennoch predigen, es werde kein Schwert noch Hungersnot in dieses Land kommen: Solche Propheten sollen sterben durch Schwert und Hunger.
 @16 Und die Leute, denen sie weissagen, sollen vom Schwert und Hunger auf den Gassen zu Jerusalem hin und her liegen, dass sie niemand begraben wird, also auch ihre Frauen, Söhne und Töchter; und ich will ihre Bosheit über sie schütten.
 @17 Und du sollst zu ihnen sagen dieses Wort: Meine Augen fließen von Tränen Tag und Nacht und hören nicht auf; denn die Jungfrau, die Tochter meines Volks, ist gräulich zerplagt und jämmerlich geschlagen.
 @18 Gehe ich hinaus aufs Feld, siehe, so liegen da Erschlagene mit dem Schwert; komme ich in die Stadt, so liegen da vor Hunger Verschmachtete. Denn es müssen auch die Propheten, dazu auch die Priester, in ein Land ziehen, das sie nicht kennen.

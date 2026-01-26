@@ -29,7 +29,7 @@
 @10 nicht veruntreuen, sondern alle gute Treue erzeigen, auf dass sie die Lehre Gottes, unseres Heilandes, zieren in allen Stücken.
 @11 Denn es ist erschienen die heilsame Gnade Gottes allen Menschen
 @12 und züchtigt uns, dass wir sollen verleugnen das ungöttliche Wesen und die weltlichen Lüste, und züchtig, gerecht und gottselig leben in dieser Welt
-@13 und warten auf die selige Hoffnung und Erscheinung der Herrlichkeit des großen Gottes und unseres Heilandes, Jesu Christi,
+@13 und warten auf die selige Hoffnung und Erscheinung der Herrlichkeit des großen Gottes und unseres Heilandes, Jesus Christus,
 @14 der sich selbst für uns gegeben hat, auf dass er uns erlöste von aller Ungerechtigkeit und reinigte sich selbst ein Volk zum Eigentum, das fleißig wäre zu guten Werken.
 @15 Solches rede und ermahne und strafe mit ganzem Ernst. Lass dich niemand verachten.
 
@@ -39,7 +39,7 @@
 @3 Denn wir waren auch vordem unweise, ungehorsam, verirrt, dienend den Begierden und mancherlei Wollüsten, und wandelten in Bosheit und Neid, waren verhasst und hassten uns untereinander.
 @4 Da aber erschien die Freundlichkeit und Leutseligkeit Gottes, unseres Heilandes, –
 @5 nicht um der Werke willen der Gerechtigkeit, die wir getan hatten, sondern nach seiner Barmherzigkeit machte er uns selig durch das Bad der Wiedergeburt und Erneuerung des heiligen Geistes,
-@6 welchen er ausgegossen hat über uns reichlich durch Jesum Christum, unseren Heiland,
+@6 welchen er ausgegossen hat über uns reichlich durch Jesus Christus, unseren Heiland,
 @7 auf dass wir durch desselben Gnade gerecht und Erben seien des ewigen Lebens nach der Hoffnung.
 @8 Das ist gewisslich wahr; solches will ich, dass du fest lehrest, auf dass die, die an Gott gläubig sind geworden, in einem Stand guter Werke gefunden werden. Solches ist gut und nütze den Menschen.
 @9 Der törichten Fragen aber, der Geschlechtsregister, des Zankes und Streites über das Gesetz entschlage dich; denn sie sind unnütz und eitel.

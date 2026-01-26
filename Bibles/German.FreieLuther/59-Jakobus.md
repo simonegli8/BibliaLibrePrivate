@@ -1,5 +1,5 @@
 # 1
-@1 Jakobus, ein Knecht Gottes und des Herrn Jesu Christi, den zwölf Geschlechtern, die da sind hin und her, Freude zuvor!
+@1 Jakobus, ein Knecht Gottes und des Herrn Jesus Christus, den zwölf Geschlechtern, die da sind hin und her, Freude zuvor!
 @2 Meine lieben Brüder, achtet es für eitel Freude, wenn ihr in mancherlei Anfechtungen fallet,
 @3 und wisset, dass euer Glaube, wenn er rechtschaffen ist, Geduld wirkt.
 @4 Die Geduld aber soll festbleiben bis ans Ende, auf dass ihr seid vollkommen und ganz und keinen Mangel habet.
@@ -28,7 +28,7 @@
 @27 Ein reiner und unbefleckter Gottesdienst vor Gott dem Vater ist der: Die Waisen und Witwen in ihrer Trübsal besuchen und sich von der Welt unbefleckt erhalten.
 
 # 2
-@1 Liebe Brüder, haltet nicht dafür, dass der Glaube an Jesum Christum, unseren Herrn der Herrlichkeit, Ansehung der Person leide.
+@1 Liebe Brüder, haltet nicht dafür, dass der Glaube an Jesus Christus, unseren Herrn der Herrlichkeit, Ansehung der Person leide.
 @2 Denn wenn in eure Versammlung käme ein Mann mit einem goldenen Ringe und mit einem herrlichen Kleide, es käme aber auch ein Armer in einem unsauberen Kleide,
 @3 und ihr sähet auf den, der das herrliche Kleid trägt, und sprächet zu ihm: Setze du dich her aufs beste! und sprächet zu dem Armen: Stehe du dort! oder: Setze dich her zu meinen Füßen!
 @4 ist's recht, dass ihr solchen Unterschied bei euch selbst macht und richtet nach argen Gedanken?
