@@ -3,10 +3,10 @@
 @2 hasta el día en que fue recibido arriba, después de haber dado mandamientos por el Espíritu Santo a los apóstoles que había escogido;
 @3 a quienes también, después de haber padecido, se presentó vivo con muchas pruebas indubitables, apareciéndoseles durante cuarenta días y hablándoles acerca del reino de Dios.
 @4 Y estando juntos, les mandó que no se fueran de Jerusalén, sino que esperasen la promesa del Padre, la cual, les dijo, oísteis de mí. 
-@5  Porque Juan ciertamente bautizó con agua, mas vosotros seréis bautizados con el Espíritu Santo dentro de no muchos días. 
+@5 Porque Juan ciertamente bautizó con agua, mas vosotros seréis bautizados con el Espíritu Santo dentro de no muchos días. 
 @6 Entonces los que se habían reunido le preguntaron, diciendo: Señor, ¿restaurarás el reino a Israel en este tiempo?
 @7 Y les dijo: No os toca a vosotros saber los tiempos o las sazones, que el Padre puso en su sola potestad; 
-@8  pero recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra. 
+@8 pero recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra. 
 @9 Y habiendo dicho estas cosas, viéndolo ellos, fue alzado, y le recibió una nube que le ocultó de sus ojos.
 @10 Y estando ellos con los ojos puestos en el cielo, entre tanto que él se iba, he aquí se pusieron junto a ellos dos varones con vestiduras blancas,
 @11 los cuales también les dijeron: Varones galileos, ¿por qué estáis mirando al cielo? Este mismo Jesús, que ha sido tomado de vosotros al cielo, así vendrá como le habéis visto ir al cielo.
@@ -43,25 +43,25 @@
 @14 Entonces Pedro, poniéndose en pie con los once, alzó la voz y les habló diciendo: Varones judíos, y todos los que habitáis en Jerusalén, esto os sea notorio, y oíd mis palabras.
 @15 Porque éstos no están ebrios, como vosotros suponéis, puesto que es la hora tercera del día.
 @16 Mas esto es lo dicho por el profeta Joel:
-@17  Y en los postreros días, dice Dios, Derramaré de mi Espíritu sobre toda carne, Y vuestros hijos y vuestras hijas profetizarán; Vuestros jóvenes verán visiones, Y vuestros ancianos soñarán sueños; 
-@18  Y de cierto sobre mis siervos y sobre mis siervas en aquellos días Derramaré de mi Espíritu, y profetizarán. 
-@19  Y daré prodigios arriba en el cielo, Y señales abajo en la tierra, Sangre y fuego y vapor de humo; 
-@20  El sol se convertirá en tinieblas, Y la luna en sangre, Antes que venga el día del Señor, Grande y manifiesto; 
-@21  Y todo aquel que invocare el nombre del Señor, será salvo. 
+@17 Y en los postreros días, dice Dios, Derramaré de mi Espíritu sobre toda carne, Y vuestros hijos y vuestras hijas profetizarán; Vuestros jóvenes verán visiones, Y vuestros ancianos soñarán sueños; 
+@18 Y de cierto sobre mis siervos y sobre mis siervas en aquellos días Derramaré de mi Espíritu, y profetizarán. 
+@19 Y daré prodigios arriba en el cielo, Y señales abajo en la tierra, Sangre y fuego y vapor de humo; 
+@20 El sol se convertirá en tinieblas, Y la luna en sangre, Antes que venga el día del Señor, Grande y manifiesto; 
+@21 Y todo aquel que invocare el nombre del Señor, será salvo. 
 @22 Varones israelitas, oíd estas palabras: Jesús nazareno, varón aprobado por Dios entre vosotros con las maravillas, prodigios y señales que Dios hizo entre vosotros por medio de él, como vosotros mismos sabéis;
 @23 a éste, entregado por el determinado consejo y anticipado conocimiento de Dios, prendisteis y matasteis por manos de inicuos, crucificándole;
 @24 al cual Dios levantó, sueltos los dolores de la muerte, por cuanto era imposible que fuese retenido por ella.
 @25 Porque David dice de él: Veía al Señor siempre delante de mí; Porque está a mi diestra, no seré conmovido. 
-@26  Por lo cual mi corazón se alegró, y se gozó mi lengua, Y aun mi carne descansará en esperanza; 
-@27  Porque no dejarás mi alma en el Hades, Ni permitirás que tu Santo vea corrupción. 
-@28  Me hiciste conocer los caminos de la vida; Me llenarás de gozo con tu presencia. 
+@26 Por lo cual mi corazón se alegró, y se gozó mi lengua, Y aun mi carne descansará en esperanza; 
+@27 Porque no dejarás mi alma en el Hades, Ni permitirás que tu Santo vea corrupción. 
+@28 Me hiciste conocer los caminos de la vida; Me llenarás de gozo con tu presencia. 
 @29 Varones hermanos, se os puede decir libremente del patriarca David, que murió y fue sepultado, y su sepulcro está con nosotros hasta el día de hoy.
 @30 Pero siendo profeta, y sabiendo que con juramento Dios le había jurado que de su descendencia, en cuanto a la carne, levantaría al Cristo para que se sentase en su trono,
 @31 viéndolo antes, habló de la resurrección de Cristo, que su alma no fue dejada en el Hades, ni su carne vio corrupción.
 @32 A este Jesús resucitó Dios, de lo cual todos nosotros somos testigos.
 @33 Así que, exaltado por la diestra de Dios, y habiendo recibido del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís.
 @34 Porque David no subió a los cielos; pero él mismo dice: Dijo el Señor a mi Señor: Siéntate a mi diestra, 
-@35  Hasta que ponga a tus enemigos por estrado de tus pies. 
+@35 Hasta que ponga a tus enemigos por estrado de tus pies. 
 @36 Sepa, pues, ciertísimamente toda la casa de Israel, que a este Jesús a quien vosotros crucificasteis, Dios le ha hecho Señor y Cristo.
 @37 Al oír esto, se compungieron de corazón, y dijeron a Pedro y a los otros apóstoles: Varones hermanos, ¿qué haremos?
 @38 Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo.
@@ -129,7 +129,7 @@
 @23 Y puestos en libertad, vinieron a los suyos y contaron todo lo que los principales sacerdotes y los ancianos les habían dicho.
 @24 Y ellos, habiéndolo oído, alzaron unánimes la voz a Dios, y dijeron: Soberano Señor, tú eres el Dios que hiciste el cielo y la tierra, el mar y todo lo que en ellos hay;
 @25 que por boca de David tu siervo dijiste: ¿Por qué se amotinan las gentes, Y los pueblos piensan cosas vanas? 
-@26  Se reunieron los reyes de la tierra, Y los príncipes se juntaron en uno Contra el Señor, y contra su Cristo. 
+@26 Se reunieron los reyes de la tierra, Y los príncipes se juntaron en uno Contra el Señor, y contra su Cristo. 
 @27 Porque verdaderamente se unieron en esta ciudad contra tu santo Hijo Jesús, a quien ungiste, Herodes y Poncio Pilato, con los gentiles y el pueblo de Israel,
 @28 para hacer cuanto tu mano y tu consejo habían antes determinado que sucediera.
 @29 Y ahora, Señor, mira sus amenazas, y concede a tus siervos que con todo denuedo hablen tu palabra,
@@ -246,14 +246,14 @@
 @40 cuando dijeron a Aarón: Haznos dioses que vayan delante de nosotros; porque a este Moisés, que nos sacó de la tierra de Egipto, no sabemos qué le haya acontecido.
 @41 Entonces hicieron un becerro, y ofrecieron sacrificio al ídolo, y en las obras de sus manos se regocijaron.
 @42 Y Dios se apartó, y los entregó a que rindiesen culto al ejército del cielo; como está escrito en el libro de los profetas: ¿Acaso me ofrecisteis víctimas y sacrificios En el desierto por cuarenta años, casa de Israel? 
-@43  i ntes bien llevasteis el tabernáculo de Moloc, Y la estrella de vuestro dios Renfán, Figuras que os hicisteis para adorarlas. Os transportaré, pues, más allá de Babilonia. 
+@43 i ntes bien llevasteis el tabernáculo de Moloc, Y la estrella de vuestro dios Renfán, Figuras que os hicisteis para adorarlas. Os transportaré, pues, más allá de Babilonia. 
 @44 Tuvieron nuestros padres el tabernáculo del testimonio en el desierto, como había ordenado Dios cuando dijo a Moisés que lo hiciese conforme al modelo que había visto.
 @45 El cual, recibido a su vez por nuestros padres, lo introdujeron con Josué al tomar posesión de la tierra de los gentiles, a los cuales Dios arrojó de la presencia de nuestros padres, hasta los días de David.
 @46 Este halló gracia delante de Dios, y pidió proveer tabernáculo para el Dios de Jacob.
 @47 Mas Salomón le edificó casa;
 @48 si bien el Altísimo no habita en templos hechos de mano, como dice el profeta:
-@49  El cielo es mi trono, Y la tierra el estrado de mis pies. ¿Qué casa me edificaréis? dice el Señor; ¿O cuál es el lugar de mi reposo? 
-@50  ¿No hizo mi mano todas estas cosas? 
+@49 El cielo es mi trono, Y la tierra el estrado de mis pies. ¿Qué casa me edificaréis? dice el Señor; ¿O cuál es el lugar de mi reposo? 
+@50 ¿No hizo mi mano todas estas cosas? 
 @51 ¡Duros de cerviz, e incircuncisos de corazón y de oídos! Vosotros resistís siempre al Espíritu Santo; como vuestros padres, así también vosotros.
 @52 ¿A cuál de los profetas no persiguieron vuestros padres? Y mataron a los que anunciaron de antemano la venida del Justo, de quien vosotros ahora habéis sido entregadores y matadores;
 @53 vosotros que recibisteis la ley por disposición de ángeles, y no la guardasteis.
@@ -298,7 +298,7 @@
 @30 Acudiendo Felipe, le oyó que leía al profeta Isaías, y dijo: Pero ¿entiendes lo que lees?
 @31 El dijo: ¿Y cómo podré, si alguno no me enseñare? Y rogó a Felipe que subiese y se sentara con él.
 @32 El pasaje de la Escritura que leía era este: Como oveja a la muerte fue llevado; Y como cordero mudo delante del que lo trasquila, Así no abrió su boca. 
-@33  En su humillación no se le hizo justicia; Mas su generación, ¿quién la contará? Porque fue quitada de la tierra su vida. 
+@33 En su humillación no se le hizo justicia; Mas su generación, ¿quién la contará? Porque fue quitada de la tierra su vida. 
 @34 Respondiendo el eunuco, dijo a Felipe: Te ruego que me digas: ¿de quién dice el profeta esto; de sí mismo, o de algún otro?
 @35 Entonces Felipe, abriendo su boca, y comenzando desde esta escritura, le anunció el evangelio de Jesús.
 @36 Y yendo por el camino, llegaron a cierta agua, y dijo el eunuco: Aquí hay agua; ¿qué impide que yo sea bautizado?
@@ -319,11 +319,11 @@
 @9 donde estuvo tres días sin ver, y no comió ni bebió.
 @10 Había entonces en Damasco un discípulo llamado Ananías, a quien el Señor dijo en visión: Ananías. Y él respondió: Heme aquí, Señor.
 @11 Y el Señor le dijo: Levántate, y ve a la calle que se llama Derecha, y busca en casa de Judas a uno llamado Saulo, de Tarso; porque he aquí, él ora, 
-@12  y ha visto en visión a un varón llamado Ananías, que entra y le pone las manos encima para que recobre la vista. 
+@12 y ha visto en visión a un varón llamado Ananías, que entra y le pone las manos encima para que recobre la vista. 
 @13 Entonces Ananías respondió: Señor, he oído de muchos acerca de este hombre, cuántos males ha hecho a tus santos en Jerusalén;
 @14 y aun aquí tiene autoridad de los principales sacerdotes para prender a todos los que invocan tu nombre.
 @15 El Señor le dijo: Ve, porque instrumento escogido me es éste, para llevar mi nombre en presencia de los gentiles, y de reyes, y de los hijos de Israel; 
-@16  porque yo le mostraré cuánto le es necesario padecer por mi nombre. 
+@16 porque yo le mostraré cuánto le es necesario padecer por mi nombre. 
 @17 Fue entonces Ananías y entró en la casa, y poniendo sobre él las manos, dijo: Hermano Saulo, el Señor Jesús, que se te apareció en el camino por donde venías, me ha enviado para que recibas la vista y seas lleno del Espíritu Santo.
 @18 Y al momento le cayeron de los ojos como escamas, y recibió al instante la vista; y levantándose, fue bautizado.
 @19 Y habiendo tomado alimento, recobró fuerzas. Y estuvo Saulo por algunos días con los discípulos que estaban en Damasco.
@@ -502,7 +502,7 @@
 @38 Sabed, pues, esto, varones hermanos: que por medio de él se os anuncia perdón de pecados,
 @39 y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados, en él es justificado todo aquel que cree.
 @40 Mirad, pues, que no venga sobre vosotros lo que está dicho en los profetas:
-@41  Mirad, oh menospreciadores, y asombraos, y desapareced; Porque yo hago una obra en vuestros días, Obra que no creeréis, si alguien os la contare. 
+@41 Mirad, oh menospreciadores, y asombraos, y desapareced; Porque yo hago una obra en vuestros días, Obra que no creeréis, si alguien os la contare. 
 @42 Cuando salieron ellos de la sinagoga de los judíos, los gentiles les rogaron que el siguiente día de reposo les hablasen de estas cosas.
 @43 Y despedida la congregación, muchos de los judíos y de los prosélitos piadosos siguieron a Pablo y a Bernabé, quienes hablándoles, les persuadían a que perseverasen en la gracia de Dios.
 @44 El siguiente día de reposo se juntó casi toda la ciudad para oír la palabra de Dios.
@@ -561,9 +561,9 @@
 @13 Y cuando ellos callaron, Jacobo respondió diciendo: Varones hermanos, oídme.
 @14 Simón ha contado cómo Dios visitó por primera vez a los gentiles, para tomar de ellos pueblo para su nombre.
 @15 Y con esto concuerdan las palabras de los profetas, como está escrito:
-@16  Después de esto volveré Y reedificaré el tabernáculo de David, que está caído; Y repararé sus ruinas, Y lo volveré a levantar, 
-@17  Para que el resto de los hombres busque al Señor, Y todos los gentiles, sobre los cuales es invocado mi nombre, 
-@18  Dice el Señor, que hace conocer todo esto desde tiempos antiguos. 
+@16 Después de esto volveré Y reedificaré el tabernáculo de David, que está caído; Y repararé sus ruinas, Y lo volveré a levantar, 
+@17 Para que el resto de los hombres busque al Señor, Y todos los gentiles, sobre los cuales es invocado mi nombre, 
+@18 Dice el Señor, que hace conocer todo esto desde tiempos antiguos. 
 @19 Por lo cual yo juzgo que no se inquiete a los gentiles que se convierten a Dios,
 @20 sino que se les escriba que se aparten de las contaminaciones de los ídolos, de fornicación, de ahogado y de sangre.
 @21 Porque Moisés desde tiempos antiguos tiene en cada ciudad quien lo predique en las sinagogas, donde es leído cada día de reposo.
@@ -676,7 +676,7 @@
 @7 Y saliendo de allí, se fue a la casa de uno llamado Justo, temeroso de Dios, la cual estaba junto a la sinagoga.
 @8 Y Crispo, el principal de la sinagoga, creyó en el Señor con toda su casa; y muchos de los corintios, oyendo, creían y eran bautizados.
 @9 Entonces el Señor dijo a Pablo en visión de noche: No temas, sino habla, y no calles; 
-@10  porque yo estoy contigo, y ninguno pondrá sobre ti la mano para hacerte mal, porque yo tengo mucho pueblo en esta ciudad. 
+@10 porque yo estoy contigo, y ninguno pondrá sobre ti la mano para hacerte mal, porque yo tengo mucho pueblo en esta ciudad. 
 @11 Y se detuvo allí un año y seis meses, enseñándoles la palabra de Dios.
 @12 Pero siendo Galión procónsul de Acaya, los judíos se levantaron de común acuerdo contra Pablo, y le llevaron al tribunal,
 @13 diciendo: Este persuade a los hombres a honrar a Dios contra la ley.
@@ -964,9 +964,9 @@
 @13 cuando a mediodía, oh rey, yendo por el camino, vi una luz del cielo que sobrepasaba el resplandor del sol, la cual me rodeó a mí y a los que iban conmigo.
 @14 Y habiendo caído todos nosotros en tierra, oí una voz que me hablaba, y decía en lengua hebrea: Saulo, Saulo, ¿por qué me persigues? Dura cosa te es dar coces contra el aguijón. 
 @15 Yo entonces dije: ¿Quién eres, Señor? Y el Señor dijo: Yo soy Jesús, a quien tú persigues. 
-@16  Pero levántate, y ponte sobre tus pies; porque para esto he aparecido a ti, para ponerte por ministro y testigo de las cosas que has visto, y de aquellas en que me apareceré a ti, 
-@17  librándote de tu pueblo, y de los gentiles, a quienes ahora te envío, 
-@18  para que abras sus ojos, para que se conviertan de las tinieblas a la luz, y de la potestad de Satanás a Dios; para que reciban, por la fe que es en mí, perdón de pecados y herencia entre los santificados. 
+@16 Pero levántate, y ponte sobre tus pies; porque para esto he aparecido a ti, para ponerte por ministro y testigo de las cosas que has visto, y de aquellas en que me apareceré a ti, 
+@17 librándote de tu pueblo, y de los gentiles, a quienes ahora te envío, 
+@18 para que abras sus ojos, para que se conviertan de las tinieblas a la luz, y de la potestad de Satanás a Dios; para que reciban, por la fe que es en mí, perdón de pecados y herencia entre los santificados. 
 @19 Por lo cual, oh rey Agripa, no fui rebelde a la visión celestial,
 @20 sino que anuncié primeramente a los que están en Damasco, y Jerusalén, y por toda la tierra de Judea, y a los gentiles, que se arrepintiesen y se convirtiesen a Dios, haciendo obras dignas de arrepentimiento.
 @21 Por causa de esto los judíos, prendiéndome en el templo, intentaron matarme.
@@ -1054,8 +1054,8 @@
 @23 Y habiéndole señalado un día, vinieron a él muchos a la posada, a los cuales les declaraba y les testificaba el reino de Dios desde la mañana hasta la tarde, persuadiéndoles acerca de Jesús, tanto por la ley de Moisés como por los profetas.
 @24 Y algunos asentían a lo que se decía, pero otros no creían.
 @25 Y como no estuviesen de acuerdo entre sí, al retirarse, les dijo Pablo esta palabra: Bien habló el Espíritu Santo por medio del profeta Isaías a nuestros padres, diciendo:
-@26  Ve a este pueblo, y diles: De oído oiréis, y no entenderéis; Y viendo veréis, y no percibiréis; 
-@27  Porque el corazón de este pueblo se ha engrosado, Y con los oídos oyeron pesadamente, Y sus ojos han cerrado, Para que no vean con los ojos, Y oigan con los oídos, Y entiendan de corazón, Y se conviertan, Y yo los sane. 
+@26 Ve a este pueblo, y diles: De oído oiréis, y no entenderéis; Y viendo veréis, y no percibiréis; 
+@27 Porque el corazón de este pueblo se ha engrosado, Y con los oídos oyeron pesadamente, Y sus ojos han cerrado, Para que no vean con los ojos, Y oigan con los oídos, Y entiendan de corazón, Y se conviertan, Y yo los sane. 
 @28 Sabed, pues, que a los gentiles es enviada esta salvación de Dios; y ellos oirán.
 @29 Y cuando hubo dicho esto, los judíos se fueron, teniendo gran discusión entre sí.
 @30 Y Pablo permaneció dos años enteros en una casa alquilada, y recibía a todos los que a él venían,

@@ -1,0 +1,42 @@
+\documentclass[11pt, a5paper, twoside]{extbook}
+\usepackage[spanish]{babel}
+\usepackage[twoside, bindingoffset=7mm, verbose, marginratio={4:3,1:1},
+  textwidth=125mm, height=194mm, headsep=2mm, top=10mm, nofoot]{geometry}
+%\usepackage{layout}
+\usepackage{setspace}
+
+\input{../../../tex/preamble.tex}
+
+\setmainfont{BibleRomanCondensed}
+            [UprightFont = *,
+             BoldFont = *Bold,
+             ItalicFont = *Italic,
+             Ligatures=TeX]
+
+\setstretch{0.8} % line spacing
+\setlength{\lineskip}{0pt}
+\setlength{\lineskiplimit}{0pt} % line spacing
+%\linespread{0.4} % line spacing
+\setlength{\parindent}{3mm}
+\begin{document}
+
+%\layout
+%\includepdf{HardCover.pdf}
+
+\null\vfill
+\input{../out/tex/00.1-Página de créditos}
+\newpage
+
+%\null\vfill
+%\begin{center}
+%\begin{minipage}[c]{\textwidth}
+%  \begin{center}
+%  \includegraphics{Titulo.pdf}
+%  \end{center}
+%\end{minipage}
+%\end{center}
+%\newpage
+
+\input{Biblia.A5.tex}
+
+\end{document}

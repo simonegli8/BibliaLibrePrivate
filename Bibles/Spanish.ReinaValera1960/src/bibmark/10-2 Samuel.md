@@ -17,15 +17,15 @@
 @16 Y David le dijo: Tu sangre sea sobre tu cabeza, pues tu misma boca atestiguó contra ti, diciendo: Yo maté al ungido de Jehová.
 @17 Y endechó David a Saúl y a Jonatán su hijo con esta endecha,
 @18 y dijo que debía enseñarse a los hijos de Judá. He aquí que está escrito en el libro de Jaser.
-@19  ¡Ha perecido la gloria de Israel sobre tus alturas! ¡Cómo han caído los valientes! 
-@20  No lo anunciéis en Gat, Ni deis las nuevas en las plazas de Ascalón; Para que no se alegren las hijas de los filisteos, Para que no salten de gozo las hijas de los incircuncisos. 
-@21  Montes de Gilboa, Ni rocío ni lluvia caiga sobre vosotros, ni seáis tierras de ofrendas; Porque allí fue desechado el escudo de los valientes, El escudo de Saúl, como si no hubiera sido ungido con aceite. 
-@22  Sin sangre de los muertos, sin grosura de los valientes, El arco de Jonatán no volvía atrás, Ni la espada de Saúl volvió vacía. 
-@23  Saúl y Jonatán, amados y queridos; Inseparables en su vida, tampoco en su muerte fueron separados; Más ligeros eran que águilas, Más fuertes que leones. 
-@24  Hijas de Israel, llorad por Saúl, Quien os vestía de escarlata con deleites, Quien adornaba vuestras ropas con ornamentos de oro. 
-@25  ¡Cómo han caído los valientes en medio de la batalla! ¡Jonatán, muerto en tus alturas! 
-@26  Angustia tengo por ti, hermano mío Jonatán, Que me fuiste muy dulce. Más maravilloso me fue tu amor Que el amor de las mujeres. 
-@27  ¡Cómo han caído los valientes, Han perecido las armas de guerra! 
+@19 ¡Ha perecido la gloria de Israel sobre tus alturas! ¡Cómo han caído los valientes! 
+@20 No lo anunciéis en Gat, Ni deis las nuevas en las plazas de Ascalón; Para que no se alegren las hijas de los filisteos, Para que no salten de gozo las hijas de los incircuncisos. 
+@21 Montes de Gilboa, Ni rocío ni lluvia caiga sobre vosotros, ni seáis tierras de ofrendas; Porque allí fue desechado el escudo de los valientes, El escudo de Saúl, como si no hubiera sido ungido con aceite. 
+@22 Sin sangre de los muertos, sin grosura de los valientes, El arco de Jonatán no volvía atrás, Ni la espada de Saúl volvió vacía. 
+@23 Saúl y Jonatán, amados y queridos; Inseparables en su vida, tampoco en su muerte fueron separados; Más ligeros eran que águilas, Más fuertes que leones. 
+@24 Hijas de Israel, llorad por Saúl, Quien os vestía de escarlata con deleites, Quien adornaba vuestras ropas con ornamentos de oro. 
+@25 ¡Cómo han caído los valientes en medio de la batalla! ¡Jonatán, muerto en tus alturas! 
+@26 Angustia tengo por ti, hermano mío Jonatán, Que me fuiste muy dulce. Más maravilloso me fue tu amor Que el amor de las mujeres. 
+@27 ¡Cómo han caído los valientes, Han perecido las armas de guerra! 
 
 # 2
 @1 Después de esto aconteció que David consultó a Jehová, diciendo: ¿Subiré a alguna de las ciudades de Judá? Y Jehová le respondió: Sube. David volvió a decir: ¿A dónde subiré? Y él le dijo: A Hebrón.
@@ -95,7 +95,7 @@
 @31 Entonces dijo David a Joab, y a todo el pueblo que con él estaba: Rasgad vuestros vestidos, y ceñíos de cilicio, y haced duelo delante de Abner. Y el rey David iba detrás del féretro.
 @32 Y sepultaron a Abner en Hebrón; y alzando el rey su voz, lloró junto al sepulcro de Abner; y lloró también todo el pueblo.
 @33 Y endechando el rey al mismo Abner, decía: ¿Había de morir Abner como muere un villano? 
-@34  Tus manos no estaban atadas, ni tus pies ligados con grillos; Caíste como los que caen delante de malos hombres. Y todo el pueblo volvió a llorar sobre él.
+@34 Tus manos no estaban atadas, ni tus pies ligados con grillos; Caíste como los que caen delante de malos hombres. Y todo el pueblo volvió a llorar sobre él.
 @35 Entonces todo el pueblo vino para persuadir a David que comiera, antes que acabara el día. Mas David juró diciendo: Así me haga Dios y aun me añada, si antes que se ponga el sol gustare yo pan, o cualquiera otra cosa.
 @36 Todo el pueblo supo esto, y le agradó; pues todo lo que el rey hacía agradaba a todo el pueblo.
 @37 Y todo el pueblo y todo Israel entendió aquel día, que no había procedido del rey el matar a Abner hijo de Ner.
@@ -623,64 +623,64 @@
 # 22
 @1 Habló David a Jehová las palabras de este cántico, el día que Jehová le había librado de la mano de todos sus enemigos, y de la mano de Saúl.
 @2 Dijo: Jehová es mi roca y mi fortaleza, y mi libertador; 
-@3  Dios mío, fortaleza mía, en él confiaré; Mi escudo, y el fuerte de mi salvación, mi alto refugio; Salvador mío; de violencia me libraste. 
-@4  Invocaré a Jehová, quien es digno de ser alabado, Y seré salvo de mi enemigos. 
-@5  Me rodearon ondas de muerte, Y torrentes de perversidad me atemorizaron. 
-@6  Ligaduras del Seol me rodearon; Tendieron sobre mí lazos de muerte. 
-@7  En mi angustia invoqué a Jehová, Y clamé a mi Dios; El oyó mi voz desde su templo, Y mi clamor llegó a sus oídos. 
-@8  La tierra fue conmovida, y tembló, Y se conmovieron los cimientos de los cielos; Se estremecieron, porque se indignó él.
-@9  Humo subió de su nariz, Y de su boca fuego consumidor; Carbones fueron por él encendidos. 
-@10  E inclinó los cielos, y descendió; Y había tinieblas debajo de sus pies. 
-@11  Y cabalgó sobre un querubín, y voló; Voló sobre las alas del viento. 
-@12  Puso tinieblas por su escondedero alrededor de sí; Oscuridad de aguas y densas nubes. 
-@13  Por el resplandor de su presencia se encendieron carbones ardientes. 
-@14  Y tronó desde los cielos Jehová, Y el Altísimo dio su voz; 
-@15  Envió sus saetas, y los dispersó; Y lanzó relámpagos, y los destruyó. 
-@16  Entonces aparecieron los torrentes de las aguas, Y quedaron al descubierto los cimientos del mundo; A la reprensión de Jehová, Por el soplo del aliento de su nariz. 
-@17  Envió desde lo alto y me tomó; Me sacó de las muchas aguas. 
-@18  Me libró de poderoso enemigo, Y de los que me aborrecían, aunque eran más fuertes que yo. 
-@19  Me asaltaron en el día de mi quebranto; Mas Jehová fue mi apoyo, 
-@20  Y me sacó a lugar espacioso; Mi libró, porque se agradó de mí. 
-@21  Jehová me ha premiado conforme a mi justicia; Conforme a la limpieza de mis manos me ha recompensado. 
-@22  Porque yo he guardado los caminos de Jehová, Y no me aparté impíamente de mi Dios. 
-@23  Pues todos sus decretos estuvieron delante de mí, Y no me he apartado de sus estatutos. 
-@24  Fui recto para con él, Y me he guardado de mi maldad; 
-@25  Por lo cual me ha recompensado Jehová conforme a mi justicia; Conforme a la limpieza de mis manos delante de su vista. 
-@26  Con el misericordioso te mostrarás misericordioso, Y recto para con el hombre íntegro. 
-@27  Limpio te mostrarás para con el limpio, Y rígido serás para con el perverso. 
-@28  Porque tú salvas al pueblo afligido, Mas tus ojos están sobre los altivos para abatirlos. 
-@29  Tú eres mi lámpara, oh Jehová; Mi Dios alumbrará mis tinieblas. 
-@30  Contigo desbarataré ejércitos, Y con mi Dios asaltaré muros. 
-@31  En cuanto a Dios, perfecto es su camino, Y acrisolada la palabra de Jehová. Escudo es a todos los que en él esperan. 
-@32  Porque ¿quién es Dios, sino sólo Jehová? ¿Y qué roca hay fuera de nuestro Dios? 
-@33  Dios es el que me ciñe de fuerza, Y quien despeja mi camino; 
-@34  Quien hace mis pies como de ciervas, Y me hace estar firme sobre mis alturas; 
-@35  Quien adiestra mis manos para la batalla, De manera que se doble el arco de bronce con mis brazos. 
-@36  Me diste asimismo el escudo de tu salvación, Y tu benignidad me ha engrandecido. 
-@37  Tú ensanchaste mis pasos debajo de mí, Y mis pies no han resbalado. 
-@38  Perseguiré a mis enemigos, y los destruiré, Y no volveré hasta acabarlos. 
-@39  Los consumiré y los heriré, de modo que no se levanten; Caerán debajo de mis pies. 
-@40  Pues me ceñiste de fuerzas para la pelea; Has humillado a mis enemigos debajo de mí, 
-@41  Y has hecho que mis enemigos me vuelvan las espaldas, Para que yo destruyese a los que me aborrecen. 
-@42  Clamaron, y no hubo quien los salvase; Aun a Jehová, mas no les oyó. 
-@43  Como polvo de la tierra los molí; Como lodo de las calles los pisé y los trituré. 
-@44  Me has librado de las contiendas del pueblo; Me guardaste para que fuese cabeza de naciones; Pueblo que yo no conocía me servirá. 
-@45  Los hijos de extraños se someterán a mí; Al oir de mí, me obedecerán. 
-@46  Los extraños se debilitarán, Y saldrán temblando de sus encierros. 
-@47  Viva Jehová, y bendita sea mi roca, Y engrandecido sea el Dios de mi salvación. 
-@48  El Dios que venga mis agravios, Y sujeta pueblos debajo de mí; 
-@49  El que me libra de enemigos, Y aun me exalta sobre los que se levantan contra mí; Me libraste del varón violento. 
-@50  Por tanto, yo te confesaré entre las naciones, oh Jehová, Y cantaré a tu nombre. 
-@51  El salva gloriosamente a su rey, Y usa de misericordia para con su ungido, A David y a su descendencia para siempre. 
+@3 Dios mío, fortaleza mía, en él confiaré; Mi escudo, y el fuerte de mi salvación, mi alto refugio; Salvador mío; de violencia me libraste. 
+@4 Invocaré a Jehová, quien es digno de ser alabado, Y seré salvo de mi enemigos. 
+@5 Me rodearon ondas de muerte, Y torrentes de perversidad me atemorizaron. 
+@6 Ligaduras del Seol me rodearon; Tendieron sobre mí lazos de muerte. 
+@7 En mi angustia invoqué a Jehová, Y clamé a mi Dios; El oyó mi voz desde su templo, Y mi clamor llegó a sus oídos. 
+@8 La tierra fue conmovida, y tembló, Y se conmovieron los cimientos de los cielos; Se estremecieron, porque se indignó él.
+@9 Humo subió de su nariz, Y de su boca fuego consumidor; Carbones fueron por él encendidos. 
+@10 E inclinó los cielos, y descendió; Y había tinieblas debajo de sus pies. 
+@11 Y cabalgó sobre un querubín, y voló; Voló sobre las alas del viento. 
+@12 Puso tinieblas por su escondedero alrededor de sí; Oscuridad de aguas y densas nubes. 
+@13 Por el resplandor de su presencia se encendieron carbones ardientes. 
+@14 Y tronó desde los cielos Jehová, Y el Altísimo dio su voz; 
+@15 Envió sus saetas, y los dispersó; Y lanzó relámpagos, y los destruyó. 
+@16 Entonces aparecieron los torrentes de las aguas, Y quedaron al descubierto los cimientos del mundo; A la reprensión de Jehová, Por el soplo del aliento de su nariz. 
+@17 Envió desde lo alto y me tomó; Me sacó de las muchas aguas. 
+@18 Me libró de poderoso enemigo, Y de los que me aborrecían, aunque eran más fuertes que yo. 
+@19 Me asaltaron en el día de mi quebranto; Mas Jehová fue mi apoyo, 
+@20 Y me sacó a lugar espacioso; Mi libró, porque se agradó de mí. 
+@21 Jehová me ha premiado conforme a mi justicia; Conforme a la limpieza de mis manos me ha recompensado. 
+@22 Porque yo he guardado los caminos de Jehová, Y no me aparté impíamente de mi Dios. 
+@23 Pues todos sus decretos estuvieron delante de mí, Y no me he apartado de sus estatutos. 
+@24 Fui recto para con él, Y me he guardado de mi maldad; 
+@25 Por lo cual me ha recompensado Jehová conforme a mi justicia; Conforme a la limpieza de mis manos delante de su vista. 
+@26 Con el misericordioso te mostrarás misericordioso, Y recto para con el hombre íntegro. 
+@27 Limpio te mostrarás para con el limpio, Y rígido serás para con el perverso. 
+@28 Porque tú salvas al pueblo afligido, Mas tus ojos están sobre los altivos para abatirlos. 
+@29 Tú eres mi lámpara, oh Jehová; Mi Dios alumbrará mis tinieblas. 
+@30 Contigo desbarataré ejércitos, Y con mi Dios asaltaré muros. 
+@31 En cuanto a Dios, perfecto es su camino, Y acrisolada la palabra de Jehová. Escudo es a todos los que en él esperan. 
+@32 Porque ¿quién es Dios, sino sólo Jehová? ¿Y qué roca hay fuera de nuestro Dios? 
+@33 Dios es el que me ciñe de fuerza, Y quien despeja mi camino; 
+@34 Quien hace mis pies como de ciervas, Y me hace estar firme sobre mis alturas; 
+@35 Quien adiestra mis manos para la batalla, De manera que se doble el arco de bronce con mis brazos. 
+@36 Me diste asimismo el escudo de tu salvación, Y tu benignidad me ha engrandecido. 
+@37 Tú ensanchaste mis pasos debajo de mí, Y mis pies no han resbalado. 
+@38 Perseguiré a mis enemigos, y los destruiré, Y no volveré hasta acabarlos. 
+@39 Los consumiré y los heriré, de modo que no se levanten; Caerán debajo de mis pies. 
+@40 Pues me ceñiste de fuerzas para la pelea; Has humillado a mis enemigos debajo de mí, 
+@41 Y has hecho que mis enemigos me vuelvan las espaldas, Para que yo destruyese a los que me aborrecen. 
+@42 Clamaron, y no hubo quien los salvase; Aun a Jehová, mas no les oyó. 
+@43 Como polvo de la tierra los molí; Como lodo de las calles los pisé y los trituré. 
+@44 Me has librado de las contiendas del pueblo; Me guardaste para que fuese cabeza de naciones; Pueblo que yo no conocía me servirá. 
+@45 Los hijos de extraños se someterán a mí; Al oir de mí, me obedecerán. 
+@46 Los extraños se debilitarán, Y saldrán temblando de sus encierros. 
+@47 Viva Jehová, y bendita sea mi roca, Y engrandecido sea el Dios de mi salvación. 
+@48 El Dios que venga mis agravios, Y sujeta pueblos debajo de mí; 
+@49 El que me libra de enemigos, Y aun me exalta sobre los que se levantan contra mí; Me libraste del varón violento. 
+@50 Por tanto, yo te confesaré entre las naciones, oh Jehová, Y cantaré a tu nombre. 
+@51 El salva gloriosamente a su rey, Y usa de misericordia para con su ungido, A David y a su descendencia para siempre. 
 
 # 23
 @1 Estas son las palabras postreras de David. Dijo David hijo de Isaí, Dijo aquel varón que fue levantado en alto, El ungido del Dios de Jacob, El dulce cantor de Israel:
-@2  El Espíritu de Jehová ha hablado por mí, Y su palabra ha estado en mi lengua. 
-@3  El Dios de Israel ha dicho, Me habló la Roca de Israel: Habrá un justo que gobierne entre los hombres, Que gobierne en el temor de Dios. 
-@4  Será como la luz de la mañana, Como el resplandor del sol en una mañana sin nubes, Como la lluvia que hace brotar la hierba de la tierra. 
-@5  No es así mi casa para con Dios; Sin embargo, él ha hecho conmigo pacto perpetuo, Ordenado en todas las cosas, y será guardado, Aunque todavía no haga él florecer Toda mi salvación y mi deseo. 
-@6  Mas los impíos serán todos ellos como espinos arrancados, Los cuales nadie toma con la mano; 
-@7  Sino que el que quiere tocarlos Se arma de hierro y de asta de lanza, Y son del todo quemados en su lugar. 
+@2 El Espíritu de Jehová ha hablado por mí, Y su palabra ha estado en mi lengua. 
+@3 El Dios de Israel ha dicho, Me habló la Roca de Israel: Habrá un justo que gobierne entre los hombres, Que gobierne en el temor de Dios. 
+@4 Será como la luz de la mañana, Como el resplandor del sol en una mañana sin nubes, Como la lluvia que hace brotar la hierba de la tierra. 
+@5 No es así mi casa para con Dios; Sin embargo, él ha hecho conmigo pacto perpetuo, Ordenado en todas las cosas, y será guardado, Aunque todavía no haga él florecer Toda mi salvación y mi deseo. 
+@6 Mas los impíos serán todos ellos como espinos arrancados, Los cuales nadie toma con la mano; 
+@7 Sino que el que quiere tocarlos Se arma de hierro y de asta de lanza, Y son del todo quemados en su lugar. 
 @8 Estos son los nombres de los valientes que tuvo David: Joseb-basebet el tacmonita, principal de los capitanes; éste era Adino el eznita, que mató a ochocientos hombres en una ocasión.
 @9 Después de éste, Eleazar hijo de Dodo, ahohíta, uno de los tres valientes que estaban con David cuando desafiaron a los filisteos que se habían reunido allí para la batalla, y se habían alejado los hombres de Israel.
 @10 Este se levantó e hirió a los filisteos hasta que su mano se cansó, y quedó pegada su mano a la espada. Aquel día Jehová dio una gran victoria, y se volvió el pueblo en pos de él tan sólo para recoger el botín.

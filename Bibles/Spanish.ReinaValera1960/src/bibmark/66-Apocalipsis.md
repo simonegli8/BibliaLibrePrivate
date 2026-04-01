@@ -300,7 +300,7 @@
 @12 El sexto ángel derramó su copa sobre el gran río Éufrates; y el agua de éste se secó, para que estuviese preparado el camino a los reyes del oriente.
 @13 Y vi salir de la boca del dragón, y de la boca de la bestia, y de la boca del falso profeta, tres espíritus inmundos a manera de ranas;
 @14 pues son espíritus de demonios, que hacen señales, y van a los reyes de la tierra en todo el mundo, para reunirlos a la batalla de aquel gran día del Dios Todopoderoso.
-@15  He aquí, yo vengo como ladrón. Bienaventurado el que vela, y guarda sus ropas, para que no ande desnudo, y vean su vergüenza. 
+@15 He aquí, yo vengo como ladrón. Bienaventurado el que vela, y guarda sus ropas, para que no ande desnudo, y vean su vergüenza. 
 @16 Y los reunió en el lugar que en hebreo se llama Armagedón.
 @17 El séptimo ángel derramó su copa por el aire; y salió una gran voz del templo del cielo, del trono, diciendo: Hecho está.
 @18 Entonces hubo relámpagos y voces y truenos, y un gran temblor de tierra, un terremoto tan grande, cual no lo hubo jamás desde que los hombres han estado sobre la tierra.

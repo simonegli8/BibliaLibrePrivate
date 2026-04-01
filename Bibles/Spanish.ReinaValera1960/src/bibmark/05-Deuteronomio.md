@@ -928,48 +928,48 @@
 
 # 32
 @1 Escuchad, cielos, y hablaré; Y oiga la tierra los dichos de mi boca. 
-@2  Goteará como la lluvia mi enseñanza; Destilará como el rocío mi razonamiento; Como la llovizna sobre la grama, Y como las gotas sobre la hierba; 
-@3  Porque el nombre de Jehová proclamaré. Engrandeced a nuestro Dios. 
-@4  El es la Roca, cuya obra es perfecta, Porque todos sus caminos son rectitud; Dios de verdad, y sin ninguna iniquidad en él; Es justo y recto. 
-@5  La corrupción no es suya; de sus hijos es la mancha, Generación torcida y perversa. 
-@6  ¿Así pagáis a Jehová, Pueblo loco e ignorante? ¿No es él tu padre que te creó? El te hizo y te estableció. 
-@7  Acuérdate de los tiempos antiguos, Considera los años de muchas generaciones; Pregunta a tu padre, y él te declarará; A tus ancianos, y ellos te dirán. 
-@8  Cuando el Altísimo hizo heredar a las naciones, Cuando hizo dividir a los hijos de los hombres, Estableció los límites de los pueblos Según el número de los hijos de Israel. 
-@9  Porque la porción de Jehová es su pueblo; Jacob la heredad que le tocó. 
-@10  Le halló en tierra de desierto, Y en yermo de horrible soledad; Lo trajo alrededor, lo instruyó, Lo guardó como a la niña de su ojo. 
-@11  Como el águila que excita su nidada, Revolotea sobre sus pollos, Extiende sus alas, los toma, Los lleva sobre sus plumas, 
-@12  Jehová solo le guió, Y con él no hubo dios extraño. 
-@13  Lo hizo subir sobre las alturas de la tierra, Y comió los frutos del campo, E hizo que chupase miel de la peña, Y aceite del duro pedernal; 
-@14  Mantequilla de vacas y leche de ovejas, Con grosura de corderos, Y carneros de Basán; también machos cabríos, Con lo mejor del trigo; Y de la sangre de la uva bebiste vino. 
-@15  Pero engordó Jesurún, y tiró coces (Engordaste, te cubriste de grasa); Entonces abandonó al Dios que lo hizo, Y menospreció la Roca de su salvación. 
-@16  Le despertaron a celos con los dioses ajenos; Lo provocaron a ira con abominaciones. 
-@17  Sacrificaron a los demonios, y no a Dios; A dioses que no habían conocido, A nuevos dioses venidos de cerca, Que no habían temido vuestros padres. 
-@18  De la Roca que te creó te olvidaste; Te has olvidado de Dios tu creador. 
-@19  Y lo vio Jehová, y se encendió en ira Por el menosprecio de sus hijos y de sus hijas. 
-@20  Y dijo: Esconderé de ellos mi rostro, Veré cuál será su fin; Porque son una generación perversa, Hijos infieles. 
-@21  Ellos me movieron a celos con lo que no es Dios; Me provocaron a ira con sus ídolos; Yo también los moveré a celos con un pueblo que no es pueblo, Los provocaré a ira con una nación insensata. 
-@22  Porque fuego se ha encendido en mi ira, Y arderá hasta las profundidades del Seol; Devorará la tierra y sus frutos, Y abrasará los fundamentos de los montes. 
-@23  Yo amontonaré males sobre ellos; Emplearé en ellos mis saetas. 
-@24  Consumidos serán de hambre, y devorados de fiebre ardiente Y de peste amarga; Diente de fieras enviaré también sobre ellos, Con veneno de serpientes de la tierra. 
-@25  Por fuera desolará la espada, Y dentro de las cámaras el espanto; Así al joven como a la doncella, Al niño de pecho como al hombre cano. 
-@26  Yo había dicho que los esparciría lejos, Que haría cesar de entre los hombres la memoria de ellos, 
-@27  De no haber temido la provocación del enemigo, No sea que se envanezcan sus adversarios, No sea que digan: Nuestra mano poderosa Ha hecho todo esto, y no Jehová. 
-@28  Porque son nación privada de consejos, Y no hay en ellos entendimiento. 
-@29  ¡Ojalá fueran sabios, que comprendieran esto, Y se dieran cuenta del fin que les espera! 
-@30  ¿Cómo podría perseguir uno a mil, Y dos hacer huir a diez mil, Si su Roca no los hubiese vendido, Y Jehová no los hubiera entregado? 
-@31  Porque la roca de ellos no es como nuestra Roca, Y aun nuestros enemigos son de ello jueces. 
-@32  Porque de la vid de Sodoma es la vid de ellos, Y de los campos de Gomorra; Las uvas de ellos son uvas ponzoñosas, Racimos muy amargos tienen. 
-@33  Veneno de serpientes es su vino, Y ponzoña cruel de áspides. 
-@34  ¿No tengo yo esto guardado conmigo, Sellado en mis tesoros? 
-@35  Mía es la venganza y la retribución; A su tiempo su pie resbalará, Porque el día de su aflicción está cercano, Y lo que les está preparado se apresura. 
-@36  Porque Jehová juzgará a su pueblo, Y por amor de sus siervos se arrepentirá, Cuando viere que la fuerza pereció, Y que no queda ni siervo ni libre. 
-@37  Y dirá: ¿Dónde están sus dioses, La roca en que se refugiaban; 
-@38  Que comían la grosura de sus sacrificios, Y bebían el vino de sus libaciones? Levántense, que os ayuden Y os defiendan. 
-@39  Ved ahora que yo, yo soy, Y no hay dioses conmigo; Yo hago morir, y yo hago vivir; Yo hiero, y yo sano; Y no hay quien pueda librar de mi mano. 
-@40  Porque yo alzaré a los cielos mi mano, Y diré: Vivo yo para siempre, 
-@41  Si afilare mi reluciente espada, Y echare mano del juicio, Yo tomaré venganza de mis enemigos, Y daré la retribución a los que me aborrecen. 
-@42  Embriagaré de sangre mis saetas, Y mi espada devorará carne; En la sangre de los muertos y de los cautivos, En las cabezas de larga cabellera del enemigo. 
-@43  Alabad, naciones, a su pueblo, Porque él vengará la sangre de sus siervos, Y tomará venganza de sus enemigos, Y hará expiación por la tierra de su pueblo. 
+@2 Goteará como la lluvia mi enseñanza; Destilará como el rocío mi razonamiento; Como la llovizna sobre la grama, Y como las gotas sobre la hierba; 
+@3 Porque el nombre de Jehová proclamaré. Engrandeced a nuestro Dios. 
+@4 El es la Roca, cuya obra es perfecta, Porque todos sus caminos son rectitud; Dios de verdad, y sin ninguna iniquidad en él; Es justo y recto. 
+@5 La corrupción no es suya; de sus hijos es la mancha, Generación torcida y perversa. 
+@6 ¿Así pagáis a Jehová, Pueblo loco e ignorante? ¿No es él tu padre que te creó? El te hizo y te estableció. 
+@7 Acuérdate de los tiempos antiguos, Considera los años de muchas generaciones; Pregunta a tu padre, y él te declarará; A tus ancianos, y ellos te dirán. 
+@8 Cuando el Altísimo hizo heredar a las naciones, Cuando hizo dividir a los hijos de los hombres, Estableció los límites de los pueblos Según el número de los hijos de Israel. 
+@9 Porque la porción de Jehová es su pueblo; Jacob la heredad que le tocó. 
+@10 Le halló en tierra de desierto, Y en yermo de horrible soledad; Lo trajo alrededor, lo instruyó, Lo guardó como a la niña de su ojo. 
+@11 Como el águila que excita su nidada, Revolotea sobre sus pollos, Extiende sus alas, los toma, Los lleva sobre sus plumas, 
+@12 Jehová solo le guió, Y con él no hubo dios extraño. 
+@13 Lo hizo subir sobre las alturas de la tierra, Y comió los frutos del campo, E hizo que chupase miel de la peña, Y aceite del duro pedernal; 
+@14 Mantequilla de vacas y leche de ovejas, Con grosura de corderos, Y carneros de Basán; también machos cabríos, Con lo mejor del trigo; Y de la sangre de la uva bebiste vino. 
+@15 Pero engordó Jesurún, y tiró coces (Engordaste, te cubriste de grasa); Entonces abandonó al Dios que lo hizo, Y menospreció la Roca de su salvación. 
+@16 Le despertaron a celos con los dioses ajenos; Lo provocaron a ira con abominaciones. 
+@17 Sacrificaron a los demonios, y no a Dios; A dioses que no habían conocido, A nuevos dioses venidos de cerca, Que no habían temido vuestros padres. 
+@18 De la Roca que te creó te olvidaste; Te has olvidado de Dios tu creador. 
+@19 Y lo vio Jehová, y se encendió en ira Por el menosprecio de sus hijos y de sus hijas. 
+@20 Y dijo: Esconderé de ellos mi rostro, Veré cuál será su fin; Porque son una generación perversa, Hijos infieles. 
+@21 Ellos me movieron a celos con lo que no es Dios; Me provocaron a ira con sus ídolos; Yo también los moveré a celos con un pueblo que no es pueblo, Los provocaré a ira con una nación insensata. 
+@22 Porque fuego se ha encendido en mi ira, Y arderá hasta las profundidades del Seol; Devorará la tierra y sus frutos, Y abrasará los fundamentos de los montes. 
+@23 Yo amontonaré males sobre ellos; Emplearé en ellos mis saetas. 
+@24 Consumidos serán de hambre, y devorados de fiebre ardiente Y de peste amarga; Diente de fieras enviaré también sobre ellos, Con veneno de serpientes de la tierra. 
+@25 Por fuera desolará la espada, Y dentro de las cámaras el espanto; Así al joven como a la doncella, Al niño de pecho como al hombre cano. 
+@26 Yo había dicho que los esparciría lejos, Que haría cesar de entre los hombres la memoria de ellos, 
+@27 De no haber temido la provocación del enemigo, No sea que se envanezcan sus adversarios, No sea que digan: Nuestra mano poderosa Ha hecho todo esto, y no Jehová. 
+@28 Porque son nación privada de consejos, Y no hay en ellos entendimiento. 
+@29 ¡Ojalá fueran sabios, que comprendieran esto, Y se dieran cuenta del fin que les espera! 
+@30 ¿Cómo podría perseguir uno a mil, Y dos hacer huir a diez mil, Si su Roca no los hubiese vendido, Y Jehová no los hubiera entregado? 
+@31 Porque la roca de ellos no es como nuestra Roca, Y aun nuestros enemigos son de ello jueces. 
+@32 Porque de la vid de Sodoma es la vid de ellos, Y de los campos de Gomorra; Las uvas de ellos son uvas ponzoñosas, Racimos muy amargos tienen. 
+@33 Veneno de serpientes es su vino, Y ponzoña cruel de áspides. 
+@34 ¿No tengo yo esto guardado conmigo, Sellado en mis tesoros? 
+@35 Mía es la venganza y la retribución; A su tiempo su pie resbalará, Porque el día de su aflicción está cercano, Y lo que les está preparado se apresura. 
+@36 Porque Jehová juzgará a su pueblo, Y por amor de sus siervos se arrepentirá, Cuando viere que la fuerza pereció, Y que no queda ni siervo ni libre. 
+@37 Y dirá: ¿Dónde están sus dioses, La roca en que se refugiaban; 
+@38 Que comían la grosura de sus sacrificios, Y bebían el vino de sus libaciones? Levántense, que os ayuden Y os defiendan. 
+@39 Ved ahora que yo, yo soy, Y no hay dioses conmigo; Yo hago morir, y yo hago vivir; Yo hiero, y yo sano; Y no hay quien pueda librar de mi mano. 
+@40 Porque yo alzaré a los cielos mi mano, Y diré: Vivo yo para siempre, 
+@41 Si afilare mi reluciente espada, Y echare mano del juicio, Yo tomaré venganza de mis enemigos, Y daré la retribución a los que me aborrecen. 
+@42 Embriagaré de sangre mis saetas, Y mi espada devorará carne; En la sangre de los muertos y de los cautivos, En las cabezas de larga cabellera del enemigo. 
+@43 Alabad, naciones, a su pueblo, Porque él vengará la sangre de sus siervos, Y tomará venganza de sus enemigos, Y hará expiación por la tierra de su pueblo. 
 @44 Vino Moisés y recitó todas las palabras de este cántico a oídos del pueblo, él y Josué hijo de Nun.
 @45 Y acabó Moisés de recitar todas estas palabras a todo Israel;
 @46 y les dijo: Aplicad vuestro corazón a todas las palabras que yo os testifico hoy, para que las mandéis a vuestros hijos, a fin de que cuiden de cumplir todas las palabras de esta ley.
@@ -983,33 +983,33 @@
 # 33
 @1 Esta es la bendición con la cual bendijo Moisés varón de Dios a los hijos de Israel, antes que muriese.
 @2 Dijo: Jehová vino de Sinaí, Y de Seir les esclareció; Resplandeció desde el monte de Parán, Y vino de entre diez millares de santos, Con la ley de fuego a su mano derecha. 
-@3  Aun amó a su pueblo; Todos los consagrados a él estaban en su mano; Por tanto, ellos siguieron en tus pasos, Recibiendo dirección de ti, 
-@4  Cuando Moisés nos ordenó una ley, Como heredad a la congregación de Jacob. 
-@5  Y fue rey en Jesurún, Cuando se congregaron los jefes del pueblo Con las tribus de Israel. 
-@6  Viva Rubén, y no muera; Y no sean pocos sus varones. 
+@3 Aun amó a su pueblo; Todos los consagrados a él estaban en su mano; Por tanto, ellos siguieron en tus pasos, Recibiendo dirección de ti, 
+@4 Cuando Moisés nos ordenó una ley, Como heredad a la congregación de Jacob. 
+@5 Y fue rey en Jesurún, Cuando se congregaron los jefes del pueblo Con las tribus de Israel. 
+@6 Viva Rubén, y no muera; Y no sean pocos sus varones. 
 @7 Y esta bendición profirió para Judá. Dijo así: Oye, oh Jehová, la voz de Judá, Y llévalo a su pueblo; Sus manos le basten, Y tú seas su ayuda contra sus enemigos. 
 @8 A Leví dijo: Tu Tumim y tu Urim sean para tu varón piadoso, A quien probaste en Masah, Con quien contendiste en las aguas de Meriba, 
-@9  Quien dijo de su padre y de su madre: Nunca los he visto; Y no reconoció a sus hermanos, Ni a sus hijos conoció; Pues ellos guardaron tus palabras, Y cumplieron tu pacto. 
-@10  Ellos enseñarán tus juicios a Jacob, Y tu ley a Israel; Pondrán el incienso delante de ti, Y el holocausto sobre tu altar. 
-@11  Bendice, oh Jehová, lo que hicieren, Y recibe con agrado la obra de sus manos; Hiere los lomos de sus enemigos, Y de los que lo aborrecieren, para que nunca se levanten. 
+@9 Quien dijo de su padre y de su madre: Nunca los he visto; Y no reconoció a sus hermanos, Ni a sus hijos conoció; Pues ellos guardaron tus palabras, Y cumplieron tu pacto. 
+@10 Ellos enseñarán tus juicios a Jacob, Y tu ley a Israel; Pondrán el incienso delante de ti, Y el holocausto sobre tu altar. 
+@11 Bendice, oh Jehová, lo que hicieren, Y recibe con agrado la obra de sus manos; Hiere los lomos de sus enemigos, Y de los que lo aborrecieren, para que nunca se levanten. 
 @12 A Benjamín dijo: El amado de Jehová habitará confiado cerca de él; Lo cubrirá siempre, Y entre sus hombros morará. 
 @13 A José dijo: Bendita de Jehová sea tu tierra, Con lo mejor de los cielos, con el rocío, Y con el abismo que está abajo. 
-@14  Con los más escogidos frutos del sol, Con el rico producto de la luna, 
-@15  Con el fruto más fino de los montes antiguos, Con la abundancia de los collados eternos, 
-@16  Y con las mejores dádivas de la tierra y su plenitud; Y la gracia del que habitó en la zarza Venga sobre la cabeza de José, Y sobre la frente de aquel que es príncipe entre sus hermanos. 
-@17  Como el primogénito de su toro es su gloria, Y sus astas como astas de búfalo; Con ellas acorneará a los pueblos juntos hasta los fines de la tierra; Ellos son los diez millares de Efraín, Y ellos son los millares de Manasés. 
+@14 Con los más escogidos frutos del sol, Con el rico producto de la luna, 
+@15 Con el fruto más fino de los montes antiguos, Con la abundancia de los collados eternos, 
+@16 Y con las mejores dádivas de la tierra y su plenitud; Y la gracia del que habitó en la zarza Venga sobre la cabeza de José, Y sobre la frente de aquel que es príncipe entre sus hermanos. 
+@17 Como el primogénito de su toro es su gloria, Y sus astas como astas de búfalo; Con ellas acorneará a los pueblos juntos hasta los fines de la tierra; Ellos son los diez millares de Efraín, Y ellos son los millares de Manasés. 
 @18 A Zabulón dijo: Alégrate, Zabulón, cuando salieres; Y tú, Isacar, en tus tiendas. 
-@19  Llamarán a los pueblos a su monte; Allí sacrificarán sacrificios de justicia, Por lo cual chuparán la abundancia de los mares, Y los tesoros escondidos de la arena. 
+@19 Llamarán a los pueblos a su monte; Allí sacrificarán sacrificios de justicia, Por lo cual chuparán la abundancia de los mares, Y los tesoros escondidos de la arena. 
 @20 A Gad dijo: Bendito el que hizo ensanchar a Gad; Como león reposa, Y arrebata brazo y testa. 
-@21  Escoge lo mejor de la tierra para sí, Porque allí le fue reservada la porción del legislador. Y vino en la delantera del pueblo; Con Israel ejecutó los mandatos y los justos decretos de Jehová. 
+@21 Escoge lo mejor de la tierra para sí, Porque allí le fue reservada la porción del legislador. Y vino en la delantera del pueblo; Con Israel ejecutó los mandatos y los justos decretos de Jehová. 
 @22 A Dan dijo: Dan es cachorro de león Que salta desde Basán. 
 @23 A Neftalí dijo: Neftalí, saciado de favores, Y lleno de la bendición de Jehová, Posee el occidente y el sur. 
 @24 A Aser dijo: Bendito sobre los hijos sea Aser; Sea el amado de sus hermanos, Y moje en aceite su pie. 
-@25  Hierro y bronce serán tus cerrojos, Y como tus días serán tus fuerzas. 
-@26  No hay como el Dios de Jesurún, Quien cabalga sobre los cielos para tu ayuda, Y sobre las nubes con su grandeza. 
-@27  El eterno Dios es tu refugio, Y acá abajo los brazos eternos; El echó de delante de ti al enemigo, Y dijo: Destruye. 
-@28  E Israel habitará confiado, la fuente de Jacob habitará sola En tierra de grano y de vino; También sus cielos destilarán rocío. 
-@29  Bienaventurado tú, oh Israel. ¿Quién como tú, Pueblo salvo por Jehová, Escudo de tu socorro, Y espada de tu triunfo? Así que tus enemigos serán humillados, Y tú hollarás sobre sus alturas. 
+@25 Hierro y bronce serán tus cerrojos, Y como tus días serán tus fuerzas. 
+@26 No hay como el Dios de Jesurún, Quien cabalga sobre los cielos para tu ayuda, Y sobre las nubes con su grandeza. 
+@27 El eterno Dios es tu refugio, Y acá abajo los brazos eternos; El echó de delante de ti al enemigo, Y dijo: Destruye. 
+@28 E Israel habitará confiado, la fuente de Jacob habitará sola En tierra de grano y de vino; También sus cielos destilarán rocío. 
+@29 Bienaventurado tú, oh Israel. ¿Quién como tú, Pueblo salvo por Jehová, Escudo de tu socorro, Y espada de tu triunfo? Así que tus enemigos serán humillados, Y tú hollarás sobre sus alturas. 
 
 # 34
 @1 Subió Moisés de los campos de Moab al monte Nebo, a la cumbre del Pisga, que está enfrente de Jericó; y le mostró Jehová toda la tierra de Galaad hasta Dan,

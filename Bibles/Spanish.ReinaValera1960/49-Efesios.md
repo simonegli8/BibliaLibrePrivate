@@ -1,6 +1,9 @@
 # 1
+## Bendiciones
 @1 Pablo, apóstol de Jesucristo por la voluntad de Dios, a los santos y fieles en Cristo Jesús que están en Efeso:
 @2 Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.
+
+## Alabado sea la gracia de Dios por la salvación dada en Cristo
 @3 Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos bendijo con toda bendición espiritual en los lugares celestiales en Cristo,
 @4 según nos escogió en él antes de la fundación del mundo, para que fuésemos santos y sin mancha delante de él,
 @5 en amor habiéndonos predestinado para ser adoptados hijos suyos por medio de Jesucristo, según el puro afecto de su voluntad,
@@ -13,6 +16,8 @@
 @12 a fin de que seamos para alabanza de su gloria, nosotros los que primeramente esperábamos en Cristo.
 @13 En él también vosotros, habiendo oído la palabra de verdad, el evangelio de vuestra salvación, y habiendo creído en él, fuisteis sellados con el Espíritu Santo de la promesa,
 @14 que es las arras de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria.
+
+## Intercesión por la congregación para el pleno conocimiento de la grandeza de la salvación dada por la gracia de Dios en Cristo
 @15 Por esta causa también yo, habiendo oído de vuestra fe en el Señor Jesús, y de vuestro amor para con todos los santos,
 @16 no ceso de dar gracias por vosotros, haciendo memoria de vosotros en mis oraciones,
 @17 para que el Dios de nuestro Señor Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación en el conocimiento de él,
@@ -24,6 +29,7 @@
 @23 la cual es su cuerpo, la plenitud de Aquel que todo lo llena en todo.
 
 # 2
+## Anteriormente muerto en pecado, el creyente ahora se reconoce a sí mismo como obra de gracia de Dios y una nueva formación en Cristo Jesús resucitado
 @1 Y él os dio vida a vosotros, cuando estabais muertos en vuestros delitos y pecados,
 @2 en los cuales anduvisteis en otro tiempo, siguiendo la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia,
 @3 entre los cuales también todos nosotros vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos, y éramos por naturaleza hijos de ira, lo mismo que los demás.
@@ -34,6 +40,8 @@
 @8 Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios;
 @9 no por obras, para que nadie se gloríe.
 @10 Porque somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos en ellas.
+
+## Como nueva formación de Dios en Cristo Jesús, los judíos creyentes son herederos de la promesa y de la casa de Dios, pero con ellos también los gentiles creyentes
 @11 Por tanto, acordaos de que en otro tiempo vosotros, los gentiles en cuanto a la carne, erais llamados incircuncisión por la llamada circuncisión hecha con mano en la carne.
 @12 En aquel tiempo estabais sin Cristo, alejados de la ciudadanía de Israel y ajenos a los pactos de la promesa, sin esperanza y sin Dios en el mundo.
 @13 Pero ahora en Cristo Jesús, vosotros que en otro tiempo estabais lejos, habéis sido hechos cercanos por la sangre de Cristo.
@@ -48,6 +56,7 @@
 @22 en quien vosotros también sois juntamente edificados para morada de Dios en el Espíritu.
 
 # 3
+## El glorioso oficio del apóstol de proclamar el mensaje de salvación a los gentiles como el secreto revelado a él de su derecho a participar de las promesas de Israel
 @1 Por esta causa yo Pablo, prisionero de Cristo Jesús por vosotros los gentiles;
 @2 si es que habéis oído de la administración de la gracia de Dios que me fue dada para con vosotros;
 @3 que por revelación me fue declarado el misterio, como antes lo he escrito brevemente,
@@ -61,16 +70,21 @@
 @11 conforme al propósito eterno que hizo en Cristo Jesús nuestro Señor,
 @12 en quien tenemos seguridad y acceso con confianza por medio de la fe en él;
 @13 por lo cual pido que no desmayéis a causa de mis tribulaciones por vosotros, las cuales son vuestra gloria.
+
+## La intercesión del Apóstol para que los lectores los fortalezcan en la fe, el amor y el conocimiento
 @14 Por esta causa doblo mis rodillas ante el Padre de nuestro Señor Jesucristo,
 @15 de quien toma nombre toda familia en los cielos y en la tierra,
 @16 para que os dé, conforme a las riquezas de su gloria, el ser fortalecidos con poder en el hombre interior por su Espíritu;
 @17 para que habite Cristo por la fe en vuestros corazones, a fin de que, arraigados y cimentados en amor,
 @18 seáis plenamente capaces de comprender con todos los santos cuál sea la anchura, la longitud, la profundidad y la altura,
 @19 y de conocer el amor de Cristo, que excede a todo conocimiento, para que seáis llenos de toda la plenitud de Dios.
+
+## Dios sea la gloria
 @20 Y a Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o entendemos, según el poder que actúa en nosotros,
 @21 a él sea gloria en la iglesia en Cristo Jesús por todas las edades, por los siglos de los siglos. Amén. 
 
 # 4
+## Exhortación a la unidad y al crecimiento de la fe en la comunidad con toda la diversidad de dones
 @1 Yo pues, preso en el Señor, os ruego que andéis como es digno de la vocación con que fuisteis llamados,
 @2 con toda humildad y mansedumbre, soportándoos con paciencia los unos a los otros en amor,
 @3 solícitos en guardar la unidad del Espíritu en el vínculo de la paz;
@@ -81,12 +95,15 @@
 @8 Por lo cual dice: Subiendo a lo alto, llevó cautiva la cautividad, Y dio dones a los hombres. 
 @9 Y eso de que subió, ¿qué es, sino que también había descendido primero a las partes más bajas de la tierra?
 @10 El que descendió, es el mismo que también subió por encima de todos los cielos para llenarlo todo.
+
 @11 Y él mismo constituyó a unos, apóstoles; a otros, profetas; a otros, evangelistas; a otros, pastores y maestros,
 @12 a fin de perfeccionar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo,
 @13 hasta que todos lleguemos a la unidad de la fe y del conocimiento del Hijo de Dios, a un varón perfecto, a la medida de la estatura de la plenitud de Cristo;
 @14 para que ya no seamos niños fluctuantes, llevados por doquiera de todo viento de doctrina, por estratagema de hombres que para engañar emplean con astucia las artimañas del error,
 @15 sino que siguiendo la verdad en amor, crezcamos en todo en aquel que es la cabeza, esto es, Cristo,
 @16 de quien todo el cuerpo, bien concertado y unido entre sí por todas las coyunturas que se ayudan mutuamente, según la actividad propia de cada miembro, recibe su crecimiento para ir edificándose en amor.
+
+## De gente nueva y vieja en general; Diferencia entre el estilo de vida pagano y cristiano
 @17 Esto, pues, digo y requiero en el Señor: que ya no andéis como los otros gentiles, que andan en la vanidad de su mente,
 @18 teniendo el entendimiento entenebrecido, ajenos de la vida de Dios por la ignorancia que en ellos hay, por la dureza de su corazón;
 @19 los cuales, después que perdieron toda sensibilidad, se entregaron a la lascivia para cometer con avidez toda clase de impureza.
@@ -95,6 +112,8 @@
 @22 En cuanto a la pasada manera de vivir, despojaos del viejo hombre, que está viciado conforme a los deseos engañosos,
 @23 y renovaos en el espíritu de vuestra mente,
 @24 y vestíos del nuevo hombre, creado según Dios en la justicia y santidad de la verdad.
+
+## Advertencias sobre el comportamiento en el tráfico entre ellos
 @25 Por lo cual, desechando la mentira, hablad verdad cada uno con su prójimo; porque somos miembros los unos de los otros.
 @26 Airaos, pero no pequéis; no se ponga el sol sobre vuestro enojo,
 @27 ni deis lugar al diablo.
@@ -107,9 +126,14 @@
 # 5
 @1 Sed, pues, imitadores de Dios como hijos amados.
 @2 Y andad en amor, como también Cristo nos amó, y se entregó a símismo por nosotros, ofrenda y sacrificio a Dios en olor fragante.
+
+## Advertencia de fornicación, codicia y lenguaje inapropiado
 @3 Pero fornicación y toda inmundicia, o avaricia, ni aun se nombre entre vosotros, como conviene a santos;
 @4 ni palabras deshonestas, ni necedades, ni truhanerías, que no convienen, sino antes bien acciones de gracias.
+
 @5 Porque sabéis esto, que ningún fornicario, o inmundo, o avaro, que es idólatra, tiene herencia en el reino de Cristo y de Dios.
+
+## Camina con cuidado como hijos de luz
 @6 Nadie os engañe con palabras vanas, porque por estas cosas viene la ira de Dios sobre los hijos de desobediencia.
 @7 No seáis, pues, partícipes con ellos.
 @8 Porque en otro tiempo erais tinieblas, mas ahora sois luz en el Señor; andad como hijos de luz
@@ -118,17 +142,22 @@
 @11 Y no participéis en las obras infructuosas de las tinieblas, sino más bien reprendedlas;
 @12 porque vergonzoso es aun hablar de lo que ellos hacen en secreto.
 @13 Mas todas las cosas, cuando son puestas en evidencia por la luz, son hechas manifiestas; porque la luz es lo que manifiesta todo.
-@14 Por lo cual dice: Despiértate, tú que duermes, Y levántate de los muertos, Y te alumbrará Cristo. 
+@14 Por lo cual dice: Despiértate, tú que duermes, Y levántate de los muertos, Y te alumbrará Cristo.
+
 @15 Mirad, pues, con diligencia cómo andéis, no como necios sino como sabios,
 @16 aprovechando bien el tiempo, porque los días son malos.
 @17 Por tanto, no seáis insensatos, sino entendidos de cuál sea la voluntad del Señor.
 @18 No os embriaguéis con vino, en lo cual hay disolución; antes bien sed llenos del Espíritu,
 @19 hablando entre vosotros con salmos, con himnos y cánticos espirituales, cantando y alabando al Señor en vuestros corazones;
 @20 dando siempre gracias por todo al Dios y Padre, en el nombre de nuestro Señor Jesucristo.
+
+## Obligaciones de los cónyuges
 @21 Someteos unos a otros en el temor de Dios.
+
 @22 Las casadas estén sujetas a sus propios maridos, como al Señor;
 @23 porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia, la cual es su cuerpo, y él es su Salvador.
 @24 Así que, como la iglesia está sujeta a Cristo, así también las casadas lo estén a sus maridos en todo.
+
 @25 Maridos, amad a vuestras mujeres, así como Cristo amó a la iglesia, y se entregó a sí mismo por ella,
 @26 para santificarla, habiéndola purificado en el lavamiento del agua por la palabra,
 @27 a fin de presentársela a sí mismo, una iglesia gloriosa, que no tuviese mancha ni arruga ni cosa semejante, sino que fuese santa y sin mancha.
@@ -140,15 +169,22 @@
 @33 Por lo demás, cada uno de vosotros ame también a su mujer como a sí mismo; y la mujer respete a su marido.
 
 # 6
+## Deberes de los niños y los padres
 @1 Hijos, obedeced en el Señor a vuestros padres, porque esto es justo.
 @2 Honra a tu padre y a tu madre, que es el primer mandamiento con promesa;
 @3 para que te vaya bien, y seas de larga vida sobre la tierra.
+
 @4 Y vosotros, padres, no provoquéis a ira a vuestros hijos, sino criadlos en disciplina y amonestación del Señor.
+
+## Deberes de los sirvientes, esclavos y los amos
 @5 Siervos, obedeced a vuestros amos terrenales con temor y temblor, con sencillez de vuestro corazón, como a Cristo;
 @6 no sirviendo al ojo, como los que quieren agradar a los hombres, sino como siervos de Cristo, de corazón haciendo la voluntad de Dios;
 @7 sirviendo de buena voluntad, como al Señor y no a los hombres,
 @8 sabiendo que el bien que cada uno hiciere, ése recibirá del Señor, sea siervo o sea libre.
+
 @9 Y vosotros, amos, haced con ellos lo mismo, dejando las amenazas, sabiendo que el Señor de ellos y vuestro está en los cielos, y que para él no hay acepción de personas.
+
+## Advertencia final a la lucha cristiana de derecha; la armadura espiritual del cristiano; petición personal del apóstol
 @10 Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fuerza.
 @11 Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo.
 @12 Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes.
@@ -160,7 +196,10 @@
 @18 orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos;
 @19 y por mí, a fin de que al abrir mi boca me sea dada palabra para dar a conocer con denuedo el misterio del evangelio,
 @20 por el cual soy embajador en cadenas; que con denuedo hable de él, como debo hablar.
+
+## Anuncio de la misión de Tíquico; Bendición
 @21 Para que también vosotros sepáis mis asuntos, y lo que hago, todo os lo hará saber Tíquico, hermano amado y fiel ministro en el Señor,
 @22 el cual envié a vosotros para esto mismo, para que sepáis lo tocante a nosotros, y que consuele vuestros corazones.
+
 @23 Paz sea a los hermanos, y amor con fe, de Dios Padre y del Señor Jesucristo.
 @24 La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor inalterable. Amén. 

@@ -23,7 +23,7 @@
 @22 Habiendo purificado vuestras almas por la obediencia a la verdad, mediante el Espíritu, para el amor fraternal no fingido, amaos unos a otros entrañablemente, de corazón puro;
 @23 siendo renacidos, no de simiente corruptible, sino de incorruptible, por la palabra de Dios que vive y permanece para siempre.
 @24 Porque: Toda carne es como hierba, Y toda la gloria del hombre como flor de la hierba. La hierba se seca, y la flor se cae; 
-@25  Mas la palabra del Señor permanece para siempre. Y esta es la palabra que por el evangelio os ha sido anunciada.
+@25 Mas la palabra del Señor permanece para siempre. Y esta es la palabra que por el evangelio os ha sido anunciada.
 
 # 2
 @1 Desechando, pues, toda malicia, todo engaño, hipocresía, envidias, y todas las detracciones,
@@ -63,8 +63,8 @@
 @8 Finalmente, sed todos de un mismo sentir, compasivos, amándoos fraternalmente, misericordiosos, amigables;
 @9 no devolviendo mal por mal, ni maldición por maldición, sino por el contrario, bendiciendo, sabiendo que fuisteis llamados para que heredaseis bendición.
 @10 Porque: El que quiere amar la vida Y ver días buenos, Refrene su lengua de mal, Y sus labios no hablen engaño; 
-@11  Apártese del mal, y haga el bien; Busque la paz, y sígala. 
-@12  Porque los ojos del Señor están sobre los justos, Y sus oídos atentos a sus oraciones; Pero el rostro del Señor está contra aquellos que hacen el mal. 
+@11 Apártese del mal, y haga el bien; Busque la paz, y sígala. 
+@12 Porque los ojos del Señor están sobre los justos, Y sus oídos atentos a sus oraciones; Pero el rostro del Señor está contra aquellos que hacen el mal. 
 @13 ¿Y quién es aquel que os podrá hacer daño, si vosotros seguís el bien?
 @14 Mas también si alguna cosa padecéis por causa de la justicia, bienaventurados sois. Por tanto, no os amedrentéis por temor de ellos, ni os conturbéis,
 @15 sino santificad a Dios el Señor en vuestros corazones, y estad siempre preparados para presentar defensa con mansedumbre y reverencia ante todo el que os demande razón de la esperanza que hay en vosotros;

@@ -12,4 +12,4 @@
 @11 Amado, no imites lo malo, sino lo bueno. El que hace lo bueno es de Dios; pero el que hace lo malo, no ha visto a Dios.
 @12 Todos dan testimonio de Demetrio, y aun la verdad misma; y también nosotros damos testimonio, y vosotros sabéis que nuestro testimonio es verdadero.
 @13 Yo tenía muchas cosas que escribirte, pero no quiero escribírtelas con tinta y pluma,
-@14 porque espero verte en breve, y hablaremos cara a cara. \cf10\i 3Jo 1:15 La paz sea contigo. Los amigos te saludan. Saluda tú a los amigos, a cada uno en particular.
+@14 porque espero verte en breve, y hablaremos cara a cara. La paz sea contigo. Los amigos te saludan. Saluda tú a los amigos, a cada uno en particular.

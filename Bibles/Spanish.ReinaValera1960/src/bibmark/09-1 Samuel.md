@@ -29,16 +29,16 @@
 @28 Yo, pues, lo dedico también a Jehová; todos los días que viva, será de Jehová. Y adoró allí a Jehová.
 
 # 2
-@1  Y Ana oró y dijo: Mi corazón se regocija en Jehová, Mi poder se exalta en Jehová; Mi boca se ensanchó sobre mis enemigos, Por cuanto me alegré en tu salvación. 
-@2  No hay santo como Jehová; Porque no hay ninguno fuera de ti, Y no hay refugio como el Dios nuestro. 
-@3  No multipliquéis palabras de grandeza y altanería; Cesen las palabras arrogantes de vuestra boca; Porque el Dios de todo saber es Jehová, Y a él toca el pesar las acciones. 
-@4  Los arcos de los fuertes fueron quebrados, Y los débiles se ciñeron de poder. 
-@5  Los saciados se alquilaron por pan, Y los hambrientos dejaron de tener hambre; Hasta la estéril ha dado a luz siete, Y la que tenía muchos hijos languidece. 
-@6  Jehová mata, y él da vida; El hace descender al Seol, y hace subir. 
-@7  Jehová empobrece, y él enriquece; Abate, y enaltece. 
-@8  El levanta del polvo al pobre, Y del muladar exalta al menesteroso, Para hacerle sentarse con príncipes y heredar un sitio de honor. Porque de Jehová son las columnas de la tierra, Y él afirmó sobre ellas el mundo. 
-@9  El guarda los pies de sus santos, Mas los impíos perecen en tinieblas; Porque nadie será fuerte por su propia fuerza. 
-@10  Delante de Jehová serán quebrantados sus adversarios, Y sobre ellos tronará desde los cielos; Jehová juzgará los confines de la tierra, Dará poder a su Rey, Y exaltará el poderío de su Ungido. 
+@1 Y Ana oró y dijo: Mi corazón se regocija en Jehová, Mi poder se exalta en Jehová; Mi boca se ensanchó sobre mis enemigos, Por cuanto me alegré en tu salvación. 
+@2 No hay santo como Jehová; Porque no hay ninguno fuera de ti, Y no hay refugio como el Dios nuestro. 
+@3 No multipliquéis palabras de grandeza y altanería; Cesen las palabras arrogantes de vuestra boca; Porque el Dios de todo saber es Jehová, Y a él toca el pesar las acciones. 
+@4 Los arcos de los fuertes fueron quebrados, Y los débiles se ciñeron de poder. 
+@5 Los saciados se alquilaron por pan, Y los hambrientos dejaron de tener hambre; Hasta la estéril ha dado a luz siete, Y la que tenía muchos hijos languidece. 
+@6 Jehová mata, y él da vida; El hace descender al Seol, y hace subir. 
+@7 Jehová empobrece, y él enriquece; Abate, y enaltece. 
+@8 El levanta del polvo al pobre, Y del muladar exalta al menesteroso, Para hacerle sentarse con príncipes y heredar un sitio de honor. Porque de Jehová son las columnas de la tierra, Y él afirmó sobre ellas el mundo. 
+@9 El guarda los pies de sus santos, Mas los impíos perecen en tinieblas; Porque nadie será fuerte por su propia fuerza. 
+@10 Delante de Jehová serán quebrantados sus adversarios, Y sobre ellos tronará desde los cielos; Jehová juzgará los confines de la tierra, Dará poder a su Rey, Y exaltará el poderío de su Ungido. 
 @11 Y Elcana se volvió a su casa en Ramá; y el niño ministraba a Jehová delante del sacerdote Elí.
 @12 Los hijos de Elí eran hombres impíos, y no tenían conocimiento de Jehová.
 @13 Y era costumbre de los sacerdotes con el pueblo, que cuando alguno ofrecía sacrificio, venía el criado del sacerdote mientras se cocía la carne, trayendo en su mano un garfio de tres dientes,

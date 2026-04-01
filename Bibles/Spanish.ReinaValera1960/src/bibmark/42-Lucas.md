@@ -45,15 +45,15 @@
 @44 Porque tan pronto como llegó la voz de tu salutación a mis oídos, la criatura saltó de alegría en mi vientre.
 @45 Y bienaventurada la que creyó, porque se cumplirá lo que le fue dicho de parte del Señor.
 @46 Entonces María dijo: Engrandece mi alma al Señor; 
-@47  Y mi espíritu se regocija en Dios mi Salvador. 
-@48  Porque ha mirado la bajeza de su sierva; Pues he aquí, desde ahora me dirán bienaventurada todas las generaciones. 
-@49  Porque me ha hecho grandes cosas el Poderoso; Santo es su nombre, 
-@50  Y su misericordia es de generación en generación A los que le temen. 
-@51  Hizo proezas con su brazo; Esparció a los soberbios en el pensamiento de sus corazones. 
-@52  Quitó de los tronos a los poderosos, Y exaltó a los humildes. 
-@53  A los hambrientos colmó de bienes, Y a los ricos envió vacíos. 
-@54  Socorrió a Israel su siervo, Acordándose de la misericordia 
-@55  \ui De la cual habló a nuestros padres, Para con Abraham y su descendencia para siempre. 
+@47 Y mi espíritu se regocija en Dios mi Salvador. 
+@48 Porque ha mirado la bajeza de su sierva; Pues he aquí, desde ahora me dirán bienaventurada todas las generaciones. 
+@49 Porque me ha hecho grandes cosas el Poderoso; Santo es su nombre, 
+@50 Y su misericordia es de generación en generación A los que le temen. 
+@51 Hizo proezas con su brazo; Esparció a los soberbios en el pensamiento de sus corazones. 
+@52 Quitó de los tronos a los poderosos, Y exaltó a los humildes. 
+@53 A los hambrientos colmó de bienes, Y a los ricos envió vacíos. 
+@54 Socorrió a Israel su siervo, Acordándose de la misericordia 
+@55 De la cual habló a nuestros padres, Para con Abraham y su descendencia para siempre. 
 @56 Y se quedó María con ella como tres meses; después se volvió a su casa.
 @57 Cuando a Elisabet se le cumplió el tiempo de su alumbramiento, dio a luz un hijo.
 @58 Y cuando oyeron los vecinos y los parientes que Dios había engrandecido para con ella su misericordia, se regocijaron con ella.
@@ -66,18 +66,18 @@
 @65 Y se llenaron de temor todos sus vecinos; y en todas las montañas de Judea se divulgaron todas estas cosas.
 @66 Y todos los que las oían las guardaban en su corazón, diciendo: ¿Quién, pues, será este niño? Y la mano del Señor estaba con él.
 @67 Y Zacarías su padre fue lleno del Espíritu Santo, y profetizó, diciendo:
-@68  Bendito el Señor Dios de Israel, Que ha visitado y redimido a su pueblo, 
-@69  Y nos levantó un poderoso Salvador En la casa de David su siervo, 
-@70  Como habló por boca de sus santos profetas que fueron desde el principio; 
-@71  Salvación de nuestros enemigos, y de la mano de todos los que nos aborrecieron; 
-@72  Para hacer misericordia con nuestros padres, Y acordarse de su santo pacto; 
-@73  Del juramento que hizo a Abraham nuestro padre, Que nos había de conceder 
-@74  Que, librados de nuestros enemigos, Sin temor le serviríamos 
-@75  En santidad y en justicia delante de él, todos nuestros días. 
-@76  Y tú, niño, profeta del Altísimo serás llamado; Porque irás delante de la presencia del Señor, para preparar sus caminos; 
-@77  Para dar conocimiento de salvación a su pueblo, Para perdón de sus pecados, 
-@78  Por la entrañable misericordia de nuestro Dios, Con que nos visitó desde lo alto la aurora, 
-@79  Para dar luz a los que habitan en tinieblas y en sombra de muerte; Para encaminar nuestros pies por camino de paz. 
+@68 Bendito el Señor Dios de Israel, Que ha visitado y redimido a su pueblo, 
+@69 Y nos levantó un poderoso Salvador En la casa de David su siervo, 
+@70 Como habló por boca de sus santos profetas que fueron desde el principio; 
+@71 Salvación de nuestros enemigos, y de la mano de todos los que nos aborrecieron; 
+@72 Para hacer misericordia con nuestros padres, Y acordarse de su santo pacto; 
+@73 Del juramento que hizo a Abraham nuestro padre, Que nos había de conceder 
+@74 Que, librados de nuestros enemigos, Sin temor le serviríamos 
+@75 En santidad y en justicia delante de él, todos nuestros días. 
+@76 Y tú, niño, profeta del Altísimo serás llamado; Porque irás delante de la presencia del Señor, para preparar sus caminos; 
+@77 Para dar conocimiento de salvación a su pueblo, Para perdón de sus pecados, 
+@78 Por la entrañable misericordia de nuestro Dios, Con que nos visitó desde lo alto la aurora, 
+@79 Para dar luz a los que habitan en tinieblas y en sombra de muerte; Para encaminar nuestros pies por camino de paz. 
 @80 Y el niño crecía, y se fortalecía en espíritu; y estuvo en lugares desiertos hasta el día de su manifestación a Israel.
 
 # 2
@@ -94,7 +94,7 @@
 @11 que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor.
 @12 Esto os servirá de señal: Hallaréis al niño envuelto en pañales, acostado en un pesebre.
 @13 Y repentinamente apareció con el ángel una multitud de las huestes celestiales, que alababan a Dios, y decían:
-@14  ¡Gloria a Dios en las alturas, Y en la tierra paz, buena voluntad para con los hombres! 
+@14 ¡Gloria a Dios en las alturas, Y en la tierra paz, buena voluntad para con los hombres! 
 @15 Sucedió que cuando los ángeles su fueron de ellos al cielo, los pastores se dijeron unos a otros: Pasemos, pues, hasta Belén, y veamos esto que ha sucedido, y que el Señor nos ha manifestado.
 @16 Vinieron, pues, apresuradamente, y hallaron a María y a José, y al niño acostado en el pesebre.
 @17 Y al verlo, dieron a conocer lo que se les había dicho acerca del niño.
@@ -109,10 +109,10 @@
 @26 Y le había sido revelado por el Espíritu Santo, que no vería la muerte antes que viese al Ungido del Señor.
 @27 Y movido por el Espíritu, vino al templo. Y cuando los padres del niño Jesús lo trajeron al templo, para hacer por él conforme al rito de la ley,
 @28 él le tomó en sus brazos, y bendijo a Dios, diciendo:
-@29  Ahora, Señor, despides a tu siervo en paz, Conforme a tu palabra; 
-@30  Porque han visto mis ojos tu salvación, 
-@31  La cual has preparado en presencia de todos los pueblos; 
-@32  Luz para revelación a los gentiles, Y gloria de tu pueblo Israel. 
+@29 Ahora, Señor, despides a tu siervo en paz, Conforme a tu palabra; 
+@30 Porque han visto mis ojos tu salvación, 
+@31 La cual has preparado en presencia de todos los pueblos; 
+@32 Luz para revelación a los gentiles, Y gloria de tu pueblo Israel. 
 @33 Y José y su madre estaban maravillados de todo lo que se decía de él.
 @34 Y los bendijo Simeón, y dijo a su madre María: He aquí, éste está puesto para caída y para levantamiento de muchos en Israel, y para señal que será contradicha
 @35 (y una espada traspasará tu misma alma), para que sean revelados los pensamientos de muchos corazones.
@@ -139,8 +139,8 @@
 @2 y siendo sumos sacerdotes Anás y Caifás, vino palabra de Dios a Juan, hijo de Zacarías, en el desierto.
 @3 Y él fue por toda la región contigua al Jordán, predicando el bautismo del arrepentimiento para perdón de pecados,
 @4 como está escrito en el libro de las palabras del profeta Isaías, que dice: Voz del que clama en el desierto: Preparad el camino del Señor; Enderezad sus sendas. 
-@5  Todo valle se rellenará, Y se bajará todo monte y collado; Los caminos torcidos serán enderezados, Y los caminos ásperos allanados; 
-@6  Y verá toda carne la salvación de Dios. 
+@5 Todo valle se rellenará, Y se bajará todo monte y collado; Los caminos torcidos serán enderezados, Y los caminos ásperos allanados; 
+@6 Y verá toda carne la salvación de Dios. 
 @7 Y decía a las multitudes que salían para ser bautizadas por él: ¡Oh generación de víboras! ¿Quién os enseñó a huir de la ira venidera?
 @8 Haced, pues, frutos dignos de arrepentimiento, y no comencéis a decir dentro de vosotros mismos: Tenemos a Abraham por padre; porque os digo que Dios puede levantar hijos a Abraham aun de estas piedras.
 @9 Y ya también el hacha está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto se corta y se echa en el fuego.
@@ -192,16 +192,16 @@
 @15 Y enseñaba en las sinagogas de ellos, y era glorificado por todos.
 @16 Vino a Nazaret, donde se había criado; y en el día de reposo entró en la sinagoga, conforme a su costumbre, y se levantó a leer.
 @17 Y se le dio el libro del profeta Isaías; y habiendo abierto el libro, halló el lugar donde estaba escrito:
-@18  Espíritu del Señor está sobre mí, Por cuanto me ha ungido para dar buenas nuevas a los pobres; Me ha enviado a sanar a los quebrantados de corazón; A pregonar libertad a los cautivos, Y vista a los ciegos; A poner en libertad a los oprimidos; 
-@19  A predicar el año agradable del Señor. 
+@18 Espíritu del Señor está sobre mí, Por cuanto me ha ungido para dar buenas nuevas a los pobres; Me ha enviado a sanar a los quebrantados de corazón; A pregonar libertad a los cautivos, Y vista a los ciegos; A poner en libertad a los oprimidos; 
+@19 A predicar el año agradable del Señor. 
 @20 Y enrollando el libro, lo dio al ministro, y se sentó; y los ojos de todos en la sinagoga estaban fijos en él.
 @21 Y comenzó a decirles: Hoy se ha cumplido esta Escritura delante de vosotros. 
 @22 Y todos daban buen testimonio de él, y estaban maravillados de las palabras de gracia que salían de su boca, y decían: ¿No es éste el hijo de José?
 @23 El les dijo: Sin duda me diréis este refrán: Médico, cúrate a ti mismo; de tantas cosas que hemos oído que se han hecho en Capernaum, haz también aquí en tu tierra. 
 @24 Y añadió: De cierto os digo, que ningún profeta es acepto en su propia tierra. 
-@25  Y en verdad os digo que muchas viudas había en Israel en los días de Elías, cuando el cielo fue cerrado por tres años y seis meses, y hubo una gran hambre en toda la tierra; 
-@26  pero a ninguna de ellas fue enviado Elías, sino a una mujer viuda en Sarepta de Sidón. 
-@27  Y muchos leprosos había en Israel en tiempo del profeta Eliseo; pero ninguno de ellos fue limpiado, sino Naamán el sirio. 
+@25 Y en verdad os digo que muchas viudas había en Israel en los días de Elías, cuando el cielo fue cerrado por tres años y seis meses, y hubo una gran hambre en toda la tierra; 
+@26 pero a ninguna de ellas fue enviado Elías, sino a una mujer viuda en Sarepta de Sidón. 
+@27 Y muchos leprosos había en Israel en tiempo del profeta Eliseo; pero ninguno de ellos fue limpiado, sino Naamán el sirio. 
 @28 Al oír estas cosas, todos en la sinagoga se llenaron de ira;
 @29 y levantándose, le echaron fuera de la ciudad, y le llevaron hasta la cumbre del monte sobre el cual estaba edificada la ciudad de ellos, para despeñarle.
 @30 Mas él pasó por en medio de ellos, y se fue.
@@ -243,8 +243,8 @@
 @20 Al ver él la fe de ellos, le dijo: Hombre, tus pecados te son perdonados. 
 @21 Entonces los escribas y los fariseos comenzaron a cavilar, diciendo: ¿Quién es éste que habla blasfemias? ¿Quién puede perdonar pecados sino sólo Dios?
 @22 Jesús entonces, conociendo los pensamientos de ellos, respondiendo les dijo: ¿Qué caviláis en vuestros corazones? 
-@23  ¿Qué es más fácil, decir: Tus pecados te son perdonados, o decir: Levántate y anda? 
-@24  Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar pecados (dijo al paralítico): A ti te digo: Levántate, toma tu lecho, y vete a tu casa. 
+@23 ¿Qué es más fácil, decir: Tus pecados te son perdonados, o decir: Levántate y anda? 
+@24 Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar pecados (dijo al paralítico): A ti te digo: Levántate, toma tu lecho, y vete a tu casa. 
 @25 Al instante, levantándose en presencia de ellos, y tomando el lecho en que estaba acostado, se fue a su casa, glorificando a Dios.
 @26 Y todos, sobrecogidos de asombro, glorificaban a Dios; y llenos de temor, decían: Hoy hemos visto maravillas.
 @27 Después de estas cosas salió, y vio a un publicano llamado Leví, sentado al banco de los tributos públicos, y le dijo: Sígueme. 
@@ -252,20 +252,20 @@
 @29 Y Leví le hizo gran banquete en su casa; y había mucha compañía de publicanos y de otros que estaban a la mesa con ellos.
 @30 Y los escribas y los fariseos murmuraban contra los discípulos, diciendo: ¿Por qué coméis y bebéis con publicanos y pecadores?
 @31 Respondiendo Jesús, les dijo: Los que están sanos no tienen necesidad de médico, sino los enfermos. 
-@32  No he venido a llamar a justos, sino a pecadores al arrepentimiento. 
+@32 No he venido a llamar a justos, sino a pecadores al arrepentimiento. 
 @33 Entonces ellos le dijeron: ¿Por qué los discípulos de Juan ayunan muchas veces y hacen oraciones, y asimismo los de los fariseos, pero los tuyos comen y beben?
 @34 El les dijo: ¿Podéis acaso hacer que los que están de bodas ayunen, entre tanto que el esposo está con ellos? 
-@35  Mas vendrán días cuando el esposo les será quitado; entonces, en aquellos días ayunarán. 
+@35 Mas vendrán días cuando el esposo les será quitado; entonces, en aquellos días ayunarán. 
 @36 Les dijo también una parábola: Nadie corta un pedazo de un vestido nuevo y lo pone en un vestido viejo; pues si lo hace, no solamente rompe el nuevo, sino que el remiendo sacado de él no armoniza con el viejo. 
-@37  Y nadie echa vino nuevo en odres viejos; de otra manera, el vino nuevo romperá los odres y se derramará, y los odres se perderán. 
-@38  Mas el vino nuevo en odres nuevos se ha de echar; y lo uno y lo otro se conservan. 
-@39  Y ninguno que beba del añejo, quiere luego el nuevo; porque dice: El añejo es mejor. 
+@37 Y nadie echa vino nuevo en odres viejos; de otra manera, el vino nuevo romperá los odres y se derramará, y los odres se perderán. 
+@38 Mas el vino nuevo en odres nuevos se ha de echar; y lo uno y lo otro se conservan. 
+@39 Y ninguno que beba del añejo, quiere luego el nuevo; porque dice: El añejo es mejor. 
 
 # 6
 @1 Aconteció en un día de reposo, que pasando Jesús por los sembrados, sus discípulos arrancaban espigas y comían, restregándolas con las manos.
 @2 Y algunos de los fariseos les dijeron: ¿Por qué hacéis lo que no es lícito hacer en los días de reposo?
 @3 Respondiendo Jesús, les dijo: ¿Ni aun esto habéis leído, lo que hizo David cuando tuvo hambre él, y los que con él estaban; 
-@4  cómo entró en la casa de Dios, y tomó los panes de la proposición, de los cuales no es lícito comer sino sólo a los sacerdotes, y comió, y dio también a los que estaban con él? 
+@4 cómo entró en la casa de Dios, y tomó los panes de la proposición, de los cuales no es lícito comer sino sólo a los sacerdotes, y comió, y dio también a los que estaban con él? 
 @5 Y les decía: El Hijo del Hombre es Señor aun del día de reposo. 
 @6 Aconteció también en otro día de reposo, que él entró en la sinagoga y enseñaba; y estaba allí un hombre que tenía seca la mano derecha.
 @7 Y le acechaban los escribas y los fariseos, para ver si en el día de reposo lo sanaría, a fin de hallar de qué acusarle.
@@ -282,35 +282,35 @@
 @18 y los que habían sido atormentados de espíritus inmundos eran sanados.
 @19 Y toda la gente procuraba tocarle, porque poder salía de él y sanaba a todos.
 @20 Y alzando los ojos hacia sus discípulos, decía: Bienaventurados vosotros los pobres, porque vuestro es el reino de Dios. 
-@21  Bienaventurados los que ahora tenéis hambre, porque seréis saciados. Bienaventurados los que ahora lloráis, porque reíréis. 
-@22  Bienaventurados seréis cuando los hombres os aborrezcan, y cuando os aparten de sí, y os vituperen, y desechen vuestro nombre como malo, por causa del Hijo del Hombre. 
-@23  Gozaos en aquel día, y alegraos, porque he aquí vuestro galardón es grande en los cielos; porque así hacían sus padres con los profetas. 
-@24  Mas ¡ay de vosotros, ricos! porque ya tenéis vuestro consuelo. 
-@25  ¡Ay de vosotros, los que ahora estáis saciados! porque tendréis hambre. ¡Ay de vosotros, los que ahora reís! porque lamentaréis y lloraréis. 
-@26  ¡Ay de vosotros, cuando todos los hombres hablen bien de vosotros! porque así hacían sus padres con los falsos profetas. 
-@27  Pero a vosotros los que oís, os digo: Amad a vuestros enemigos, haced bien a los que os aborrecen; 
-@28  bendecid a los que os maldicen, y orad por los que os calumnian. 
-@29  Al que te hiera en una mejilla, preséntale también la otra; y al que te quite la capa, ni aun la túnica le niegues. 
-@30  A cualquiera que te pida, dale; y al que tome lo que es tuyo, no pidas que te lo devuelva. 
-@31  Y como queréis que hagan los hombres con vosotros, así también haced vosotros con ellos. 
-@32  Porque si amáis a los que os aman, ¿qué mérito tenéis? Porque también los pecadores aman a los que los aman. 
-@33  Y si hacéis bien a los que os hacen bien, ¿qué mérito tenéis? Porque también los pecadores hacen lo mismo. 
-@34  Y si prestáis a aquellos de quienes esperáis recibir, ¿qué mérito tenéis? Porque también los pecadores prestan a los pecadores, para recibir otro tanto. 
-@35  Amad, pues, a vuestros enemigos, y haced bien, y prestad, no esperando de ello nada; y será vuestro galardón grande, y seréis hijos del Altísimo; porque él es benigno para con los ingratos y malos. 
-@36  Sed, pues, misericordiosos, como también vuestro Padre es misericordioso. 
-@37  No juzguéis, y no seréis juzgados; no condenéis, y no seréis condenados; perdonad, y seréis perdonados. 
-@38  Dad, y se os dará; medida buena, apretada, remecida y rebosando darán en vuestro regazo; porque con la misma medida con que medís, os volverán a medir. 
+@21 Bienaventurados los que ahora tenéis hambre, porque seréis saciados. Bienaventurados los que ahora lloráis, porque reíréis. 
+@22 Bienaventurados seréis cuando los hombres os aborrezcan, y cuando os aparten de sí, y os vituperen, y desechen vuestro nombre como malo, por causa del Hijo del Hombre. 
+@23 Gozaos en aquel día, y alegraos, porque he aquí vuestro galardón es grande en los cielos; porque así hacían sus padres con los profetas. 
+@24 Mas ¡ay de vosotros, ricos! porque ya tenéis vuestro consuelo. 
+@25 ¡Ay de vosotros, los que ahora estáis saciados! porque tendréis hambre. ¡Ay de vosotros, los que ahora reís! porque lamentaréis y lloraréis. 
+@26 ¡Ay de vosotros, cuando todos los hombres hablen bien de vosotros! porque así hacían sus padres con los falsos profetas. 
+@27 Pero a vosotros los que oís, os digo: Amad a vuestros enemigos, haced bien a los que os aborrecen; 
+@28 bendecid a los que os maldicen, y orad por los que os calumnian. 
+@29 Al que te hiera en una mejilla, preséntale también la otra; y al que te quite la capa, ni aun la túnica le niegues. 
+@30 A cualquiera que te pida, dale; y al que tome lo que es tuyo, no pidas que te lo devuelva. 
+@31 Y como queréis que hagan los hombres con vosotros, así también haced vosotros con ellos. 
+@32 Porque si amáis a los que os aman, ¿qué mérito tenéis? Porque también los pecadores aman a los que los aman. 
+@33 Y si hacéis bien a los que os hacen bien, ¿qué mérito tenéis? Porque también los pecadores hacen lo mismo. 
+@34 Y si prestáis a aquellos de quienes esperáis recibir, ¿qué mérito tenéis? Porque también los pecadores prestan a los pecadores, para recibir otro tanto. 
+@35 Amad, pues, a vuestros enemigos, y haced bien, y prestad, no esperando de ello nada; y será vuestro galardón grande, y seréis hijos del Altísimo; porque él es benigno para con los ingratos y malos. 
+@36 Sed, pues, misericordiosos, como también vuestro Padre es misericordioso. 
+@37 No juzguéis, y no seréis juzgados; no condenéis, y no seréis condenados; perdonad, y seréis perdonados. 
+@38 Dad, y se os dará; medida buena, apretada, remecida y rebosando darán en vuestro regazo; porque con la misma medida con que medís, os volverán a medir. 
 @39 Y les decía una parábola: ¿Acaso puede un ciego guiar a otro ciego? ¿No caerán ambos en el hoyo? 
-@40  El discípulo no es superior a su maestro; mas todo el que fuere perfeccionado, será como su maestro. 
-@41  ¿Por qué miras la paja que está en el ojo de tu hermano, y no echas de ver la viga que está en tu propio ojo? 
-@42  ¿O cómo puedes decir a tu hermano: Hermano, déjame sacar la paja que está en tu ojo, no mirando tú la viga que está en el ojo tuyo? Hipócrita, saca primero la viga de tu propio ojo, y entonces verás bien para sacar la paja que está en el ojo de tu hermano. 
-@43  No es buen árbol el que da malos frutos, ni árbol malo el que da buen fruto. 
-@44  Porque cada árbol se conoce por su fruto; pues no se cosechan higos de los espinos, ni de las zarzas se vendimian uvas. 
-@45  El hombre bueno, del buen tesoro de su corazón saca lo bueno; y el hombre malo, del mal tesoro de su corazón saca lo malo; porque de la abundancia del corazón habla la boca. 
-@46  ¿Por qué me llamáis, Señor, Señor, y no hacéis lo que yo digo? 
-@47  Todo aquel que viene a mí, y oye mis palabras y las hace, os indicaré a quién es semejante. 
-@48  Semejante es al hombre que al edificar una casa, cavó y ahondó y puso el fundamento sobre la roca; y cuando vino una inundación, el río dio con ímpetu contra aquella casa, pero no la pudo mover, porque estaba fundada sobre la roca. 
-@49  Mas el que oyó y no hizo, semejante es al hombre que edificó su casa sobre tierra, sin fundamento; contra la cual el río dio con ímpetu, y luego cayó, y fue grande la ruina de aquella casa. 
+@40 El discípulo no es superior a su maestro; mas todo el que fuere perfeccionado, será como su maestro. 
+@41 ¿Por qué miras la paja que está en el ojo de tu hermano, y no echas de ver la viga que está en tu propio ojo? 
+@42 ¿O cómo puedes decir a tu hermano: Hermano, déjame sacar la paja que está en tu ojo, no mirando tú la viga que está en el ojo tuyo? Hipócrita, saca primero la viga de tu propio ojo, y entonces verás bien para sacar la paja que está en el ojo de tu hermano. 
+@43 No es buen árbol el que da malos frutos, ni árbol malo el que da buen fruto. 
+@44 Porque cada árbol se conoce por su fruto; pues no se cosechan higos de los espinos, ni de las zarzas se vendimian uvas. 
+@45 El hombre bueno, del buen tesoro de su corazón saca lo bueno; y el hombre malo, del mal tesoro de su corazón saca lo malo; porque de la abundancia del corazón habla la boca. 
+@46 ¿Por qué me llamáis, Señor, Señor, y no hacéis lo que yo digo? 
+@47 Todo aquel que viene a mí, y oye mis palabras y las hace, os indicaré a quién es semejante. 
+@48 Semejante es al hombre que al edificar una casa, cavó y ahondó y puso el fundamento sobre la roca; y cuando vino una inundación, el río dio con ímpetu contra aquella casa, pero no la pudo mover, porque estaba fundada sobre la roca. 
+@49 Mas el que oyó y no hizo, semejante es al hombre que edificó su casa sobre tierra, sin fundamento; contra la cual el río dio con ímpetu, y luego cayó, y fue grande la ruina de aquella casa. 
 
 # 7
 @1 Después que hubo terminado todas sus palabras al pueblo que le oía, entró en Capernaum.
@@ -335,31 +335,31 @@
 @20 Cuando, pues, los hombres vinieron a él, dijeron: Juan el Bautista nos ha enviado a ti, para preguntarte: ¿Eres tú el que había de venir, o esperaremos a otro?
 @21 En esa misma hora sanó a muchos de enfermedades y plagas, y de espíritus malos, y a muchos ciegos les dio la vista.
 @22 Y respondiendo Jesús, les dijo: Id, haced saber a Juan lo que habéis visto y oído: los ciegos ven, los cojos andan, los leprosos son limpiados, los sordos oyen, los muertos son resucitados, y a los pobres es anunciado el evangelio; 
-@23  y bienaventurado es aquel que no halle tropiezo en mí. 
+@23 y bienaventurado es aquel que no halle tropiezo en mí. 
 @24 Cuando se fueron los mensajeros de Juan, comenzó a decir de Juan a la gente: ¿Qué salisteis a ver al desierto? ¿Una caña sacudida por el viento? 
-@25  Mas ¿qué salisteis a ver? ¿A un hombre cubierto de vestiduras delicadas? He aquí, los que tienen vestidura preciosa y viven en deleites, en los palacios de los reyes están. 
-@26  Mas ¿qué salisteis a ver? ¿A un profeta? Sí, os digo, y más que profeta. 
-@27  Este es de quien está escrito: He aquí, envío mi mensajero delante de tu faz, El cual preparará tu camino delante de ti. 
-@28  Os digo que entre los nacidos de mujeres, no hay mayor profeta que Juan el Bautista; pero el más pequeño en el reino de Dios es mayor que él. 
+@25 Mas ¿qué salisteis a ver? ¿A un hombre cubierto de vestiduras delicadas? He aquí, los que tienen vestidura preciosa y viven en deleites, en los palacios de los reyes están. 
+@26 Mas ¿qué salisteis a ver? ¿A un profeta? Sí, os digo, y más que profeta. 
+@27 Este es de quien está escrito: He aquí, envío mi mensajero delante de tu faz, El cual preparará tu camino delante de ti. 
+@28 Os digo que entre los nacidos de mujeres, no hay mayor profeta que Juan el Bautista; pero el más pequeño en el reino de Dios es mayor que él. 
 @29 Y todo el pueblo y los publicanos, cuando lo oyeron, justificaron a Dios, bautizándose con el bautismo de Juan.
 @30 Mas los fariseos y los intérpretes de la ley desecharon los designios de Dios respecto de sí mismos, no siendo bautizados por Juan.
 @31 Y dijo el Señor: ¿A qué, pues, compararé los hombres de esta generación, y a qué son semejantes? 
-@32  Semejantes son a los muchachos sentados en la plaza, que dan voces unos a otros y dicen: Os tocamos flauta, y no bailasteis; os endechamos, y no llorasteis. 
-@33  Porque vino Juan el Bautista, que ni comía pan ni bebía vino, y decís: Demonio tiene. 
-@34  Vino el Hijo del Hombre, que come y bebe, y decís: Este es un hombre comilón y bebedor de vino, amigo de publicanos y de pecadores. 
-@35  Mas la sabiduría es justificada por todos sus hijos. 
+@32 Semejantes son a los muchachos sentados en la plaza, que dan voces unos a otros y dicen: Os tocamos flauta, y no bailasteis; os endechamos, y no llorasteis. 
+@33 Porque vino Juan el Bautista, que ni comía pan ni bebía vino, y decís: Demonio tiene. 
+@34 Vino el Hijo del Hombre, que come y bebe, y decís: Este es un hombre comilón y bebedor de vino, amigo de publicanos y de pecadores. 
+@35 Mas la sabiduría es justificada por todos sus hijos. 
 @36 Uno de los fariseos rogó a Jesús que comiese con él. Y habiendo entrado en casa del fariseo, se sentó a la mesa.
 @37 Entonces una mujer de la ciudad, que era pecadora, al saber que Jesús estaba a la mesa en casa del fariseo, trajo un frasco de alabastro con perfume;
 @38 y estando detrás de él a sus pies, llorando, comenzó a regar con lágrimas sus pies, y los enjugaba con sus cabellos; y besaba sus pies, y los ungía con el perfume.
 @39 Cuando vio esto el fariseo que le había convidado, dijo para sí: Este, si fuera profeta, conocería quién y qué clase de mujer es la que le toca, que es pecadora.
 @40 Entonces respondiendo Jesús, le dijo: Simón, una cosa tengo que decirte. Y él le dijo: Di, Maestro.
-@41  Un acreedor tenía dos deudores: el uno le debía quinientos denarios, y el otro cincuenta; 
-@42  y no teniendo ellos con qué pagar, perdonó a ambos. Di, pues, ¿cuál de ellos le amará más? 
+@41 Un acreedor tenía dos deudores: el uno le debía quinientos denarios, y el otro cincuenta; 
+@42 y no teniendo ellos con qué pagar, perdonó a ambos. Di, pues, ¿cuál de ellos le amará más? 
 @43 Respondiendo Simón, dijo: Pienso que aquel a quien perdonó más. Y él le dijo: Rectamente has juzgado. 
 @44 Y vuelto a la mujer, dijo a Simón: ¿Ves esta mujer? Entré en tu casa, y no me diste agua para mis pies; mas ésta ha regado mis pies con lágrimas, y los ha enjugado con sus cabellos. 
-@45  No me diste beso; mas ésta, desde que entré, no ha cesado de besar mis pies. 
-@46  No ungiste mi cabeza con aceite; mas ésta ha ungido con perfume mis pies. 
-@47  Por lo cual te digo que sus muchos pecados le son perdonados, porque amó mucho; mas aquel a quien se le perdona poco, poco ama. 
+@45 No me diste beso; mas ésta, desde que entré, no ha cesado de besar mis pies. 
+@46 No ungiste mi cabeza con aceite; mas ésta ha ungido con perfume mis pies. 
+@47 Por lo cual te digo que sus muchos pecados le son perdonados, porque amó mucho; mas aquel a quien se le perdona poco, poco ama. 
 @48 Y a ella le dijo: Tus pecados te son perdonados. 
 @49 Y los que estaban juntamente sentados a la mesa, comenzaron a decir entre sí: ¿Quién es éste, que también perdona pecados?
 @50 Pero él dijo a la mujer: Tu fe te ha salvado, vé en paz. 
@@ -369,20 +369,20 @@
 @2 y algunas mujeres que habían sido sanadas de espíritus malos y de enfermedades: María, que se llamaba Magdalena, de la que habían salido siete demonios,
 @3 Juana, mujer de Chuza intendente de Herodes, y Susana, y otras muchas que le servían de sus bienes.
 @4 Juntándose una gran multitud, y los que de cada ciudad venían a él, les dijo por parábola:
-@5  El sembrador salió a sembrar su semilla; y mientras sembraba, una parte cayó junto al camino, y fue hollada, y las aves del cielo la comieron. 
-@6  Otra parte cayó sobre la piedra; y nacida, se secó, porque no tenía humedad. 
-@7  Otra parte cayó entre espinos, y los espinos que nacieron juntamente con ella, la ahogaron. 
-@8  Y otra parte cayó en buena tierra, y nació y llevó fruto a ciento por uno. Hablando estas cosas, decía a gran voz: El que tiene oídos para oír, oiga. 
+@5 El sembrador salió a sembrar su semilla; y mientras sembraba, una parte cayó junto al camino, y fue hollada, y las aves del cielo la comieron. 
+@6 Otra parte cayó sobre la piedra; y nacida, se secó, porque no tenía humedad. 
+@7 Otra parte cayó entre espinos, y los espinos que nacieron juntamente con ella, la ahogaron. 
+@8 Y otra parte cayó en buena tierra, y nació y llevó fruto a ciento por uno. Hablando estas cosas, decía a gran voz: El que tiene oídos para oír, oiga. 
 @9 Y sus discípulos le preguntaron, diciendo: ¿Qué significa esta parábola?
 @10 Y él dijo: A vosotros os es dado conocer los misterios del reino de Dios; pero a los otros por parábolas, para que viendo no vean, y oyendo no entiendan. 
-@11  Esta es, pues, la parábola: La semilla es la palabra de Dios. 
-@12  Y los de junto al camino son los que oyen, y luego viene el diablo y quita de su corazón la palabra, para que no crean y se salven. 
-@13  Los de sobre la piedra son los que habiendo oído, reciben la palabra con gozo; pero éstos no tienen raíces; creen por algún tiempo, y en el tiempo de la prueba se apartan. 
-@14  La que cayó entre espinos, éstos son los que oyen, pero yéndose, son ahogados por los afanes y las riquezas y los placeres de la vida, y no llevan fruto. 
-@15  Mas la que cayó en buena tierra, éstos son los que con corazón bueno y recto retienen la palabra oída, y dan fruto con perseverancia. 
-@16  Nadie que enciende una luz la cubre con una vasija, ni la pone debajo de la cama, sino que la pone en un candelero para que los que entran vean la luz. 
-@17  Porque nada hay oculto, que no haya de ser manifestado; ni escondido, que no haya de ser conocido, y de salir a luz. 
-@18  Mirad, pues, cómo oís; porque a todo el que tiene, se le dará; y a todo el que no tiene, aun lo que piensa tener se le quitará. 
+@11 Esta es, pues, la parábola: La semilla es la palabra de Dios. 
+@12 Y los de junto al camino son los que oyen, y luego viene el diablo y quita de su corazón la palabra, para que no crean y se salven. 
+@13 Los de sobre la piedra son los que habiendo oído, reciben la palabra con gozo; pero éstos no tienen raíces; creen por algún tiempo, y en el tiempo de la prueba se apartan. 
+@14 La que cayó entre espinos, éstos son los que oyen, pero yéndose, son ahogados por los afanes y las riquezas y los placeres de la vida, y no llevan fruto. 
+@15 Mas la que cayó en buena tierra, éstos son los que con corazón bueno y recto retienen la palabra oída, y dan fruto con perseverancia. 
+@16 Nadie que enciende una luz la cubre con una vasija, ni la pone debajo de la cama, sino que la pone en un candelero para que los que entran vean la luz. 
+@17 Porque nada hay oculto, que no haya de ser manifestado; ni escondido, que no haya de ser conocido, y de salir a luz. 
+@18 Mirad, pues, cómo oís; porque a todo el que tiene, se le dará; y a todo el que no tiene, aun lo que piensa tener se le quitará. 
 @19 Entonces su madre y sus hermanos vinieron a él; pero no podían llegar hasta él por causa de la multitud.
 @20 Y se le avisó, diciendo: Tu madre y tus hermanos están fuera y quieren verte.
 @21 El entonces respondiendo, les dijo: Mi madre y mis hermanos son los que oyen la palabra de Dios, y la hacen. 
@@ -403,7 +403,7 @@
 @36 Y los que lo habían visto, les contaron cómo había sido salvado el endemoniado.
 @37 Entonces toda la multitud de la región alrededor de los gadarenos le rogó que se marchase de ellos, pues tenían gran temor. Y Jesús, entrando en la barca, se volvió.
 @38 Y el hombre de quien habían salido los demonios le rogaba que le dejase estar con él; pero Jesús le despidió, diciendo:
-@39  Vuélvete a tu casa, y cuenta cuán grandes cosas ha hecho Dios contigo. Y él se fue, publicando por toda la ciudad cuán grandes cosas había hecho Jesús con él.
+@39 Vuélvete a tu casa, y cuenta cuán grandes cosas ha hecho Dios contigo. Y él se fue, publicando por toda la ciudad cuán grandes cosas había hecho Jesús con él.
 @40 Cuando volvió Jesús, le recibió la multitud con gozo; porque todos le esperaban.
 @41 Entonces vino un varón llamado Jairo, que era principal de la sinagoga, y postrándose a los pies de Jesús, le rogaba que entrase en su casa;
 @42 porque tenía una hija única, como de doce años, que se estaba muriendo. Y mientras iba, la multitud le oprimía.
@@ -426,8 +426,8 @@
 @1 Habiendo reunido a sus doce discípulos, les dio poder y autoridad sobre todos los demonios, y para sanar enfermedades.
 @2 Y los envió a predicar el reino de Dios, y a sanar a los enfermos.
 @3 Y les dijo: No toméis nada para el camino, ni bordón, ni alforja, ni pan, ni dinero; ni llevéis dos túnicas. 
-@4  Y en cualquier casa donde entréis, quedad allí, y de allí salid. 
-@5  Y dondequiera que no os recibieren, salid de aquella ciudad, y sacudid el polvo de vuestros pies en testimonio contra ellos. 
+@4 Y en cualquier casa donde entréis, quedad allí, y de allí salid. 
+@5 Y dondequiera que no os recibieren, salid de aquella ciudad, y sacudid el polvo de vuestros pies en testimonio contra ellos. 
 @6 Y saliendo, pasaban por todas las aldeas, anunciando el evangelio y sanando por todas partes.
 @7 Herodes el tetrarca oyó de todas las cosas que hacía Jesús; y estaba perplejo, porque decían algunos: Juan ha resucitado de los muertos;
 @8 otros: Elías ha aparecido; y otros: Algún profeta de los antiguos ha resucitado.
@@ -446,10 +446,10 @@
 @21 Pero él les mandó que a nadie dijesen esto, encargándoselo rigurosamente,
 @22 y diciendo: Es necesario que el Hijo del Hombre padezca muchas cosas, y sea desechado por los ancianos, por los principales sacerdotes y por los escribas, y que sea muerto, y resucite al tercer día. 
 @23 Y decía a todos: Si alguno quiere venir en pos de mí, niéguese a sí mismo, tome su cruz cada día, y sígame. 
-@24  Porque todo el que quiera salvar su vida, la perderá; y todo el que pierda su vida por causa de mí, éste la salvará. 
-@25  Pues ¿qué aprovecha al hombre, si gana todo el mundo, y se destruye o se pierde a sí mismo? 
-@26  Porque el que se avergonzare de mí y de mis palabras, de éste se avergonzará el Hijo del Hombre cuando venga en su gloria, y en la del Padre, y de los santos ángeles. 
-@27  Pero os digo en verdad, que hay algunos de los que están aquí, que no gustarán la muerte hasta que vean el reino de Dios. 
+@24 Porque todo el que quiera salvar su vida, la perderá; y todo el que pierda su vida por causa de mí, éste la salvará. 
+@25 Pues ¿qué aprovecha al hombre, si gana todo el mundo, y se destruye o se pierde a sí mismo? 
+@26 Porque el que se avergonzare de mí y de mis palabras, de éste se avergonzará el Hijo del Hombre cuando venga en su gloria, y en la del Padre, y de los santos ángeles. 
+@27 Pero os digo en verdad, que hay algunos de los que están aquí, que no gustarán la muerte hasta que vean el reino de Dios. 
 @28 Aconteció como ocho días después de estas palabras, que tomó a Pedro, a Juan y a Jacobo, y subió al monte a orar.
 @29 Y entre tanto que oraba, la apariencia de su rostro se hizo otra, y su vestido blanco y resplandeciente.
 @30 Y he aquí dos varones que hablaban con él, los cuales eran Moisés y Elías;
@@ -466,7 +466,7 @@
 @41 Respondiendo Jesús, dijo: ¡Oh generación incrédula y perversa! ¿Hasta cuándo he de estar con vosotros, y os he de soportar? Trae acá a tu hijo. 
 @42 Y mientras se acercaba el muchacho, el demonio le derribó y le sacudió con violencia; pero Jesús reprendió al espíritu inmundo, y sanó al muchacho, y se lo devolvió a su padre.
 @43 Y todos se admiraban de la grandeza de Dios. Jesús anuncia otra vez su muerte Y maravillándose todos de todas las cosas que hacía, dijo a sus discípulos:
-@44  Haced que os penetren bien en los oídos estas palabras; porque acontecerá que el Hijo del Hombre será entregado en manos de hombres. 
+@44 Haced que os penetren bien en los oídos estas palabras; porque acontecerá que el Hijo del Hombre será entregado en manos de hombres. 
 @45 Mas ellos no entendían estas palabras, pues les estaban veladas para que no las entendiesen; y temían preguntarle sobre esas palabras.
 @46 Entonces entraron en discusión sobre quién de ellos sería el mayor.
 @47 Y Jesús, percibiendo los pensamientos de sus corazones, tomó a un niño y lo puso junto a sí,
@@ -478,7 +478,7 @@
 @53 Mas no le recibieron, porque su aspecto era como de ir a Jerusalén.
 @54 Viendo esto sus discípulos Jacobo y Juan, dijeron: Señor, ¿quieres que mandemos que descienda fuego del cielo, como hizo Elías, y los consuma?
 @55 Entonces volviéndose él, los reprendió, diciendo: Vosotros no sabéis de qué espíritu sois; 
-@56  porque el Hijo del Hombre no ha venido para perder las almas de los hombres, sino para salvarlas. Y se fueron a otra aldea.
+@56 porque el Hijo del Hombre no ha venido para perder las almas de los hombres, sino para salvarlas. Y se fueron a otra aldea.
 @57 Yendo ellos, uno le dijo en el camino: Señor, te seguiré adondequiera que vayas.
 @58 Y le dijo Jesús: Las zorras tienen guaridas, y las aves de los cielos nidos; mas el Hijo del Hombre no tiene dónde recostar la cabeza. 
 @59 Y dijo a otro: Sígueme. El le dijo: Señor, déjame que primero vaya y entierre a mi padre.
@@ -489,200 +489,200 @@
 # 10
 @1 Después de estas cosas, designó el Señor también a otros setenta, a quienes envió de dos en dos delante de él a toda ciudad y lugar adonde él había de ir.
 @2 Y les decía: La mies a la verdad es mucha, mas los obreros pocos; por tanto, rogad al Señor de la mies que envíe obreros a su mies. 
-@3  Id; he aquí yo os envío como corderos en medio de lobos. 
-@4  No llevéis bolsa, ni alforja, ni calzado; y a nadie saludéis por el camino. 
-@5  En cualquier casa donde entréis, primeramente decid: Paz sea a esta casa. 
-@6  Y si hubiere allí algún hijo de paz, vuestra paz reposará sobre él; y si no, se volverá a vosotros. 
-@7  Y posad en aquella misma casa, comiendo y bebiendo lo que os den; porque el obrero es digno de su salario. No os paséis de casa en casa. 
-@8  En cualquier ciudad donde entréis, y os reciban, comed lo que os pongan delante; 
-@9  y sanad a los enfermos que en ella haya, y decidles: Se ha acercado a vosotros el reino de Dios. 
-@10  Mas en cualquier ciudad donde entréis, y no os reciban, saliendo por sus calles, decid: 
-@11  Aun el polvo de vuestra ciudad, que se ha pegado a nuestros pies, lo sacudimos contra vosotros. Pero esto sabed, que el reino de Dios se ha acercado a vosotros. 
-@12  Y os digo que en aquel día será más tolerable el castigo para Sodoma, que para aquella ciudad. 
-@13  ¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! que si en Tiro y en Sidón se hubieran hecho los milagros que se han hecho en vosotras, tiempo ha que sentadas en cilicio y ceniza, se habrían arrepentido. 
-@14  Por tanto, en el juicio será más tolerable el castigo para Tiro y Sidón, que para vosotras. 
-@15  Y tú, Capernaum, que hasta los cielos eres levantada, hasta el Hades serás abatida. 
-@16  El que a vosotros oye, a mí me oye; y el que a vosotros desecha, a mí me desecha; y el que me desecha a mí, desecha al que me envió. 
+@3 Id; he aquí yo os envío como corderos en medio de lobos. 
+@4 No llevéis bolsa, ni alforja, ni calzado; y a nadie saludéis por el camino. 
+@5 En cualquier casa donde entréis, primeramente decid: Paz sea a esta casa. 
+@6 Y si hubiere allí algún hijo de paz, vuestra paz reposará sobre él; y si no, se volverá a vosotros. 
+@7 Y posad en aquella misma casa, comiendo y bebiendo lo que os den; porque el obrero es digno de su salario. No os paséis de casa en casa. 
+@8 En cualquier ciudad donde entréis, y os reciban, comed lo que os pongan delante; 
+@9 y sanad a los enfermos que en ella haya, y decidles: Se ha acercado a vosotros el reino de Dios. 
+@10 Mas en cualquier ciudad donde entréis, y no os reciban, saliendo por sus calles, decid: 
+@11 Aun el polvo de vuestra ciudad, que se ha pegado a nuestros pies, lo sacudimos contra vosotros. Pero esto sabed, que el reino de Dios se ha acercado a vosotros. 
+@12 Y os digo que en aquel día será más tolerable el castigo para Sodoma, que para aquella ciudad. 
+@13 ¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! que si en Tiro y en Sidón se hubieran hecho los milagros que se han hecho en vosotras, tiempo ha que sentadas en cilicio y ceniza, se habrían arrepentido. 
+@14 Por tanto, en el juicio será más tolerable el castigo para Tiro y Sidón, que para vosotras. 
+@15 Y tú, Capernaum, que hasta los cielos eres levantada, hasta el Hades serás abatida. 
+@16 El que a vosotros oye, a mí me oye; y el que a vosotros desecha, a mí me desecha; y el que me desecha a mí, desecha al que me envió. 
 @17 Volvieron los setenta con gozo, diciendo: Señor, aun los demonios se nos sujetan en tu nombre.
 @18 Y les dijo: Yo veía a Satanás caer del cielo como un rayo. 
-@19  He aquí os doy potestad de hollar serpientes y escorpiones, y sobre toda fuerza del enemigo, y nada os dañará. 
-@20  Pero no os regocijéis de que los espíritus se os sujetan, sino regocijaos de que vuestros nombres están escritos en los cielos. 
+@19 He aquí os doy potestad de hollar serpientes y escorpiones, y sobre toda fuerza del enemigo, y nada os dañará. 
+@20 Pero no os regocijéis de que los espíritus se os sujetan, sino regocijaos de que vuestros nombres están escritos en los cielos. 
 @21 En aquella misma hora Jesús se regocijó en el Espíritu, y dijo: Yo te alabo, oh Padre, Señor del cielo y de la tierra, porque escondiste estas cosas de los sabios y entendidos, y las has revelado a los niños. Sí, Padre, porque así te agradó. 
-@22  Todas las cosas me fueron entregadas por mi Padre; y nadie conoce quién es el Hijo sino el Padre; ni quién es el Padre, sino el Hijo, y aquel a quien el Hijo lo quiera revelar. 
+@22 Todas las cosas me fueron entregadas por mi Padre; y nadie conoce quién es el Hijo sino el Padre; ni quién es el Padre, sino el Hijo, y aquel a quien el Hijo lo quiera revelar. 
 @23 Y volviéndose a los discípulos, les dijo aparte: Bienaventurados los ojos que ven lo que vosotros veis; 
-@24  porque os digo que muchos profetas y reyes desearon ver lo que vosotros veis, y no lo vieron; y oír lo que oís, y no lo oyeron. 
+@24 porque os digo que muchos profetas y reyes desearon ver lo que vosotros veis, y no lo vieron; y oír lo que oís, y no lo oyeron. 
 @25 Y he aquí un intérprete de la ley se levantó y dijo, para probarle: Maestro, ¿haciendo qué cosa heredaré la vida eterna?
 @26 El le dijo: ¿Qué está escrito en la ley? ¿Cómo lees? 
 @27 Aquél, respondiendo, dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con todas tus fuerzas, y con toda tu mente; y a tu prójimo como a ti mismo.
 @28 Y le dijo: Bien has respondido; haz esto, y vivirás. 
 @29 Pero él, queriendo justificarse a sí mismo, dijo a Jesús: ¿Y quién es mi prójimo?
 @30 Respondiendo Jesús, dijo: Un hombre descendía de Jerusalén a Jericó, y cayó en manos de ladrones, los cuales le despojaron; e hiriéndole, se fueron, dejándole medio muerto. 
-@31  Aconteció que descendió un sacerdote por aquel camino, y viéndole, pasó de largo. 
-@32  Asimismo un levita, llegando cerca de aquel lugar, y viéndole, pasó de largo. 
-@33  Pero un samaritano, que iba de camino, vino cerca de él, y viéndole, fue movido a misericordia; 
-@34  y acercándose, vendó sus heridas, echándoles aceite y vino; y poniéndole en su cabalgadura, lo llevó al mesón, y cuidó de él. 
-@35  Otro día al partir, sacó dos denarios, y los dio al mesonero, y le dijo: Cuídamele; y todo lo que gastes de más, yo te lo pagaré cuando regrese. 
-@36  ¿Quién, pues, de estos tres te parece que fue el prójimo del que cayó en manos de los ladrones? 
+@31 Aconteció que descendió un sacerdote por aquel camino, y viéndole, pasó de largo. 
+@32 Asimismo un levita, llegando cerca de aquel lugar, y viéndole, pasó de largo. 
+@33 Pero un samaritano, que iba de camino, vino cerca de él, y viéndole, fue movido a misericordia; 
+@34 y acercándose, vendó sus heridas, echándoles aceite y vino; y poniéndole en su cabalgadura, lo llevó al mesón, y cuidó de él. 
+@35 Otro día al partir, sacó dos denarios, y los dio al mesonero, y le dijo: Cuídamele; y todo lo que gastes de más, yo te lo pagaré cuando regrese. 
+@36 ¿Quién, pues, de estos tres te parece que fue el prójimo del que cayó en manos de los ladrones? 
 @37 El dijo: El que usó de misericordia con él. Entonces Jesús le dijo: Ve, y haz tú lo mismo. 
 @38 Aconteció que yendo de camino, entró en una aldea; y una mujer llamada Marta le recibió en su casa.
 @39 Esta tenía una hermana que se llamaba María, la cual, sentándose a los pies de Jesús, oía su palabra.
 @40 Pero Marta se preocupaba con muchos quehaceres, y acercándose, dijo: Señor, ¿no te da cuidado que mi hermana me deje servir sola? Dile, pues, que me ayude.
 @41 Respondiendo Jesús, le dijo: Marta, Marta, afanada y turbada estás con muchas cosas. 
-@42  Pero sólo una cosa es necesaria; y María ha escogido la buena parte, la cual no le será quitada. 
+@42 Pero sólo una cosa es necesaria; y María ha escogido la buena parte, la cual no le será quitada. 
 
 # 11
 @1 Aconteció que estaba Jesús orando en un lugar, y cuando terminó, uno de sus discípulos le dijo: Señor, enséñanos a orar, como también Juan enseñó a sus discípulos.
 @2 Y les dijo: Cuando oréis, decid: Padre nuestro que estás en los cielos, santificado sea tu nombre. Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra. 
-@3  El pan nuestro de cada día, dánoslo hoy. 
-@4  Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben. Y no nos metas en tentación, mas líbranos del mal. 
+@3 El pan nuestro de cada día, dánoslo hoy. 
+@4 Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben. Y no nos metas en tentación, mas líbranos del mal. 
 @5 Les dijo también: ¿Quién de vosotros que tenga un amigo, va a él a medianoche y le dice: Amigo, préstame tres panes, 
-@6  porque un amigo mío ha venido a mí de viaje, y no tengo qué ponerle delante; 
-@7  y aquél, respondiendo desde adentro, le dice: No me molestes; la puerta ya está cerrada, y mis niños están conmigo en cama; no puedo levantarme, y dártelos? 
-@8  Os digo, que aunque no se levante a dárselos por ser su amigo, sin embargo por su importunidad se levantará y le dará todo lo que necesite. 
-@9  Y yo os digo: Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá. 
-@10  Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá. 
-@11  ¿Qué padre de vosotros, si su hijo le pide pan, le dará una piedra? ¿o si pescado, en lugar de pescado, le dará una serpiente? 
-@12  ¿O si le pide un huevo, le dará un escorpión? 
-@13  Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo a los que se lo pidan? 
+@6 porque un amigo mío ha venido a mí de viaje, y no tengo qué ponerle delante; 
+@7 y aquél, respondiendo desde adentro, le dice: No me molestes; la puerta ya está cerrada, y mis niños están conmigo en cama; no puedo levantarme, y dártelos? 
+@8 Os digo, que aunque no se levante a dárselos por ser su amigo, sin embargo por su importunidad se levantará y le dará todo lo que necesite. 
+@9 Y yo os digo: Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá. 
+@10 Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá. 
+@11 ¿Qué padre de vosotros, si su hijo le pide pan, le dará una piedra? ¿o si pescado, en lugar de pescado, le dará una serpiente? 
+@12 ¿O si le pide un huevo, le dará un escorpión? 
+@13 Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo a los que se lo pidan? 
 @14 Estaba Jesús echando fuera un demonio, que era mudo; y aconteció que salido el demonio, el mudo habló; y la gente se maravilló.
 @15 Pero algunos de ellos decían: Por Beelzebú, príncipe de los demonios, echa fuera los demonios.
 @16 Otros, para tentarle, le pedían señal del cielo.
 @17 Mas él, conociendo los pensamientos de ellos, les dijo: Todo reino dividido contra sí mismo, es asolado; y una casa dividida contra sí misma, cae. 
-@18  Y si también Satanás está dividido contra sí mismo, ¿cómo permanecerá su reino? ya que decís que por Beelzebú echo yo fuera los demonios. 
-@19  Pues si yo echo fuera los demonios por Beelzebú, ¿vuestros hijos por quién los echan? Por tanto, ellos serán vuestros jueces. 
-@20  Mas si por el dedo de Dios echo yo fuera los demonios, ciertamente el reino de Dios ha llegado a vosotros. 
-@21  Cuando el hombre fuerte armado guarda su palacio, en paz está lo que posee. 
-@22  Pero cuando viene otro más fuerte que él y le vence, le quita todas sus armas en que confiaba, y reparte el botín. 
-@23  El que no es conmigo, contra mí es; y el que conmigo no recoge, desparrama. 
+@18 Y si también Satanás está dividido contra sí mismo, ¿cómo permanecerá su reino? ya que decís que por Beelzebú echo yo fuera los demonios. 
+@19 Pues si yo echo fuera los demonios por Beelzebú, ¿vuestros hijos por quién los echan? Por tanto, ellos serán vuestros jueces. 
+@20 Mas si por el dedo de Dios echo yo fuera los demonios, ciertamente el reino de Dios ha llegado a vosotros. 
+@21 Cuando el hombre fuerte armado guarda su palacio, en paz está lo que posee. 
+@22 Pero cuando viene otro más fuerte que él y le vence, le quita todas sus armas en que confiaba, y reparte el botín. 
+@23 El que no es conmigo, contra mí es; y el que conmigo no recoge, desparrama. 
 @24 Cuando el espíritu inmundo sale del hombre, anda por lugares secos, buscando reposo; y no hallándolo, dice: Volveré a mi casa de donde salí.
 @25 Y cuando llega, la halla barrida y adornada.
 @26 Entonces va, y toma otros siete espíritus peores que él; y entrados, moran allí; y el postrer estado de aquel hombre viene a ser peor que el primero.
 @27 Mientras él decía estas cosas, una mujer de entre la multitud levantó la voz y le dijo: Bienaventurado el vientre que te trajo, y los senos que mamaste.
 @28 Y él dijo: Antes bienaventurados los que oyen la palabra de Dios, y la guardan. 
 @29 Y apiñándose las multitudes, comenzó a decir: Esta generación es mala; demanda señal, pero señal no le será dada, sino la señal de Jonás. 
-@30  Porque así como Jonás fue señal a los ninivitas, también lo será el Hijo del Hombre a esta generación. 
-@31  La reina del Sur se levantará en el juicio con los hombres de esta generación, y los condenará; porque ella vino de los fines de la tierra para oír la sabiduría de Salomón, y he aquí más que Salomón en este lugar. 
-@32  Los hombres de Nínive se levantarán en el juicio con esta generación, y la condenarán; porque a la predicación de Jonás se arrepintieron, y he aquí más que Jonás en este lugar. 
-@33  Nadie pone en oculto la luz encendida, ni debajo del almud, sino en el candelero, para que los que entran vean la luz. 
-@34  La lámpara del cuerpo es el ojo; cuando tu ojo es bueno, también todo tu cuerpo está lleno de luz; pero cuando tu ojo es maligno, también tu cuerpo está en tinieblas. 
-@35  Mira pues, no suceda que la luz que en ti hay, sea tinieblas. 
-@36  Así que, si todo tu cuerpo está lleno de luz, no teniendo parte alguna de tinieblas, será todo luminoso, como cuando una lámpara te alumbra con su resplandor. 
+@30 Porque así como Jonás fue señal a los ninivitas, también lo será el Hijo del Hombre a esta generación. 
+@31 La reina del Sur se levantará en el juicio con los hombres de esta generación, y los condenará; porque ella vino de los fines de la tierra para oír la sabiduría de Salomón, y he aquí más que Salomón en este lugar. 
+@32 Los hombres de Nínive se levantarán en el juicio con esta generación, y la condenarán; porque a la predicación de Jonás se arrepintieron, y he aquí más que Jonás en este lugar. 
+@33 Nadie pone en oculto la luz encendida, ni debajo del almud, sino en el candelero, para que los que entran vean la luz. 
+@34 La lámpara del cuerpo es el ojo; cuando tu ojo es bueno, también todo tu cuerpo está lleno de luz; pero cuando tu ojo es maligno, también tu cuerpo está en tinieblas. 
+@35 Mira pues, no suceda que la luz que en ti hay, sea tinieblas. 
+@36 Así que, si todo tu cuerpo está lleno de luz, no teniendo parte alguna de tinieblas, será todo luminoso, como cuando una lámpara te alumbra con su resplandor. 
 @37 Luego que hubo hablado, le rogó un fariseo que comiese con él; y entrando Jesús en la casa, se sentó a la mesa.
 @38 El fariseo, cuando lo vio, se extrañó de que no se hubiese lavado antes de comer.
 @39 Pero el Señor le dijo: Ahora bien, vosotros los fariseos limpiáis lo de fuera del vaso y del plato, pero por dentro estáis llenos de rapacidad y de maldad. 
-@40  Necios, ¿el que hizo lo de fuera, no hizo también lo de adentro? 
-@41  Pero dad limosna de lo que tenéis, y entonces todo os será limpio. 
-@42  Mas ¡ay de vosotros, fariseos! que diezmáis la menta, y la ruda, y toda hortaliza, y pasáis por alto la justicia y el amor de Dios. Esto os era necesario hacer, sin dejar aquello. 
-@43  ¡Ay de vosotros, fariseos! que amáis las primeras sillas en las sinagogas, y las salutaciones en las plazas. 
-@44  ¡Ay de vosotros, escribas y fariseos, hipócritas! que sois como sepulcros que no se ven, y los hombres que andan encima no lo saben. 
+@40 Necios, ¿el que hizo lo de fuera, no hizo también lo de adentro? 
+@41 Pero dad limosna de lo que tenéis, y entonces todo os será limpio. 
+@42 Mas ¡ay de vosotros, fariseos! que diezmáis la menta, y la ruda, y toda hortaliza, y pasáis por alto la justicia y el amor de Dios. Esto os era necesario hacer, sin dejar aquello. 
+@43 ¡Ay de vosotros, fariseos! que amáis las primeras sillas en las sinagogas, y las salutaciones en las plazas. 
+@44 ¡Ay de vosotros, escribas y fariseos, hipócritas! que sois como sepulcros que no se ven, y los hombres que andan encima no lo saben. 
 @45 Respondiendo uno de los intérpretes de la ley, le dijo: Maestro, cuando dices esto, también nos afrentas a nosotros.
 @46 Y él dijo: ¡Ay de vosotros también, intérpretes de la ley! porque cargáis a los hombres con cargas que no pueden llevar, pero vosotros ni aun con un dedo las tocáis. 
-@47  ¡Ay de vosotros, que edificáis los sepulcros de los profetas a quienes mataron vuestros padres! 
-@48  De modo que sois testigos y consentidores de los hechos de vuestros padres; porque a la verdad ellos los mataron, y vosotros edificáis sus sepulcros. 
-@49  Por eso la sabiduría de Dios también dijo: Les enviaré profetas y apóstoles; y de ellos, a unos matarán y a otros perseguirán, 
-@50  para que se demande de esta generación la sangre de todos los profetas que se ha derramado desde la fundación del mundo, 
-@51  desde la sangre de Abel hasta la sangre de Zacarías, que murió entre el altar y el templo; sí, os digo que será demandada de esta generación. 
-@52  ¡Ay de vosotros, intérpretes de la ley! porque habéis quitado la llave de la ciencia; vosotros mismos no entrasteis, y a los que entraban se lo impedisteis. 
+@47 ¡Ay de vosotros, que edificáis los sepulcros de los profetas a quienes mataron vuestros padres! 
+@48 De modo que sois testigos y consentidores de los hechos de vuestros padres; porque a la verdad ellos los mataron, y vosotros edificáis sus sepulcros. 
+@49 Por eso la sabiduría de Dios también dijo: Les enviaré profetas y apóstoles; y de ellos, a unos matarán y a otros perseguirán, 
+@50 para que se demande de esta generación la sangre de todos los profetas que se ha derramado desde la fundación del mundo, 
+@51 desde la sangre de Abel hasta la sangre de Zacarías, que murió entre el altar y el templo; sí, os digo que será demandada de esta generación. 
+@52 ¡Ay de vosotros, intérpretes de la ley! porque habéis quitado la llave de la ciencia; vosotros mismos no entrasteis, y a los que entraban se lo impedisteis. 
 @53 Diciéndoles él estas cosas, los escribas y los fariseos comenzaron a estrecharle en gran manera, y a provocarle a que hablase de muchas cosas;
 @54 acechándole, y procurando cazar alguna palabra de su boca para acusarle.
 
 # 12
 @1 En esto, juntándose por millares la multitud, tanto que unos a otros se atropellaban, comenzó a decir a sus discípulos, primeramente: Guardaos de la levadura de los fariseos, que es la hipocresía. 
-@2  Porque nada hay encubierto, que no haya de descubrirse; ni oculto, que no haya de saberse. 
-@3  Por tanto, todo lo que habéis dicho en tinieblas, a la luz se oirá; y lo que habéis hablado al oído en los aposentos, se proclamará en las azoteas. 
-@4  Mas os digo, amigos míos: No temáis a los que matan el cuerpo, y después nada más pueden hacer. 
-@5  Pero os enseñaré a quién debéis temer: Temed a aquel que después de haber quitado la vida, tiene poder de echar en el infierno; sí, os digo, a éste temed. 
-@6  ¿No se venden cinco pajarillos por dos cuartos? Con todo, ni uno de ellos está olvidado delante de Dios. 
-@7  Pues aun los cabellos de vuestra cabeza están todos contados. No temáis, pues; más valéis vosotros que muchos pajarillos. 
-@8  Os digo que todo aquel que me confesare delante de los hombres, también el Hijo del Hombre le confesará delante de los ángeles de Dios; 
-@9  mas el que me negare delante de los hombres, será negado delante de los ángeles de Dios. 
-@10  A todo aquel que dijere alguna palabra contra el Hijo del Hombre, le será perdonado; pero al que blasfemare contra el Espíritu Santo, no le será perdonado. 
-@11  Cuando os trajeren a las sinagogas, y ante los magistrados y las autoridades, no os preocupéis por cómo o qué habréis de responder, o qué habréis de decir; 
-@12  porque el Espíritu Santo os enseñará en la misma hora lo que debáis decir. 
+@2 Porque nada hay encubierto, que no haya de descubrirse; ni oculto, que no haya de saberse. 
+@3 Por tanto, todo lo que habéis dicho en tinieblas, a la luz se oirá; y lo que habéis hablado al oído en los aposentos, se proclamará en las azoteas. 
+@4 Mas os digo, amigos míos: No temáis a los que matan el cuerpo, y después nada más pueden hacer. 
+@5 Pero os enseñaré a quién debéis temer: Temed a aquel que después de haber quitado la vida, tiene poder de echar en el infierno; sí, os digo, a éste temed. 
+@6 ¿No se venden cinco pajarillos por dos cuartos? Con todo, ni uno de ellos está olvidado delante de Dios. 
+@7 Pues aun los cabellos de vuestra cabeza están todos contados. No temáis, pues; más valéis vosotros que muchos pajarillos. 
+@8 Os digo que todo aquel que me confesare delante de los hombres, también el Hijo del Hombre le confesará delante de los ángeles de Dios; 
+@9 mas el que me negare delante de los hombres, será negado delante de los ángeles de Dios. 
+@10 A todo aquel que dijere alguna palabra contra el Hijo del Hombre, le será perdonado; pero al que blasfemare contra el Espíritu Santo, no le será perdonado. 
+@11 Cuando os trajeren a las sinagogas, y ante los magistrados y las autoridades, no os preocupéis por cómo o qué habréis de responder, o qué habréis de decir; 
+@12 porque el Espíritu Santo os enseñará en la misma hora lo que debáis decir. 
 @13 Le dijo uno de la multitud: Maestro, di a mi hermano que parta conmigo la herencia.
 @14 Mas él le dijo: Hombre, ¿quién me ha puesto sobre vosotros como juez o partidor? 
 @15 Y les dijo: Mirad, y guardaos de toda avaricia; porque la vida del hombre no consiste en la abundancia de los bienes que posee. 
 @16 También les refirió una parábola, diciendo: La heredad de un hombre rico había producido mucho. 
-@17  Y él pensaba dentro de sí, diciendo: ¿Qué haré, porque no tengo dónde guardar mis frutos? 
-@18  Y dijo: Esto haré: derribaré mis graneros, y los edificaré mayores, y allí guardaré todos mis frutos y mis bienes; 
-@19  y diré a mi alma: Alma, muchos bienes tienes guardados para muchos años; repósate, come, bebe, regocíjate. 
-@20  Pero Dios le dijo: Necio, esta noche vienen a pedirte tu alma; y lo que has provisto, ¿de quién será? 
-@21  Así es el que hace para sí tesoro, y no es rico para con Dios. 
+@17 Y él pensaba dentro de sí, diciendo: ¿Qué haré, porque no tengo dónde guardar mis frutos? 
+@18 Y dijo: Esto haré: derribaré mis graneros, y los edificaré mayores, y allí guardaré todos mis frutos y mis bienes; 
+@19 y diré a mi alma: Alma, muchos bienes tienes guardados para muchos años; repósate, come, bebe, regocíjate. 
+@20 Pero Dios le dijo: Necio, esta noche vienen a pedirte tu alma; y lo que has provisto, ¿de quién será? 
+@21 Así es el que hace para sí tesoro, y no es rico para con Dios. 
 @22 Dijo luego a sus discípulos: Por tanto os digo: No os afanéis por vuestra vida, qué comeréis; ni por el cuerpo, qué vestiréis. 
-@23  La vida es más que la comida, y el cuerpo que el vestido. 
-@24  Considerad los cuervos, que ni siembran, ni siegan; que ni tienen despensa, ni granero, y Dios los alimenta. ¿No valéis vosotros mucho más que las aves? 
-@25  ¿Y quién de vosotros podrá con afanarse añadir a su estatura uncodo? 
-@26  Pues si no podéis ni aun lo que es menos, ¿por qué os afanáis por lo demás? 
-@27  Considerad los lirios, cómo crecen; no trabajan, ni hilan; mas os digo, que ni aun Salomón con toda su gloria se vistió como uno de ellos. 
-@28  Y si así viste Dios la hierba que hoy está en el campo, y mañana es echada al horno, ¿cuánto más a vosotros, hombres de poca fe? 
-@29  Vosotros, pues, no os preocupéis por lo que habéis de comer, ni por lo que habéis de beber, ni estéis en ansiosa inquietud. 
-@30  Porque todas estas cosas buscan las gentes del mundo; pero vuestro Padre sabe que tenéis necesidad de estas cosas. 
-@31  Mas buscad el reino de Dios, y todas estas cosas os serán añadidas. 
-@32  No temáis, manada pequeña, porque a vuestro Padre le ha placido daros el reino. 
-@33  Vended lo que poseéis, y dad limosna; haceos bolsas que no se envejezcan, tesoro en los cielos que no se agote, donde ladrón no llega, ni polilla destruye. 
-@34  Porque donde está vuestro tesoro, allí estará también vuestro corazón. 
-@35  Estén ceñidos vuestros lomos, y vuestras lámparas encendidas; 
-@36  y vosotros sed semejantes a hombres que aguardan a que su señor regrese de las bodas, para que cuando llegue y llame, le abran en seguida. 
-@37  Bienaventurados aquellos siervos a los cuales su señor, cuando venga, halle velando; de cierto os digo que se ceñirá, y hará que se sienten a la mesa, y vendrá a servirles. 
-@38  Y aunque venga a la segunda vigilia, y aunque venga a la tercera vigilia, si los hallare así, bienaventurados son aquellos siervos. 
-@39  Pero sabed esto, que si supiese el padre de familia a qué hora el ladrón había de venir, velaría ciertamente, y no dejaría minar su casa. 
-@40  Vosotros, pues, también, estad preparados, porque a la hora que no penséis, el Hijo del Hombre vendrá. 
+@23 La vida es más que la comida, y el cuerpo que el vestido. 
+@24 Considerad los cuervos, que ni siembran, ni siegan; que ni tienen despensa, ni granero, y Dios los alimenta. ¿No valéis vosotros mucho más que las aves? 
+@25 ¿Y quién de vosotros podrá con afanarse añadir a su estatura uncodo? 
+@26 Pues si no podéis ni aun lo que es menos, ¿por qué os afanáis por lo demás? 
+@27 Considerad los lirios, cómo crecen; no trabajan, ni hilan; mas os digo, que ni aun Salomón con toda su gloria se vistió como uno de ellos. 
+@28 Y si así viste Dios la hierba que hoy está en el campo, y mañana es echada al horno, ¿cuánto más a vosotros, hombres de poca fe? 
+@29 Vosotros, pues, no os preocupéis por lo que habéis de comer, ni por lo que habéis de beber, ni estéis en ansiosa inquietud. 
+@30 Porque todas estas cosas buscan las gentes del mundo; pero vuestro Padre sabe que tenéis necesidad de estas cosas. 
+@31 Mas buscad el reino de Dios, y todas estas cosas os serán añadidas. 
+@32 No temáis, manada pequeña, porque a vuestro Padre le ha placido daros el reino. 
+@33 Vended lo que poseéis, y dad limosna; haceos bolsas que no se envejezcan, tesoro en los cielos que no se agote, donde ladrón no llega, ni polilla destruye. 
+@34 Porque donde está vuestro tesoro, allí estará también vuestro corazón. 
+@35 Estén ceñidos vuestros lomos, y vuestras lámparas encendidas; 
+@36 y vosotros sed semejantes a hombres que aguardan a que su señor regrese de las bodas, para que cuando llegue y llame, le abran en seguida. 
+@37 Bienaventurados aquellos siervos a los cuales su señor, cuando venga, halle velando; de cierto os digo que se ceñirá, y hará que se sienten a la mesa, y vendrá a servirles. 
+@38 Y aunque venga a la segunda vigilia, y aunque venga a la tercera vigilia, si los hallare así, bienaventurados son aquellos siervos. 
+@39 Pero sabed esto, que si supiese el padre de familia a qué hora el ladrón había de venir, velaría ciertamente, y no dejaría minar su casa. 
+@40 Vosotros, pues, también, estad preparados, porque a la hora que no penséis, el Hijo del Hombre vendrá. 
 @41 Entonces Pedro le dijo: Señor, ¿dices esta parábola a nosotros, o también a todos?
 @42 Y dijo el Señor: ¿Quién es el mayordomo fiel y prudente al cual su señor pondrá sobre su casa, para que a tiempo les dé su ración? 
-@43  Bienaventurado aquel siervo al cual, cuando su señor venga, le halle haciendo así. 
-@44  En verdad os digo que le pondrá sobre todos sus bienes. 
-@45  Mas si aquel siervo dijere en su corazón: Mi señor tarda en venir; y comenzare a golpear a los criados y a las criadas, y a comer y beber y embriagarse, 
-@46  vendrá el señor de aquel siervo en día que éste no espera, y a la hora que no sabe, y le castigará duramente, y le pondrá con los infieles. 
-@47  Aquel siervo que conociendo la voluntad de su señor, no se preparó, ni hizo conforme a su voluntad, recibirá muchos azotes. 
-@48  Mas el que sin conocerla hizo cosas dignas de azotes, será azotado poco; porque a todo aquel a quien se haya dado mucho, mucho se le demandará; y al que mucho se le haya confiado, más se le pedirá. 
-@49  Fuego vine a echar en la tierra; ¿y qué quiero, si ya se ha encendido? 
-@50  De un bautismo tengo que ser bautizado; y ¡cómo me angustio hasta que se cumpla! 
-@51  ¿Pensáis que he venido para dar paz en la tierra? Os digo: No, sino disensión. 
-@52  Porque de aquí en adelante, cinco en una familia estarán divididos, tres contra dos, y dos contra tres. 
-@53  Estará dividido el padre contra el hijo, y el hijo contra el padre; la madre contra la hija, y la hija contra la madre; la suegra contra su nuera, y la nuera contra su suegra. 
+@43 Bienaventurado aquel siervo al cual, cuando su señor venga, le halle haciendo así. 
+@44 En verdad os digo que le pondrá sobre todos sus bienes. 
+@45 Mas si aquel siervo dijere en su corazón: Mi señor tarda en venir; y comenzare a golpear a los criados y a las criadas, y a comer y beber y embriagarse, 
+@46 vendrá el señor de aquel siervo en día que éste no espera, y a la hora que no sabe, y le castigará duramente, y le pondrá con los infieles. 
+@47 Aquel siervo que conociendo la voluntad de su señor, no se preparó, ni hizo conforme a su voluntad, recibirá muchos azotes. 
+@48 Mas el que sin conocerla hizo cosas dignas de azotes, será azotado poco; porque a todo aquel a quien se haya dado mucho, mucho se le demandará; y al que mucho se le haya confiado, más se le pedirá. 
+@49 Fuego vine a echar en la tierra; ¿y qué quiero, si ya se ha encendido? 
+@50 De un bautismo tengo que ser bautizado; y ¡cómo me angustio hasta que se cumpla! 
+@51 ¿Pensáis que he venido para dar paz en la tierra? Os digo: No, sino disensión. 
+@52 Porque de aquí en adelante, cinco en una familia estarán divididos, tres contra dos, y dos contra tres. 
+@53 Estará dividido el padre contra el hijo, y el hijo contra el padre; la madre contra la hija, y la hija contra la madre; la suegra contra su nuera, y la nuera contra su suegra. 
 @54 Decía también a la multitud: Cuando veis la nube que sale del poniente, luego decís: Agua viene; y así sucede. 
-@55  Y cuando sopla el viento del sur, decís: Hará calor; y lo hace. 
-@56  ¡Hipócritas! Sabéis distinguir el aspecto del cielo y de la tierra; ¿y cómo no distinguís este tiempo? 
-@57  ¿Y por qué no juzgáis por vosotros mismos lo que es justo? 
-@58  Cuando vayas al magistrado con tu adversario, procura en el camino arreglarte con él, no sea que te arrastre al juez, y el juez te entregue al alguacil, y el alguacil te meta en la cárcel. 
-@59  Te digo que no saldrás de allí, hasta que hayas pagado aun la última blanca. 
+@55 Y cuando sopla el viento del sur, decís: Hará calor; y lo hace. 
+@56 ¡Hipócritas! Sabéis distinguir el aspecto del cielo y de la tierra; ¿y cómo no distinguís este tiempo? 
+@57 ¿Y por qué no juzgáis por vosotros mismos lo que es justo? 
+@58 Cuando vayas al magistrado con tu adversario, procura en el camino arreglarte con él, no sea que te arrastre al juez, y el juez te entregue al alguacil, y el alguacil te meta en la cárcel. 
+@59 Te digo que no saldrás de allí, hasta que hayas pagado aun la última blanca. 
 
 # 13
 @1 En este mismo tiempo estaban allí algunos que le contaban acerca de los galileos cuya sangre Pilato había mezclado con los sacrificios de ellos.
 @2 Respondiendo Jesús, les dijo: ¿Pensáis que estos galileos, porque padecieron tales cosas, eran más pecadores que todos los galileos? 
-@3  Os digo: No; antes si no os arrepentís, todos pereceréis igualmente. 
-@4  O aquellos dieciocho sobre los cuales cayó la torre en Siloé, y los mató, ¿pensáis que eran más culpables que todos los hombres que habitan en Jerusalén? 
-@5  Os digo: No; antes si no os arrepentís, todos pereceréis igualmente. 
+@3 Os digo: No; antes si no os arrepentís, todos pereceréis igualmente. 
+@4 O aquellos dieciocho sobre los cuales cayó la torre en Siloé, y los mató, ¿pensáis que eran más culpables que todos los hombres que habitan en Jerusalén? 
+@5 Os digo: No; antes si no os arrepentís, todos pereceréis igualmente. 
 @6 Dijo también esta parábola: Tenía un hombre una higuera plantada en su viña, y vino a buscar fruto en ella, y no lo halló. 
-@7  Y dijo al viñador: He aquí, hace tres años que vengo a buscar fruto en esta higuera, y no lo hallo; córtala; ¿para qué inutiliza también la tierra? 
-@8  El entonces, respondiendo, le dijo: Señor, déjala todavía este año, hasta que yo cave alrededor de ella, y la abone. 
-@9  Y si diere fruto, bien; y si no, la cortarás después. 
+@7 Y dijo al viñador: He aquí, hace tres años que vengo a buscar fruto en esta higuera, y no lo hallo; córtala; ¿para qué inutiliza también la tierra? 
+@8 El entonces, respondiendo, le dijo: Señor, déjala todavía este año, hasta que yo cave alrededor de ella, y la abone. 
+@9 Y si diere fruto, bien; y si no, la cortarás después. 
 @10 Enseñaba Jesús en una sinagoga en el día de reposo;
 @11 y había allí una mujer que desde hacía dieciocho años tenía espíritu de enfermedad, y andaba encorvada, y en ninguna manera se podía enderezar.
 @12 Cuando Jesús la vio, la llamó y le dijo: Mujer, eres libre de tu enfermedad. 
 @13 Y puso las manos sobre ella; y ella se enderezó luego, y glorificaba a Dios.
 @14 Pero el principal de la sinagoga, enojado de que Jesús hubiese sanado en el día de reposo, dijo a la gente: Seis días hay en que se debe trabajar; en éstos, pues, venid y sed sanados, y no en día de reposo.
 @15 Entonces el Señor le respondió y dijo: Hipócrita, cada uno de vosotros ¿no desata en el día de reposo su buey o su asno del pesebre y lo lleva a beber? 
-@16  Y a esta hija de Abraham, que Satanás había atado dieciocho años, ¿no se le debía desatar de esta ligadura en el día de reposo? 
+@16 Y a esta hija de Abraham, que Satanás había atado dieciocho años, ¿no se le debía desatar de esta ligadura en el día de reposo? 
 @17 Al decir él estas cosas, se avergonzaban todos sus adversarios; pero todo el pueblo se regocijaba por todas las cosas gloriosas hechas por él.
 @18 Y dijo: ¿A qué es semejante el reino de Dios, y con qué lo compararé? 
-@19  Es semejante al grano de mostaza, que un hombre tomó y sembró en su huerto; y creció, y se hizo árbol grande, y las aves del cielo anidaron en sus ramas. 
+@19 Es semejante al grano de mostaza, que un hombre tomó y sembró en su huerto; y creció, y se hizo árbol grande, y las aves del cielo anidaron en sus ramas. 
 @20 Y volvió a decir: ¿A qué compararé el reino de Dios? 
-@21  Es semejante a la levadura, que una mujer tomó y escondió en tres medidas de harina, hasta que todo hubo fermentado. 
+@21 Es semejante a la levadura, que una mujer tomó y escondió en tres medidas de harina, hasta que todo hubo fermentado. 
 @22 Pasaba Jesús por ciudades y aldeas, enseñando, y encaminándose a Jerusalén.
 @23 Y alguien le dijo: Señor, ¿son pocos los que se salvan? Y él les dijo:
-@24  Esforzaos a entrar por la puerta angosta; porque os digo que muchos procurarán entrar, y no podrán. 
-@25  Después que el padre de familia se haya levantado y cerrado la puerta, y estando fuera empecéis a llamar a la puerta, diciendo: Señor, Señor, ábrenos, él respondiendo os dirá: No sé de dónde sois. 
-@26  Entonces comenzaréis a decir: Delante de ti hemos comido y bebido, y en nuestras plazas enseñaste. 
-@27  Pero os dirá: Os digo que no sé de dónde sois; apartaos de mí todos vosotros, hacedores de maldad. 
-@28  Allí será el llanto y el crujir de dientes, cuando veáis a Abraham, a Isaac, a Jacob y a todos los profetas en el reino de Dios, y vosotros estéis excluidos. 
-@29  Porque vendrán del oriente y del occidente, del norte y del sur, y se sentarán a la mesa en el reino de Dios. 
-@30  Y he aquí hay postreros que serán primeros, y primeros que serán postreros. 
+@24 Esforzaos a entrar por la puerta angosta; porque os digo que muchos procurarán entrar, y no podrán. 
+@25 Después que el padre de familia se haya levantado y cerrado la puerta, y estando fuera empecéis a llamar a la puerta, diciendo: Señor, Señor, ábrenos, él respondiendo os dirá: No sé de dónde sois. 
+@26 Entonces comenzaréis a decir: Delante de ti hemos comido y bebido, y en nuestras plazas enseñaste. 
+@27 Pero os dirá: Os digo que no sé de dónde sois; apartaos de mí todos vosotros, hacedores de maldad. 
+@28 Allí será el llanto y el crujir de dientes, cuando veáis a Abraham, a Isaac, a Jacob y a todos los profetas en el reino de Dios, y vosotros estéis excluidos. 
+@29 Porque vendrán del oriente y del occidente, del norte y del sur, y se sentarán a la mesa en el reino de Dios. 
+@30 Y he aquí hay postreros que serán primeros, y primeros que serán postreros. 
 @31 Aquel mismo día llegaron unos fariseos, diciéndole: Sal, y vete de aquí, porque Herodes te quiere matar.
 @32 Y les dijo: Id, y decid a aquella zorra: He aquí, echo fuera demonios y hago curaciones hoy y mañana, y al tercer día termino mi obra. 
-@33  Sin embargo, es necesario que hoy y mañana y pasado mañana siga mi camino; porque no es posible que un profeta muera fuera de Jerusalén. 
-@34  ¡Jerusalén, Jerusalén, que matas a los profetas, y apedreas a los que te son enviados! ¡Cuántas veces quise juntar a tus hijos, como la gallina a sus polluelos debajo de sus alas, y no quisiste! 
-@35  He aquí, vuestra casa os es dejada desierta; y os digo que no me veréis, hasta que llegue el tiempo en que digáis: Bendito el que viene en nombre del Señor. 
+@33 Sin embargo, es necesario que hoy y mañana y pasado mañana siga mi camino; porque no es posible que un profeta muera fuera de Jerusalén. 
+@34 ¡Jerusalén, Jerusalén, que matas a los profetas, y apedreas a los que te son enviados! ¡Cuántas veces quise juntar a tus hijos, como la gallina a sus polluelos debajo de sus alas, y no quisiste! 
+@35 He aquí, vuestra casa os es dejada desierta; y os digo que no me veréis, hasta que llegue el tiempo en que digáis: Bendito el que viene en nombre del Señor. 
 
 # 14
 @1 Aconteció un día de reposo, que habiendo entrado para comer en casa de un gobernante, que era fariseo, éstos le acechaban.
@@ -692,113 +692,113 @@
 @5 Y dirigiéndose a ellos, dijo: ¿Quién de vosotros, si su asno o su buey cae en algún pozo, no lo sacará inmediatamente, aunque sea en día de reposo? 
 @6 Y no le podían replicar a estas cosas.
 @7 Observando cómo escogían los primeros asientos a la mesa, refirió a los convidados una parábola, diciéndoles:
-@8  Cuando fueres convidado por alguno a bodas, no te sientes en el primer lugar, no sea que otro más distinguido que tú esté convidado por él, 
-@9  y viniendo el que te convidó a ti y a él, te diga: Da lugar a éste; y entonces comiences con vergüenza a ocupar el último lugar. 
-@10  Mas cuando fueres convidado, ve y siéntate en el último lugar, para que cuando venga el que te convidó, te diga: Amigo, sube más arriba; entonces tendrás gloria delante de los que se sientan contigo a la mesa. 
-@11  Porque cualquiera que se enaltece, será humillado; y el que se humilla, será enaltecido. 
+@8 Cuando fueres convidado por alguno a bodas, no te sientes en el primer lugar, no sea que otro más distinguido que tú esté convidado por él, 
+@9 y viniendo el que te convidó a ti y a él, te diga: Da lugar a éste; y entonces comiences con vergüenza a ocupar el último lugar. 
+@10 Mas cuando fueres convidado, ve y siéntate en el último lugar, para que cuando venga el que te convidó, te diga: Amigo, sube más arriba; entonces tendrás gloria delante de los que se sientan contigo a la mesa. 
+@11 Porque cualquiera que se enaltece, será humillado; y el que se humilla, será enaltecido. 
 @12 Dijo también al que le había convidado: Cuando hagas comida o cena, no llames a tus amigos, ni a tus hermanos, ni a tus parientes, ni a vecinos ricos; no sea que ellos a su vez te vuelvan a convidar, y seas recompensado. 
-@13  Mas cuando hagas banquete, llama a los pobres, los mancos, los cojos y los ciegos; 
-@14  y serás bienaventurado; porque ellos no te pueden recompensar, pero te será recompensado en la resurrección de los justos. 
+@13 Mas cuando hagas banquete, llama a los pobres, los mancos, los cojos y los ciegos; 
+@14 y serás bienaventurado; porque ellos no te pueden recompensar, pero te será recompensado en la resurrección de los justos. 
 @15 Oyendo esto uno de los que estaban sentados con él a la mesa, le dijo: Bienaventurado el que coma pan en el reino de Dios.
 @16 Entonces Jesús le dijo: Un hombre hizo una gran cena, y convidó a muchos. 
-@17  Y a la hora de la cena envió a su siervo a decir a los convidados: Venid, que ya todo está preparado. 
-@18  Y todos a una comenzaron a excusarse. El primero dijo: He comprado una hacienda, y necesito ir a verla; te ruego que me excuses. 
-@19  Otro dijo: He comprado cinco yuntas de bueyes, y voy a probarlos; te ruego que me excuses. 
-@20  Y otro dijo: Acabo de casarme, y por tanto no puedo ir. 
-@21  Vuelto el siervo, hizo saber estas cosas a su señor. Entonces enojado el padre de familia, dijo a su siervo: Ve pronto por las plazas y las calles de la ciudad, y trae acá a los pobres, los mancos, los cojos y los ciegos. 
-@22  Y dijo el siervo: Señor, se ha hecho como mandaste, y aún hay lugar. 
-@23  Dijo el señor al siervo: Ve por los caminos y por los vallados, y fuérzalos a entrar, para que se llene mi casa. 
-@24  Porque os digo que ninguno de aquellos hombres que fueron convidados, gustará mi cena. 
+@17 Y a la hora de la cena envió a su siervo a decir a los convidados: Venid, que ya todo está preparado. 
+@18 Y todos a una comenzaron a excusarse. El primero dijo: He comprado una hacienda, y necesito ir a verla; te ruego que me excuses. 
+@19 Otro dijo: He comprado cinco yuntas de bueyes, y voy a probarlos; te ruego que me excuses. 
+@20 Y otro dijo: Acabo de casarme, y por tanto no puedo ir. 
+@21 Vuelto el siervo, hizo saber estas cosas a su señor. Entonces enojado el padre de familia, dijo a su siervo: Ve pronto por las plazas y las calles de la ciudad, y trae acá a los pobres, los mancos, los cojos y los ciegos. 
+@22 Y dijo el siervo: Señor, se ha hecho como mandaste, y aún hay lugar. 
+@23 Dijo el señor al siervo: Ve por los caminos y por los vallados, y fuérzalos a entrar, para que se llene mi casa. 
+@24 Porque os digo que ninguno de aquellos hombres que fueron convidados, gustará mi cena. 
 @25 Grandes multitudes iban con él; y volviéndose, les dijo:
-@26  Si alguno viene a mí, y no aborrece a su padre, y madre, y mujer, e hijos, y hermanos, y hermanas, y aun también su propia vida, no puede ser mi discípulo. 
-@27  Y el que no lleva su cruz y viene en pos de mí, no puede ser mi discípulo. 
-@28  Porque ¿quién de vosotros, queriendo edificar una torre, no se sienta primero y calcula los gastos, a ver si tiene lo que necesita para acabarla? 
-@29  No sea que después que haya puesto el cimiento, y no pueda acabarla, todos los que lo vean comiencen a hacer burla de él, 
-@30  diciendo: Este hombre comenzó a edificar, y no pudo acabar. 
-@31  ¿O qué rey, al marchar a la guerra contra otro rey, no se sienta primero y considera si puede hacer frente con diez mil al que viene contra él con veinte mil? 
-@32  Y si no puede, cuando el otro está todavía lejos, le envía una embajada y le pide condiciones de paz. 
-@33  Así, pues, cualquiera de vosotros que no renuncia a todo lo que posee, no puede ser mi discípulo. 
-@34  Buena es la sal; mas si la sal se hiciere insípida, ¿con qué se sazonará? 
-@35  Ni para la tierra ni para el muladar es útil; la arrojan fuera. El que tiene oídos para oír, oiga. 
+@26 Si alguno viene a mí, y no aborrece a su padre, y madre, y mujer, e hijos, y hermanos, y hermanas, y aun también su propia vida, no puede ser mi discípulo. 
+@27 Y el que no lleva su cruz y viene en pos de mí, no puede ser mi discípulo. 
+@28 Porque ¿quién de vosotros, queriendo edificar una torre, no se sienta primero y calcula los gastos, a ver si tiene lo que necesita para acabarla? 
+@29 No sea que después que haya puesto el cimiento, y no pueda acabarla, todos los que lo vean comiencen a hacer burla de él, 
+@30 diciendo: Este hombre comenzó a edificar, y no pudo acabar. 
+@31 ¿O qué rey, al marchar a la guerra contra otro rey, no se sienta primero y considera si puede hacer frente con diez mil al que viene contra él con veinte mil? 
+@32 Y si no puede, cuando el otro está todavía lejos, le envía una embajada y le pide condiciones de paz. 
+@33 Así, pues, cualquiera de vosotros que no renuncia a todo lo que posee, no puede ser mi discípulo. 
+@34 Buena es la sal; mas si la sal se hiciere insípida, ¿con qué se sazonará? 
+@35 Ni para la tierra ni para el muladar es útil; la arrojan fuera. El que tiene oídos para oír, oiga. 
 
 # 15
 @1 Se acercaban a Jesús todos los publicanos y pecadores para oírle,
 @2 y los fariseos y los escribas murmuraban, diciendo: Este a los pecadores recibe, y con ellos come.
 @3 Entonces él les refirió esta parábola, diciendo:
-@4  ¿Qué hombre de vosotros, teniendo cien ovejas, si pierde una de ellas, no deja las noventa y nueve en el desierto, y va tras la que se perdió, hasta encontrarla? 
-@5  Y cuando la encuentra, la pone sobre sus hombros gozoso; 
-@6  y al llegar a casa, reúne a sus amigos y vecinos, diciéndoles: Gozaos conmigo, porque he encontrado mi oveja que se había perdido. 
-@7  Os digo que así habrá más gozo en el cielo por un pecador que se arrepiente, que por noventa y nueve justos que no necesitan de arrepentimiento. 
-@8  ¿O qué mujer que tiene diez dracmas, si pierde una dracma, no enciende la lámpara, y barre la casa, y busca con diligencia hasta encontrarla? 
-@9  Y cuando la encuentra, reúne a sus amigas y vecinas, diciendo: Gozaos conmigo, porque he encontrado la dracma que había perdido. 
-@10  Así os digo que hay gozo delante de los ángeles de Dios por un pecador que se arrepiente. 
+@4 ¿Qué hombre de vosotros, teniendo cien ovejas, si pierde una de ellas, no deja las noventa y nueve en el desierto, y va tras la que se perdió, hasta encontrarla? 
+@5 Y cuando la encuentra, la pone sobre sus hombros gozoso; 
+@6 y al llegar a casa, reúne a sus amigos y vecinos, diciéndoles: Gozaos conmigo, porque he encontrado mi oveja que se había perdido. 
+@7 Os digo que así habrá más gozo en el cielo por un pecador que se arrepiente, que por noventa y nueve justos que no necesitan de arrepentimiento. 
+@8 ¿O qué mujer que tiene diez dracmas, si pierde una dracma, no enciende la lámpara, y barre la casa, y busca con diligencia hasta encontrarla? 
+@9 Y cuando la encuentra, reúne a sus amigas y vecinas, diciendo: Gozaos conmigo, porque he encontrado la dracma que había perdido. 
+@10 Así os digo que hay gozo delante de los ángeles de Dios por un pecador que se arrepiente. 
 @11 También dijo: Un hombre tenía dos hijos; 
-@12  y el menor de ellos dijo a su padre: Padre, dame la parte de los bienes que me corresponde; y les repartió los bienes. 
-@13  No muchos días después, juntándolo todo el hijo menor, se fue lejos a una provincia apartada; y allí desperdició sus bienes viviendo perdidamente. 
-@14  Y cuando todo lo hubo malgastado, vino una gran hambre en aquella provincia, y comenzó a faltarle. 
-@15  Y fue y se arrimó a uno de los ciudadanos de aquella tierra, el cual le envió a su hacienda para que apacentase cerdos. 
-@16  Y deseaba llenar su vientre de las algarrobas que comían los cerdos, pero nadie le daba. 
-@17  Y volviendo en sí, dijo: ¡Cuántos jornaleros en casa de mi padre tienen abundancia de pan, y yo aquí perezco de hambre! 
-@18  Me levantaré e iré a mi padre, y le diré: Padre, he pecado contra el cielo y contra ti. 
-@19  Ya no soy digno de ser llamado tu hijo; hazme como a uno de tus jornaleros. 
-@20  Y levantándose, vino a su padre. Y cuando aún estaba lejos, lo vio su padre, y fue movido a misericordia, y corrió, y se echó sobre su cuello, y le besó. 
-@21  Y el hijo le dijo: Padre, he pecado contra el cielo y contra ti, y ya no soy digno de ser llamado tu hijo. 
-@22  Pero el padre dijo a sus siervos: Sacad el mejor vestido, y vestidle; y poned un anillo en su mano, y calzado en sus pies. 
-@23  Y traed el becerro gordo y matadlo, y comamos y hagamos fiesta; 
-@24  porque este mi hijo muerto era, y ha revivido; se había perdido, y es hallado. Y comenzaron a regocijarse. 
-@25  Y su hijo mayor estaba en el campo; y cuando vino, y llegó cerca de la casa, oyó la música y las danzas; 
-@26  y llamando a uno de los criados, le preguntó qué era aquello. 
-@27  El le dijo: Tu hermano ha venido; y tu padre ha hecho matar el becerro gordo, por haberle recibido bueno y sano. 
-@28  Entonces se enojó, y no quería entrar. Salió por tanto su padre, y le rogaba que entrase. 
-@29  Mas él, respondiendo, dijo al padre: He aquí, tantos años te sirvo, no habiéndote desobedecido jamás, y nunca me has dado ni un cabrito para gozarme con mis amigos. 
-@30  Pero cuando vino este tu hijo, que ha consumido tus bienes con rameras, has hecho matar para él el becerro gordo. 
-@31  El entonces le dijo: Hijo, tú siempre estás conmigo, y todas mis cosas son tuyas. 
-@32  Mas era necesario hacer fiesta y regocijarnos, porque este tu hermano era muerto, y ha revivido; se había perdido, y es hallado. 
+@12 y el menor de ellos dijo a su padre: Padre, dame la parte de los bienes que me corresponde; y les repartió los bienes. 
+@13 No muchos días después, juntándolo todo el hijo menor, se fue lejos a una provincia apartada; y allí desperdició sus bienes viviendo perdidamente. 
+@14 Y cuando todo lo hubo malgastado, vino una gran hambre en aquella provincia, y comenzó a faltarle. 
+@15 Y fue y se arrimó a uno de los ciudadanos de aquella tierra, el cual le envió a su hacienda para que apacentase cerdos. 
+@16 Y deseaba llenar su vientre de las algarrobas que comían los cerdos, pero nadie le daba. 
+@17 Y volviendo en sí, dijo: ¡Cuántos jornaleros en casa de mi padre tienen abundancia de pan, y yo aquí perezco de hambre! 
+@18 Me levantaré e iré a mi padre, y le diré: Padre, he pecado contra el cielo y contra ti. 
+@19 Ya no soy digno de ser llamado tu hijo; hazme como a uno de tus jornaleros. 
+@20 Y levantándose, vino a su padre. Y cuando aún estaba lejos, lo vio su padre, y fue movido a misericordia, y corrió, y se echó sobre su cuello, y le besó. 
+@21 Y el hijo le dijo: Padre, he pecado contra el cielo y contra ti, y ya no soy digno de ser llamado tu hijo. 
+@22 Pero el padre dijo a sus siervos: Sacad el mejor vestido, y vestidle; y poned un anillo en su mano, y calzado en sus pies. 
+@23 Y traed el becerro gordo y matadlo, y comamos y hagamos fiesta; 
+@24 porque este mi hijo muerto era, y ha revivido; se había perdido, y es hallado. Y comenzaron a regocijarse. 
+@25 Y su hijo mayor estaba en el campo; y cuando vino, y llegó cerca de la casa, oyó la música y las danzas; 
+@26 y llamando a uno de los criados, le preguntó qué era aquello. 
+@27 El le dijo: Tu hermano ha venido; y tu padre ha hecho matar el becerro gordo, por haberle recibido bueno y sano. 
+@28 Entonces se enojó, y no quería entrar. Salió por tanto su padre, y le rogaba que entrase. 
+@29 Mas él, respondiendo, dijo al padre: He aquí, tantos años te sirvo, no habiéndote desobedecido jamás, y nunca me has dado ni un cabrito para gozarme con mis amigos. 
+@30 Pero cuando vino este tu hijo, que ha consumido tus bienes con rameras, has hecho matar para él el becerro gordo. 
+@31 El entonces le dijo: Hijo, tú siempre estás conmigo, y todas mis cosas son tuyas. 
+@32 Mas era necesario hacer fiesta y regocijarnos, porque este tu hermano era muerto, y ha revivido; se había perdido, y es hallado. 
 
 # 16
 @1 Dijo también a sus discípulos: Había un hombre rico que tenía un mayordomo, y éste fue acusado ante él como disipador de sus bienes. 
-@2  Entonces le llamó, y le dijo: ¿Qué es esto que oigo acerca de tí? Da cuenta de tu mayordomía, porque ya no podrás más ser mayordomo. 
-@3  Entonces el mayordomo dijo para sí: ¿Qué haré? Porque mi amo me quita la mayordomía. Cavar, no puedo; mendigar, me da vergüenza. 
-@4  Ya sé lo que haré para que cuando se me quite de la mayordomía, me reciban en sus casas. 
-@5  Y llamando a cada uno de los deudores de su amo, dijo al primero: ¿Cuánto debes a mi amo? 
-@6  El dijo: Cien barriles de aceite. Y le dijo: Toma tu cuenta, siéntate pronto, y escribe cincuenta. 
-@7  Después dijo a otro: Y tú, ¿cuánto debes? Y él dijo: Cien medidas de trigo. El le dijo: Toma tu cuenta, y escribe ochenta. 
-@8  Y alabó el amo al mayordomo malo por haber hecho sagazmente; porque los hijos de este siglo son más sagaces en el trato con sus semejantes que los hijos de luz. 
-@9  Y yo os digo: Ganad amigos por medio de las riquezas injustas, para que cuando éstas falten, os reciban en las moradas eternas. 
-@10  El que es fiel en lo muy poco, también en lo más es fiel; y el que en lo muy poco es injusto, también en lo más es injusto. 
-@11  Pues si en las riquezas injustas no fuisteis fieles, ¿quién os confiará lo verdadero? 
-@12  Y si en lo ajeno no fuisteis fieles, ¿quién os dará lo que es vuestro? 
-@13  Ningún siervo puede servir a dos señores; porque o aborrecerá al uno y amará al otro, o estimará al uno y menospreciará al otro. No podéis servir a Dios y a las riquezas. 
-@14  Y oían también todas estas cosas los fariseos, que eran avaros, y se burlaban de él. 
-@15  Entonces les dijo: Vosotros sois los que os justificáis a vosotros mismos delante de los hombres; mas Dios conoce vuestros corazones; porque lo que los hombres tienen por sublime, delante de Dios es abominación. 
-@16  La ley y los profetas eran hasta Juan; desde entonces el reino de Dios es anunciado, y todos se esfuerzan por entrar en él. 
-@17  Pero más fácil es que pasen el cielo y la tierra, que se frustre una tilde de la ley. 
-@18  Todo el que repudia a su mujer, y se casa con otra, adultera; y el que se casa con la repudiada del marido, adultera. 
-@19  Había un hombre rico, que se vestía de púrpura y de lino fino, y hacía cada día banquete con esplendidez. 
-@20  Había también un mendigo llamado Lázaro, que estaba echado a la puerta de aquél, lleno de llagas, 
-@21  y ansiaba saciarse de las migajas que caían de la mesa del rico; y aun los perros venían y le lamían las llagas. 
-@22  Aconteció que murió el mendigo, y fue llevado por los ángeles al seno de Abraham; y murió también el rico, y fue sepultado. 
-@23  Y en el Hades alzó sus ojos, estando en tormentos, y vio de lejos a Abraham, y a Lázaro en su seno. 
-@24  Entonces él, dando voces, dijo: Padre Abraham, ten misericordia de mí, y envía a Lázaro para que moje la punta de su dedo en agua, y refresque mi lengua; porque estoy atormentado en esta llama. 
-@25  Pero Abraham le dijo: Hijo, acuérdate que recibiste tus bienes en tu vida, y Lázaro también males; pero ahora éste es consolado aquí, y tú atormentado. 
-@26  Además de todo esto, una gran sima está puesta entre nosotros y vosotros, de manera que los que quisieren pasar de aquí a vosotros, no pueden, ni de allá pasar acá. 
-@27  Entonces le dijo: Te ruego, pues, padre, que le envíes a la casa de mi padre, 
-@28  porque tengo cinco hermanos, para que les testifique, a fin de que no vengan ellos también a este lugar de tormento. 
-@29  Y Abraham le dijo: A Moisés y a los profetas tienen; óiganlos. 
-@30  El entonces dijo: No, padre Abraham; pero si alguno fuere a ellos de entre los muertos, se arrepentirán. 
-@31  Mas Abraham le dijo: Si no oyen a Moisés y a los profetas, tampoco se persuadirán aunque alguno se levantare de los muertos. 
+@2 Entonces le llamó, y le dijo: ¿Qué es esto que oigo acerca de tí? Da cuenta de tu mayordomía, porque ya no podrás más ser mayordomo. 
+@3 Entonces el mayordomo dijo para sí: ¿Qué haré? Porque mi amo me quita la mayordomía. Cavar, no puedo; mendigar, me da vergüenza. 
+@4 Ya sé lo que haré para que cuando se me quite de la mayordomía, me reciban en sus casas. 
+@5 Y llamando a cada uno de los deudores de su amo, dijo al primero: ¿Cuánto debes a mi amo? 
+@6 El dijo: Cien barriles de aceite. Y le dijo: Toma tu cuenta, siéntate pronto, y escribe cincuenta. 
+@7 Después dijo a otro: Y tú, ¿cuánto debes? Y él dijo: Cien medidas de trigo. El le dijo: Toma tu cuenta, y escribe ochenta. 
+@8 Y alabó el amo al mayordomo malo por haber hecho sagazmente; porque los hijos de este siglo son más sagaces en el trato con sus semejantes que los hijos de luz. 
+@9 Y yo os digo: Ganad amigos por medio de las riquezas injustas, para que cuando éstas falten, os reciban en las moradas eternas. 
+@10 El que es fiel en lo muy poco, también en lo más es fiel; y el que en lo muy poco es injusto, también en lo más es injusto. 
+@11 Pues si en las riquezas injustas no fuisteis fieles, ¿quién os confiará lo verdadero? 
+@12 Y si en lo ajeno no fuisteis fieles, ¿quién os dará lo que es vuestro? 
+@13 Ningún siervo puede servir a dos señores; porque o aborrecerá al uno y amará al otro, o estimará al uno y menospreciará al otro. No podéis servir a Dios y a las riquezas. 
+@14 Y oían también todas estas cosas los fariseos, que eran avaros, y se burlaban de él. 
+@15 Entonces les dijo: Vosotros sois los que os justificáis a vosotros mismos delante de los hombres; mas Dios conoce vuestros corazones; porque lo que los hombres tienen por sublime, delante de Dios es abominación. 
+@16 La ley y los profetas eran hasta Juan; desde entonces el reino de Dios es anunciado, y todos se esfuerzan por entrar en él. 
+@17 Pero más fácil es que pasen el cielo y la tierra, que se frustre una tilde de la ley. 
+@18 Todo el que repudia a su mujer, y se casa con otra, adultera; y el que se casa con la repudiada del marido, adultera. 
+@19 Había un hombre rico, que se vestía de púrpura y de lino fino, y hacía cada día banquete con esplendidez. 
+@20 Había también un mendigo llamado Lázaro, que estaba echado a la puerta de aquél, lleno de llagas, 
+@21 y ansiaba saciarse de las migajas que caían de la mesa del rico; y aun los perros venían y le lamían las llagas. 
+@22 Aconteció que murió el mendigo, y fue llevado por los ángeles al seno de Abraham; y murió también el rico, y fue sepultado. 
+@23 Y en el Hades alzó sus ojos, estando en tormentos, y vio de lejos a Abraham, y a Lázaro en su seno. 
+@24 Entonces él, dando voces, dijo: Padre Abraham, ten misericordia de mí, y envía a Lázaro para que moje la punta de su dedo en agua, y refresque mi lengua; porque estoy atormentado en esta llama. 
+@25 Pero Abraham le dijo: Hijo, acuérdate que recibiste tus bienes en tu vida, y Lázaro también males; pero ahora éste es consolado aquí, y tú atormentado. 
+@26 Además de todo esto, una gran sima está puesta entre nosotros y vosotros, de manera que los que quisieren pasar de aquí a vosotros, no pueden, ni de allá pasar acá. 
+@27 Entonces le dijo: Te ruego, pues, padre, que le envíes a la casa de mi padre, 
+@28 porque tengo cinco hermanos, para que les testifique, a fin de que no vengan ellos también a este lugar de tormento. 
+@29 Y Abraham le dijo: A Moisés y a los profetas tienen; óiganlos. 
+@30 El entonces dijo: No, padre Abraham; pero si alguno fuere a ellos de entre los muertos, se arrepentirán. 
+@31 Mas Abraham le dijo: Si no oyen a Moisés y a los profetas, tampoco se persuadirán aunque alguno se levantare de los muertos. 
 
 # 17
 @1 Dijo Jesús a sus discípulos: Imposible es que no vengan tropiezos; mas ¡ay de aquel por quien vienen! 
-@2  Mejor le fuera que se le atase al cuello una piedra de molino y se le arrojase al mar, que hacer tropezar a uno de estos pequeñitos. 
-@3  Mirad por vosotros mismos. Si tu hermano pecare contra ti, repréndele; y si se arrepintiere, perdónale. 
-@4  Y si siete veces al día pecare contra ti, y siete veces al día volviere a ti, diciendo: Me arrepiento; perdónale. 
+@2 Mejor le fuera que se le atase al cuello una piedra de molino y se le arrojase al mar, que hacer tropezar a uno de estos pequeñitos. 
+@3 Mirad por vosotros mismos. Si tu hermano pecare contra ti, repréndele; y si se arrepintiere, perdónale. 
+@4 Y si siete veces al día pecare contra ti, y siete veces al día volviere a ti, diciendo: Me arrepiento; perdónale. 
 @5 Dijeron los apóstoles al Señor: Auméntanos la fe.
 @6 Entonces el Señor dijo: Si tuvierais fe como un grano de mostaza, podríais decir a este sicómoro: Desarráigate, y plántate en el mar; y os obedecería. 
-@7  ¿Quién de vosotros, teniendo un siervo que ara o apacienta ganado, al volver él del campo, luego le dice: Pasa, siéntate a la mesa? 
-@8  ¿No le dice más bien: Prepárame la cena, cíñete, y sírveme hasta que haya comido y bebido; y después de esto, come y bebe tú? 
-@9  ¿Acaso da gracias al siervo porque hizo lo que se le había mandado? Pienso que no. 
-@10  Así también vosotros, cuando hayáis hecho todo lo que os ha sido ordenado, decid: Siervos inútiles somos, pues lo que debíamos hacer, hicimos. 
+@7 ¿Quién de vosotros, teniendo un siervo que ara o apacienta ganado, al volver él del campo, luego le dice: Pasa, siéntate a la mesa? 
+@8 ¿No le dice más bien: Prepárame la cena, cíñete, y sírveme hasta que haya comido y bebido; y después de esto, come y bebe tú? 
+@9 ¿Acaso da gracias al siervo porque hizo lo que se le había mandado? Pienso que no. 
+@10 Así también vosotros, cuando hayáis hecho todo lo que os ha sido ordenado, decid: Siervos inútiles somos, pues lo que debíamos hacer, hicimos. 
 @11 Yendo Jesús a Jerusalén, pasaba entre Samaria y Galilea.
 @12 Y al entrar en una aldea, le salieron al encuentro diez hombres leprosos, los cuales se pararon de lejos
 @13 y alzaron la voz, diciendo: ¡Jesús, Maestro, ten misericordia de nosotros!
@@ -806,61 +806,61 @@
 @15 Entonces uno de ellos, viendo que había sido sanado, volvió, glorificando a Dios a gran voz,
 @16 y se postró rostro en tierra a sus pies, dándole gracias; y éste era samaritano.
 @17 Respondiendo Jesús, dijo: ¿No son diez los que fueron limpiados? Y los nueve, ¿dónde están? 
-@18  ¿No hubo quien volviese y diese gloria a Dios sino este extranjero? 
+@18 ¿No hubo quien volviese y diese gloria a Dios sino este extranjero? 
 @19 Y le dijo: Levántate, vete; tu fe te ha salvado. 
 @20 Preguntado por los fariseos, cuándo había de venir el reino de Dios, les respondió y dijo: El reino de Dios no vendrá con advertencia, 
 @21 ni dirán: Helo aquí, o helo allí; porque he aquí el reino de Dios está entre vosotros. 
 @22 Y dijo a sus discípulos: Tiempo vendrá cuando desearéis ver uno de los días del Hijo del Hombre, y no lo veréis. 
-@23  Y os dirán: Helo aquí, o helo allí. No vayáis, ni los sigáis. 
-@24  Porque como el relámpago que al fulgurar resplandece desde un extremo del cielo hasta el otro, así también será el Hijo del Hombre en su día. 
-@25  Pero primero es necesario que padezca mucho, y sea desechado por esta generación. 
-@26  Como fue en los días de Noé, así también será en los días del Hijo del Hombre. 
-@27  Comían, bebían, se casaban y se daban en casamiento, hasta el día en que entró Noé en el arca, y vino el diluvio y los destruyó a todos. 
-@28  Asimismo como sucedió en los días de Lot; comían, bebían, compraban, vendían, plantaban, edificaban; 
-@29  mas el día en que Lot salió de Sodoma, llovió del cielo fuego y azufre, y los destruyó a todos. 
-@30  Así será el día en que el Hijo del Hombre se manifieste. 
-@31  En aquel día, el que esté en la azotea, y sus bienes en casa, no descienda a tomarlos; y el que en el campo, asimismo no vuelva atrás. 
-@32  Acordaos de la mujer de Lot. 
-@33  Todo el que procure salvar su vida, la perderá; y todo el que la pierda, la salvará. 
-@34  Os digo que en aquella noche estarán dos en una cama; el uno será tomado, y el otro será dejado. 
-@35  Dos mujeres estarán moliendo juntas; la una será tomada, y la otra dejada. 
-@36  Dos estarán en el campo; el uno será tomado, y el otro dejado. 
+@23 Y os dirán: Helo aquí, o helo allí. No vayáis, ni los sigáis. 
+@24 Porque como el relámpago que al fulgurar resplandece desde un extremo del cielo hasta el otro, así también será el Hijo del Hombre en su día. 
+@25 Pero primero es necesario que padezca mucho, y sea desechado por esta generación. 
+@26 Como fue en los días de Noé, así también será en los días del Hijo del Hombre. 
+@27 Comían, bebían, se casaban y se daban en casamiento, hasta el día en que entró Noé en el arca, y vino el diluvio y los destruyó a todos. 
+@28 Asimismo como sucedió en los días de Lot; comían, bebían, compraban, vendían, plantaban, edificaban; 
+@29 mas el día en que Lot salió de Sodoma, llovió del cielo fuego y azufre, y los destruyó a todos. 
+@30 Así será el día en que el Hijo del Hombre se manifieste. 
+@31 En aquel día, el que esté en la azotea, y sus bienes en casa, no descienda a tomarlos; y el que en el campo, asimismo no vuelva atrás. 
+@32 Acordaos de la mujer de Lot. 
+@33 Todo el que procure salvar su vida, la perderá; y todo el que la pierda, la salvará. 
+@34 Os digo que en aquella noche estarán dos en una cama; el uno será tomado, y el otro será dejado. 
+@35 Dos mujeres estarán moliendo juntas; la una será tomada, y la otra dejada. 
+@36 Dos estarán en el campo; el uno será tomado, y el otro dejado. 
 @37 Y respondiendo, le dijeron: ¿Dónde, Señor? El les dijo: Donde estuviere el cuerpo, allí se juntarán también las águilas. 
 
 # 18
 @1 También les refirió Jesús una parábola sobre la necesidad de orar siempre, y no desmayar,
 @2 diciendo: Había en una ciudad un juez, que ni temía a Dios, ni respetaba a hombre. 
-@3  Había también en aquella ciudad una viuda, la cual venía a él, diciendo: Hazme justicia de mi adversario. 
-@4  Y él no quiso por algún tiempo; pero después de esto dijo dentro de sí: Aunque ni temo a Dios, ni tengo respeto a hombre, 
-@5  sin embargo, porque esta viuda me es molesta, le haré justicia, no sea que viniendo de continuo, me agote la paciencia. 
+@3 Había también en aquella ciudad una viuda, la cual venía a él, diciendo: Hazme justicia de mi adversario. 
+@4 Y él no quiso por algún tiempo; pero después de esto dijo dentro de sí: Aunque ni temo a Dios, ni tengo respeto a hombre, 
+@5 sin embargo, porque esta viuda me es molesta, le haré justicia, no sea que viniendo de continuo, me agote la paciencia. 
 @6 Y dijo el Señor: Oíd lo que dijo el juez injusto. 
-@7  ¿Y acaso Dios no hará justicia a sus escogidos, que claman a él día y noche? ¿Se tardará en responderles? 
-@8  Os digo que pronto les hará justicia. Pero cuando venga el Hijo del Hombre, ¿hallará fe en la tierra? 
+@7 ¿Y acaso Dios no hará justicia a sus escogidos, que claman a él día y noche? ¿Se tardará en responderles? 
+@8 Os digo que pronto les hará justicia. Pero cuando venga el Hijo del Hombre, ¿hallará fe en la tierra? 
 @9 A unos que confiaban en sí mismos como justos, y menospreciaban a los otros, dijo también esta parábola:
-@10  Dos hombres subieron al templo a orar: uno era fariseo, y el otro publicano. 
-@11  El fariseo, puesto en pie, oraba consigo mismo de esta manera: Dios, te doy gracias porque no soy como los otros hombres, ladrones, injustos, adúlteros, ni aun como este publicano; 
-@12  ayuno dos veces a la semana, doy diezmos de todo lo que gano. 
-@13  Mas el publicano, estando lejos, no quería ni aun alzar los ojos al cielo, sino que se golpeaba el pecho, diciendo: Dios, sé propicio a mí, pecador. 
-@14  Os digo que éste descendió a su casa justificado antes que el otro; porque cualquiera que se enaltece, será humillado; y el que se humilla será enaltecido. 
+@10 Dos hombres subieron al templo a orar: uno era fariseo, y el otro publicano. 
+@11 El fariseo, puesto en pie, oraba consigo mismo de esta manera: Dios, te doy gracias porque no soy como los otros hombres, ladrones, injustos, adúlteros, ni aun como este publicano; 
+@12 ayuno dos veces a la semana, doy diezmos de todo lo que gano. 
+@13 Mas el publicano, estando lejos, no quería ni aun alzar los ojos al cielo, sino que se golpeaba el pecho, diciendo: Dios, sé propicio a mí, pecador. 
+@14 Os digo que éste descendió a su casa justificado antes que el otro; porque cualquiera que se enaltece, será humillado; y el que se humilla será enaltecido. 
 @15 Traían a él los niños para que los tocase; lo cual viendo los discípulos, les reprendieron.
 @16 Mas Jesús, llamándolos, dijo: Dejad a los niños venir a mí, y no se lo impidáis; porque de los tales es el reino de Dios. 
 @17 De cierto os digo, que el que no recibe el reino de Dios como un niño, no entrará en él. 
 @18 Un hombre principal le preguntó, diciendo: Maestro bueno, ¿qué haré para heredar la vida eterna?
 @19 Jesús le dijo: ¿Por qué me llamas bueno? Ninguno hay bueno, sino sólo Dios. 
-@20  Los mandamientos sabes: No adulterarás; no matarás; no hurtarás; no dirás falso testimonio; honra a tu padre y a tu madre. 
+@20 Los mandamientos sabes: No adulterarás; no matarás; no hurtarás; no dirás falso testimonio; honra a tu padre y a tu madre. 
 @21 El dijo: Todo esto lo he guardado desde mi juventud.
 @22 Jesús, oyendo esto, le dijo: Aún te falta una cosa: vende todo lo que tienes, y dalo a los pobres, y tendrás tesoro en el cielo; y ven, sígueme. 
 @23 Entonces él, oyendo esto, se puso muy triste, porque era muy rico.
 @24 Al ver Jesús que se había entristecido mucho, dijo: ¡Cuán difícilmente entrarán en el reino de Dios los que tienen riquezas! 
-@25  Porque es más fácil pasar un camello por el ojo de una aguja, que entrar un rico en el reino de Dios. 
+@25 Porque es más fácil pasar un camello por el ojo de una aguja, que entrar un rico en el reino de Dios. 
 @26 Y los que oyeron esto dijeron: ¿Quién, pues, podrá ser salvo?
 @27 El les dijo: Lo que es imposible para los hombres, es posible para Dios. 
 @28 Entonces Pedro dijo: He aquí, nosotros hemos dejado nuestras posesiones y te hemos seguido.
 @29 Y él les dijo: De cierto os digo, que no hay nadie que haya dejado casa, o padres, o hermanos, o mujer, o hijos, por el reino de Dios, 
-@30  que no haya de recibir mucho más en este tiempo, y en el siglo venidero la vida eterna. 
+@30 que no haya de recibir mucho más en este tiempo, y en el siglo venidero la vida eterna. 
 @31 Tomando Jesús a los doce, les dijo: He aquí subimos a Jerusalén, y se cumplirán todas las cosas escritas por los profetas acerca del Hijo del Hombre. 
-@32  Pues será entregado a los gentiles, y será escarnecido, y afrentado, y escupido. 
-@33  Y después que le hayan azotado, le matarán; mas al tercer día resucitará. 
+@32 Pues será entregado a los gentiles, y será escarnecido, y afrentado, y escupido. 
+@33 Y después que le hayan azotado, le matarán; mas al tercer día resucitará. 
 @34 Pero ellos nada comprendieron de estas cosas, y esta palabra les era encubierta, y no entendían lo que se les decía.
 @35 Aconteció que acercándose Jesús a Jericó, un ciego estaba sentado junto al camino mendigando;
 @36 y al oír a la multitud que pasaba, preguntó qué era aquello.
@@ -882,28 +882,28 @@
 @7 Al ver esto, todos murmuraban, diciendo que había entrado a posar con un hombre pecador.
 @8 Entonces Zaqueo, puesto en pie, dijo al Señor: He aquí, Señor, la mitad de mis bienes doy a los pobres; y si en algo he defraudado a alguno, se lo devuelvo cuadruplicado.
 @9 Jesús le dijo: Hoy ha venido la salvación a esta casa; por cuanto él también es hijo de Abraham. 
-@10  Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido. 
+@10 Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido. 
 @11 Oyendo ellos estas cosas, prosiguió Jesús y dijo una parábola, por cuanto estaba cerca de Jerusalén, y ellos pensaban que el reino de Dios se manifestaría inmediatamente.
 @12 Dijo, pues: Un hombre noble se fue a un país lejano, para recibir un reino y volver. 
-@13  Y llamando a diez siervos suyos, les dio diez minas, y les dijo: Negociad entre tanto que vengo. 
-@14  Pero sus conciudadanos le aborrecían, y enviaron tras él una embajada, diciendo: No queremos que éste reine sobre nosotros. 
-@15  Aconteció que vuelto él, después de recibir el reino, mandó llamar ante él a aquellos siervos a los cuales había dado el dinero, para saber lo que había negociado cada uno. 
-@16  Vino el primero, diciendo: Señor, tu mina ha ganado diez minas. 
-@17  El le dijo: Está bien, buen siervo; por cuanto en lo poco has sido fiel, tendrás autoridad sobre diez ciudades. 
-@18  Vino otro, diciendo: Señor, tu mina ha producido cinco minas. 
-@19  Y también a éste dijo: Tú también sé sobre cinco ciudades. 
-@20  Vino otro, diciendo: Señor, aquí está tu mina, la cual he tenido guardada en un pañuelo; 
-@21  porque tuve miedo de ti, por cuanto eres hombre severo, que tomas lo que no pusiste, y siegas lo que no sembraste. 
-@22  Entonces él le dijo: Mal siervo, por tu propia boca te juzgo. Sabías que yo era hombre severo, que tomo lo que no puse, y que siego lo que no sembré; 
-@23  ¿por qué, pues, no pusiste mi dinero en el banco, para que al volver yo, lo hubiera recibido con los intereses? 
-@24  Y dijo a los que estaban presentes: Quitadle la mina, y dadla al que tiene las diez minas. 
-@25  Ellos le dijeron: Señor, tiene diez minas. 
-@26  Pues yo os digo que a todo el que tiene, se le dará; mas al que no tiene, aun lo que tiene se le quitará. 
-@27  Y también a aquellos mis enemigos que no querían que yo reinase sobre ellos, traedlos acá, y decapitadlos delante de mí. 
+@13 Y llamando a diez siervos suyos, les dio diez minas, y les dijo: Negociad entre tanto que vengo. 
+@14 Pero sus conciudadanos le aborrecían, y enviaron tras él una embajada, diciendo: No queremos que éste reine sobre nosotros. 
+@15 Aconteció que vuelto él, después de recibir el reino, mandó llamar ante él a aquellos siervos a los cuales había dado el dinero, para saber lo que había negociado cada uno. 
+@16 Vino el primero, diciendo: Señor, tu mina ha ganado diez minas. 
+@17 El le dijo: Está bien, buen siervo; por cuanto en lo poco has sido fiel, tendrás autoridad sobre diez ciudades. 
+@18 Vino otro, diciendo: Señor, tu mina ha producido cinco minas. 
+@19 Y también a éste dijo: Tú también sé sobre cinco ciudades. 
+@20 Vino otro, diciendo: Señor, aquí está tu mina, la cual he tenido guardada en un pañuelo; 
+@21 porque tuve miedo de ti, por cuanto eres hombre severo, que tomas lo que no pusiste, y siegas lo que no sembraste. 
+@22 Entonces él le dijo: Mal siervo, por tu propia boca te juzgo. Sabías que yo era hombre severo, que tomo lo que no puse, y que siego lo que no sembré; 
+@23 ¿por qué, pues, no pusiste mi dinero en el banco, para que al volver yo, lo hubiera recibido con los intereses? 
+@24 Y dijo a los que estaban presentes: Quitadle la mina, y dadla al que tiene las diez minas. 
+@25 Ellos le dijeron: Señor, tiene diez minas. 
+@26 Pues yo os digo que a todo el que tiene, se le dará; mas al que no tiene, aun lo que tiene se le quitará. 
+@27 Y también a aquellos mis enemigos que no querían que yo reinase sobre ellos, traedlos acá, y decapitadlos delante de mí. 
 @28 Dicho esto, iba delante subiendo a Jerusalén.
 @29 Y aconteció que llegando cerca de Betfagé y de Betania, al monte que se llama de los Olivos, envió dos de sus discípulos,
 @30 diciendo: Id a la aldea de enfrente, y al entrar en ella hallaréis un pollino atado, en el cual ningún hombre ha montado jamás; desatadlo, y traedlo. 
-@31  Y si alguien os preguntare: ¿Por qué lo desatáis? le responderéis así: Porque el Señor lo necesita. 
+@31 Y si alguien os preguntare: ¿Por qué lo desatáis? le responderéis así: Porque el Señor lo necesita. 
 @32 Fueron los que habían sido enviados, y hallaron como les dijo.
 @33 Y cuando desataban el pollino, sus dueños les dijeron: ¿Por qué desatáis el pollino?
 @34 Ellos dijeron: Porque el Señor lo necesita.
@@ -915,8 +915,8 @@
 @40 El, respondiendo, les dijo: Os digo que si éstos callaran, las piedras clamarían. 
 @41 Y cuando llegó cerca de la ciudad, al verla, lloró sobre ella,
 @42 diciendo: ¡Oh, si también tú conocieses, a lo menos en este tu día, lo que es para tu paz! Mas ahora está encubierto de tus ojos. 
-@43  Porque vendrán días sobre ti, cuando tus enemigos te rodearán con vallado, y te sitiarán, y por todas partes te estrecharán, 
-@44  y te derribarán a tierra, y a tus hijos dentro de ti, y no dejarán en ti piedra sobre piedra, por cuanto no conociste el tiempo de tu visitación. 
+@43 Porque vendrán días sobre ti, cuando tus enemigos te rodearán con vallado, y te sitiarán, y por todas partes te estrecharán, 
+@44 y te derribarán a tierra, y a tus hijos dentro de ti, y no dejarán en ti piedra sobre piedra, por cuanto no conociste el tiempo de tu visitación. 
 @45 Y entrando en el templo, comenzó a echar fuera a todos los que vendían y compraban en él,
 @46 diciéndoles: Escrito está: Mi casa es casa de oración; mas vosotros la habéis hecho cueva de ladrones. 
 @47 Y enseñaba cada día en el templo; pero los principales sacerdotes, los escribas y los principales del pueblo procuraban matarle.
@@ -926,27 +926,27 @@
 @1 Sucedió un día, que enseñando Jesús al pueblo en el templo, y anunciando el evangelio, llegaron los principales sacerdotes y los escribas, con los ancianos,
 @2 y le hablaron diciendo: Dinos: ¿con qué autoridad haces estas cosas? ¿o quién es el que te ha dado esta autoridad?
 @3 Respondiendo Jesús, les dijo: Os haré yo también una pregunta; respondedme: 
-@4  El bautismo de Juan, ¿era del cielo, o de los hombres? 
+@4 El bautismo de Juan, ¿era del cielo, o de los hombres? 
 @5 Entonces ellos discutían entre sí, diciendo: Si decimos, del cielo, dirá: ¿Por qué, pues, no le creísteis?
 @6 Y si decimos, de los hombres, todo el pueblo nos apedreará; porque están persuadidos de que Juan era profeta.
 @7 Y respondieron que no sabían de dónde fuese.
 @8 Entonces Jesús les dijo: Yo tampoco os diré con qué autoridad hago estas cosas. 
 @9 Comenzó luego a decir al pueblo esta parábola: Un hombre plantó una viña, la arrendó a labradores, y se ausentó por mucho tiempo. 
-@10  Y a su tiempo envió un siervo a los labradores, para que le diesen del fruto de la viña; pero los labradores le golpearon, y le enviaron con las manos vacías. 
-@11  Volvió a enviar otro siervo; mas ellos a éste también, golpeado y afrentado, le enviaron con las manos vacías. 
-@12  Volvió a enviar un tercer siervo; mas ellos también a éste echaron fuera, herido. 
-@13  Entonces el señor de la viña dijo: ¿Qué haré? Enviaré a mi hijo amado; quizás cuando le vean a él, le tendrán respeto. 
-@14  Mas los labradores, al verle, discutían entre sí, diciendo: Este es el heredero; venid, matémosle, para que la heredad sea nuestra. 
-@15  Y le echaron fuera de la viña, y le mataron. ¿Qué, pues, les hará el señor de la viña? 
-@16  Vendrá y destruirá a estos labradores, y dará su viña a otros. Cuando ellos oyeron esto, dijeron: ¡Dios nos libre!
+@10 Y a su tiempo envió un siervo a los labradores, para que le diesen del fruto de la viña; pero los labradores le golpearon, y le enviaron con las manos vacías. 
+@11 Volvió a enviar otro siervo; mas ellos a éste también, golpeado y afrentado, le enviaron con las manos vacías. 
+@12 Volvió a enviar un tercer siervo; mas ellos también a éste echaron fuera, herido. 
+@13 Entonces el señor de la viña dijo: ¿Qué haré? Enviaré a mi hijo amado; quizás cuando le vean a él, le tendrán respeto. 
+@14 Mas los labradores, al verle, discutían entre sí, diciendo: Este es el heredero; venid, matémosle, para que la heredad sea nuestra. 
+@15 Y le echaron fuera de la viña, y le mataron. ¿Qué, pues, les hará el señor de la viña? 
+@16 Vendrá y destruirá a estos labradores, y dará su viña a otros. Cuando ellos oyeron esto, dijeron: ¡Dios nos libre!
 @17 Pero él, mirándolos, dijo: ¿Qué, pues, es lo que está escrito: La piedra que desecharon los edificadores Ha venido a ser cabeza del ángulo? 
-@18  Todo el que cayere sobre aquella piedra, será quebrantado; mas sobre quien ella cayere, le desmenuzará. 
+@18 Todo el que cayere sobre aquella piedra, será quebrantado; mas sobre quien ella cayere, le desmenuzará. 
 @19 Procuraban los principales sacerdotes y los escribas echarle mano en aquella hora, porque comprendieron que contra ellos había dicho esta parábola; pero temieron al pueblo.
 @20 Y acechándole enviaron espías que se simulasen justos, a fin de sorprenderle en alguna palabra, para entregarle al poder y autoridad del gobernador.
 @21 Y le preguntaron, diciendo: Maestro, sabemos que dices y enseñas rectamente, y que no haces acepción de persona, sino que enseñas el camino de Dios con verdad.
 @22 ¿Nos es lícito dar tributo a César, o no?
 @23 Mas él, comprendiendo la astucia de ellos, les dijo: ¿Por qué me tentáis? 
-@24  Mostradme la moneda. ¿De quién tiene la imagen y la inscripción? Y respondiendo dijeron: De César.
+@24 Mostradme la moneda. ¿De quién tiene la imagen y la inscripción? Y respondiendo dijeron: De César.
 @25 Entonces les dijo: Pues dad a César lo que es de César, y a Dios lo que es de Dios. 
 @26 Y no pudieron sorprenderle en palabra alguna delante del pueblo, sino que maravillados de su respuesta, callaron.
 @27 Llegando entonces algunos de los saduceos, los cuales niegan haber resurrección, le preguntaron,
@@ -957,57 +957,57 @@
 @32 Finalmente murió también la mujer.
 @33 En la resurrección, pues, ¿de cuál de ellos será mujer, ya que los siete la tuvieron por mujer?
 @34 Entonces respondiendo Jesús, les dijo: Los hijos de este siglo se casan, y se dan en casamiento; 
-@35  mas los que fueren tenidos por dignos de alcanzar aquel siglo y la resurrección de entre los muertos, ni se casan, ni se dan en casamiento. 
-@36  Porque no pueden ya más morir, pues son iguales a los ángeles, y son hijos de Dios, al ser hijos de la resurrección. 
-@37  Pero en cuanto a que los muertos han de resucitar, aun Moisés lo enseñó en el pasaje de la zarza, cuando llama al Señor, Dios de Abraham, Dios de Isaac y Dios de Jacob. 
-@38  Porque Dios no es Dios de muertos, sino de vivos, pues para él todos viven. 
+@35 mas los que fueren tenidos por dignos de alcanzar aquel siglo y la resurrección de entre los muertos, ni se casan, ni se dan en casamiento. 
+@36 Porque no pueden ya más morir, pues son iguales a los ángeles, y son hijos de Dios, al ser hijos de la resurrección. 
+@37 Pero en cuanto a que los muertos han de resucitar, aun Moisés lo enseñó en el pasaje de la zarza, cuando llama al Señor, Dios de Abraham, Dios de Isaac y Dios de Jacob. 
+@38 Porque Dios no es Dios de muertos, sino de vivos, pues para él todos viven. 
 @39 Respondiéndole algunos de los escribas, dijeron: Maestro, bien has dicho.
 @40 Y no osaron preguntarle nada más.
-@41  Entonces él les dijo: ¿Cómo dicen que el Cristo es hijo de David? 
-@42  Pues el mismo David dice en el libro de los Salmos: Dijo el Señor a mi Señor: Siéntate a mi diestra, 
-@43  Hasta que ponga a tus enemigos por estrado de tus pies. 
-@44  David, pues, le llama Señor; ¿cómo entonces es su hijo? 
+@41 Entonces él les dijo: ¿Cómo dicen que el Cristo es hijo de David? 
+@42 Pues el mismo David dice en el libro de los Salmos: Dijo el Señor a mi Señor: Siéntate a mi diestra, 
+@43 Hasta que ponga a tus enemigos por estrado de tus pies. 
+@44 David, pues, le llama Señor; ¿cómo entonces es su hijo? 
 @45 Y oyéndole todo el pueblo, dijo a sus discípulos:
-@46  Guardaos de los escribas, que gustan de andar con ropas largas, y aman las salutaciones en las plazas, y las primeras sillas en las sinagogas, y los primeros asientos en las cenas; 
-@47  que devoran las casas de las viudas, y por pretexto hacen largas oraciones; éstos recibirán mayor condenación. 
+@46 Guardaos de los escribas, que gustan de andar con ropas largas, y aman las salutaciones en las plazas, y las primeras sillas en las sinagogas, y los primeros asientos en las cenas; 
+@47 que devoran las casas de las viudas, y por pretexto hacen largas oraciones; éstos recibirán mayor condenación. 
 
 # 21
 @1 Levantando los ojos, vio a los ricos que echaban sus ofrendas en el arca de las ofrendas.
 @2 Vio también a una viuda muy pobre, que echaba allí dos blancas.
 @3 Y dijo: En verdad os digo, que esta viuda pobre echó más que todos. 
-@4  Porque todos aquéllos echaron para las ofrendas de Dios de lo que les sobra; mas ésta, de su pobreza echó todo el sustento que tenía. 
+@4 Porque todos aquéllos echaron para las ofrendas de Dios de lo que les sobra; mas ésta, de su pobreza echó todo el sustento que tenía. 
 @5 Y a unos que hablaban de que el templo estaba adornado de hermosas piedras y ofrendas votivas, dijo:
-@6  En cuanto a estas cosas que veis, días vendrán en que no quedará piedra sobre piedra, que no sea destruida. 
+@6 En cuanto a estas cosas que veis, días vendrán en que no quedará piedra sobre piedra, que no sea destruida. 
 @7 Y le preguntaron, diciendo: Maestro, ¿cuándo será esto? ¿y qué señal habrá cuando estas cosas estén para suceder?
 @8 El entonces dijo: Mirad que no seáis engañados; porque vendrán muchos en mi nombre, diciendo: Yo soy el Cristo, y: El tiempo está cerca. Mas no vayáis en pos de ellos. 
-@9  Y cuando oigáis de guerras y de sediciones, no os alarméis; porque es necesario que estas cosas acontezcan primero; pero el fin no será inmediatamente. 
+@9 Y cuando oigáis de guerras y de sediciones, no os alarméis; porque es necesario que estas cosas acontezcan primero; pero el fin no será inmediatamente. 
 @10 Entonces les dijo: Se levantará nación contra nación, y reino contra reino; 
-@11  y habrá grandes terremotos, y en diferentes lugares hambres y pestilencias; y habrá terror y grandes señales del cielo. 
-@12  Pero antes de todas estas cosas os echarán mano, y os perseguirán, y os entregarán a las sinagogas y a las cárceles, y seréis llevados ante reyes y ante gobernadores por causa de mi nombre. 
-@13  Y esto os será ocasión para dar testimonio. 
-@14  Proponed en vuestros corazones no pensar antes cómo habéis de responder en vuestra defensa; 
-@15  porque yo os daré palabra y sabiduría, la cual no podrán resistir ni contradecir todos los que se opongan. 
-@16  Mas seréis entregados aun por vuestros padres, y hermanos, y parientes, y amigos; y matarán a algunos de vosotros; 
-@17  y seréis aborrecidos de todos por causa de mi nombre. 
-@18  Pero ni un cabello de vuestra cabeza perecerá. 
-@19  Con vuestra paciencia ganaréis vuestras almas. 
-@20  Pero cuando viereis a Jerusalén rodeada de ejércitos, sabed entonces que su destrucción ha llegado. 
-@21  Entonces los que estén en Judea, huyan a los montes; y los que en medio de ella, váyanse; y los que estén en los campos, no entren en ella. 
-@22  Porque estos son días de retribución, para que se cumplan todas las cosas que están escritas. 
-@23  Mas ¡ay de las que estén encintas, y de las que críen en aquellos días! porque habrá gran calamidad en la tierra, e ira sobre este pueblo. 
-@24  Y caerán a filo de espada, y serán llevados cautivos a todas las naciones; y Jerusalén será hollada por los gentiles, hasta que los tiempos de los gentiles se cumplan. 
-@25  Entonces habrá señales en el sol, en la luna y en las estrellas, y en la tierra angustia de las gentes, confundidas a causa del bramido del mar y de las olas; 
-@26  desfalleciendo los hombres por el temor y la expectación de las cosas que sobrevendrán en la tierra; porque las potencias de los cielos serán conmovidas. 
-@27  Entonces verán al Hijo del Hombre, que vendrá en una nube con poder y gran gloria. 
-@28  Cuando estas cosas comiencen a suceder, erguíos y levantad vuestra cabeza, porque vuestra redención está cerca. 
+@11 y habrá grandes terremotos, y en diferentes lugares hambres y pestilencias; y habrá terror y grandes señales del cielo. 
+@12 Pero antes de todas estas cosas os echarán mano, y os perseguirán, y os entregarán a las sinagogas y a las cárceles, y seréis llevados ante reyes y ante gobernadores por causa de mi nombre. 
+@13 Y esto os será ocasión para dar testimonio. 
+@14 Proponed en vuestros corazones no pensar antes cómo habéis de responder en vuestra defensa; 
+@15 porque yo os daré palabra y sabiduría, la cual no podrán resistir ni contradecir todos los que se opongan. 
+@16 Mas seréis entregados aun por vuestros padres, y hermanos, y parientes, y amigos; y matarán a algunos de vosotros; 
+@17 y seréis aborrecidos de todos por causa de mi nombre. 
+@18 Pero ni un cabello de vuestra cabeza perecerá. 
+@19 Con vuestra paciencia ganaréis vuestras almas. 
+@20 Pero cuando viereis a Jerusalén rodeada de ejércitos, sabed entonces que su destrucción ha llegado. 
+@21 Entonces los que estén en Judea, huyan a los montes; y los que en medio de ella, váyanse; y los que estén en los campos, no entren en ella. 
+@22 Porque estos son días de retribución, para que se cumplan todas las cosas que están escritas. 
+@23 Mas ¡ay de las que estén encintas, y de las que críen en aquellos días! porque habrá gran calamidad en la tierra, e ira sobre este pueblo. 
+@24 Y caerán a filo de espada, y serán llevados cautivos a todas las naciones; y Jerusalén será hollada por los gentiles, hasta que los tiempos de los gentiles se cumplan. 
+@25 Entonces habrá señales en el sol, en la luna y en las estrellas, y en la tierra angustia de las gentes, confundidas a causa del bramido del mar y de las olas; 
+@26 desfalleciendo los hombres por el temor y la expectación de las cosas que sobrevendrán en la tierra; porque las potencias de los cielos serán conmovidas. 
+@27 Entonces verán al Hijo del Hombre, que vendrá en una nube con poder y gran gloria. 
+@28 Cuando estas cosas comiencen a suceder, erguíos y levantad vuestra cabeza, porque vuestra redención está cerca. 
 @29 También les dijo una parábola: Mirad la higuera y todos los árboles. 
-@30  Cuando ya brotan, viéndolo, sabéis por vosotros mismos que el verano está ya cerca. 
-@31  Así también vosotros, cuando veáis que suceden estas cosas, sabed que está cerca el reino de Dios. 
-@32  De cierto os digo, que no pasará esta generación hasta que todo esto acontezca. 
-@33  El cielo y la tierra pasarán, pero mis palabras no pasarán. 
-@34  Mirad también por vosotros mismos, que vuestros corazones no se carguen de glotonería y embriaguez y de los afanes de esta vida, y venga de repente sobre vosotros aquel día. 
-@35  Porque como un lazo vendrá sobre todos los que habitan sobre la faz de toda la tierra. 
-@36  Velad, pues, en todo tiempo orando que seáis tenidos por dignos de escapar de todas estas cosas que vendrán, y de estar en pie delante del Hijo del Hombre. 
+@30 Cuando ya brotan, viéndolo, sabéis por vosotros mismos que el verano está ya cerca. 
+@31 Así también vosotros, cuando veáis que suceden estas cosas, sabed que está cerca el reino de Dios. 
+@32 De cierto os digo, que no pasará esta generación hasta que todo esto acontezca. 
+@33 El cielo y la tierra pasarán, pero mis palabras no pasarán. 
+@34 Mirad también por vosotros mismos, que vuestros corazones no se carguen de glotonería y embriaguez y de los afanes de esta vida, y venga de repente sobre vosotros aquel día. 
+@35 Porque como un lazo vendrá sobre todos los que habitan sobre la faz de toda la tierra. 
+@36 Velad, pues, en todo tiempo orando que seáis tenidos por dignos de escapar de todas estas cosas que vendrán, y de estar en pie delante del Hijo del Hombre. 
 @37 Y enseñaba de día en el templo; y de noche, saliendo, se estaba en el monte que se llama de los Olivos.
 @38 Y todo el pueblo venía a él por la mañana, para oírle en el templo.
 
@@ -1022,33 +1022,33 @@
 @8 Y Jesús envió a Pedro y a Juan, diciendo: Id, preparadnos la pascua para que la comamos. 
 @9 Ellos le dijeron: ¿Dónde quieres que la preparemos?
 @10 El les dijo: He aquí, al entrar en la ciudad os saldrá al encuentro un hombre que lleva un cántaro de agua; seguidle hasta la casa donde entrare, 
-@11  y decid al padre de familia de esa casa: El Maestro te dice: ¿Dónde está el aposento donde he de comer la pascua con mis discípulos? 
-@12  Entonces él os mostrará un gran aposento alto ya dispuesto; preparad allí. 
+@11 y decid al padre de familia de esa casa: El Maestro te dice: ¿Dónde está el aposento donde he de comer la pascua con mis discípulos? 
+@12 Entonces él os mostrará un gran aposento alto ya dispuesto; preparad allí. 
 @13 Fueron, pues, y hallaron como les había dicho; y prepararon la pascua.
 @14 Cuando era la hora, se sentó a la mesa, y con él los apóstoles.
 @15 Y les dijo: ¡Cuánto he deseado comer con vosotros esta pascua antes que padezca! 
-@16  Porque os digo que no la comeré más, hasta que se cumpla en el reino de Dios. 
+@16 Porque os digo que no la comeré más, hasta que se cumpla en el reino de Dios. 
 @17 Y habiendo tomado la copa, dio gracias, y dijo: Tomad esto, y repartidlo entre vosotros; 
-@18  porque os digo que no beberé más del fruto de la vid, hasta que el reino de Dios venga. 
+@18 porque os digo que no beberé más del fruto de la vid, hasta que el reino de Dios venga. 
 @19 Y tomó el pan y dio gracias, y lo partió y les dio, diciendo: Esto es mi cuerpo, que por vosotros es dado; haced esto en memoria de mí. 
 @20 De igual manera, después que hubo cenado, tomó la copa, diciendo: Esta copa es el nuevo pacto en mi sangre, que por vosotros se derrama. 
-@21  Mas he aquí, la mano del que me entrega está conmigo en la mesa. 
-@22  A la verdad el Hijo del Hombre va, según lo que está determinado; pero ¡ay de aquel hombre por quien es entregado! 
+@21 Mas he aquí, la mano del que me entrega está conmigo en la mesa. 
+@22 A la verdad el Hijo del Hombre va, según lo que está determinado; pero ¡ay de aquel hombre por quien es entregado! 
 @23 Entonces ellos comenzaron a discutir entre sí, quién de ellos sería el que había de hacer esto.
 @24 Hubo también entre ellos una disputa sobre quién de ellos sería el mayor.
 @25 Pero él les dijo: Los reyes de las naciones se enseñorean de ellas, y los que sobre ellas tienen autoridad son llamados bienhechores; 
-@26  mas no así vosotros, sino sea el mayor entre vosotros como el más joven, y el que dirige, como el que sirve. 
-@27  Porque, ¿cuál es mayor, el que se sienta a la mesa, o el que sirve? ¿No es el que se sienta a la mesa? Mas yo estoy entre vosotros como el que sirve. 
-@28  Pero vosotros sois los que habéis permanecido conmigo en mis pruebas. 
-@29  Yo, pues, os asigno un reino, como mi Padre me lo asignó a mí, 
-@30  para que comáis y bebáis a mi mesa en mi reino, y os sentéis en tronos juzgando a las doce tribus de Israel. 
+@26 mas no así vosotros, sino sea el mayor entre vosotros como el más joven, y el que dirige, como el que sirve. 
+@27 Porque, ¿cuál es mayor, el que se sienta a la mesa, o el que sirve? ¿No es el que se sienta a la mesa? Mas yo estoy entre vosotros como el que sirve. 
+@28 Pero vosotros sois los que habéis permanecido conmigo en mis pruebas. 
+@29 Yo, pues, os asigno un reino, como mi Padre me lo asignó a mí, 
+@30 para que comáis y bebáis a mi mesa en mi reino, y os sentéis en tronos juzgando a las doce tribus de Israel. 
 @31 Dijo también el Señor: Simón, Simón, he aquí Satanás os ha pedido para zarandearos como a trigo; 
-@32  pero yo he rogado por ti, que tu fe no falte; y tú, una vez vuelto, confirma a tus hermanos. 
+@32 pero yo he rogado por ti, que tu fe no falte; y tú, una vez vuelto, confirma a tus hermanos. 
 @33 El le dijo: Señor, dispuesto estoy a ir contigo no sólo a la cárcel, sino también a la muerte.
 @34 Y él le dijo: Pedro, te digo que el gallo no cantará hoy antes que tú niegues tres veces que me conoces. 
 @35 Y a ellos dijo: Cuando os envié sin bolsa, sin alforja, y sin calzado, ¿os faltó algo? Ellos dijeron: Nada.
 @36 Y les dijo: Pues ahora, el que tiene bolsa, tómela, y también la alforja; y el que no tiene espada, venda su capa y compre una. 
-@37  Porque os digo que es necesario que se cumpla todavía en mí aquello que está escrito: Y fue contado con los inicuos; porque lo que está escrito de mí, tiene cumplimiento. 
+@37 Porque os digo que es necesario que se cumpla todavía en mí aquello que está escrito: Y fue contado con los inicuos; porque lo que está escrito de mí, tiene cumplimiento. 
 @38 Entonces ellos dijeron: Señor, aquí hay dos espadas. Y él les dijo: Basta. 
 @39 Y saliendo, se fue, como solía, al monte de los Olivos; y sus discípulos también le siguieron.
 @40 Cuando llegó a aquel lugar, les dijo: Orad que no entréis en tentación. 
@@ -1064,7 +1064,7 @@
 @50 Y uno de ellos hirió a un siervo del sumo sacerdote, y le cortó la oreja derecha.
 @51 Entonces respondiendo Jesús, dijo: Basta ya; dejad. Y tocando su oreja, le sanó.
 @52 Y Jesús dijo a los principales sacerdotes, a los jefes de la guardia del templo y a los ancianos, que habían venido contra él: ¿Como contra un ladrón habéis salido con espadas y palos? 
-@53  Habiendo estado con vosotros cada día en el templo, no extendisteis las manos contra mí; mas esta es vuestra hora, y la potestad de la tinieblas. 
+@53 Habiendo estado con vosotros cada día en el templo, no extendisteis las manos contra mí; mas esta es vuestra hora, y la potestad de la tinieblas. 
 @54 Y prendiéndole, le llevaron, y le condujeron a casa del sumo sacerdote. Y Pedro le seguía de lejos.
 @55 Y habiendo ellos encendido fuego en medio del patio, se sentaron alrededor; y Pedro se sentó también entre ellos.
 @56 Pero una criada, al verle sentado al fuego, se fijó en él, y dijo: También éste estaba con él.
@@ -1079,8 +1079,8 @@
 @65 Y decían otras muchas cosas injuriándole.
 @66 Cuando era de día, se juntaron los ancianos del pueblo, los principales sacerdotes y los escribas, y le trajeron al concilio, diciendo:
 @67 ¿Eres tú el Cristo? Dínoslo. Y les dijo: Si os lo dijere, no creeréis; 
-@68  y también si os preguntare, no me responderéis, ni me soltaréis. 
-@69  Pero desde ahora el Hijo del Hombre se sentará a la diestra del poder de Dios. 
+@68 y también si os preguntare, no me responderéis, ni me soltaréis. 
+@69 Pero desde ahora el Hijo del Hombre se sentará a la diestra del poder de Dios. 
 @70 Dijeron todos: ¿Luego eres tú el Hijo de Dios? Y él les dijo: Vosotros decís que lo soy. 
 @71 Entonces ellos dijeron: ¿Qué más testimonio necesitamos? porque nosotros mismos lo hemos oído de su boca.
 
@@ -1113,9 +1113,9 @@
 @26 Y llevándole, tomaron a cierto Simón de Cirene, que venía del campo, y le pusieron encima la cruz para que la llevase tras Jesús.
 @27 Y le seguía gran multitud del pueblo, y de mujeres que lloraban y hacían lamentación por él.
 @28 Pero Jesús, vuelto hacia ellas, les dijo: Hijas de Jerusalén, no lloréis por mí, sino llorad por vosotras mismas y por vuestros hijos. 
-@29  Porque he aquí vendrán días en que dirán: Bienaventuradas las estériles, y los vientres que no concibieron, y los pechos que no criaron. 
-@30  Entonces comenzarán a decir a los montes: Caed sobre nosotros; y a los collados: Cubridnos. 
-@31  Porque si en el árbol verde hacen estas cosas, ¿en el seco, qué no se hará? 
+@29 Porque he aquí vendrán días en que dirán: Bienaventuradas las estériles, y los vientres que no concibieron, y los pechos que no criaron. 
+@30 Entonces comenzarán a decir a los montes: Caed sobre nosotros; y a los collados: Cubridnos. 
+@31 Porque si en el árbol verde hacen estas cosas, ¿en el seco, qué no se hará? 
 @32 Llevaban también con él a otros dos, que eran malhechores, para ser muertos.
 @33 Y cuando llegaron al lugar llamado de la Calavera, le crucificaron allí, y a los malhechores, uno a la derecha y otro a la izquierda.
 @34 Y Jesús decía: Padre, perdónalos, porque no saben lo que hacen. Y repartieron entre sí sus vestidos, echando suertes.
@@ -1168,7 +1168,7 @@
 @23 y como no hallaron su cuerpo, vinieron diciendo que también habían visto visión de ángeles, quienes dijeron que él vive.
 @24 Y fueron algunos de los nuestros al sepulcro, y hallaron así como las mujeres habían dicho, pero a él no le vieron.
 @25 Entonces él les dijo: ¡Oh insensatos, y tardos de corazón para creer todo lo que los profetas han dicho! 
-@26  ¿No era necesario que el Cristo padeciera estas cosas, y que entrara en su gloria? 
+@26 ¿No era necesario que el Cristo padeciera estas cosas, y que entrara en su gloria? 
 @27 Y comenzando desde Moisés, y siguiendo por todos los profetas, les declaraba en todas las Escrituras lo que de él decían.
 @28 Llegaron a la aldea adonde iban, y él hizo como que iba más lejos.
 @29 Mas ellos le obligaron a quedarse, diciendo: Quédate con nosotros, porque se hace tarde, y el día ya ha declinado. Entró, pues, a quedarse con ellos.
@@ -1181,7 +1181,7 @@
 @36 Mientras ellos aún hablaban de estas cosas, Jesús se puso en medio de ellos, y les dijo: Paz a vosotros. 
 @37 Entonces, espantados y atemorizados, pensaban que veían espíritu.
 @38 Pero él les dijo: ¿Por qué estáis turbados, y vienen a vuestro corazón estos pensamientos? 
-@39  Mirad mis manos y mis pies, que yo mismo soy; palpad, y ved; porque un espíritu no tiene carne ni huesos, como veis que yo tengo. 
+@39 Mirad mis manos y mis pies, que yo mismo soy; palpad, y ved; porque un espíritu no tiene carne ni huesos, como veis que yo tengo. 
 @40 Y diciendo esto, les mostró las manos y los pies.
 @41 Y como todavía ellos, de gozo, no lo creían, y estaban maravillados, les dijo: ¿Tenéis aquí algo de comer? 
 @42 Entonces le dieron parte de un pez asado, y un panal de miel.
@@ -1191,7 +1191,7 @@
 @46 y les dijo: Así está escrito, y así fue necesario que el Cristo padeciese, y resucitase de los muertos al tercer día; 
 @47 y que se predicase en su nombre el arrepentimiento y el perdón de pecados en todas las naciones, comenzando desde Jerusalén. 
 @48 Y vosotros sois testigos de estas cosas. 
-@49  He aquí, yo enviaré la promesa de mi Padre sobre vosotros; pero quedaos vosotros en la ciudad de Jerusalén, hasta que seáis investidos de poder desde lo alto. 
+@49 He aquí, yo enviaré la promesa de mi Padre sobre vosotros; pero quedaos vosotros en la ciudad de Jerusalén, hasta que seáis investidos de poder desde lo alto. 
 @50 Y los sacó fuera hasta Betania, y alzando sus manos, los bendijo.
 @51 Y aconteció que bendiciéndolos, se separó de ellos, y fue llevado arriba al cielo.
 @52 Ellos, después de haberle adorado, volvieron a Jerusalén con gran gozo;

@@ -30,8 +30,8 @@
 @9 en el cual sufro penalidades, hasta prisiones a modo de malhechor; mas la palabra de Dios no está presa.
 @10 Por tanto, todo lo soporto por amor de los escogidos, para que ellos también obtengan la salvación que es en Cristo Jesús con gloria eterna.
 @11 Palabra fiel es esta: Si somos muertos con él, también viviremos con él; 
-@12  Si sufrimos, también reinaremos con él; Si le negáremos, él también nos negará. 
-@13  Si fuéremos infieles, él permanece fiel; El no puede negarse a sí mismo. Un obrero aprobado 
+@12 Si sufrimos, también reinaremos con él; Si le negáremos, él también nos negará. 
+@13 Si fuéremos infieles, él permanece fiel; El no puede negarse a sí mismo. Un obrero aprobado 
 @14 Recuérdales esto, exhortándoles delante del Señor a que no contiendan sobre palabras, lo cual para nada aprovecha, sino que es para perdición de los oyentes.
 @15 Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad.
 @16 Mas evita profanas y vanas palabrerías, porque conducirán más y más a la impiedad.

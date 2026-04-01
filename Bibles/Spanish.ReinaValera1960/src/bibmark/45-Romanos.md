@@ -104,7 +104,7 @@
 @5 mas al que no obra, sino cree en aquel que justifica al impío, su fe le es contada por justicia.
 @6 Como también David habla de la bienaventuranza del hombre a quien Dios atribuye justicia sin obras,
 @7 diciendo: Bienaventurados aquellos cuyas iniquidades son perdonadas, Y cuyos pecados son cubiertos. 
-@8  Bienaventurado el varón a quien el Señor no inculpa de pecado. 
+@8 Bienaventurado el varón a quien el Señor no inculpa de pecado. 
 @9 ¿Es, pues, esta bienaventuranza solamente para los de la circuncisión, o también para los de la incircuncisión? Porque decimos que a Abraham le fue contada la fe por justicia.
 @10 ¿Cómo, pues, le fue contada? ¿Estando en la circuncisión, o en la incircuncisión? No en la circuncisión, sino en la incircuncisión.
 @11 Y recibió la circuncisión como señal, como sello de la justicia de la fe que tuvo estando aún incircunciso; para que fuese padre de todos los creyentes no circuncidados, a fin de que también a ellos la fe les sea contada por justicia;
@@ -265,7 +265,7 @@
 @23 y para hacer notorias las riquezas de su gloria, las mostró para con los vasos de misericordia que él preparó de antemano para gloria,
 @24 a los cuales también ha llamado, esto es, a nosotros, no sólo de los judíos, sino también de los gentiles?
 @25 Como también en Oseas dice: Llamaré pueblo mío al que no era mi pueblo, Y a la no amada, amada. 
-@26  Y en el lugar donde se les dijo: Vosotros no sois pueblo mío, Allí serán llamados hijos del Dios viviente. 
+@26 Y en el lugar donde se les dijo: Vosotros no sois pueblo mío, Allí serán llamados hijos del Dios viviente. 
 @27 También Isaías clama tocante a Israel: Si fuere el número de los hijos de Israel como la arena del mar, tan sólo el remanente será salvo;
 @28 porque el Señor ejecutará su sentencia sobre la tierra en justicia y con prontitud.
 @29 Y como antes dijo Isaías: Si el Señor de los ejércitos no nos hubiera dejado descendencia, Como Sodoma habríamos venido a ser, y a Gomorra seríamos semejantes.
@@ -307,7 +307,7 @@
 @7 ¿Qué pues? Lo que buscaba Israel, no lo ha alcanzado; pero los escogidos sí lo han alcanzado, y los demás fueron endurecidos;
 @8 como está escrito: Dios les dio espíritu de estupor, ojos con que no vean y oídos con que no oigan, hasta el día de hoy.
 @9 Y David dice: Sea vuelto su convite en trampa y en red, En tropezadero y en retribución; 
-@10  Sean oscurecidos sus ojos para que no vean, Y agóbiales la espalda para siempre. 
+@10 Sean oscurecidos sus ojos para que no vean, Y agóbiales la espalda para siempre. 
 @11 Digo, pues: ¿Han tropezado los de Israel para que cayesen? En ninguna manera; pero por su transgresión vino la salvación a los gentiles, para provocarles a celos.
 @12 Y si su transgresión es la riqueza del mundo, y su defección la riqueza de los gentiles, ¿cuánto más su plena restauración?
 @13 Porque a vosotros hablo, gentiles. Por cuanto yo soy apóstol a los gentiles, honro mi ministerio,
@@ -324,7 +324,7 @@
 @24 Porque si tú fuiste cortado del que por naturaleza es olivo silvestre, y contra naturaleza fuiste injertado en el buen olivo, ¿cuánto más éstos, que son las ramas naturales, serán injertados en su propio olivo?
 @25 Porque no quiero, hermanos, que ignoréis este misterio, para que no seáis arrogantes en cuanto a vosotros mismos: que ha acontecido a Israel endurecimiento en parte, hasta que haya entrado la plenitud de los gentiles;
 @26 y luego todo Israel será salvo, como está escrito: Vendrá de Sion el Libertador, Que apartará de Jacob la impiedad. 
-@27  Y este será mi pacto con ellos, Cuando yo quite sus pecados. 
+@27 Y este será mi pacto con ellos, Cuando yo quite sus pecados. 
 @28 Así que en cuanto al evangelio, son enemigos por causa de vosotros; pero en cuanto a la elección, son amados por causa de los padres.
 @29 Porque irrevocables son los dones y el llamamiento de Dios.
 @30 Pues como vosotros también en otro tiempo erais desobedientes a Dios, pero ahora habéis alcanzado misericordia por la desobediencia de ellos,
@@ -409,8 +409,8 @@
 @7 Por tanto, recibíos los unos a los otros, como también Cristo nos recibió, para gloria de Dios.
 @8 Pues os digo, que Cristo Jesús vino a ser siervo de la circuncisión para mostrar la verdad de Dios, para confirmar las promesas hechas a los padres,
 @9 y para que los gentiles glorifiquen a Dios por su misericordia, como está escrito: Por tanto, yo te confesaré entre los gentiles, Y cantaré a tu nombre. 
-@10  Y otra vez dice: Alegraos, gentiles, con su pueblo. 
-@11  Y otra vez: Alabad al Señor todos los gentiles, Y magnificadle todos los pueblos. 
+@10 Y otra vez dice: Alegraos, gentiles, con su pueblo. 
+@11 Y otra vez: Alabad al Señor todos los gentiles, Y magnificadle todos los pueblos. 
 @12 Y otra vez dice Isaías: Estará la raíz de Isaí, Y el que se levantará a regir los gentiles; Los gentiles esperarán en él. 
 @13 Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo.
 @14 Pero estoy seguro de vosotros, hermanos míos, de que vosotros mismos estáis llenos de bondad, llenos de todo conocimiento, de tal manera que podéis amonestaros los unos a los otros.

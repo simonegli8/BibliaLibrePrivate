@@ -1,11 +1,16 @@
 # 1
+## Bendiciones
 @1 Pablo, prisionero de Jesucristo, y el hermano Timoteo, al amado Filemón, colaborador nuestro,
 @2 y a la amada hermana Apia, y a Arquipo nuestro compañero de milicia, y a la iglesia que está en tu casa:
 @3 Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.
+
+## Gracias a Dios e intercesión por Filemón
 @4 Doy gracias a mi Dios, haciendo siempre memoria de tí en mis oraciones,
 @5 porque oigo del amor y de la fe que tienes hacia el Señor Jesús, y para con todos los santos;
 @6 para que la participación de tu fe sea eficaz en el conocimiento de todo el bien que está en vosotros por Cristo Jesús.
 @7 Pues tenemos gran gozo y consolación en tu amor, porque por ti, oh hermano, han sido confortados los corazones de los santos.
+
+## Defensa de Onésimo
 @8 Por lo cual, aunque tengo mucha libertad en Cristo para mandarte lo que conviene,
 @9 más bien te ruego por amor, siendo como soy, Pablo ya anciano, y ahora, además, prisionero de Jesucristo;
 @10 te ruego por mi hijo Onésimo, a quien engendré en mis prisiones,
@@ -19,6 +24,8 @@
 @18 Y si en algo te dañó, o te debe, ponlo a mi cuenta.
 @19 Yo Pablo lo escribo de mi mano, yo lo pagaré; por no decirte que aun tú mismo te me debes también.
 @20 Sí, hermano, tenga yo algún provecho de ti en el Señor; conforta mi corazón en el Señor.
+
+## Cierre de cartas, anuncio de visita, saludos y bendiciones
 @21 Te he escrito confiando en tu obediencia, sabiendo que harás aun más de lo que te digo.
 @22 Prepárame también alojamiento; porque espero que por vuestras oraciones os seré concedido.
 @23 Te saludan Epafras, mi compañero de prisiones por Cristo Jesús,

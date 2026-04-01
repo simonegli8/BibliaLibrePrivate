@@ -7,10 +7,10 @@
 @6 Y otra vez, cuando introduce al Primogénito en el mundo, dice: Adórenle todos los ángeles de Dios. 
 @7 Ciertamente de los ángeles dice: El que hace a sus ángeles espíritus, Y a sus ministros llama de fuego. 
 @8 Mas del Hijo dice: Tu trono, oh Dios, por el siglo del siglo; Cetro de equidad es el cetro de tu reino. 
-@9  Has amado la justicia, y aborrecido la maldad, Por lo cual te ungió Dios, el Dios tuyo, Con óleo de alegría más que a tus compañeros. 
+@9 Has amado la justicia, y aborrecido la maldad, Por lo cual te ungió Dios, el Dios tuyo, Con óleo de alegría más que a tus compañeros. 
 @10 Y: Tú, oh Señor, en el principio fundaste la tierra, Y los cielos son obra de tus manos. 
-@11  Ellos perecerán, mas tú permaneces; Y todos ellos se envejecerán como una vestidura, 
-@12  Y como un vestido los envolverás, y serán mudados; Pero tú eres el mismo, Y tus años no acabarán. 
+@11 Ellos perecerán, mas tú permaneces; Y todos ellos se envejecerán como una vestidura, 
+@12 Y como un vestido los envolverás, y serán mudados; Pero tú eres el mismo, Y tus años no acabarán. 
 @13 Pues, ¿a cuál de los ángeles dijo Dios jamás: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies? 
 @14 ¿No son todos espíritus ministradores, enviados para servicio a favor de los que serán herederos de la salvación?
 
@@ -21,13 +21,13 @@
 @4 testificando Dios juntamente con ellos, con señales y prodigios y diversos milagros y repartimientos del Espíritu Santo según su voluntad.
 @5 Porque no sujetó a los ángeles el mundo venidero, acerca del cual estamos hablando;
 @6 pero alguien testificó en cierto lugar, diciendo: ¿Qué es el hombre, para que te acuerdes de él, O el hijo del hombre, para que le visites? 
-@7  Le hiciste un poco menor que los ángeles, Le coronaste de gloria y de honra, Y le pusiste sobre las obras de tus manos; 
-@8  Todo lo sujetaste bajo sus pies. Porque en cuanto le sujetó todas las cosas, nada dejó que no sea sujeto a él; pero todavía no vemos que todas las cosas le sean sujetas.
+@7 Le hiciste un poco menor que los ángeles, Le coronaste de gloria y de honra, Y le pusiste sobre las obras de tus manos; 
+@8 Todo lo sujetaste bajo sus pies. Porque en cuanto le sujetó todas las cosas, nada dejó que no sea sujeto a él; pero todavía no vemos que todas las cosas le sean sujetas.
 @9 Pero vemos a aquel que fue hecho un poco menor que los ángeles, a Jesús, coronado de gloria y de honra, a causa del padecimiento de la muerte, para que por la gracia de Dios gustase la muerte por todos.
 @10 Porque convenía a aquel por cuya causa son todas las cosas, y por quien todas las cosas subsisten, que habiendo de llevar muchos hijos a la gloria, perfeccionase por aflicciones al autor de la salvación de ellos.
 @11 Porque el que santifica y los que son santificados, de uno son todos; por lo cual no se avergüenza de llamarlos hermanos,
 @12 diciendo: Anunciaré a mis hermanos tu nombre, En medio de la congregación te alabaré. 
-@13  Y otra vez: Yo confiaré en él. Y de nuevo: He aquí, yo y los hijos que Dios me dio. 
+@13 Y otra vez: Yo confiaré en él. Y de nuevo: He aquí, yo y los hijos que Dios me dio. 
 @14 Así que, por cuanto los hijos participaron de carne y sangre, él también participó de lo mismo, para destruir por medio de la muerte al que tenía el imperio de la muerte, esto es, al diablo,
 @15 y librar a todos los que por el temor de la muerte estaban durante toda la vida sujetos a servidumbre.
 @16 Porque ciertamente no socorrió a los ángeles, sino que socorrió a la descendencia de Abraham.
@@ -42,10 +42,10 @@
 @5 Y Moisés a la verdad fue fiel en toda la casa de Dios, como siervo, para testimonio de lo que se iba a decir;
 @6 pero Cristo como hijo sobre su casa, la cual casa somos nosotros, si retenemos firme hasta el fin la confianza y el gloriarnos en la esperanza.
 @7 Por lo cual, como dice el Espíritu Santo: Si oyereis hoy su voz, 
-@8  No endurezcáis vuestros corazones, Como en la provocación, en el día de la tentación en el desierto, 
-@9  Donde me tentaron vuestros padres; me probaron, Y vieron mis obras cuarenta años. 
-@10  A causa de lo cual me disgusté contra esa generación, Y dije: Siempre andan vagando en su corazón, Y no han conocido mis caminos. 
-@11  Por tanto, juré en mi ira: No entrarán en mi reposo. 
+@8 No endurezcáis vuestros corazones, Como en la provocación, en el día de la tentación en el desierto, 
+@9 Donde me tentaron vuestros padres; me probaron, Y vieron mis obras cuarenta años. 
+@10 A causa de lo cual me disgusté contra esa generación, Y dije: Siempre andan vagando en su corazón, Y no han conocido mis caminos. 
+@11 Por tanto, juré en mi ira: No entrarán en mi reposo. 
 @12 Mirad, hermanos, que no haya en ninguno de vosotros corazón malo de incredulidad para apartarse del Dios vivo;
 @13 antes exhortaos los unos a los otros cada día, entre tanto que se dice: Hoy; para que ninguno de vosotros se endurezca por el engaño del pecado.
 @14 Porque somos hechos participantes de Cristo, con tal que retengamos firme hasta el fin nuestra confianza del principio,
@@ -150,10 +150,10 @@
 @6 Pero ahora tanto mejor ministerio es el suyo, cuanto es mediador de un mejor pacto, establecido sobre mejores promesas.
 @7 Porque si aquel primero hubiera sido sin defecto, ciertamente no se hubiera procurado lugar para el segundo.
 @8 Porque reprendiéndolos dice: He aquí vienen días, dice el Señor, En que estableceré con la casa de Israel y la casa de Judá un nuevo pacto; 
-@9  No como el pacto que hice con sus padres El día que los tomé de la mano para sacarlos de la tierra de Egipto; Porque ellos no permanecieron en mi pacto, Y yo me desentendí de ellos, dice el Señor. 
-@10  Por lo cual, este es el pacto que haré con la casa de Israel Después de aquellos días, dice el Señor: Pondré mis leyes en la mente de ellos, Y sobre su corazón las escribiré; Y seré a ellos por Dios, Y ellos me serán a mí por pueblo; 
-@11  Y ninguno enseñará a su prójimo, Ni ninguno a su hermano, diciendo: Conoce al Señor; Porque todos me conocerán, Desde el menor hasta el mayor de ellos. 
-@12  Porque seré propicio a sus injusticias, Y nunca más me acordaré de sus pecados y de sus iniquidades. 
+@9 No como el pacto que hice con sus padres El día que los tomé de la mano para sacarlos de la tierra de Egipto; Porque ellos no permanecieron en mi pacto, Y yo me desentendí de ellos, dice el Señor. 
+@10 Por lo cual, este es el pacto que haré con la casa de Israel Después de aquellos días, dice el Señor: Pondré mis leyes en la mente de ellos, Y sobre su corazón las escribiré; Y seré a ellos por Dios, Y ellos me serán a mí por pueblo; 
+@11 Y ninguno enseñará a su prójimo, Ni ninguno a su hermano, diciendo: Conoce al Señor; Porque todos me conocerán, Desde el menor hasta el mayor de ellos. 
+@12 Porque seré propicio a sus injusticias, Y nunca más me acordaré de sus pecados y de sus iniquidades. 
 @13 Al decir: Nuevo pacto, ha dado por viejo al primero; y lo que se da por viejo y se envejece, está próximo a desaparecer.
 
 # 9
@@ -192,8 +192,8 @@
 @3 Pero en estos sacrificios cada año se hace memoria de los pecados;
 @4 porque la sangre de los toros y de los machos cabríos no puede quitar los pecados.
 @5 Por lo cual, entrando en el mundo dice: Sacrificio y ofrenda no quisiste; Mas me preparaste cuerpo. 
-@6  Holocaustos y expiaciones por el pecado no te agradaron. 
-@7  Entonces dije: He aquí que vengo, oh Dios, para hacer tu voluntad, Como en el rollo del libro está escrito de mí. 
+@6 Holocaustos y expiaciones por el pecado no te agradaron. 
+@7 Entonces dije: He aquí que vengo, oh Dios, para hacer tu voluntad, Como en el rollo del libro está escrito de mí. 
 @8 Diciendo primero: Sacrificio y ofrenda y holocaustos y expiaciones por el pecado no quisiste, ni te agradaron (las cuales cosas se ofrecen según la ley),
 @9 y diciendo luego: He aquí que vengo, oh Dios, para hacer tu voluntad; quita lo primero, para establecer esto último.
 @10 En esa voluntad somos santificados mediante la ofrenda del cuerpo de Jesucristo hecha una vez para siempre.
@@ -202,7 +202,7 @@
 @13 de ahí en adelante esperando hasta que sus enemigos sean puestos por estrado de sus pies;
 @14 porque con una sola ofrenda hizo perfectos para siempre a los santificados.
 @15 Y nos atestigua lo mismo el Espíritu Santo; porque después de haber dicho:
-@16  Este es el pacto que haré con ellos Después de aquellos días, dice el Señor: Pondré mis leyes en sus corazones, Y en sus mentes las escribiré, 
+@16 Este es el pacto que haré con ellos Después de aquellos días, dice el Señor: Pondré mis leyes en sus corazones, Y en sus mentes las escribiré, 
 @17 añade: Y nunca más me acordaré de sus pecados y transgresiones. 
 @18 Pues donde hay remisión de éstos, no hay más ofrenda por el pecado.
 @19 Así que, hermanos, teniendo libertad para entrar en el Lugar Santísimo por la sangre de Jesucristo,

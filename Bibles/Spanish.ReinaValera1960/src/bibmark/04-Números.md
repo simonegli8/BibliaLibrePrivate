@@ -251,9 +251,9 @@
 @21 Esta es la ley del nazareo que hiciere voto de su ofrenda a Jehová por su nazareato, además de lo que sus recursos le permitieren; según el voto que hiciere, así hará, conforme a la ley de su nazareato.
 @22 Jehová habló a Moisés, diciendo:
 @23 Habla a Aarón y a sus hijos y diles: Así bendeciréis a los hijos de Israel, diciéndoles:
-@24  Jehová te bendiga, y te guarde; 
-@25  Jehová haga resplandecer su rostro sobre ti, y tenga de ti misericordia ;
-@26  Jehová alce sobre ti su rostro, y ponga en ti paz.
+@24 Jehová te bendiga, y te guarde; 
+@25 Jehová haga resplandecer su rostro sobre ti, y tenga de ti misericordia ;
+@26 Jehová alce sobre ti su rostro, y ponga en ti paz.
 @27 Y pondrán mi nombre sobre los hijos de Israel, y yo los bendeciré.
 
 # 7
@@ -789,10 +789,10 @@
 @12 Partieron de allí, y acamparon en el valle de Zered.
 @13 De allí partieron, y acamparon al otro lado de Arnón, que está en el desierto, y que sale del territorio del amorreo; porque Arnón es límite de Moab, entre Moab y el amorreo.
 @14 Por tanto se dice en el libro de las batallas de Jehová: Lo que hizo en el Mar Rojo, Y en los arroyos de Arnón; 
-@15  Y a la corriente de los arroyos Que va a parar en Ar, Y descansa en el límite de Moab. 
+@15 Y a la corriente de los arroyos Que va a parar en Ar, Y descansa en el límite de Moab. 
 @16 De allí vinieron a Beer: este es el pozo del cual Jehová dijo a Moisés: Reúne al pueblo, y les daré agua.
 @17 Entonces, cantó Israel este cántico: Sube, oh pozo; a él cantad; 
-@18  Pozo, el cual cavaron los señores. Lo cavaron los príncipes del pueblo, Y el legislador, con sus báculos. 
+@18 Pozo, el cual cavaron los señores. Lo cavaron los príncipes del pueblo, Y el legislador, con sus báculos. 
 @19 y de Matana a Nahaliel, y de Nahaliel a Bamot;
 @20 y de Bamot al valle que está en los campos de Moab, y a la cumbre de Pisga, que mira hacia el desierto.
 @21 Entonces envió Israel embajadores a Sehón rey de los amorreos, diciendo:
@@ -802,9 +802,9 @@
 @25 Y tomó Israel todas estas ciudades, y habitó Israel en todas las ciudades del amorreo, en Hesbón y en todas sus aldeas.
 @26 Porque Hesbón era la ciudad de Sehón rey de los amorreos, el cual había tenido guerra antes con el rey de Moab, y tomado de su poder toda su tierra hasta Arnón.
 @27 Por tanto dicen los proverbistas: Venid a Hesbón, Edifíquese y repárese la ciudad de Sehón. 
-@28  Porque fuego salió de Hesbón, Y llama de la ciudad de Sehón, Y consumió a Ar de Moab, A los señores de las alturas de Arnón. 
-@29  ¡Ay de ti, Moab! Pereciste, pueblo de Quemos. Fueron puestos sus hijos en huida, Y sus hijas en cautividad, Por Sehón rey de los amorreos. 
-@30  Mas devastamos el reino de ellos; Pereció Hesbón hasta Dibón, Y destruimos hasta Nofa y Medeba. 
+@28 Porque fuego salió de Hesbón, Y llama de la ciudad de Sehón, Y consumió a Ar de Moab, A los señores de las alturas de Arnón. 
+@29 ¡Ay de ti, Moab! Pereciste, pueblo de Quemos. Fueron puestos sus hijos en huida, Y sus hijas en cautividad, Por Sehón rey de los amorreos. 
+@30 Mas devastamos el reino de ellos; Pereció Hesbón hasta Dibón, Y destruimos hasta Nofa y Medeba. 
 @31 Así habitó Israel en la tierra del amorreo.
 @32 También envió Moisés a reconocer a Jazer; y tomaron sus aldeas, y echaron al amorreo que estaba allí.
 @33 Y volvieron, y subieron camino de Basán; y salió contra ellos Og rey de Basán, él y todo su pueblo, para pelear en Edrei.
@@ -862,9 +862,9 @@
 @5 Y Jehová puso palabra en la boca de Balaam, y le dijo: Vuelve a Balac, y dile así.
 @6 Y volvió a él, y he aquí estaba él junto a su holocausto, él y todos los príncipes de Moab.
 @7 Y él tomó su parábola, y dijo: De Aram me trajo Balac, Rey de Moab, de los montes del oriente; Ven, maldíceme a Jacob, Y ven, execra a Israel. 
-@8  ¿Por qué maldeciré yo al que Dios no maldijo? ¿Y por qué he de execrar al que Jehová no ha execrado? 
-@9  Porque de la cumbre de las peñas lo veré, Y desde los collados lo miraré; He aquí un pueblo que habitará confiado, Y no será contado entre las naciones. 
-@10  ¿Quién contará el polvo de Jacob, O el número de la cuarta parte de Israel? Muera yo la muerte de los rectos, Y mi postrimería sea como la suya. 
+@8 ¿Por qué maldeciré yo al que Dios no maldijo? ¿Y por qué he de execrar al que Jehová no ha execrado? 
+@9 Porque de la cumbre de las peñas lo veré, Y desde los collados lo miraré; He aquí un pueblo que habitará confiado, Y no será contado entre las naciones. 
+@10 ¿Quién contará el polvo de Jacob, O el número de la cuarta parte de Israel? Muera yo la muerte de los rectos, Y mi postrimería sea como la suya. 
 @11 Entonces Balac dijo a Balaam: ¿Qué me has hecho? Te he traído para que maldigas a mis enemigos, y he aquí has proferido bendiciones.
 @12 El respondió y dijo: ¿No cuidaré de decir lo que Jehová ponga en mi boca?
 @13 Y dijo Balac: Te ruego que vengas conmigo a otro lugar desde el cual los veas; solamente los más cercanos verás, y no los verás todos; y desde allí me los maldecirás.
@@ -873,12 +873,12 @@
 @16 Y Jehová salió al encuentro de Balaam, y puso palabra en su boca, y le dijo: Vuelve a Balac, y dile así.
 @17 Y vino a él, y he aquí que él estaba junto a su holocausto, y con él los príncipes de Moab; y le dijo Balac: ¿Qué ha dicho Jehová?
 @18 Entonces él tomó su parábola, y dijo: Balac, levántate y oye; Escucha mis palabras, hijo de Zipor: 
-@19  Dios no es hombre, para que mienta, Ni hijo de hombre para que se arrepienta. El dijo, ¿y no hará? Habló, ¿y no lo ejecutará? 
-@20  He aquí, he recibido orden de bendecir; El dio bendición, y no podré revocarla. 
-@21  No ha notado iniquidad en Jacob, Ni ha visto perversidad en Israel. Jehová su Dios está con él, Y júbilo de rey en él. 
-@22  Dios los ha sacado de Egipto; Tiene fuerzas como de búfalo. 
-@23  Porque contra Jacob no hay agüero, Ni adivinación contra Israel. Como ahora, será dicho de Jacob y de Israel: ¡Lo que ha hecho Dios! 
-@24  He aquí el pueblo que como león se levantará, Y como león se erguirá; No se echará hasta que devore la presa, Y beba la sangre de los muertos. 
+@19 Dios no es hombre, para que mienta, Ni hijo de hombre para que se arrepienta. El dijo, ¿y no hará? Habló, ¿y no lo ejecutará? 
+@20 He aquí, he recibido orden de bendecir; El dio bendición, y no podré revocarla. 
+@21 No ha notado iniquidad en Jacob, Ni ha visto perversidad en Israel. Jehová su Dios está con él, Y júbilo de rey en él. 
+@22 Dios los ha sacado de Egipto; Tiene fuerzas como de búfalo. 
+@23 Porque contra Jacob no hay agüero, Ni adivinación contra Israel. Como ahora, será dicho de Jacob y de Israel: ¡Lo que ha hecho Dios! 
+@24 He aquí el pueblo que como león se levantará, Y como león se erguirá; No se echará hasta que devore la presa, Y beba la sangre de los muertos. 
 @25 Entonces Balac dijo a Balaam: Ya que no lo maldices, tampoco lo bendigas.
 @26 Balaam respondió y dijo a Balac: ¿No te he dicho que todo lo que Jehová me diga, eso tengo que hacer?
 @27 Y dijo Balac a Balaam: Te ruego que vengas, te llevaré a otro lugar; por ventura parecerá bien a Dios que desde allí me lo maldigas.
@@ -890,27 +890,27 @@
 @1 Cuando vio Balaam que parecía bien a Jehová que él bendijese a Israel, no fue, como la primera y segunda vez, en busca de agüero, sino que puso su rostro hacia el desierto;
 @2 y alzando sus ojos, vio a Israel alojado por sus tribus; y el Espíritu de Dios vino sobre él.
 @3 Entonces tomó su parábola, y dijo: Dijo Balaam hijo de Beor, Y dijo el varón de ojos abiertos; 
-@4  Dijo el que oyó los dichos de Dios, El que vio la visión del Omnipotente; Caído, pero abiertos los ojos: 
-@5  ¡Cuán hermosas son tus tiendas, oh Jacob, Tus habitaciones, oh Israel! 
-@6  Como arroyos están extendidas, Como huertos junto al río, Como áloes plantados por Jehová, Como cedros junto a las aguas. 
-@7  De sus manos destilarán aguas, Y su descendencia será en muchas aguas; Enaltecerá su rey más que Agag, Y su reino será engrandecido. 
-@8  Dios lo sacó de Egipto; Tiene fuerzas como de búfalo. Devorará a las naciones enemigas, Desmenuzará sus huesos, Y las traspasará con sus saetas. 
-@9  Se encorvará para echarse como león, Y como leona; ¿quién lo despertará? Benditos los que te bendijeren, Y malditos los que te maldijeren. 
+@4 Dijo el que oyó los dichos de Dios, El que vio la visión del Omnipotente; Caído, pero abiertos los ojos: 
+@5 ¡Cuán hermosas son tus tiendas, oh Jacob, Tus habitaciones, oh Israel! 
+@6 Como arroyos están extendidas, Como huertos junto al río, Como áloes plantados por Jehová, Como cedros junto a las aguas. 
+@7 De sus manos destilarán aguas, Y su descendencia será en muchas aguas; Enaltecerá su rey más que Agag, Y su reino será engrandecido. 
+@8 Dios lo sacó de Egipto; Tiene fuerzas como de búfalo. Devorará a las naciones enemigas, Desmenuzará sus huesos, Y las traspasará con sus saetas. 
+@9 Se encorvará para echarse como león, Y como leona; ¿quién lo despertará? Benditos los que te bendijeren, Y malditos los que te maldijeren. 
 @10 Entonces se encendió la ira de Balac contra Balaam, y batiendo sus manos le dijo: Para maldecir a mis enemigos te he llamado, y he aquí los has bendecido ya tres veces.
 @11 Ahora huye a tu lugar; yo dije que te honraría, mas he aquí que Jehová te ha privado de honra.
 @12 Y Balaam le respondió: ¿No lo declaré yo también a tus mensajeros que me enviaste, diciendo:
 @13 Si Balac me diese su casa llena de plata y oro, yo no podré traspasar el dicho de Jehová para hacer cosa buena ni mala de mi arbitrio, mas lo que hable Jehová, eso diré yo?
 @14 He aquí, yo me voy ahora a mi pueblo; por tanto, ven, te indicaré lo que este pueblo ha de hacer a tu pueblo en los postreros días.
 @15 Y tomó su parábola, y dijo: Dijo Balaam hijo de Beor, Dijo el varón de ojos abiertos; 
-@16  Dijo el que oyó los dichos de Jehová, Y el que sabe la ciencia del Altísimo, El que vio la visión del Omnipotente; Caído, pero abiertos los ojos: 
-@17  Lo veré, mas no ahora; Lo miraré, mas no de cerca; Saldrá ESTRELLA de Jacob, Y se levantará cetro de Israel, Y herirá las sienes de Moab, Y destruirá a todos los hijos de Set. 
-@18  Será tomada Edom, Será también tomada Seir por sus enemigos, E Israel se portará varonilmente. 
-@19  De Jacob saldrá el dominador, Y destruirá lo que quedare de la ciudad. 
+@16 Dijo el que oyó los dichos de Jehová, Y el que sabe la ciencia del Altísimo, El que vio la visión del Omnipotente; Caído, pero abiertos los ojos: 
+@17 Lo veré, mas no ahora; Lo miraré, mas no de cerca; Saldrá ESTRELLA de Jacob, Y se levantará cetro de Israel, Y herirá las sienes de Moab, Y destruirá a todos los hijos de Set. 
+@18 Será tomada Edom, Será también tomada Seir por sus enemigos, E Israel se portará varonilmente. 
+@19 De Jacob saldrá el dominador, Y destruirá lo que quedare de la ciudad. 
 @20 Y viendo a Amalec, tomó su parábola y dijo: Amalec, cabeza de naciones; Mas al fin perecerá para siempre. 
 @21 Y viendo al ceneo, tomó su parábola y dijo: Fuerte es tu habitación; Pon en la peña tu nido; 
-@22  Porque el ceneo será echado, Cuando Asiria te llevará cautivo. 
+@22 Porque el ceneo será echado, Cuando Asiria te llevará cautivo. 
 @23 Tomó su parábola otra vez, y dijo: ¡Ay! ¿quién vivirá cuando hiciere Dios estas cosas? 
-@24  Vendrán naves de la costa de Quitim, Y afligirán a Asiria, afligirán también a Heber; Mas él también perecerá para siempre. 
+@24 Vendrán naves de la costa de Quitim, Y afligirán a Asiria, afligirán también a Heber; Mas él también perecerá para siempre. 
 @25 Entonces se levantó Balaam y se fue, y volvió a su lugar; y también Balac se fue por su amino.
 
 # 25
