@@ -14,7 +14,7 @@ Epub.OmitTitles = true;
 Epub.OmitFootnotes = true;
 
 Program.Language = "german";
-Program.SwordVersification = "KJV";
+Program.SwordVersification = "German";
 
 //Program.Replace = "/SEÑOR/[Señor]{.smallcaps}";
 // replace uppercase words with smallcaps
