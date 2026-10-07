@@ -18,9 +18,43 @@
 \usepackage{comment}
 \usepackage{titlesec}
 \usepackage{xcolor}
-\usepackage[x-1a]{pdfx}
+%\usepackage[x-1a]{pdfx}
 %\usepackage{bidi}
 \usepackage{multicol}
+\usepackage{wrapfig}
+\usepackage{xparse}
+\usepackage{needspace}
+
+% A chapter title must not be left alone at the bottom of a page. multicols refuses to start unless
+% \premulticols (50pt) is free, so a title with less room than that below it is pushed away from its
+% text. \chapter therefore starts a new page when less than \chapterneedspace is left: roughly the title
+% (about 36pt) + \multicolsep (12pt) + \premulticols (50pt). Raise it if a title still gets stranded;
+% set it to 0pt to switch the check off.
+\newlength{\chapterneedspace}
+\setlength{\chapterneedspace}{100pt}
+
+% Space above and below a chapter title. It is chosen inside \chapter, *after* the \needspace page-break
+% decision, so that a title at the top of a page gets no space above it whether it is the first chapter
+% or was pushed to a new page by \needspace. Elsewhere on the page it is separated from the text above.
+% (\pagetotal is 0pt at the top of a page.)
+\makeatletter
+\newcommand{\biblechapter@spacing}{%
+  \ifdim\pagetotal<1pt
+    \titlespacing*{\chapter}{0pt}{-6mm}{0pt}%
+  \else
+    \titlespacing*{\chapter}{0pt}{20pt}{0pt}%
+  \fi
+}
+\makeatother
+
+% Do not start a chapter on a new page: extbook's \chapter begins with \cleardoublepage (\clearpage with
+% openany) and \thispagestyle{plain}; the latter would also strip the header from the page the chapter
+% starts on. Patching \chapter itself leaves \newpage/\clearpage working everywhere else. To get the
+% default behaviour back for a book, delete this block.
+\makeatletter
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{\par\needspace{\chapterneedspace}\biblechapter@spacing}{}{\PackageWarning{preamble}{could not patch \string\chapter\space (page break)}}
+\patchcmd{\chapter}{\thispagestyle{plain}}{}{}{\PackageWarning{preamble}{could not patch \string\chapter\space (page style)}}
+\makeatother
 
 \extrafloats{100}
 \maxdeadcycles=200
@@ -114,3 +148,52 @@
 
 \newcommand{\biblebeginparacol}{\begin{paracol}{2}}
 \newcommand{\bibleendparacol}{\end{paracol}}
+
+\let\oldsection\section
+\let\oldchapter\chapter
+
+\newlength{\sectionnumberwidth}
+\newlength{\sectionnumberheight}
+\newlength{\sectiontextwidth}
+
+% Section numbers (the numbers of the chapters of a Bible book). The generated .tex has, for each one,
+%     \hypertarget{...}{% \section{N}\label{...}}          <- \section{N} reaches \biblechapter below
+%     \subsection{...}                                      <- optional headings
+%     \sectionnumber \bibleverse{1} ...                     <- first paragraph of the section
+% \biblechapter (called by \section for numeric titles) sets the \section counter to N. \sectionnumber
+% always prints the current value of that counter (\thesection, never the \chapter number): it puts it in
+% the left margin of the paragraph that starts there and indents the first two lines around it.
+% \hangindent/\hangafter are set \global so the effect cannot be lost to a closing group; TeX resets
+% them itself at the end of the paragraph.
+\newcommand{\biblechapter}[1]{%
+  \par
+  % \biblechapter replaces \section for numeric titles, so it must do the counting itself (the page
+  % header prints \thesection). Step to exactly N so the counter follows the number in the text even
+  % if a chapter is skipped, and so \label gets the right \@currentlabel and anchor.
+  \setcounter{section}{\numexpr#1-1\relax}%
+  \refstepcounter{section}%
+}
+
+\newcommand{\sectionnumber}{%
+  \ifnum\value{section}>\z@
+    \noindent
+    \settowidth{\sectionnumberwidth}{\textbf{\Huge \thesection}}%
+    \addtolength{\sectionnumberwidth}{.5em}%
+    \global\hangindent=\sectionnumberwidth
+    \global\hangafter=-2
+    % Line 1 itself starts at \hangindent, so the box is pushed back to the margin with \llap.
+    % \smash keeps the large number from changing the line height; it is lowered to sit across both lines.
+    \llap{\hbox to \sectionnumberwidth{\smash{\raisebox{-0.7\baselineskip}{\textbf{\Huge \thesection}}}\hss}}%
+  \fi
+}
+
+\ExplSyntaxOn
+
+\RenewDocumentCommand{\section}{m}
+ {
+   \regex_match:nnTF { \A \d+ \Z } { #1 }
+     { \biblechapter{#1} }
+     { \oldsection{#1} }
+ }
+
+\ExplSyntaxOff
